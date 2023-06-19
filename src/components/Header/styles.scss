@@ -1,9 +1,10 @@
+@use "src/styles/vars";
 .header {
     display: flex;
     align-items: center;
     flex-direction: column;
     justify-content: center;
-    border: 5px solid rgb(193, 193, 0);
+    border: 5px solid vars.$yellow;
     border-radius: 15px;
     margin-top: 10px;
 
@@ -15,7 +16,7 @@
 
 &-h1 {
     font-size: 32px;
-    color: rgb(193, 193, 0);
+    color: vars.$yellow;
     font-weight: 900;
     box-shadow:3px 3px 3px 3px black;
 }

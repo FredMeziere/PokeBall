@@ -1,7 +1,6 @@
 @use "src/styles/vars";
 
 .allpokemon {
-
     text-align: center;
     margin-top: 15px;
     padding-top: 50px;
@@ -13,23 +12,9 @@
     width: 90%;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 
-&-h2 {
-    font-size: 32px;
+    &-h2 {
+        font-size: 32px;
         color: rgb(193, 193, 0);
         font-weight: 900;
-        box-shadow:3px 3px 3px 3px black;
-}
-}
-.allpokemon {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    justify-content: center;
-    border-radius: 15px;
-    margin-top: 50px;
-
-    &-h2{font-size: 32px;
-        color: rgb(193, 193, 0);
-        font-weight: 900;
-        box-shadow:3px 3px 3px 3px black;}
+    }
 }
