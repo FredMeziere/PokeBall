@@ -1,13 +1,10 @@
-.allpokemon {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    justify-content: center;
-    border-radius: 15px;
-    margin-top: 50px;
+@use "src/styles/vars";
 
-    &-h2{font-size: 32px;
-        color: rgb(193, 193, 0);
-        font-weight: 900;
-        box-shadow:3px 3px 3px 3px black;}
-}
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    margin: 3rem;
+    margin-top: 3rem;
+  }

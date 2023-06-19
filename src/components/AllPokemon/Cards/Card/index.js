@@ -1,13 +1,18 @@
 import './styles.scss';
-import { string, arrayOf, shape } from 'prop-types';
+import {
+  string, arrayOf, shape, number,
+} from 'prop-types';
 
 function Card({
+  id,
   name,
   type,
   base,
 }) {
+  const imagePath = `/images/${String(id).padStart(2, '0')}.png`;
   return (
     <div className="card">
+      <img className="card-img" src={imagePath} alt={name.french} />
       <p className="card-name">{name.french}</p>
       <p className="card-type">{type.join(', ')}</p>
       <div className="card-stats">
@@ -23,6 +28,7 @@ function Card({
 }
 
 Card.propTypes = {
+  id: number.isRequired,
   name: shape({
     english: string.isRequired,
   }).isRequired,

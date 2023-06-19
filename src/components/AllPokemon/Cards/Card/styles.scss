@@ -2,7 +2,7 @@
     border: solid rgb(193, 193, 0) 4px;
     border-radius: 15px;
     padding: 1.5rem;
-    width: 100%;
+    width: 30%;
     box-shadow: 0 0 10px black;
     transition: all 0.3s ease 0s;
     display: flex;
@@ -17,9 +17,7 @@
     }
   
       &-img{
-        max-width: 100%;
-        max-height: 190px;
-        border-radius: 15px; 
+        width: 60%;
       }
   
       &-title{
