@@ -1,6 +1,5 @@
 @use "src/styles/vars";
 .card {
-  border: solid vars.$yellow 4px;
   border-radius: 15px;
   padding: 1.5rem;
   width: 30%;
@@ -29,6 +28,7 @@
   &-title {
     font-size: 32px;
     font-weight: bold;
-    color:  rgb(149, 27, 27);
-  }
+    background-color: rgba(158,0,255,1);
+    background-color: rgb(87, 87, 87);
+}
 }
