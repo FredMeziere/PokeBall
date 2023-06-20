@@ -38,11 +38,13 @@ function Card({
       case 'Rock':
         return 'rgb(90,77,65)';
       case 'Ice':
-        return 'rgb(255, 255, 255)';
+        return 'rgb(185,232,234)';
       case 'Ghost':
         return 'rgb(241, 241, 243)';
       case 'Dragon':
         return 'rgb(255,127,80)';
+      case 'Dark':
+        return 'rgb(50, 50, 50)';
       default:
         return 'gray'; // Couleur par défaut si le type n'est pas reconnu
     }
@@ -52,12 +54,58 @@ function Card({
     if (types.length === 1) {
       return getColorForType(types[0]);
     } if (types.length === 2) {
+      // GRASS TYPE
       if (types.includes('Grass') && types.includes('Poison')) {
         return 'linear-gradient(60deg, rgba(35,149,2,1) 0%, rgba(158,0,255,1) 100%)';
       }
+      if (types.includes('Grass') && types.includes('Psychic')) {
+        return 'linear-gradient(60deg, rgba(35,149,2,1) 0%, rgba(98,89,129,1) 100%)';
+      }
+      if (types.includes('Grass') && types.includes('Flying')) {
+        return 'linear-gradient(60deg, rgba(35,149,2,1) 0%, rgba(215,215,215,1) 100%)';
+      }
+      if (types.includes('Grass') && types.includes('Dark')) {
+        return 'linear-gradient(60deg, rgba(35,149,2,1) 0%, rgba(50, 50, 50,1) 100%)';
+      }
+      if (types.includes('Grass') && types.includes('Fighting')) {
+        return 'linear-gradient(60deg, rgba(35,149,2,1) 0%, rgba(87,87,87,1) 100%)';
+      }
+      if (types.includes('Grass') && types.includes('Ground')) {
+        return 'linear-gradient(60deg, rgba(35,149,2,1) 0%, rgba(129,68,46,1) 100%)';
+      }
+      if (types.includes('Grass') && types.includes('Ice')) {
+        return 'linear-gradient(60deg, rgba(35,149,2,1) 0%, rgba(185,232,234,1) 100%)';
+      }
+      if (types.includes('Grass') && types.includes('Fairy')) {
+        return 'linear-gradient(60deg, rgba(35,149,2,1) 0%, rgba(192,52,196,1) 100%)';
+      }
+      if (types.includes('Grass') && types.includes('Steel')) {
+        return 'linear-gradient(60deg, rgba(35,149,2,1) 0%, rgba(67,70,75,1) 100%)';
+      }
+
+      // FIGHTING TYPE
+      if (types.includes('Fighting') && types.includes('Psychic')) {
+        return 'linear-gradient(60deg, rgba(87,87,87,1) 0%, rgba(98,89,129,1) 100%)';
+      }
+      if (types.includes('Fighting') && types.includes('Steel')) {
+        return 'linear-gradient(60deg, rgba(87,87,87,1) 0%, rgba(67,70,75,1) 100%)';
+      }
+
+      // FIRE TYPE
       if (types.includes('Fire') && types.includes('Flying')) {
         return 'linear-gradient(60deg, rgba(149,27,27,1) 0%, rgba(215,215,215,1) 100%)';
       }
+      if (types.includes('Fire') && types.includes('Rock')) {
+        return 'linear-gradient(60deg, rgba(149,27,27,1) 0%, rgba(90,77,65,1) 100%)';
+      }
+      if (types.includes('Fire') && types.includes('Fighting')) {
+        return 'linear-gradient(60deg, rgba(149,27,27,1) 0%, rgba(87,87,87,1) 100%)';
+      }
+      if (types.includes('Fire') && types.includes('Ground')) {
+        return 'linear-gradient(60deg, rgba(149,27,27,1) 0%, rgba(129,68,46,1) 100%)';
+      }
+
+      // BUG TYPE
       if (types.includes('Bug') && types.includes('Flying')) {
         return 'linear-gradient(60deg, rgba(177,179,176,1) 0%, rgba(136,255,0,1) 100%)';
       }
@@ -70,18 +118,63 @@ function Card({
       if (types.includes('Bug') && types.includes('Grass')) {
         return 'linear-gradient(60deg, rgba(136,255,0,1) 0%, rgba(35,149,2,1) 100%)';
       }
+      if (types.includes('Bug') && types.includes('Steel')) {
+        return 'linear-gradient(60deg, rgba(136,255,0,1) 0%, rgba(67,70,75,1) 100%)';
+      }
+      if (types.includes('Bug') && types.includes('Rock')) {
+        return 'linear-gradient(60deg, rgba(136,255,0,1) 0%, rgba(90,77,65,1) 100%)';
+      }
+      if (types.includes('Bug') && types.includes('Fighting')) {
+        return 'linear-gradient(60deg, rgba(136,255,0,1) 0%, rgba(87,87,87,1) 100%)';
+      }
+      if (types.includes('Bug') && types.includes('Water')) {
+        return 'linear-gradient(60deg, rgba(136,255,0,1) 0%, rgba(0,142,255,1) 100%)';
+      }
+      if (types.includes('Bug') && types.includes('Ground')) {
+        return 'linear-gradient(60deg, rgba(136,255,0,1) 0%, rgba(129,68,46,1) 100%)';
+      }
+      if (types.includes('Bug') && types.includes('Ghost')) {
+        return 'linear-gradient(60deg, rgba(136,255,0,1) 0%, rgba(241, 241, 243,1) 100%)';
+      }
+      if (types.includes('Bug') && types.includes('Electric')) {
+        return 'linear-gradient(60deg, rgba(136,255,0,1) 0%, rgba(251,255,96,1) 100%)';
+      }
+      if (types.includes('Bug') && types.includes('Fire')) {
+        return 'linear-gradient(60deg, rgba(136,255,0,1) 0%, rgba(149,27,27,1) 100%)';
+      }
+
+      // NORMAL TYPE
       if (types.includes('Normal') && types.includes('Flying')) {
         return 'linear-gradient(60deg, rgba(153,153,153,1) 0%, rgba(215,215,215,1) 100%)';
       }
-      if (types.includes('Poison') && types.includes('Ground')) {
-        return 'linear-gradient(60deg, rgba(129,68,46,1) 0%, rgba(106,0,255,1) 100%)';
+      if (types.includes('Normal') && types.includes('Psychic')) {
+        return 'linear-gradient(60deg, rgba(153,153,153,1) 0%, rgba(98,89,129,1) 100%)';
       }
       if (types.includes('Normal') && types.includes('Fairy')) {
         return 'linear-gradient(60deg, rgba(153,153,153,1) 0%, rgba(192,52,196,1)  100%)';
       }
+      if (types.includes('Normal') && types.includes('Water')) {
+        return 'linear-gradient(60deg, rgba(153,153,153,1) 0%, rgba(0,142,255,1)  100%)';
+      }
+      if (types.includes('Normal') && types.includes('Grass')) {
+        return 'linear-gradient(60deg, rgba(153,153,153,1) 0%, rgba(35,149,2,1) 100%)';
+      }
+
+      // POISON TYPE
       if (types.includes('Poison') && types.includes('Flying')) {
         return 'linear-gradient(60deg, rgba(158,0,255,1) 0%, rgba(215,215,215,1) 100%)';
       }
+      if (types.includes('Poison') && types.includes('Ground')) {
+        return 'linear-gradient(60deg, rgba(158,0,255,1) 0%, rgba(106,0,255,1) 100%)';
+      }
+      if (types.includes('Poison') && types.includes('Dark')) {
+        return 'linear-gradient(60deg, rgba(158,0,255,1) 0%, rgba(50, 50, 50,1) 100%)';
+      }
+      if (types.includes('Poison') && types.includes('Fighting')) {
+        return 'linear-gradient(60deg, rgba(158,0,255,1) 0%, rgba(87,87,87,1) 100%)';
+      }
+
+      // WATER TYPE
       if (types.includes('Water') && types.includes('Fighting')) {
         return 'linear-gradient(60deg, rgba(0,142,255,1) 0%, rgba(87,87,87,1) 100%)';
       }
@@ -94,35 +187,37 @@ function Card({
       if (types.includes('Water') && types.includes('Electric')) {
         return 'linear-gradient(60deg, rgba(0,142,255,1) 0%, rgba(251,255,96,1) 100%)';
       }
-      if (types.includes('Rock') && types.includes('Ground')) {
-        return 'linear-gradient(60deg, rgba(90,77,65,1) 0%, rgba(129,68,46,1) 100%)';
+      if (types.includes('Water') && types.includes('Fairy')) {
+        return 'linear-gradient(60deg, rgba(0,142,255,1) 0%, rgba(192,52,196,1) 100%)';
       }
-      if (types.includes('Electric') && types.includes('Steel')) {
-        return 'linear-gradient(60deg, rgba(251,255,96,1) 0%, rgba(67,70,75,1) 100%)';
-      }
-      if (types.includes('Electric') && types.includes('Flying')) {
-        return 'linear-gradient(60deg, rgba(251,255,96,1) 0%, rgba(215,215,215,1) 100%)';
+      if (types.includes('Water') && types.includes('Ground')) {
+        return 'linear-gradient(60deg, rgba(0,142,255,1) 0%, rgba(129,68,46,1) 100%)';
       }
       if (types.includes('Water') && types.includes('Ice')) {
-        return 'linear-gradient(60deg, rgba(0,142,255,1) 0%, rgba(255, 255, 255,1) 100%)';
-      }
-      if (types.includes('Ghost') && types.includes('Poison')) {
-        return 'linear-gradient(60deg, rgba(241, 241, 243,1) 0%, rgba(158,0,255,1) 100%)';
-      }
-      if (types.includes('Grass') && types.includes('Psychic')) {
-        return 'linear-gradient(60deg, rgba(35,149,2,1) 0%, rgba(98,89,129,1) 100%)';
-      }
-      if (types.includes('Psychic') && types.includes('Fairy')) {
-        return 'linear-gradient(60deg, rgba(98,89,129,1) 0%, rgba(192,52,196,1) 100%)';
-      }
-      if (types.includes('Ice') && types.includes('Psychic')) {
-        return 'linear-gradient(60deg, rgba(255, 255, 255,1) 0%, rgba(98,89,129,1) 100%)';
-      }
-      if (types.includes('Ice') && types.includes('Flying')) {
-        return 'linear-gradient(60deg, rgba(255, 255, 255,1) 0%, rgba(215,215,215,1) 100%)';
+        return 'linear-gradient(60deg, rgba(0,142,255,1) 0%, rgba(185,232,234,1) 100%)';
       }
       if (types.includes('Water') && types.includes('Flying')) {
         return 'linear-gradient(60deg, rgba(0,142,255,1) 0%, rgba(215,215,215,1) 100%)';
+      }
+      if (types.includes('Water') && types.includes('Dragon')) {
+        return 'linear-gradient(60deg, rgba(0,142,255,1) 0%, rgba(255,127,80,1) 100%)';
+      }
+      if (types.includes('Water') && types.includes('Grass')) {
+        return 'linear-gradient(60deg, rgba(0,142,255,1) 0%, rgba(35,149,2,1) 100%)';
+      }
+      if (types.includes('Water') && types.includes('Dark')) {
+        return 'linear-gradient(60deg, rgba(0,142,255,1) 0%, rgba(50, 50, 50,1) 100%)';
+      }
+      if (types.includes('Water') && types.includes('Steel')) {
+        return 'linear-gradient(60deg, rgba(0,142,255,1) 0%, rgba(67,70,75,1) 100%)';
+      }
+      if (types.includes('Water') && types.includes('Ghost')) {
+        return 'linear-gradient(60deg, rgba(0,142,255,1) 0%, rgba(241, 241, 243,1) 100%)';
+      }
+
+      // ROCK TYPE
+      if (types.includes('Rock') && types.includes('Ground')) {
+        return 'linear-gradient(60deg, rgba(90,77,65,1) 0%, rgba(129,68,46,1) 100%)';
       }
       if (types.includes('Rock') && types.includes('Water')) {
         return 'linear-gradient(60deg, rgba(90,77,65,1) 0%, rgba(0,142,255,1) 100%)';
@@ -130,11 +225,135 @@ function Card({
       if (types.includes('Rock') && types.includes('Flying')) {
         return 'linear-gradient(60deg, rgba(90,77,65,1) 0%, rgba(215,215,215,1) 100%)';
       }
+      if (types.includes('Rock') && types.includes('Psychic')) {
+        return 'linear-gradient(60deg, rgba(90,77,65,1) 0%, rgba(98,89,129,1) 100%)';
+      }
+      if (types.includes('Rock') && types.includes('Grass')) {
+        return 'linear-gradient(60deg, rgba(90,77,65,1) 0%, rgba(35,149,2,1) 100%)';
+      }
+      if (types.includes('Rock') && types.includes('Fighting')) {
+        return 'linear-gradient(60deg, rgba(90,77,65,1) 0%, rgba(87,87,87,1) 100%)';
+      }
+
+      // ELECTRIC TYPE
+      if (types.includes('Electric') && types.includes('Steel')) {
+        return 'linear-gradient(60deg, rgba(251,255,96,1) 0%, rgba(67,70,75,1) 100%)';
+      }
+      if (types.includes('Electric') && types.includes('Flying')) {
+        return 'linear-gradient(60deg, rgba(251,255,96,1) 0%, rgba(215,215,215,1) 100%)';
+      }
+
+      // GHOST TYPE
+      if (types.includes('Ghost') && types.includes('Poison')) {
+        return 'linear-gradient(60deg, rgba(241, 241, 243,1) 0%, rgba(158,0,255,1) 100%)';
+      }
+      if (types.includes('Ghost') && types.includes('Flying')) {
+        return 'linear-gradient(60deg, rgba(241, 241, 243,1) 0%, rgba(215,215,215,1) 100%)';
+      }
+      if (types.includes('Ghost') && types.includes('Fire')) {
+        return 'linear-gradient(60deg, rgba(241, 241, 243,1) 0%, rgba(149,27,27,1) 100%)';
+      }
+
+      // GROUND TYPE
+      if (types.includes('Ground') && types.includes('Flying')) {
+        return 'linear-gradient(60deg, rgba(129,68,46,1) 0%, rgba(215,215,215,1) 100%)';
+      }
+      if (types.includes('Ground') && types.includes('Dragon')) {
+        return 'linear-gradient(60deg, rgba(129,68,46,1) 0%, rgba(255,127,80,1) 100%)';
+      }
+      if (types.includes('Ground') && types.includes('Psychic')) {
+        return 'linear-gradient(60deg, rgba(129,68,46,1) 0%, rgba(98,89,129,1) 100%)';
+      }
+      if (types.includes('Ground') && types.includes('Dark')) {
+        return 'linear-gradient(60deg, rgba(129,68,46,1) 0%, rgba(50, 50, 50,1) 100%)';
+      }
+      if (types.includes('Ground') && types.includes('Electric')) {
+        return 'linear-gradient(60deg, rgba(129,68,46,1) 0%, rgba(251,255,96,1) 100%)';
+      }
+      if (types.includes('Ground') && types.includes('Ghost')) {
+        return 'linear-gradient(60deg, rgba(129,68,46,1) 0%, rgba(241, 241, 243,1) 100%)';
+      }
+
+      // ICE TYPE
+      if (types.includes('Ice') && types.includes('Psychic')) {
+        return 'linear-gradient(60deg, rgba(185,232,234,1) 0%, rgba(98,89,129,1) 100%)';
+      }
+      if (types.includes('Ice') && types.includes('Flying')) {
+        return 'linear-gradient(60deg, rgba(185,232,234,1) 0%, rgba(215,215,215,1) 100%)';
+      }
+      if (types.includes('Ice') && types.includes('Ground')) {
+        return 'linear-gradient(60deg, rgba(185,232,234,1) 0%, rgba(129,68,46,1) 100%)';
+      }
+
+      // DRAGON TYPE
       if (types.includes('Dragon') && types.includes('Flying')) {
         return 'linear-gradient(60deg, rgba(255,127,80,1) 0%, rgba(215,215,215,1) 100%)';
       }
+      if (types.includes('Dragon') && types.includes('Psychic')) {
+        return 'linear-gradient(60deg, rgba(255,127,80,1) 0%, rgba(98,89,129,1) 100%)';
+      }
+      if (types.includes('Dragon') && types.includes('Fire')) {
+        return 'linear-gradient(60deg, rgba(255,127,80,1) 0%, rgba(149,27,27,1) 100%)';
+      }
+      if (types.includes('Dragon') && types.includes('Electric')) {
+        return 'linear-gradient(60deg, rgba(255,127,80,1) 0%, rgba(251,255,96,1) 100%)';
+      }
+      if (types.includes('Dragon') && types.includes('Ice')) {
+        return 'linear-gradient(60deg, rgba(255,127,80,1) 0%, rgba(185,232,234,1) 100%)';
+      }
+
+
+      // FAIRY TYPE
       if (types.includes('Fairy') && types.includes('Flying')) {
         return 'linear-gradient(60deg, rgba(192,52,196,1) 0%, rgba(215,215,215,1) 100%)';
+      }
+
+      // PSYCHIC TYPE
+      if (types.includes('Psychic') && types.includes('Flying')) {
+        return 'linear-gradient(60deg, rgba(98,89,129,1) 0%, rgba(215,215,215,1) 100%)';
+      }
+      if (types.includes('Psychic') && types.includes('Fairy')) {
+        return 'linear-gradient(60deg, rgba(98,89,129,1) 0%, rgba(192,52,196,1) 100%)';
+      }
+
+      // DARK TYPE
+      if (types.includes('Dark') && types.includes('Flying')) {
+        return 'linear-gradient(60deg, rgba(50, 50, 50,1) 0%, rgba(215,215,215,1) 100%)';
+      }
+      if (types.includes('Dark') && types.includes('Ice')) {
+        return 'linear-gradient(60deg, rgba(50, 50, 50,1) 0%, rgba(185,232,234,1) 100%)';
+      }
+      if (types.includes('Dark') && types.includes('Fire')) {
+        return 'linear-gradient(60deg, rgba(50, 50, 50,1) 0%, rgba(149,27,27,1) 100%)';
+      }
+      if (types.includes('Dark') && types.includes('Ghost')) {
+        return 'linear-gradient(60deg, rgba(50, 50, 50,1) 0%, rgba(241, 241, 243,1) 100%)';
+      }
+      if (types.includes('Dark') && types.includes('Fighting')) {
+        return 'linear-gradient(60deg, rgba(50, 50, 50,1) 0%, rgba(87,87,87,1) 100%)';
+      }
+      if (types.includes('Dark') && types.includes('Steel')) {
+        return 'linear-gradient(60deg, rgba(50, 50, 50,1) 0%, rgba(67,70,75,1) 100%)';
+      }
+      if (types.includes('Dark') && types.includes('Dragon')) {
+        return 'linear-gradient(60deg, rgba(50, 50, 50,1) 0%, rgba(255,127,80,1) 100%)';
+      }
+
+      // STEEL TYPE
+      if (types.includes('Steel') && types.includes('Ground')) {
+        return 'linear-gradient(60deg, rgba(67,70,75,1) 0%, rgba(129,68,46,1) 100%)';
+      }
+      if (types.includes('Steel') && types.includes('Flying')) {
+        return 'linear-gradient(60deg, rgba(67,70,75,1) 0%, rgba(215,215,215,1) 100%)';
+      }
+      if (types.includes('Steel') && types.includes('Fairy')) {
+        return 'linear-gradient(60deg, rgba(67,70,75,1) 0%, rgba(192,52,196,1) 100%)';
+      }
+      if (types.includes('Steel') && types.includes('Rock')) {
+        return 'linear-gradient(60deg, rgba(67,70,75,1) 0%, rgba(90,77,65,1) 100%)';
+      }
+      if (types.includes('Steel') && types.includes('Psychic')) {
+        return 'linear-gradient(60deg, rgba(67,70,75,1) 0%, rgba(98,89,129,1) 100%)';
       }
     }
     return 'gray'; // Couleur par défaut si le nombre de types est incorrect
