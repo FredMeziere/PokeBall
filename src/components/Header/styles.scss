@@ -1,24 +1,29 @@
 @use "src/styles/vars";
+
 .header {
     display: flex;
     align-items: center;
     flex-direction: column;
     justify-content: center;
-    border: 5px solid vars.$yellow;
     border-radius: 15px;
     margin-top: 10px;
+    margin-bottom: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
 
+    &-img {
+        width: 30%;
+        padding: 20px;
+    }
 
-&-img {
-    width: 30%;
-    padding: 20px;
+    &-h1 {
+        font-size: 32px;
+        color: vars.$yellow;
+        font-weight: 900;
+        margin: 20px;
+
+    }
+
 }
-
-&-h1 {
-    font-size: 32px;
-    color: vars.$yellow;
-    font-weight: 900;
-}
-
-}
-
