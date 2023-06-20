@@ -90,6 +90,15 @@ function Card({
       if (types.includes('Fighting') && types.includes('Steel')) {
         return 'linear-gradient(60deg, rgba(87,87,87,1) 0%, rgba(67,70,75,1) 100%)';
       }
+      if (types.includes('Fighting') && types.includes('Flying')) {
+        return 'linear-gradient(60deg, rgba(87,87,87,1) 0%, rgba(215,215,215,1) 100%)';
+      }
+      if (types.includes('Fighting') && types.includes('Ice')) {
+        return 'linear-gradient(60deg, rgba(87,87,87,1) 0%, rgba(185,232,234,1) 100%)';
+      }
+      if (types.includes('Fighting') && types.includes('Ghost')) {
+        return 'linear-gradient(60deg, rgba(87,87,87,1) 0%, rgba(241, 241, 243,1) 100%)';
+      }
 
       // FIRE TYPE
       if (types.includes('Fire') && types.includes('Flying')) {
@@ -103,6 +112,15 @@ function Card({
       }
       if (types.includes('Fire') && types.includes('Ground')) {
         return 'linear-gradient(60deg, rgba(149,27,27,1) 0%, rgba(129,68,46,1) 100%)';
+      }
+      if (types.includes('Fire') && types.includes('Psychic')) {
+        return 'linear-gradient(60deg, rgba(149,27,27,1) 0%, rgba(98,89,129,1) 100%)';
+      }
+      if (types.includes('Fire') && types.includes('Steel')) {
+        return 'linear-gradient(60deg, rgba(149,27,27,1) 0%, rgba(67,70,75,1) 100%)';
+      }
+      if (types.includes('Fire') && types.includes('Water')) {
+        return 'linear-gradient(60deg, rgba(149,27,27,1) 0%, rgba(0,142,255,1) 100%)';
       }
 
       // BUG TYPE
@@ -159,6 +177,18 @@ function Card({
       if (types.includes('Normal') && types.includes('Grass')) {
         return 'linear-gradient(60deg, rgba(153,153,153,1) 0%, rgba(35,149,2,1) 100%)';
       }
+      if (types.includes('Normal') && types.includes('Ground')) {
+        return 'linear-gradient(60deg, rgba(153,153,153,1) 0%, rgba(106,0,255,1) 100%)';
+      }
+      if (types.includes('Normal') && types.includes('Electric')) {
+        return 'linear-gradient(60deg, rgba(153,153,153,1) 0%, rgba(251,255,96,1) 100%)';
+      }
+      if (types.includes('Normal') && types.includes('Fighting')) {
+        return 'linear-gradient(60deg, rgba(153,153,153,1) 0%, rgba(87,87,87,1) 100%)';
+      }
+      if (types.includes('Normal') && types.includes('Dragon')) {
+        return 'linear-gradient(60deg, rgba(153,153,153,1) 0%, rgba(255,127,80,1) 100%)';
+      }
 
       // POISON TYPE
       if (types.includes('Poison') && types.includes('Flying')) {
@@ -172,6 +202,12 @@ function Card({
       }
       if (types.includes('Poison') && types.includes('Fighting')) {
         return 'linear-gradient(60deg, rgba(158,0,255,1) 0%, rgba(87,87,87,1) 100%)';
+      }
+      if (types.includes('Poison') && types.includes('Dragon')) {
+        return 'linear-gradient(60deg, rgba(158,0,255,1) 0%, rgba(255,127,80,1)  100%)';
+      }
+      if (types.includes('Poison') && types.includes('Fire')) {
+        return 'linear-gradient(60deg, rgba(158,0,255,1) 0%, rgba(149,27,27,1)  100%)';
       }
 
       // WATER TYPE
@@ -234,6 +270,12 @@ function Card({
       if (types.includes('Rock') && types.includes('Fighting')) {
         return 'linear-gradient(60deg, rgba(90,77,65,1) 0%, rgba(87,87,87,1) 100%)';
       }
+      if (types.includes('Rock') && types.includes('Fairy')) {
+        return 'linear-gradient(60deg, rgba(90,77,65,1) 0%, rgba(192,52,196,1) 100%)';
+      }
+      if (types.includes('Rock') && types.includes('Poison')) {
+        return 'linear-gradient(60deg, rgba(90,77,65,1) 0%, rgba(158,0,255,1) 100%)';
+      }
 
       // ELECTRIC TYPE
       if (types.includes('Electric') && types.includes('Steel')) {
@@ -241,6 +283,12 @@ function Card({
       }
       if (types.includes('Electric') && types.includes('Flying')) {
         return 'linear-gradient(60deg, rgba(251,255,96,1) 0%, rgba(215,215,215,1) 100%)';
+      }
+      if (types.includes('Electric') && types.includes('Ghost')) {
+        return 'linear-gradient(60deg, rgba(251,255,96,1) 0%, rgba(241, 241, 243,1) 100%)';
+      }
+      if (types.includes('Electric') && types.includes('Fairy')) {
+        return 'linear-gradient(60deg, rgba(251,255,96,1) 0%, rgba(192,52,196,1) 100%)';
       }
 
       // GHOST TYPE
@@ -252,6 +300,15 @@ function Card({
       }
       if (types.includes('Ghost') && types.includes('Fire')) {
         return 'linear-gradient(60deg, rgba(241, 241, 243,1) 0%, rgba(149,27,27,1) 100%)';
+      }
+      if (types.includes('Ghost') && types.includes('Dragon')) {
+        return 'linear-gradient(60deg, rgba(241, 241, 243,1) 0%, rgba(255,127,80,1) 100%)';
+      }
+      if (types.includes('Ghost') && types.includes('Grass')) {
+        return 'linear-gradient(60deg, rgba(241, 241, 243,1) 0%, rgba(35,149,2,1) 100%)';
+      }
+      if (types.includes('Ghost') && types.includes('Fairy')) {
+        return 'linear-gradient(60deg, rgba(241, 241, 243,1) 0%, rgba(192,52,196,1) 100%)';
       }
 
       // GROUND TYPE
@@ -284,24 +341,9 @@ function Card({
       if (types.includes('Ice') && types.includes('Ground')) {
         return 'linear-gradient(60deg, rgba(185,232,234,1) 0%, rgba(129,68,46,1) 100%)';
       }
-
-      // DRAGON TYPE
-      if (types.includes('Dragon') && types.includes('Flying')) {
-        return 'linear-gradient(60deg, rgba(255,127,80,1) 0%, rgba(215,215,215,1) 100%)';
+      if (types.includes('Ice') && types.includes('Ghost')) {
+        return 'linear-gradient(60deg, rgba(185,232,234,1) 0%, rgba(241, 241, 243,1) 100%)';
       }
-      if (types.includes('Dragon') && types.includes('Psychic')) {
-        return 'linear-gradient(60deg, rgba(255,127,80,1) 0%, rgba(98,89,129,1) 100%)';
-      }
-      if (types.includes('Dragon') && types.includes('Fire')) {
-        return 'linear-gradient(60deg, rgba(255,127,80,1) 0%, rgba(149,27,27,1) 100%)';
-      }
-      if (types.includes('Dragon') && types.includes('Electric')) {
-        return 'linear-gradient(60deg, rgba(255,127,80,1) 0%, rgba(251,255,96,1) 100%)';
-      }
-      if (types.includes('Dragon') && types.includes('Ice')) {
-        return 'linear-gradient(60deg, rgba(255,127,80,1) 0%, rgba(185,232,234,1) 100%)';
-      }
-
 
       // FAIRY TYPE
       if (types.includes('Fairy') && types.includes('Flying')) {
@@ -314,6 +356,9 @@ function Card({
       }
       if (types.includes('Psychic') && types.includes('Fairy')) {
         return 'linear-gradient(60deg, rgba(98,89,129,1) 0%, rgba(192,52,196,1) 100%)';
+      }
+      if (types.includes('Psychic') && types.includes('Ghost')) {
+        return 'linear-gradient(60deg, rgba(98,89,129,1) 0%, rgba(241, 241, 243,1) 100%)';
       }
 
       // DARK TYPE
@@ -338,6 +383,29 @@ function Card({
       if (types.includes('Dark') && types.includes('Dragon')) {
         return 'linear-gradient(60deg, rgba(50, 50, 50,1) 0%, rgba(255,127,80,1) 100%)';
       }
+      if (types.includes('Dark') && types.includes('Psychic')) {
+        return 'linear-gradient(60deg, rgba(50, 50, 50,1) 0%, rgba(98,89,129,1) 100%)';
+      }
+
+      // DRAGON TYPE
+      if (types.includes('Dragon') && types.includes('Flying')) {
+        return 'linear-gradient(60deg, rgba(255,127,80,1) 0%, rgba(215,215,215,1) 100%)';
+      }
+      if (types.includes('Dragon') && types.includes('Psychic')) {
+        return 'linear-gradient(60deg, rgba(255,127,80,1) 0%, rgba(98,89,129,1) 100%)';
+      }
+      if (types.includes('Dragon') && types.includes('Fire')) {
+        return 'linear-gradient(60deg, rgba(255,127,80,1) 0%, rgba(149,27,27,1) 100%)';
+      }
+      if (types.includes('Dragon') && types.includes('Electric')) {
+        return 'linear-gradient(60deg, rgba(255,127,80,1) 0%, rgba(251,255,96,1) 100%)';
+      }
+      if (types.includes('Dragon') && types.includes('Ice')) {
+        return 'linear-gradient(60deg, rgba(255,127,80,1) 0%, rgba(185,232,234,1) 100%)';
+      }
+      if (types.includes('Dragon') && types.includes('Fighting')) {
+        return 'linear-gradient(60deg, rgba(255,127,80,1) 0%, rgba(87,87,87,1) 100%)';
+      }
 
       // STEEL TYPE
       if (types.includes('Steel') && types.includes('Ground')) {
@@ -354,6 +422,9 @@ function Card({
       }
       if (types.includes('Steel') && types.includes('Psychic')) {
         return 'linear-gradient(60deg, rgba(67,70,75,1) 0%, rgba(98,89,129,1) 100%)';
+      }
+      if (types.includes('Steel') && types.includes('Dragon')) {
+        return 'linear-gradient(60deg, rgba(67,70,75,1) 0%, rgba(255,127,80,1) 100%)';
       }
     }
     return 'gray'; // Couleur par défaut si le nombre de types est incorrect
