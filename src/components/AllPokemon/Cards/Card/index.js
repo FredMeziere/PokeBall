@@ -46,7 +46,7 @@ function Card({
       case 'Dark':
         return 'rgb(50, 50, 50)';
       default:
-        return 'gray'; // Couleur par défaut si le type n'est pas reconnu
+        return 'gray'; // Couleur par défaut si aucune combinaisons existantes
     }
   }
 
@@ -437,14 +437,32 @@ function Card({
     <div className="card" style={{ background: backgroundColor }}>
       <img className="card-img" src={imagePath} alt={name.french} />
       <p className="card-name">{name.french}</p>
-      <p className="card-type">Type: {type.join(', ')}</p>
-      <div className="card-stats">
-        <p className="card-hp">HP: {base.HP}</p>
-        <p className="card-att">Attack: {base.Attack}</p>
-        <p className="card-def">Defense: {base.Defense}</p>
-        <p className="card-spa">Sp. Attack: {base['Sp. Attack']}</p>
-        <p className="card-spd">Sp. Defense: {base['Sp. Defense']}</p>
-        <p className="card-speed">Speed: {base.Speed}</p>
+      <p className="card-type">Type: {type.join(' / ')}</p>
+      <div className="card-stat">
+        {Object.entries(base).map(([statName, statValue]) => {
+          let width;
+
+          if (statValue >= 150) {
+            width = statValue * 1;
+          }
+          else if (statValue > 0 && statValue <= 20) {
+            width = statValue * 8;
+          }
+          else if (statValue > 20 && statValue <= 40) {
+            width = statValue * 5.5;
+          }
+          else {
+            width = statValue * 2.5;
+          }
+
+          return (
+            <div className="card-stat-bar" key={statName}>
+              <div className="card-stat-bar-fill" style={{ width: `${width}px` }}>
+                {statName}: {statValue}
+              </div>
+            </div>
+          );
+        })}
       </div>
     </div>
   );
