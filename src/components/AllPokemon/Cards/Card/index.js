@@ -436,50 +436,29 @@ function Card({
   return (
     <div className="card" style={{ background: backgroundColor }}>
       <img className="card-img" src={imagePath} alt={name.french} />
-      <p className="card-name">{name.french}</p>
+      <p className="card-name">{name.french} #{id}</p>
       <p className="card-type">Type: {type.join(' / ')}</p>
       <div className="card-stat">
         {Object.entries(base).map(([statName, statValue]) => {
           let width;
 
           if (statValue > 0 && statValue <= 10) {
-            width = statValue * 3.5;
+            width = statValue * 5;
           }
           else if (statValue >= 11 && statValue <= 20) {
-            width = statValue * 3.5;
+            width = statValue * 5;
           }
           else if (statValue >= 21 && statValue <= 30) {
-            width = statValue * 3;
+            width = statValue * 3.2;
           }
-          else if (statValue >= 31 && statValue <= 40) {
-            width = statValue * 2;
+          else if (statValue >= 31 && statValue <= 50) {
+            width = statValue * 2.3;
           }
-          else if (statValue >= 41 && statValue <= 50) {
-            width = statValue * 2;
+          else if (statValue >= 51 && statValue <= 110) {
+            width = statValue * 2.2;
           }
-          else if (statValue >= 51 && statValue <= 60) {
-            width = statValue * 2;
-          }
-          else if (statValue >= 61 && statValue <= 70) {
-            width = statValue * 2;
-          }
-          else if (statValue >= 71 && statValue <= 80) {
-            width = statValue * 2;
-          }
-          else if (statValue >= 81 && statValue <= 90) {
-            width = statValue * 2;
-          }
-          else if (statValue >= 91 && statValue <= 100) {
-            width = statValue * 2;
-          }
-          else if (statValue >= 101 && statValue <= 110) {
-            width = statValue * 1.8;
-          }
-          else if (statValue >= 111 && statValue <= 121) {
-            width = statValue * 1.8;
-          }
-          else if (statValue >= 121 && statValue <= 160) {
-            width = statValue * 1.8;
+          else if (statValue >= 111 && statValue <= 160) {
+            width = statValue * 2.1;
           }
           else {
             width = statValue * 1.6;

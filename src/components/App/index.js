@@ -1,4 +1,5 @@
 import AllPokemon from '../AllPokemon';
+import Footer from '../Footer';
 import Header from '../Header';
 import './styles.scss';
 
@@ -7,7 +8,7 @@ function App() {
     <div className="app">
       <Header />
       <AllPokemon />
-
+      <Footer />
     </div>
   );
 }
