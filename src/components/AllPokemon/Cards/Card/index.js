@@ -442,23 +442,31 @@ function Card({
         {Object.entries(base).map(([statName, statValue]) => {
           let width;
 
-          if (statValue >= 150) {
-            width = statValue * 1;
+          if (statValue >= 100) {
+            width = statValue * 1.5;
           }
-          else if (statValue > 0 && statValue <= 20) {
-            width = statValue * 8;
+          else if (statValue > 0 && statValue <= 10) {
+            width = statValue * 4;
           }
-          else if (statValue > 20 && statValue <= 40) {
-            width = statValue * 5.5;
+          else if (statValue >= 11 && statValue <= 20) {
+            width = statValue * 4;
           }
+          else if (statValue >= 21 && statValue <= 40) {
+            width = statValue * 3;
+          }
+          else if (statValue >= 41 && statValue <= 65) {
+            width = statValue * 3;
+          }
+
           else {
-            width = statValue * 2.5;
+            width = statValue * 1.5;
           }
 
           return (
             <div className="card-stat-bar" key={statName}>
+              <span className="card-stat-bar-statvalue">{statValue}</span>
               <div className="card-stat-bar-fill" style={{ width: `${width}px` }}>
-                {statName}: {statValue}
+                <span className="card-stat-bar-statname">{statName} :</span>
               </div>
             </div>
           );
