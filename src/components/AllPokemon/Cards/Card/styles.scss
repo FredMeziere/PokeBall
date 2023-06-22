@@ -13,63 +13,62 @@
   gap: 2rem;
   z-index: 1;
 
+  &-img {
+    width: 60%;
+    transition: transform 0.3s ease 0s;
+  }
 
-&-img {
-  width: 60%;
-  transition: transform 0.3s ease 0s;
-}
+  &-name {
+    font-size: 32px;
+    color: white;
+    text-shadow: 1px 0px 20px black;
+  }
 
-&-name {
-  font-size: 32px;
-  color: white;
-  text-shadow: 1px 1px 10px black;
-}
+  &-type {
+    color: white;
+    text-shadow: 1px 0px 20px black;
+  }
 
-&-type {
-  color: white;
-  text-shadow: 1px 1px 10px black;
-}
+  &-stat {
+    position: relative;
+    text-align: center;
 
-&-stat {
-  position: relative;
-  text-align: center;
-}
+    &-bar {
+      position: relative;
+      width: 400px;
+      height: 30px;
+      background-color: #ccc;
+      margin-bottom: 20px;
+      border-radius: 5px;
+      box-shadow: 1px 0px 20px black;
+      text-align: right;
+      align-items: center;
+      text-align: center;
 
-&-stat-bar {
-  position: relative;
-  width: 400px;
-  height: 30px;
-  background-color: #ccc;
-  margin-bottom: 20px;
-  border-radius: 5px;
-  box-shadow: 1px 1px 10px black;
-  text-align: right;
-  align-items: center;
-  text-align: center;
-}
+      &-fill {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        background-color: rgb(0, 0, 0);
+        display: flex;
+        align-items: center;
+        font-size: 12px;
+        color: white;
+        border-radius: 5px;
+      }
 
-&-stat-bar-fill {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 100%;
-  background-color: rgb(0, 0, 0);
-  display: flex;
-  align-items: center;
-  font-size: 12px;
-  color: white;
-  border-radius: 5px;
-}
+      &-statname {
+        padding-left: 10px;
+      }
 
-&-stat-bar-statname {
-  padding-left: 10px;
-}
-
-&-stat-bar-statvalue {
-  display: flex;
-  justify-content: flex-end;
-  align-items: center;
-  text-align: center;
-  padding: 6px;
-}
+      &-statvalue {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        text-align: center;
+        padding: 6px;
+      }
+    }
+  }
 }
