@@ -13,7 +13,6 @@ function AllPokemon() {
     // eslint-disable-next-line no-use-before-define
     filterData(event.target.value);
   };
-
   // eslint-disable-next-line no-shadow
   const filterData = (searchText) => {
     const filteredData = pokeData.filter((pokemon) => {

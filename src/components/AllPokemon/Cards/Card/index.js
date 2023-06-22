@@ -442,31 +442,54 @@ function Card({
         {Object.entries(base).map(([statName, statValue]) => {
           let width;
 
-          if (statValue >= 100) {
-            width = statValue * 1.5;
-          }
-          else if (statValue > 0 && statValue <= 10) {
-            width = statValue * 4;
+          if (statValue > 0 && statValue <= 10) {
+            width = statValue * 3.5;
           }
           else if (statValue >= 11 && statValue <= 20) {
-            width = statValue * 4;
+            width = statValue * 3.5;
           }
-          else if (statValue >= 21 && statValue <= 40) {
+          else if (statValue >= 21 && statValue <= 30) {
             width = statValue * 3;
           }
-          else if (statValue >= 41 && statValue <= 65) {
-            width = statValue * 3;
+          else if (statValue >= 31 && statValue <= 40) {
+            width = statValue * 2;
           }
-
+          else if (statValue >= 41 && statValue <= 50) {
+            width = statValue * 2;
+          }
+          else if (statValue >= 51 && statValue <= 60) {
+            width = statValue * 2;
+          }
+          else if (statValue >= 61 && statValue <= 70) {
+            width = statValue * 2;
+          }
+          else if (statValue >= 71 && statValue <= 80) {
+            width = statValue * 2;
+          }
+          else if (statValue >= 81 && statValue <= 90) {
+            width = statValue * 2;
+          }
+          else if (statValue >= 91 && statValue <= 100) {
+            width = statValue * 2;
+          }
+          else if (statValue >= 101 && statValue <= 110) {
+            width = statValue * 1.8;
+          }
+          else if (statValue >= 111 && statValue <= 121) {
+            width = statValue * 1.8;
+          }
+          else if (statValue >= 121 && statValue <= 160) {
+            width = statValue * 1.8;
+          }
           else {
-            width = statValue * 1.5;
+            width = statValue * 1.6;
           }
 
           return (
             <div className="card-stat-bar" key={statName}>
               <span className="card-stat-bar-statvalue">{statValue}</span>
               <div className="card-stat-bar-fill" style={{ width: `${width}px` }}>
-                <span className="card-stat-bar-statname">{statName} :</span>
+                <span className="card-stat-bar-statname">{statName}:</span>
               </div>
             </div>
           );
