@@ -1,0 +1,22 @@
+@use "src/styles/vars";
+.footer {
+    border-radius: 15px;
+    padding: 1.5rem;
+    width: 90%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    transition: all 0.3s ease 0s;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+
+&-p {
+    color: vars.$yellow;
+    font-weight: 700;
+    margin: 20px;
+    text-shadow: 1px 1px 10px black;
+}
+}
+
+    

@@ -446,7 +446,7 @@ function Card({
             width = statValue * 5;
           }
           else if (statValue >= 11 && statValue <= 20) {
-            width = statValue * 5;
+            width = statValue * 3.8;
           }
           else if (statValue >= 21 && statValue <= 30) {
             width = statValue * 3.2;

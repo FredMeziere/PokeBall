@@ -15803,7 +15803,7 @@
       "english": "Type: Null",
       "japanese": "タイプ：ヌル",
       "chinese": "属性：空",
-      "french": "Silvallié"
+      "french": "Type :0"
     },
     "type": [
       "Normal"
@@ -15823,7 +15823,7 @@
       "english": "Silvally",
       "japanese": "シルヴァディ",
       "chinese": "银伴战兽",
-      "french": "Météno"
+      "french": "Silvallié"
     },
     "type": [
       "Normal"
@@ -15843,7 +15843,7 @@
       "english": "Minior",
       "japanese": "メテノ",
       "chinese": "小陨星",
-      "french": "Dodoala"
+      "french": "Météno"
     },
     "type": [
       "Rock",
@@ -15864,7 +15864,7 @@
       "english": "Komala",
       "japanese": "ネッコアラ",
       "chinese": "树枕尾熊",
-      "french": "Boumata"
+      "french": "Dodoala"
     },
     "type": [
       "Normal"
@@ -15884,7 +15884,7 @@
       "english": "Turtonator",
       "japanese": "バクガメス",
       "chinese": "爆焰龟兽",
-      "french": "Togedemaru"
+      "french": "Boumata"
     },
     "type": [
       "Fire",
@@ -15905,7 +15905,7 @@
       "english": "Togedemaru",
       "japanese": "トゲデマル",
       "chinese": "托戈德玛尔",
-      "french": "Mimiqui"
+      "french": "Togedemaru"
     },
     "type": [
       "Electric",
@@ -15926,7 +15926,7 @@
       "english": "Mimikyu",
       "japanese": "ミミッキュ",
       "chinese": "谜拟Ｑ",
-      "french": "Denticrisse"
+      "french": "Mimiqui"
     },
     "type": [
       "Ghost",
@@ -15947,7 +15947,7 @@
       "english": "Bruxish",
       "japanese": "ハギギシリ",
       "chinese": "磨牙彩皮鱼",
-      "french": "Draïeul"
+      "french": "Denticrisse"
     },
     "type": [
       "Water",
@@ -15968,7 +15968,7 @@
       "english": "Drampa",
       "japanese": "ジジーロン",
       "chinese": "老翁龙",
-      "french": "Sinistrail"
+      "french": "Draïeul"
     },
     "type": [
       "Normal",
@@ -15989,7 +15989,7 @@
       "english": "Dhelmise",
       "japanese": "ダダリン",
       "chinese": "破破舵轮",
-      "french": "Bébécaille"
+      "french": "Sinistrail"
     },
     "type": [
       "Ghost",
@@ -16010,7 +16010,7 @@
       "english": "Jangmo-o",
       "japanese": "ジャラコ",
       "chinese": "心鳞宝",
-      "french": "Écaïd"
+      "french": "Bébécaille"
     },
     "type": [
       "Dragon"
@@ -16030,7 +16030,7 @@
       "english": "Hakamo-o",
       "japanese": "ジャランゴ",
       "chinese": "鳞甲龙",
-      "french": "Ékaïser"
+      "french": "Écaïd"
     },
     "type": [
       "Dragon",
@@ -16051,7 +16051,7 @@
       "english": "Kommo-o",
       "japanese": "ジャラランガ",
       "chinese": "杖尾鳞甲龙",
-      "french": "Tokorico"
+      "french": "Ékaïser"
     },
     "type": [
       "Dragon",
@@ -16072,7 +16072,7 @@
       "english": "Tapu Koko",
       "japanese": "カプ・コケコ",
       "chinese": "卡璞・鸣鸣",
-      "french": "Tokopiyon"
+      "french": "Tokorico"
     },
     "type": [
       "Electric",
@@ -16093,7 +16093,7 @@
       "english": "Tapu Lele",
       "japanese": "カプ・テテフ",
       "chinese": "卡璞・蝶蝶",
-      "french": "Tokotoro"
+      "french": "Tokopiyon"
     },
     "type": [
       "Psychic",
@@ -16114,7 +16114,7 @@
       "english": "Tapu Bulu",
       "japanese": "カプ・ブルル",
       "chinese": "卡璞・哞哞",
-      "french": "Tokopisco"
+      "french": "Tokotoro"
     },
     "type": [
       "Grass",
@@ -16135,7 +16135,7 @@
       "english": "Tapu Fini",
       "japanese": "カプ・レヒレ",
       "chinese": "卡璞・鳍鳍",
-      "french": "Cosmog"
+      "french": "Tokopisco"
     },
     "type": [
       "Water",
@@ -16156,7 +16156,7 @@
       "english": "Cosmog",
       "japanese": "コスモッグ",
       "chinese": "科斯莫古",
-      "french": "Cosmovum"
+      "french": "Cosmog"
     },
     "type": [
       "Psychic"
@@ -16176,7 +16176,7 @@
       "english": "Cosmoem",
       "japanese": "コスモウム",
       "chinese": "科斯莫姆",
-      "french": "Solgaleo"
+      "french": "Cosmovum"
     },
     "type": [
       "Psychic"
@@ -16196,7 +16196,7 @@
       "english": "Solgaleo",
       "japanese": "ソルガレオ",
       "chinese": "索尔迦雷欧",
-      "french": "Lunala"
+      "french": "Solgaleo"
     },
     "type": [
       "Psychic",
@@ -16217,7 +16217,7 @@
       "english": "Lunala",
       "japanese": "ルナアーラ",
       "chinese": "露奈雅拉",
-      "french": "Zéroïd"
+      "french": "Lunala"
     },
     "type": [
       "Psychic",
@@ -16238,7 +16238,7 @@
       "english": "Nihilego",
       "japanese": "ウツロイド",
       "chinese": "虚吾伊德",
-      "french": "Mouscoto"
+      "french": "Zéroïd"
     },
     "type": [
       "Rock",
@@ -16259,7 +16259,7 @@
       "english": "Buzzwole",
       "japanese": "マッシブーン",
       "chinese": "爆肌蚊",
-      "french": "Cancrelove"
+      "french": "Mouscoto"
     },
     "type": [
       "Bug",
@@ -16280,7 +16280,7 @@
       "english": "Pheromosa",
       "japanese": "フェローチェ",
       "chinese": "费洛美螂",
-      "french": "Câblifère"
+      "french": "Cancrelove"
     },
     "type": [
       "Bug",
@@ -16301,7 +16301,7 @@
       "english": "Xurkitree",
       "japanese": "デンジュモク",
       "chinese": "电束木",
-      "french": "Bamboiselle"
+      "french": "Câblifère"
     },
     "type": [
       "Electric"
@@ -16321,7 +16321,7 @@
       "english": "Celesteela",
       "japanese": "テッカグヤ",
       "chinese": "铁火辉夜",
-      "french": "Katagami"
+      "french": "Bamboiselle"
     },
     "type": [
       "Steel",
@@ -16342,7 +16342,7 @@
       "english": "Kartana",
       "japanese": "カミツルギ",
       "chinese": "纸御剑",
-      "french": "Engloutyran"
+      "french": "Katagami"
     },
     "type": [
       "Grass",
@@ -16363,7 +16363,7 @@
       "english": "Guzzlord",
       "japanese": "アクジキング",
       "chinese": "恶食大王",
-      "french": "Necrozma"
+      "french": "Engloutyran"
     },
     "type": [
       "Dark",
@@ -16384,7 +16384,7 @@
       "english": "Necrozma",
       "japanese": "ネクロズマ",
       "chinese": "奈克洛兹玛",
-      "french": "Magearna"
+      "french": "Necrozma"
     },
     "type": [
       "Psychic"
@@ -16404,7 +16404,7 @@
       "english": "Magearna",
       "japanese": "マギアナ",
       "chinese": "玛机雅娜",
-      "french": "Marshadow"
+      "french": "Magearna"
     },
     "type": [
       "Steel",
@@ -16425,7 +16425,7 @@
       "english": "Marshadow",
       "japanese": "マーシャドー",
       "chinese": "玛夏多",
-      "french": "Vémini"
+      "french": "Marshadow"
     },
     "type": [
       "Fighting",
@@ -16446,7 +16446,7 @@
       "english": "Poipole",
       "japanese": "ベベノム",
       "chinese": "毒贝比",
-      "french": "Mandrillon"
+      "french": "Vémini"
     },
     "type": [
       "Poison"
@@ -16466,7 +16466,7 @@
       "english": "Naganadel",
       "japanese": "アーゴヨン",
       "chinese": "四颚针龙",
-      "french": "Ama-Ama"
+      "french": "Mandrillon"
     },
     "type": [
       "Poison",
@@ -16487,7 +16487,7 @@
       "english": "Stakataka",
       "japanese": "ツンデツンデ",
       "chinese": "垒磊石",
-      "french": "Pierroteknik"
+      "french": "Ama-Ama"
     },
     "type": [
       "Rock",
@@ -16508,7 +16508,7 @@
       "english": "Blacephalon",
       "japanese": "ズガドーン",
       "chinese": "砰头小丑",
-      "french": "Zeraora"
+      "french": "Pierroteknik"
     },
     "type": [
       "Fire",
@@ -16529,7 +16529,7 @@
       "english": "Zeraora",
       "japanese": "ゼラオラ",
       "chinese": "捷拉奥拉",
-      "french": "Meltan"
+      "french": "Zeraora"
     },
     "type": [
       "Electric"
@@ -16549,7 +16549,7 @@
       "english": "Meltan",
       "japanese": "メルタン",
       "chinese": "美录坦",
-      "french": "Melmetal"
+      "french": "Meltan"
     },
     "type": [
       "Steel"
@@ -16569,7 +16569,7 @@
       "english": "Melmetal",
       "japanese": "メルメタル",
       "chinese": "美录梅塔",
-      "french": ""
+      "french": "Melmetal"
     },
     "type": [
       "Steel"
@@ -16582,5 +16582,390 @@
       "Sp. Defense": 65,
       "Speed": 34
     }
+  },
+  {
+    "id": 810,
+    "name": {
+      "english": "Grookey",
+      "japanese": "サルノリ",
+      "french": "Melmetal"
+    },
+    "type": [
+      "Grass"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 65,
+      "Defense": 50,
+      "Sp. Attack": 40,
+      "Sp. Defense": 40,
+      "Speed": 65
+    }
+  },
+  {
+    "id": 811,
+    "name": {
+      "english": "Thwackey",
+      "japanese": "サルノリ",
+      "french": "Badabouin"
+    },
+    "type": [
+      "Grass"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 85,
+      "Defense": 70,
+      "Sp. Attack": 55,
+      "Sp. Defense": 60,
+      "Speed": 80
+    }
+  },
+  {
+    "id": 812,
+    "name": {
+      "english": "Rillaboom",
+      "japanese": "ゴリランダー",
+      "french": "Gorythmic"
+    },
+    "type": [
+      "Grass"
+    ],
+    "base": {
+      "HP": 100,
+      "Attack": 125,
+      "Defense": 90,
+      "Sp. Attack": 60,
+      "Sp. Defense": 70,
+      "Speed": 85
+    }
+  },
+  {
+    "id": 813,
+    "name": {
+      "english": "Scorbunny",
+      "japanese": "ヒバニー",
+      "french": "Flambino"
+    },
+    "type": [
+      "Fire"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 71,
+      "Defense": 40,
+      "Sp. Attack": 40,
+      "Sp. Defense": 40,
+      "Speed": 69
+    }
+  },
+  {
+    "id": 814,
+    "name": {
+      "english": "Raboot",
+      "japanese": "ラビフット",
+      "french": "Lapyro"
+    },
+    "type": [
+      "Fire"
+    ],
+    "base": {
+      "HP": 65,
+      "Attack": 86,
+      "Defense": 60,
+      "Sp. Attack": 55,
+      "Sp. Defense": 60,
+      "Speed": 94
+    }
+  },
+  {
+    "id": 815,
+    "name": {
+      "english": "Cinderace",
+      "japanese": "エースバーン",
+      "french": "Pyrobut"
+    },
+    "type": [
+      "Fire"
+    ],
+    "base": {
+      "HP": 80,
+      "Attack": 116,
+      "Defense": 75,
+      "Sp. Attack": 65,
+      "Sp. Defense": 75,
+      "Speed": 119
+    }
+  },
+  {
+    "id": 816,
+    "name": {
+      "english": "Sobble",
+      "japanese": "メッソン",
+      "french": "Larméléon"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 40,
+      "Defense": 40,
+      "Sp. Attack": 70,
+      "Sp. Defense": 40,
+      "Speed": 70
+    }
+  },
+  {
+    "id": 817,
+    "name": {
+      "english": "Drizzile",
+      "japanese": "ジメレオン",
+      "french": "Arrozard"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 65,
+      "Attack": 60,
+      "Defense": 55,
+      "Sp. Attack": 95,
+      "Sp. Defense": 55,
+      "Speed": 90
+    }
+  },
+  {
+    "id": 818,
+    "name": {
+      "english": "Inteleon",
+      "japanese": "インテレオン",
+      "french": "Lézargus"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 85,
+      "Defense": 65,
+      "Sp. Attack": 125,
+      "Sp. Defense": 65,
+      "Speed": 120
+    }
+  },
+  {
+    "id": 819,
+    "name": {
+      "english": "Skwovet",
+      "japanese": "ホシガリス",
+      "french": "Rongourmand"
+    },
+    "type": [
+      "Normalr"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 55,
+      "Defense": 55,
+      "Sp. Attack": 35,
+      "Sp. Defense": 35,
+      "Speed": 25
+    }
+  },
+  {
+    "id": 820,
+    "name": {
+      "english": "Greedent",
+      "japanese": "ヨクバリス",
+      "french": "Rongrigou"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 120,
+      "Attack": 95,
+      "Defense": 95,
+      "Sp. Attack": 55,
+      "Sp. Defense": 75,
+      "Speed": 20
+    }
+  },
+  {
+    "id": 821,
+    "name": {
+      "english": "Rookidee",
+      "japanese": "ココガラ",
+      "french": "Minisange"
+    },
+    "type": [
+      "Flying"
+    ],
+    "base": {
+      "HP": 38,
+      "Attack": 47,
+      "Defense": 35,
+      "Sp. Attack": 33,
+      "Sp. Defense": 35,
+      "Speed": 57
+    }
+  },
+  {
+    "id": 822,
+    "name": {
+      "english": "Corvisquire",
+      "japanese": "アオガラス",
+      "french": "Bleuseille"
+    },
+    "type": [
+      "Flying"
+    ],
+    "base": {
+      "HP": 68,
+      "Attack": 67,
+      "Defense": 55,
+      "Sp. Attack": 43,
+      "Sp. Defense": 55,
+      "Speed": 77
+    }
+  },
+  {
+    "id": 823,
+    "name": {
+      "english": "Corviknight",
+      "japanese": "アーマーガア",
+      "french": "Corvaillus"
+    },
+    "type": [
+      "Flying",
+      "Steel"
+    ],
+    "base": {
+      "HP": 98,
+      "Attack": 87,
+      "Defense": 105,
+      "Sp. Attack": 53,
+      "Sp. Defense": 85,
+      "Speed": 67
+    }
+  },
+  {
+    "id": 824,
+    "name": {
+      "english": "Blipbug",
+      "japanese": "サッチムシ",
+      "french": "Larvadar"
+    },
+    "type": [
+      "Bug"
+    ],
+    "base": {
+      "HP": 25,
+      "Attack": 20,
+      "Defense": 20,
+      "Sp. Attack": 25,
+      "Sp. Defense": 45,
+      "Speed": 45
+    }
+  },
+  {
+    "id": 825,
+    "name": {
+      "english": "Dottler",
+      "japanese": "レドームシ",
+      "french": "Coléodôme"
+    },
+    "type": [
+      "Bug",
+      "Psychic"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 35,
+      "Defense": 80,
+      "Sp. Attack": 50,
+      "Sp. Defense": 90,
+      "Speed": 30
+    }
+  },
+  {
+    "id": 826,
+    "name": {
+      "english": "Orbeetle",
+      "japanese": "イオルブ",
+      "french": "Astronelle"
+    },
+    "type": [
+      "Bug",
+      "Psychic"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 45,
+      "Defense": 110,
+      "Sp. Attack": 80,
+      "Sp. Defense": 120,
+      "Speed": 90
+    }
+  },
+  {
+    "id": 827,
+    "name": {
+      "english": "Nickit",
+      "japanese": "クスネ",
+      "french": "Goupilou"
+    },
+    "type": [
+      "Dark"
+    ],
+    "base": {
+      "HP": 40,
+      "Attack": 28,
+      "Defense": 28,
+      "Sp. Attack": 47,
+      "Sp. Defense": 52,
+      "Speed": 50
+    }
+  },
+  {
+    "id": 828,
+    "name": {
+      "english": "Thievul",
+      "japanese": "フォクスライ",
+      "french": "Roublenard"
+    },
+    "type": [
+      "Dark"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 58,
+      "Defense": 58,
+      "Sp. Attack": 87,
+      "Sp. Defense": 92,
+      "Speed": 90
+    }
+  },
+  {
+    "id": 829,
+    "name": {
+      "english": "Gossifleur",
+      "japanese": "ヒメンカ",
+      "french": "Tournicoton"
+    },
+    "type": [
+      "Grass"
+    ],
+    "base": {
+      "HP": 40,
+      "Attack": 40,
+      "Defense": 60,
+      "Sp. Attack": 40,
+      "Sp. Defense": 60,
+      "Speed": 10
+    }
   }
+
+
 ]
