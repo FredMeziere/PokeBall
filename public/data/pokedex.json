@@ -17764,5 +17764,398 @@
       "Sp. Defense": 60,
       "Speed": 75
     }
+  },
+  {
+    "id": 871,
+    "name": {
+      "english": "Pincurchin",
+      "japanese": "バチンウニ",
+      "french": "Wattapik"
+    },
+    "type": [
+      "Electric"
+    ],
+    "base": {
+      "HP": 48,
+      "Attack": 101,
+      "Defense": 95,
+      "Sp. Attack": 91,
+      "Sp. Defense": 85,
+      "Speed": 15
+    }
+  },
+  {
+    "id": 872,
+    "name": {
+      "english": "Snom",
+      "japanese": "ユキハミ",
+      "french": "Frissonille"
+    },
+    "type": [
+      "Ice",
+      "Bug"
+    ],
+    "base": {
+      "HP": 30,
+      "Attack": 25,
+      "Defense": 35,
+      "Sp. Attack": 45,
+      "Sp. Defense": 30,
+      "Speed": 20
+    }
+  },
+  {
+    "id": 873,
+    "name": {
+      "english": "Frosmoth",
+      "japanese": "モスノウ",
+      "french": "Beldeneige"
+    },
+    "type": [
+      "Ice",
+      "Bug"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 65,
+      "Defense": 60,
+      "Sp. Attack": 125,
+      "Sp. Defense": 90,
+      "Speed": 65
+    }
+  },
+  {
+    "id": 874,
+    "name": {
+      "english": "Stonjourner",
+      "japanese": "イシヘンジン",
+      "french": "Dolman"
+    },
+    "type": [
+      "Rock"
+    ],
+    "base": {
+      "HP": 100,
+      "Attack": 125,
+      "Defense": 135,
+      "Sp. Attack": 20,
+      "Sp. Defense": 20,
+      "Speed": 70
+    }
+  },
+  {
+    "id": 875,
+    "name": {
+      "english": "Eiscue",
+      "japanese": "コオリッポ",
+      "french": "Bekaglaçon"
+    },
+    "type": [
+      "Ice"
+    ],
+    "base": {
+      "HP": 75,
+      "Attack": 80,
+      "Defense": 70,
+      "Sp. Attack": 65,
+      "Sp. Defense": 50,
+      "Speed": 130
+    }
+  },
+  {
+    "id": 876,
+    "name": {
+      "english": "Indeedee",
+      "japanese": "イエッサン",
+      "french": "Wimessir"
+    },
+    "type": [
+      "Psychic",
+      "Normal"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 55,
+      "Defense": 65,
+      "Sp. Attack": 95,
+      "Sp. Defense": 105,
+      "Speed": 85
+    }
+  },
+  {
+    "id": 877,
+    "name": {
+      "english": "Morpeko",
+      "japanese": "モルペコ",
+      "french": "Morpekor"
+    },
+    "type": [
+      "Electric",
+      "Dark"
+    ],
+    "base": {
+      "HP": 58,
+      "Attack": 95,
+      "Defense": 58,
+      "Sp. Attack": 70,
+      "Sp. Defense": 58,
+      "Speed": 97
+    }
+  },
+  {
+    "id": 878,
+    "name": {
+      "english": "Cufant",
+      "japanese": "ゾウドウ",
+      "french": "Charibarir"
+    },
+    "type": [
+      "Steel"
+    ],
+    "base": {
+      "HP": 72,
+      "Attack": 80,
+      "Defense": 49,
+      "Sp. Attack": 40,
+      "Sp. Defense": 49,
+      "Speed": 40
+    }
+  },
+  {
+    "id": 879,
+    "name": {
+      "english": "Copperajah",
+      "japanese": "ダイオウドウ",
+      "french": "Pachyradjah"
+    },
+    "type": [
+      "Steel"
+    ],
+    "base": {
+      "HP": 122,
+      "Attack": 130,
+      "Defense": 69,
+      "Sp. Attack": 80,
+      "Sp. Defense": 69,
+      "Speed": 30
+    }
+  },
+  {
+    "id": 880,
+    "name": {
+      "english": "Dracozolt",
+      "japanese": "パッチラゴン",
+      "french": "Galvagon"
+    },
+    "type": [
+      "Electric",
+      "Dragon"
+    ],
+    "base": {
+      "HP": 90,
+      "Attack": 100,
+      "Defense": 90,
+      "Sp. Attack": 80,
+      "Sp. Defense": 70,
+      "Speed": 75
+    }
+  },
+  {
+    "id": 881,
+    "name": {
+      "english": "Arctozolt",
+      "japanese": "パッチルドン",
+      "french": "Galvagla"
+    },
+    "type": [
+      "Electric",
+      "Ice"
+    ],
+    "base": {
+      "HP": 90,
+      "Attack": 100,
+      "Defense": 90,
+      "Sp. Attack": 90,
+      "Sp. Defense": 80,
+      "Speed": 55
+    }
+  },
+  {
+    "id": 882,
+    "name": {
+      "english": "Dracovish",
+      "japanese": "ウオノラゴン",
+      "french": "Hydragon"
+    },
+    "type": [
+      "Water",
+      "Dragon"
+    ],
+    "base": {
+      "HP": 90,
+      "Attack": 90,
+      "Defense": 100,
+      "Sp. Attack": 70,
+      "Sp. Defense": 80,
+      "Speed": 75
+    }
+  },
+  {
+    "id": 883,
+    "name": {
+      "english": "Arctovish",
+      "japanese": "ウオチルドン",
+      "french": "Hydragla"
+    },
+    "type": [
+      "Water",
+      "Ice"
+    ],
+    "base": {
+      "HP": 90,
+      "Attack": 90,
+      "Defense": 100,
+      "Sp. Attack": 80,
+      "Sp. Defense": 90,
+      "Speed": 55
+    }
+  },
+  {
+    "id": 884,
+    "name": {
+      "english": "Duraludon",
+      "japanese": "ジュラルドン",
+      "french": "Duralugon"
+    },
+    "type": [
+      "Steel",
+      "Dragon"
+    ],
+    "base": {
+      "HP": 90,
+      "Attack": 90,
+      "Defense": 100,
+      "Sp. Attack": 80,
+      "Sp. Defense": 90,
+      "Speed": 55
+    }
+  },
+  {
+    "id": 885,
+    "name": {
+      "english": "Dreepy",
+      "japanese": "ドラメシヤ",
+      "french": "Fantyrm"
+    },
+    "type": [
+      "Dragon",
+      "Dark"
+    ],
+    "base": {
+      "HP": 28,
+      "Attack": 60,
+      "Defense": 30,
+      "Sp. Attack": 40,
+      "Sp. Defense": 30,
+      "Speed": 82
+    }
+  },
+  {
+    "id": 886,
+    "name": {
+      "english": "Drakloak",
+      "japanese": "ドロンチ",
+      "french": "Dispareptil"
+    },
+    "type": [
+      "Dragon",
+      "Dark"
+    ],
+    "base": {
+      "HP": 68,
+      "Attack": 80,
+      "Defense": 50,
+      "Sp. Attack": 60,
+      "Sp. Defense": 50,
+      "Speed": 102
+    }
+  },
+  {
+    "id": 887,
+    "name": {
+      "english": "Dragapult",
+      "japanese": "ドラパルト",
+      "french": "Lanssorien"
+    },
+    "type": [
+      "Dragon",
+      "Dark"
+    ],
+    "base": {
+      "HP": 88,
+      "Attack": 120,
+      "Defense": 75,
+      "Sp. Attack": 100,
+      "Sp. Defense": 75,
+      "Speed": 142
+    }
+  },
+  {
+    "id": 888,
+    "name": {
+      "english": "Zacian",
+      "japanese": "ザシアン",
+      "french": "Zacian"
+    },
+    "type": [
+      "Fairy"
+    ],
+    "base": {
+      "HP": 92,
+      "Attack": 140,
+      "Defense": 115,
+      "Sp. Attack": 80,
+      "Sp. Defense": 115,
+      "Speed": 148
+    }
+  },
+  {
+    "id": 889,
+    "name": {
+      "english": "Zamazenta",
+      "japanese": "ザマゼンタ",
+      "french": "Zamazenta"
+    },
+    "type": [
+      "Fighting"
+    ],
+    "base": {
+      "HP": 92,
+      "Attack": 120,
+      "Defense": 140,
+      "Sp. Attack": 80,
+      "Sp. Defense": 140,
+      "Speed": 128
+    }
+  },
+  {
+    "id": 889,
+    "name": {
+      "english": "Eternatus",
+      "japanese": "ムゲンダイナ",
+      "french": "Éthernatos"
+    },
+    "type": [
+      "Poison",
+      "Dragon"
+    ],
+    "base": {
+      "HP": 140,
+      "Attack": 85,
+      "Defense": 95,
+      "Sp. Attack": 145,
+      "Sp. Defense": 95,
+      "Speed": 130
+    }
   }
 ]
