@@ -18139,7 +18139,7 @@
     }
   },
   {
-    "id": 889,
+    "id": 890,
     "name": {
       "english": "Eternatus",
       "japanese": "ムゲンダイナ",
@@ -18157,5 +18157,320 @@
       "Sp. Defense": 95,
       "Speed": 130
     }
-  }
+  },
+  {
+    "id": 891,
+    "name": {
+      "english": "Kubfu",
+      "japanese": "ダクマ",
+      "french": "Wushours"
+    },
+    "type": [
+      "Fighting"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 90,
+      "Defense": 60,
+      "Sp. Attack": 53,
+      "Sp. Defense": 50,
+      "Speed": 72
+    }
+  },
+  {
+    "id": 892,
+    "name": {
+      "english": "Urshifu",
+      "japanese": "ウーラオス",
+      "french": "Shifours"
+    },
+    "type": [
+      "Fighting",
+      "Dark"
+    ],
+    "base": {
+      "HP": 100,
+      "Attack": 130,
+      "Defense": 100,
+      "Sp. Attack": 63,
+      "Sp. Defense": 60,
+      "Speed": 97
+    }
+  },
+  {
+    "id": 893,
+    "name": {
+      "english": "Zarude",
+      "japanese": "ザルード",
+      "french": "Zarude"
+    },
+    "type": [
+      "Dark",
+      "Grass"
+    ],
+    "base": {
+      "HP": 105,
+      "Attack": 120,
+      "Defense": 105,
+      "Sp. Attack": 70,
+      "Sp. Defense": 95,
+      "Speed": 105
+    }
+  },
+  {
+    "id": 894,
+    "name": {
+      "english": "Regidrago",
+      "japanese": "レジドラゴ",
+      "french": "Regidrago"
+    },
+    "type": [
+      "Dragon"
+    ],
+    "base": {
+      "HP": 200,
+      "Attack": 100,
+      "Defense": 50,
+      "Sp. Attack": 100,
+      "Sp. Defense": 50,
+      "Speed": 80
+    }
+  },
+  {
+    "id": 895,
+    "name": {
+      "english": "Regidrago",
+      "japanese": "レジドラゴ",
+      "french": "Regidrago"
+    },
+    "type": [
+      "Dragon"
+    ],
+    "base": {
+      "HP": 200,
+      "Attack": 100,
+      "Defense": 50,
+      "Sp. Attack": 100,
+      "Sp. Defense": 50,
+      "Speed": 80
+    }
+  },
+  {
+    "id": 896,
+    "name": {
+      "english": "Glastrier",
+      "japanese": "ブリザポス",
+      "french": "Blizzeval"
+    },
+    "type": [
+      "Ice"
+    ],
+    "base": {
+      "HP": 100,
+      "Attack": 145,
+      "Defense": 130,
+      "Sp. Attack": 65,
+      "Sp. Defense": 110,
+      "Speed": 30
+    }
+  },
+  {
+    "id": 897,
+    "name": {
+      "english": "Spectrier",
+      "japanese": "レイスポス",
+      "french": "Spectreval"
+    },
+    "type": [
+      "Dark"
+    ],
+    "base": {
+      "HP": 100,
+      "Attack": 65,
+      "Defense": 60,
+      "Sp. Attack": 155,
+      "Sp. Defense": 80,
+      "Speed": 130
+    }
+  },
+  {
+    "id": 898,
+    "name": {
+      "english": "Calyrex",
+      "japanese": "バドレックス",
+      "french": "Sylveroy"
+    },
+    "type": [
+      "Psychic",
+      "Grass"
+    ],
+    "base": {
+      "HP": 100,
+      "Attack": 80,
+      "Defense": 80,
+      "Sp. Attack": 80,
+      "Sp. Defense": 80,
+      "Speed": 80
+    }
+  },
+  {
+    "id": 899,
+    "name": {
+      "english": "Wyrdeer",
+      "japanese": "アヤシシ",
+      "french": "Cerbyllin"
+    },
+    "type": [
+      "Normal",
+      "Psychic"
+    ],
+    "base": {
+      "HP": 103,
+      "Attack": 105,
+      "Defense": 72,
+      "Sp. Attack": 105,
+      "Sp. Defense": 75,
+      "Speed": 65
+    }
+  },
+  {
+    "id": 900,
+    "name": {
+      "english": "Kleavor",
+      "japanese": "バサギリ",
+      "french": "Hachécateur"
+    },
+    "type": [
+      "Bug",
+      "Rock"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 135,
+      "Defense": 95,
+      "Sp. Attack": 45,
+      "Sp. Defense": 70,
+      "Speed": 85
+    }
+  },
+  {
+    "id": 901,
+    "name": {
+      "english": "Ursaluna",
+      "japanese": "ガチグマ",
+      "french": "Ursaking"
+    },
+    "type": [
+      "Ground",
+      "Normal"
+    ],
+    "base": {
+      "HP": 130,
+      "Attack": 140,
+      "Defense": 105,
+      "Sp. Attack": 45,
+      "Sp. Defense": 80,
+      "Speed": 50
+    }
+  },
+  {
+    "id": 902,
+    "name": {
+      "english": "Basculegion",
+      "japanese": "イダイトウ",
+      "french": "Paragruel"
+    },
+    "type": [
+      "Water",
+      "Dark"
+    ],
+    "base": {
+      "HP": 120,
+      "Attack": 92,
+      "Defense": 65,
+      "Sp. Attack": 100,
+      "Sp. Defense": 75,
+      "Speed": 78
+    }
+  },
+  {
+    "id": 903,
+    "name": {
+      "english": "Basculegion",
+      "japanese": "オオニューラ",
+      "french": "Farfurex"
+    },
+    "type": [
+      "Fighting",
+      "Poison"
+    ],
+    "base": {
+      "HP": 80,
+      "Attack": 130,
+      "Defense": 60,
+      "Sp. Attack": 40,
+      "Sp. Defense": 80,
+      "Speed": 120
+    }
+  },
+  {
+    "id": 904,
+    "name": {
+      "english": "Overqwil",
+      "japanese": "ハリーマン",
+      "french": "Qwilpik"
+    },
+    "type": [
+      "Dark",
+      "Poison"
+    ],
+    "base": {
+      "HP": 85,
+      "Attack": 115,
+      "Defense": 95,
+      "Sp. Attack": 65,
+      "Sp. Defense": 65,
+      "Speed": 85
+    }
+  },
+  {
+    "id": 905,
+    "name": {
+      "english": "Enamorus",
+      "japanese": "ラブトロス",
+      "french": "Amovénus"
+    },
+    "type": [
+      "Fairy",
+      "Flying"
+    ],
+    "base": {
+      "HP": 74,
+      "Attack": 115,
+      "Defense": 110,
+      "Sp. Attack": 135,
+      "Sp. Defense": 110,
+      "Speed": 46
+    }
+  },
+  {
+    "id": 906,
+    "name": {
+      "english": "Enamorus",
+      "japanese": "ラブトロス",
+      "french": "Amovénus"
+    },
+    "type": [
+      "Fairy",
+      "Flying"
+    ],
+    "base": {
+      "HP": 74,
+      "Attack": 115,
+      "Defense": 110,
+      "Sp. Attack": 135,
+      "Sp. Defense": 110,
+      "Speed": 46
+    }
+  },
 ]
