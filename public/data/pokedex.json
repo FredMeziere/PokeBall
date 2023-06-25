@@ -19426,20 +19426,648 @@
   {
     "id": 956,
     "name": {
-      "english": "Flittle",
-      "japanese": "ヒラヒナ",
-      "french": "Flotillon"
+      "english": "Espathra",
+      "japanese": "クエスパトラ",
+      "french": "Cléopsytra"
     },
     "type": [
       "Psychic"
     ],
     "base": {
-      "HP": 30,
-      "Attack": 35,
-      "Defense": 30,
-      "Sp. Attack": 55,
-      "Sp. Defense": 30,
+      "HP": 95,
+      "Attack": 60,
+      "Defense": 60,
+      "Sp. Attack": 101,
+      "Sp. Defense": 60,
+      "Speed": 105
+    }
+  },
+  {
+    "id": 957,
+    "name": {
+      "english": "Tinkatink",
+      "japanese": "カヌチャン",
+      "french": "Forgerette"
+    },
+    "type": [
+      "Fairy",
+      "Steel"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 45,
+      "Defense": 45,
+      "Sp. Attack": 35,
+      "Sp. Defense": 64,
+      "Speed": 58
+    }
+  },
+  {
+    "id": 958,
+    "name": {
+      "english": "Tinkatuff",
+      "japanese": "ナカヌチャン",
+      "french": "Forgella"
+    },
+    "type": [
+      "Fairy",
+      "Steel"
+    ],
+    "base": {
+      "HP": 65,
+      "Attack": 55,
+      "Defense": 55,
+      "Sp. Attack": 45,
+      "Sp. Defense": 82,
+      "Speed": 78
+    }
+  },
+  {
+    "id": 959,
+    "name": {
+      "english": "Tinkaton",
+      "japanese": "デカヌチャン",
+      "french": "Forgelina"
+    },
+    "type": [
+      "Fairy",
+      "Steel"
+    ],
+    "base": {
+      "HP": 85,
+      "Attack": 75,
+      "Defense": 77,
+      "Sp. Attack": 70,
+      "Sp. Defense": 105,
+      "Speed": 94
+    }
+  },
+  {
+    "id": 960,
+    "name": {
+      "english": "Wiglett",
+      "japanese": "ウミディグダ",
+      "french": "Taupikeau"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 10,
+      "Attack": 55,
+      "Defense": 25,
+      "Sp. Attack": 35,
+      "Sp. Defense": 25,
+      "Speed": 95
+    }
+  },
+  {
+    "id": 961,
+    "name": {
+      "english": "Wugtrio",
+      "japanese": "ウミトリオ",
+      "french": "Triopikeau"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 35,
+      "Attack": 100,
+      "Defense": 50,
+      "Sp. Attack": 50,
+      "Sp. Defense": 70,
+      "Speed": 120
+    }
+  },
+  {
+    "id": 962,
+    "name": {
+      "english": "Bombirdier",
+      "japanese": "オトシドリ",
+      "french": "Lestombaile"
+    },
+    "type": [
+      "Flying",
+      "Dark"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 103,
+      "Defense": 85,
+      "Sp. Attack": 60,
+      "Sp. Defense": 85,
+      "Speed": 82
+    }
+  },
+  {
+    "id": 963,
+    "name": {
+      "english": "Finizen",
+      "japanese": "ナミイルカ",
+      "french": "Dofin"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 45,
+      "Defense": 40,
+      "Sp. Attack": 45,
+      "Sp. Defense": 40,
       "Speed": 75
+    }
+  },
+  {
+    "id": 964,
+    "name": {
+      "english": "Palafin",
+      "japanese": "イルカマン",
+      "french": "Superdofin"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 100,
+      "Attack": 160,
+      "Defense": 97,
+      "Sp. Attack": 106,
+      "Sp. Defense": 86,
+      "Speed": 100
+    }
+  },
+  {
+    "id": 965,
+    "name": {
+      "english": "Varoom",
+      "japanese": "ブロロン",
+      "french": "Vrombi"
+    },
+    "type": [
+      "Steel",
+      "Poison"
+    ],
+    "base": {
+      "HP": 45,
+      "Attack": 70,
+      "Defense": 63,
+      "Sp. Attack": 30,
+      "Sp. Defense": 45,
+      "Speed": 47
+    }
+  },
+  {
+    "id": 966,
+    "name": {
+      "english": "Revavroom",
+      "japanese": "ブロロローム",
+      "french": "Vrombotor"
+    },
+    "type": [
+      "Steel",
+      "Poison"
+    ],
+    "base": {
+      "HP": 80,
+      "Attack": 119,
+      "Defense": 90,
+      "Sp. Attack": 54,
+      "Sp. Defense": 67,
+      "Speed": 90
+    }
+  },
+  {
+    "id": 967,
+    "name": {
+      "english": "Cyclizar",
+      "japanese": "モトトカゲ",
+      "french": "Motorizard"
+    },
+    "type": [
+      "Dragon",
+      "Normal"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 95,
+      "Defense": 65,
+      "Sp. Attack": 85,
+      "Sp. Defense": 65,
+      "Speed": 121
+    }
+  },
+  {
+    "id": 968,
+    "name": {
+      "english": "Orthworm",
+      "japanese": "ミミズズ",
+      "french": "Ferdeter"
+    },
+    "type": [
+      "Steel"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 85,
+      "Defense": 145,
+      "Sp. Attack": 60,
+      "Sp. Defense": 55,
+      "Speed": 65
+    }
+  },
+  {
+    "id": 968,
+    "name": {
+      "english": "Orthworm",
+      "japanese": "ミミズズ",
+      "french": "Ferdeter"
+    },
+    "type": [
+      "Steel"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 85,
+      "Defense": 145,
+      "Sp. Attack": 60,
+      "Sp. Defense": 55,
+      "Speed": 65
+    }
+  },
+  {
+    "id": 969,
+    "name": {
+      "english": "Glimmet",
+      "japanese": "キラーメ",
+      "french": "Germéclat"
+    },
+    "type": [
+      "Rock",
+      "Poison"
+    ],
+    "base": {
+      "HP": 48,
+      "Attack": 35,
+      "Defense": 42,
+      "Sp. Attack": 105,
+      "Sp. Defense": 60,
+      "Speed": 60
+    }
+  },
+  {
+    "id": 970,
+    "name": {
+      "english": "Glimmora",
+      "japanese": "キラフロル",
+      "french": "Floréclat"
+    },
+    "type": [
+      "Rock",
+      "Poison"
+    ],
+    "base": {
+      "HP": 83,
+      "Attack": 55,
+      "Defense": 90,
+      "Sp. Attack": 130,
+      "Sp. Defense": 81,
+      "Speed": 86
+    }
+  },
+  {
+    "id": 971,
+    "name": {
+      "english": "Greavard",
+      "japanese": "ボチ",
+      "french": "Toutombe"
+    },
+    "type": [
+      "Dark"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 61,
+      "Defense": 60,
+      "Sp. Attack": 30,
+      "Sp. Defense": 55,
+      "Speed": 34
+    }
+  },
+  {
+    "id": 972,
+    "name": {
+      "english": "Houndstone",
+      "japanese": "ハカドッグ",
+      "french": "Tomberro"
+    },
+    "type": [
+      "Dark"
+    ],
+    "base": {
+      "HP": 72,
+      "Attack": 101,
+      "Defense": 100,
+      "Sp. Attack": 50,
+      "Sp. Defense": 97,
+      "Speed": 68
+    }
+  },
+  {
+    "id": 973,
+    "name": {
+      "english": "Flamigo",
+      "japanese": "カラミンゴ",
+      "french": "Flamenroule"
+    },
+    "type": [
+      "Flying",
+      "Fighting"
+    ],
+    "base": {
+      "HP": 82,
+      "Attack": 115,
+      "Defense": 74,
+      "Sp. Attack": 75,
+      "Sp. Defense": 64,
+      "Speed": 90
+    }
+  },
+  {
+    "id": 974,
+    "name": {
+      "english": "Cetoddle",
+      "japanese": "アルクジラ",
+      "french": "Piétacé"
+    },
+    "type": [
+      "Ice"
+    ],
+    "base": {
+      "HP": 108,
+      "Attack": 68,
+      "Defense": 45,
+      "Sp. Attack": 30,
+      "Sp. Defense": 40,
+      "Speed": 43
+    }
+  },
+  {
+    "id": 975,
+    "name": {
+      "english": "Cetitan",
+      "japanese": "ハルクジラ",
+      "french": "Balbalèze"
+    },
+    "type": [
+      "Ice"
+    ],
+    "base": {
+      "HP": 170,
+      "Attack": 113,
+      "Defense": 65,
+      "Sp. Attack": 45,
+      "Sp. Defense": 55,
+      "Speed": 73
+    }
+  },
+  {
+    "id": 976,
+    "name": {
+      "english": "Veluza",
+      "japanese": "ミガルーサ",
+      "french": "Délestin"
+    },
+    "type": [
+      "Water",
+      "Psychic"
+    ],
+    "base": {
+      "HP": 90,
+      "Attack": 102,
+      "Defense": 73,
+      "Sp. Attack": 78,
+      "Sp. Defense": 65,
+      "Speed": 70
+    }
+  },
+  {
+    "id": 977,
+    "name": {
+      "english": "Dondozo",
+      "japanese": "ヘイラッシャ",
+      "french": "Oyacata"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 150,
+      "Attack": 100,
+      "Defense": 115,
+      "Sp. Attack": 65,
+      "Sp. Defense": 65,
+      "Speed": 35
+    }
+  },
+  {
+    "id": 978,
+    "name": {
+      "english": "Tatsugiri",
+      "japanese": "シャリタツ",
+      "french": "Nigirigon"
+    },
+    "type": [
+      "Dragon",
+      "Water"
+    ],
+    "base": {
+      "HP": 68,
+      "Attack": 50,
+      "Defense": 60,
+      "Sp. Attack": 120,
+      "Sp. Defense": 95,
+      "Speed": 82
+    }
+  },
+  {
+    "id": 979,
+    "name": {
+      "english": "Annihilape",
+      "japanese": "コノヨザル",
+      "french": "Courrousinge"
+    },
+    "type": [
+      "Fighting",
+      "Dark"
+    ],
+    "base": {
+      "HP": 110,
+      "Attack": 115,
+      "Defense": 80,
+      "Sp. Attack": 50,
+      "Sp. Defense": 90,
+      "Speed": 90
+    }
+  },
+  {
+    "id": 980,
+    "name": {
+      "english": "Clodsire",
+      "japanese": "ドオー",
+      "french": "Terraiste"
+    },
+    "type": [
+      "Poison",
+      "Ground"
+    ],
+    "base": {
+      "HP": 130,
+      "Attack": 75,
+      "Defense": 60,
+      "Sp. Attack": 45,
+      "Sp. Defense": 100,
+      "Speed": 20
+    }
+  },
+  {
+    "id": 981,
+    "name": {
+      "english": "Farigiraf",
+      "japanese": "リキキリン",
+      "french": "Farigiraf"
+    },
+    "type": [
+      "Poison",
+      "Ground"
+    ],
+    "base": {
+      "HP": 120,
+      "Attack": 90,
+      "Defense": 70,
+      "Sp. Attack": 110,
+      "Sp. Defense": 70,
+      "Speed": 60
+    }
+  },
+  {
+    "id": 982,
+    "name": {
+      "english": "Dudunsparce",
+      "japanese": "ノココッチ",
+      "french": "Deusolourdo"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 125,
+      "Attack": 100,
+      "Defense": 80,
+      "Sp. Attack": 85,
+      "Sp. Defense": 75,
+      "Speed": 55
+    }
+  },
+  {
+    "id": 983,
+    "name": {
+      "english": "Kingambit",
+      "japanese": "ドドゲザン",
+      "french": "Scalpereur"
+    },
+    "type": [
+      "Dark",
+      "Steel"
+    ],
+    "base": {
+      "HP": 100,
+      "Attack": 135,
+      "Defense": 120,
+      "Sp. Attack": 60,
+      "Sp. Defense": 85,
+      "Speed": 50
+    }
+  },
+  {
+    "id": 984,
+    "name": {
+      "english": "Great Tusk",
+      "japanese": "イダイナキバ",
+      "french": "Fort-Ivoire"
+    },
+    "type": [
+      "Ground",
+      "Fighting"
+    ],
+    "base": {
+      "HP": 115,
+      "Attack": 131,
+      "Defense": 131,
+      "Sp. Attack": 53,
+      "Sp. Defense": 53,
+      "Speed": 87
+    }
+  },
+  {
+    "id": 985,
+    "name": {
+      "english": "Scream Tail",
+      "japanese": "サケブシッポ",
+      "french": "Hurle-Queue"
+    },
+    "type": [
+      "Fairy",
+      "Psychic"
+    ],
+    "base": {
+      "HP": 115,
+      "Attack": 65,
+      "Defense": 99,
+      "Sp. Attack": 65,
+      "Sp. Defense": 115,
+      "Speed": 111
+    }
+  },
+  {
+    "id": 986,
+    "name": {
+      "english": "Brute Bonnet",
+      "japanese": "アラブルタケ",
+      "french": "Fongus-Furie"
+    },
+    "type": [
+      "Grass",
+      "Dark"
+    ],
+    "base": {
+      "HP": 111,
+      "Attack": 127,
+      "Defense": 99,
+      "Sp. Attack": 79,
+      "Sp. Defense": 99,
+      "Speed": 55
+    }
+  },
+  {
+    "id": 987,
+    "name": {
+      "english": "Brute Bonnet",
+      "japanese": "アラブルタケ",
+      "french": "Fongus-Furie"
+    },
+    "type": [
+      "Grass",
+      "Dark"
+    ],
+    "base": {
+      "HP": 111,
+      "Attack": 127,
+      "Defense": 99,
+      "Sp. Attack": 79,
+      "Sp. Defense": 99,
+      "Speed": 55
     }
   },
 ]
