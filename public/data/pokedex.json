@@ -18456,21 +18456,195 @@
   {
     "id": 906,
     "name": {
-      "english": "Enamorus",
-      "japanese": "ラブトロス",
-      "french": "Amovénus"
+      "english": "Sprigatito",
+      "japanese": "ニャオハ",
+      "french": "Poussacha"
     },
     "type": [
-      "Fairy",
-      "Flying"
+      "Grass"
     ],
     "base": {
-      "HP": 74,
-      "Attack": 115,
-      "Defense": 110,
-      "Sp. Attack": 135,
-      "Sp. Defense": 110,
-      "Speed": 46
+      "HP": 40,
+      "Attack": 61,
+      "Defense": 54,
+      "Sp. Attack": 45,
+      "Sp. Defense": 45,
+      "Speed": 65
+    }
+  },
+  {
+    "id": 907,
+    "name": {
+      "english": "Floragato",
+      "japanese": "ニャローテ",
+      "french": "Matourgeon"
+    },
+    "type": [
+      "Grass"
+    ],
+    "base": {
+      "HP": 61,
+      "Attack": 80,
+      "Defense": 63,
+      "Sp. Attack": 60,
+      "Sp. Defense": 63,
+      "Speed": 83
+    }
+  },
+  {
+    "id": 908,
+    "name": {
+      "english": "Meowscarada",
+      "japanese": "マスカーニャ",
+      "french": "Miascarade"
+    },
+    "type": [
+      "Grass",
+      "Dark"
+    ],
+    "base": {
+      "HP": 76,
+      "Attack": 110,
+      "Defense": 70,
+      "Sp. Attack": 81,
+      "Sp. Defense": 70,
+      "Speed": 123
+    }
+  },
+  {
+    "id": 909,
+    "name": {
+      "english": "Fuecoco",
+      "japanese": "ホゲータ",
+      "french": "Chochodile"
+    },
+    "type": [
+      "Fire"
+    ],
+    "base": {
+      "HP": 67,
+      "Attack": 45,
+      "Defense": 59,
+      "Sp. Attack": 63,
+      "Sp. Defense": 40,
+      "Speed": 36
+    }
+  },
+  {
+    "id": 910,
+    "name": {
+      "english": "Crocalor",
+      "japanese": "アチゲータ",
+      "french": "Crocogril"
+    },
+    "type": [
+      "Fire"
+    ],
+    "base": {
+      "HP": 81,
+      "Attack": 55,
+      "Defense": 78,
+      "Sp. Attack": 90,
+      "Sp. Defense": 58,
+      "Speed": 49
+    }
+  },
+  {
+    "id": 911,
+    "name": {
+      "english": "Skeledirge",
+      "japanese": "ラウドボーン",
+      "french": "Flâmigator"
+    },
+    "type": [
+      "Fire",
+      "Dark"
+    ],
+    "base": {
+      "HP": 104,
+      "Attack": 75,
+      "Defense": 100,
+      "Sp. Attack": 110,
+      "Sp. Defense": 75,
+      "Speed": 66
+    }
+  },
+  {
+    "id": 912,
+    "name": {
+      "english": "Quaxly",
+      "japanese": "クワッス",
+      "french": "Coiffeton"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 55,
+      "Attack": 65,
+      "Defense": 45,
+      "Sp. Attack": 50,
+      "Sp. Defense": 45,
+      "Speed": 50
+    }
+  },
+  {
+    "id": 913,
+    "name": {
+      "english": "Quaxwell",
+      "japanese": "ウェルカモ",
+      "french": "Canarbello"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 85,
+      "Defense": 65,
+      "Sp. Attack": 65,
+      "Sp. Defense": 60,
+      "Speed": 65
+    }
+  },
+  {
+    "id": 914,
+    "name": {
+      "english": "Quaquaval",
+      "japanese": "ウェーニバル",
+      "french": "Palmaval"
+    },
+    "type": [
+      "Water",
+      "Fighting"
+    ],
+    "base": {
+      "HP": 85,
+      "Attack": 120,
+      "Defense": 80,
+      "Sp. Attack": 85,
+      "Sp. Defense": 75,
+      "Speed": 85
+    }
+  },
+  {
+    "id": 915,
+    "name": {
+      "english": "Quaquaval",
+      "japanese": "ウェーニバル",
+      "french": "Palmaval"
+    },
+    "type": [
+      "Water",
+      "Fighting"
+    ],
+    "base": {
+      "HP": 85,
+      "Attack": 120,
+      "Defense": 80,
+      "Sp. Attack": 85,
+      "Sp. Defense": 75,
+      "Speed": 85
     }
   },
 ]
