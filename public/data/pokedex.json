@@ -20053,21 +20053,280 @@
   {
     "id": 987,
     "name": {
-      "english": "Brute Bonnet",
-      "japanese": "アラブルタケ",
-      "french": "Fongus-Furie"
+      "english": "Flutter Mane",
+      "japanese": "ハバタクカミ",
+      "french": "Flotte-Mèche"
     },
     "type": [
-      "Grass",
+      "Dark",
+      "Fairy"
+    ],
+    "base": {
+      "HP": 55,
+      "Attack": 55,
+      "Defense": 55,
+      "Sp. Attack": 135,
+      "Sp. Defense": 135,
+      "Speed": 135
+    }
+  },
+  {
+    "id": 988,
+    "name": {
+      "english": "Slither Wing",
+      "japanese": "チヲハウハネ",
+      "french": "Rampe-Ailes"
+    },
+    "type": [
+      "Bug",
+      "Fighting"
+    ],
+    "base": {
+      "HP": 85,
+      "Attack": 135,
+      "Defense": 79,
+      "Sp. Attack": 85,
+      "Sp. Defense": 105,
+      "Speed": 81
+    }
+  },
+  {
+    "id": 989,
+    "name": {
+      "english": "Sandy Shocks",
+      "japanese": "スナノケガワ",
+      "french": "Pelage-Sablé"
+    },
+    "type": [
+      "Electric",
+      "Ground"
+    ],
+    "base": {
+      "HP": 85,
+      "Attack": 81,
+      "Defense": 97,
+      "Sp. Attack": 121,
+      "Sp. Defense": 85,
+      "Speed": 101
+    }
+  },
+  {
+    "id": 990,
+    "name": {
+      "english": "Iron Treads",
+      "japanese": "テツノワダチ",
+      "french": "Roue-de-Fer"
+    },
+    "type": [
+      "Ground",
+      "Steel"
+    ],
+    "base": {
+      "HP": 90,
+      "Attack": 112,
+      "Defense": 120,
+      "Sp. Attack": 72,
+      "Sp. Defense": 70,
+      "Speed": 106
+    }
+  },
+  {
+    "id": 991,
+    "name": {
+      "english": "Iron Bundle",
+      "japanese": "テツノツツミ",
+      "french": "Hotte-de-Fer"
+    },
+    "type": [
+      "Ice",
+      "Water"
+    ],
+    "base": {
+      "HP": 56,
+      "Attack": 80,
+      "Defense": 114,
+      "Sp. Attack": 124,
+      "Sp. Defense": 60,
+      "Speed": 136
+    }
+  },
+  {
+    "id": 992,
+    "name": {
+      "english": "Iron Hands",
+      "japanese": "テツノカイナ",
+      "french": "Paume-de-Fer"
+    },
+    "type": [
+      "Fighting",
+      "Electric"
+    ],
+    "base": {
+      "HP": 154,
+      "Attack": 140,
+      "Defense": 108,
+      "Sp. Attack": 50,
+      "Sp. Defense": 68,
+      "Speed": 50
+    }
+  },
+  {
+    "id": 993,
+    "name": {
+      "english": "Iron Jugulis",
+      "japanese": "テツノコウベ",
+      "french": "Têtes-de-Fer"
+    },
+    "type": [
+      "Dark",
+      "Flying"
+    ],
+    "base": {
+      "HP": 94,
+      "Attack": 80,
+      "Defense": 86,
+      "Sp. Attack": 122,
+      "Sp. Defense": 80,
+      "Speed": 108
+    }
+  },
+  {
+    "id": 994,
+    "name": {
+      "english": "Iron Moths",
+      "japanese": "テツノドクガ",
+      "french": "Mite-de-Fer"
+    },
+    "type": [
+      "Fire",
+      "Poison"
+    ],
+    "base": {
+      "HP": 80,
+      "Attack": 70,
+      "Defense": 60,
+      "Sp. Attack": 140,
+      "Sp. Defense": 110,
+      "Speed": 110
+    }
+  },
+  {
+    "id": 995,
+    "name": {
+      "english": "Iron Thorns",
+      "japanese": "テツノイバラ",
+      "french": "Épine-de-Fer"
+    },
+    "type": [
+      "Rock",
+      "Electric"
+    ],
+    "base": {
+      "HP": 100,
+      "Attack": 134,
+      "Defense": 110,
+      "Sp. Attack": 70,
+      "Sp. Defense": 84,
+      "Speed": 72
+    }
+  },
+  {
+    "id": 996,
+    "name": {
+      "english": "Frigibax",
+      "japanese": "セビエ",
+      "french": "Frigodo"
+    },
+    "type": [
+      "Dragon",
+      "Ice"
+    ],
+    "base": {
+      "HP": 65,
+      "Attack": 75,
+      "Defense": 45,
+      "Sp. Attack": 35,
+      "Sp. Defense": 45,
+      "Speed": 55
+    }
+  },
+  {
+    "id": 997,
+    "name": {
+      "english": "Arctibax",
+      "japanese": "セゴール",
+      "french": "Cryodo"
+    },
+    "type": [
+      "Dragon",
+      "Ice"
+    ],
+    "base": {
+      "HP": 90,
+      "Attack": 95,
+      "Defense": 66,
+      "Sp. Attack": 45,
+      "Sp. Defense": 65,
+      "Speed": 62
+    }
+  },
+  {
+    "id": 998,
+    "name": {
+      "english": "Baxcalibur",
+      "japanese": "セグレイブ",
+      "french": "Glaivodo"
+    },
+    "type": [
+      "Dragon",
+      "Ice"
+    ],
+    "base": {
+      "HP": 115,
+      "Attack": 145,
+      "Defense": 92,
+      "Sp. Attack": 75,
+      "Sp. Defense": 86,
+      "Speed": 87
+    }
+  },
+  {
+    "id": 999,
+    "name": {
+      "english": "Gimmighoul",
+      "japanese": "コレクレー",
+      "french": "Mordudor"
+    },
+    "type": [
       "Dark"
     ],
     "base": {
-      "HP": 111,
-      "Attack": 127,
-      "Defense": 99,
-      "Sp. Attack": 79,
-      "Sp. Defense": 99,
-      "Speed": 55
+      "HP": 45,
+      "Attack": 30,
+      "Defense": 70,
+      "Sp. Attack": 75,
+      "Sp. Defense": 70,
+      "Speed": 10
+    }
+  },
+  {
+    "id": 1000,
+    "name": {
+      "english": "Gholdengo",
+      "japanese": "サーフゴー",
+      "french": "Gromago"
+    },
+    "type": [
+      "Steel",
+      "Dark"
+    ],
+    "base": {
+      "HP": 87,
+      "Attack": 60,
+      "Defense": 95,
+      "Sp. Attack": 133,
+      "Sp. Defense": 91,
+      "Speed": 84
     }
   },
 ]
