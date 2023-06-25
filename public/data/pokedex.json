@@ -18630,21 +18630,349 @@
   {
     "id": 915,
     "name": {
-      "english": "Quaquaval",
-      "japanese": "ウェーニバル",
-      "french": "Palmaval"
+      "english": "Lechonk",
+      "japanese": "グルトン",
+      "french": "Gourmelet"
     },
     "type": [
-      "Water",
+      "Normal"
+    ],
+    "base": {
+      "HP": 54,
+      "Attack": 45,
+      "Defense": 40,
+      "Sp. Attack": 35,
+      "Sp. Defense": 45,
+      "Speed": 35
+    }
+  },
+  {
+    "id": 916,
+    "name": {
+      "english": "Oinkologne",
+      "japanese": "パフュートン",
+      "french": "Fragroin"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 115,
+      "Attack": 90,
+      "Defense": 70,
+      "Sp. Attack": 59,
+      "Sp. Defense": 90,
+      "Speed": 65
+    }
+  },
+  {
+    "id": 917,
+    "name": {
+      "english": "Tarountula",
+      "japanese": "タマンチュラ",
+      "french": "Tissenboule"
+    },
+    "type": [
+      "Bug"
+    ],
+    "base": {
+      "HP": 35,
+      "Attack": 41,
+      "Defense": 45,
+      "Sp. Attack": 29,
+      "Sp. Defense": 40,
+      "Speed": 20
+    }
+  },
+  {
+    "id": 918,
+    "name": {
+      "english": "Spidops",
+      "japanese": "ワナイダー",
+      "french": "Filentrappe"
+    },
+    "type": [
+      "Bug"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 79,
+      "Defense": 92,
+      "Sp. Attack": 52,
+      "Sp. Defense": 86,
+      "Speed": 35
+    }
+  },
+  {
+    "id": 919,
+    "name": {
+      "english": "Nymble",
+      "japanese": "マメバッタ",
+      "french": "Lilliterelle"
+    },
+    "type": [
+      "Bug"
+    ],
+    "base": {
+      "HP": 33,
+      "Attack": 46,
+      "Defense": 40,
+      "Sp. Attack": 21,
+      "Sp. Defense": 25,
+      "Speed": 45
+    }
+  },
+  {
+    "id": 920,
+    "name": {
+      "english": "Lokix",
+      "japanese": "エクスレッグ",
+      "french": "Gambex"
+    },
+    "type": [
+      "Dark"
+    ],
+    "base": {
+      "HP": 71,
+      "Attack": 102,
+      "Defense": 78,
+      "Sp. Attack": 52,
+      "Sp. Defense": 55,
+      "Speed": 92
+    }
+  },
+  {
+    "id": 921,
+    "name": {
+      "english": "Pawmi",
+      "japanese": "パモ",
+      "french": "Pohm"
+    },
+    "type": [
+      "Electric"
+    ],
+    "base": {
+      "HP": 45,
+      "Attack": 50,
+      "Defense": 20,
+      "Sp. Attack": 40,
+      "Sp. Defense": 25,
+      "Speed": 60
+    }
+  },
+  {
+    "id": 922,
+    "name": {
+      "english": "Pawmo",
+      "japanese": "パモット",
+      "french": "Pohmotte"
+    },
+    "type": [
+      "Electric",
       "Fighting"
     ],
     "base": {
-      "HP": 85,
-      "Attack": 120,
-      "Defense": 80,
-      "Sp. Attack": 85,
-      "Sp. Defense": 75,
+      "HP": 60,
+      "Attack": 75,
+      "Defense": 40,
+      "Sp. Attack": 50,
+      "Sp. Defense": 40,
       "Speed": 85
+    }
+  },
+  {
+    "id": 923,
+    "name": {
+      "english": "Pawmot",
+      "japanese": "パーモット",
+      "french": "Pohmarmotte"
+    },
+    "type": [
+      "Electric",
+      "Fighting"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 115,
+      "Defense": 70,
+      "Sp. Attack": 70,
+      "Sp. Defense": 60,
+      "Speed": 105
+    }
+  },
+  {
+    "id": 924,
+    "name": {
+      "english": "Tandemaus",
+      "japanese": "ワッカネズミ",
+      "french": "Compagnol"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 50,
+      "Defense": 45,
+      "Sp. Attack": 40,
+      "Sp. Defense": 45,
+      "Speed": 75
+    }
+  },
+  {
+    "id": 925,
+    "name": {
+      "english": "Maushold",
+      "japanese": "イッカネズミ",
+      "french": "Famignol"
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 74,
+      "Attack": 75,
+      "Defense": 70,
+      "Sp. Attack": 65,
+      "Sp. Defense": 75,
+      "Speed": 111
+    }
+  },
+  {
+    "id": 926,
+    "name": {
+      "english": "Fidough",
+      "japanese": "パピモッチ",
+      "french": "Pâtachiot"
+    },
+    "type": [
+      "Fairy"
+    ],
+    "base": {
+      "HP": 37,
+      "Attack": 55,
+      "Defense": 70,
+      "Sp. Attack": 30,
+      "Sp. Defense": 55,
+      "Speed": 65
+    }
+  },
+  {
+    "id": 927,
+    "name": {
+      "english": "Dachsbun",
+      "japanese": "バウッツェル",
+      "french": "Briochien"
+    },
+    "type": [
+      "Fairy"
+    ],
+    "base": {
+      "HP": 57,
+      "Attack": 80,
+      "Defense": 115,
+      "Sp. Attack": 50,
+      "Sp. Defense": 80,
+      "Speed": 95
+    }
+  },
+  {
+    "id": 928,
+    "name": {
+      "english": "Smoliv",
+      "japanese": "ミニーブ",
+      "french": "Olivini"
+    },
+    "type": [
+      "Grass",
+      "Normal"
+    ],
+    "base": {
+      "HP": 41,
+      "Attack": 35,
+      "Defense": 45,
+      "Sp. Attack": 58,
+      "Sp. Defense": 51,
+      "Speed": 30
+    }
+  },
+  {
+    "id": 929,
+    "name": {
+      "english": "Dolliv",
+      "japanese": "オリーニョ",
+      "french": "Olivado"
+    },
+    "type": [
+      "Grass",
+      "Normal"
+    ],
+    "base": {
+      "HP": 52,
+      "Attack": 53,
+      "Defense": 60,
+      "Sp. Attack": 78,
+      "Sp. Defense": 78,
+      "Speed": 33
+    }
+  },
+  {
+    "id": 930,
+    "name": {
+      "english": "Arboliva",
+      "japanese": "オリーヴァ",
+      "french": "Arboliva"
+    },
+    "type": [
+      "Grass",
+      "Normal"
+    ],
+    "base": {
+      "HP": 78,
+      "Attack": 69,
+      "Defense": 90,
+      "Sp. Attack": 125,
+      "Sp. Defense": 109,
+      "Speed": 39
+    }
+  },
+  {
+    "id": 931,
+    "name": {
+      "english": "Squawkabilly",
+      "japanese": "イキリンコ",
+      "french": "Tapatoès"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "base": {
+      "HP": 82,
+      "Attack": 96,
+      "Defense": 51,
+      "Sp. Attack": 45,
+      "Sp. Defense": 51,
+      "Speed": 92
+    }
+  },
+  {
+    "id": 932,
+    "name": {
+      "english": "Nacli",
+      "japanese": "コジオ",
+      "french": "Selutin"
+    },
+    "type": [
+      "Rock"
+    ],
+    "base": {
+      "HP": 55,
+      "Attack": 55,
+      "Defense": 75,
+      "Sp. Attack": 35,
+      "Sp. Defense": 35,
+      "Speed": 25
     }
   },
 ]
