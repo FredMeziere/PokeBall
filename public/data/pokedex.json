@@ -20329,4 +20329,204 @@
       "Speed": 84
     }
   },
+  {
+    "id": 1001,
+    "name": {
+      "english": "Wo-Chien",
+      "japanese": "チオンジェン",
+      "french": "Chongjian"
+    },
+    "type": [
+      "Dark",
+      "Grass"
+    ],
+    "base": {
+      "HP": 85,
+      "Attack": 85,
+      "Defense": 100,
+      "Sp. Attack": 95,
+      "Sp. Defense": 135,
+      "Speed": 70
+    }
+  },
+  {
+    "id": 1002,
+    "name": {
+      "english": "Chien-Pao",
+      "japanese": "パオジアン",
+      "french": "Baojian"
+    },
+    "type": [
+      "Dark",
+      "Ice"
+    ],
+    "base": {
+      "HP": 80,
+      "Attack": 120,
+      "Defense": 80,
+      "Sp. Attack": 90,
+      "Sp. Defense": 65,
+      "Speed": 135
+    }
+  },
+  {
+    "id": 1003,
+    "name": {
+      "english": "Ting-Lu",
+      "japanese": "ディンルー",
+      "french": "Dinglu"
+    },
+    "type": [
+      "Dark",
+      "Ground"
+    ],
+    "base": {
+      "HP": 155,
+      "Attack": 110,
+      "Defense": 125,
+      "Sp. Attack": 55,
+      "Sp. Defense": 80,
+      "Speed": 45
+    }
+  },
+  {
+    "id": 1004,
+    "name": {
+      "english": "Chi-Yu",
+      "japanese": "イーユイ",
+      "french": "Yuyu"
+    },
+    "type": [
+      "Dark",
+      "Fire"
+    ],
+    "base": {
+      "HP": 55,
+      "Attack": 80,
+      "Defense": 80,
+      "Sp. Attack": 135,
+      "Sp. Defense": 120,
+      "Speed": 100
+    }
+  },
+  {
+    "id": 1005,
+    "name": {
+      "english": "Roaring Moon",
+      "japanese": "トドロクツキ",
+      "french": "Rugit-Lune"
+    },
+    "type": [
+      "Dragon",
+      "Dark"
+    ],
+    "base": {
+      "HP": 105,
+      "Attack": 139,
+      "Defense": 71,
+      "Sp. Attack": 55,
+      "Sp. Defense": 101,
+      "Speed": 119
+    }
+  },
+  {
+    "id": 1006,
+    "name": {
+      "english": "Iron Valiant",
+      "japanese": "テツノブジン",
+      "french": "Garde-de-Fer"
+    },
+    "type": [
+      "Fairy",
+      "Fighting"
+    ],
+    "base": {
+      "HP": 74,
+      "Attack": 130,
+      "Defense": 90,
+      "Sp. Attack": 120,
+      "Sp. Defense": 60,
+      "Speed": 116
+    }
+  },
+  {
+    "id": 1007,
+    "name": {
+      "english": "Koraidon",
+      "japanese": "コライドン",
+      "french": "Koraidon"
+    },
+    "type": [
+      "Fighting",
+      "Dragon"
+    ],
+    "base": {
+      "HP": 100,
+      "Attack": 135,
+      "Defense": 115,
+      "Sp. Attack": 85,
+      "Sp. Defense": 100,
+      "Speed": 135
+    }
+  },
+  {
+    "id": 1008,
+    "name": {
+      "english": "Miraidon",
+      "japanese": "ミライドン",
+      "french": "Miraidon"
+    },
+    "type": [
+      "Electric",
+      "Dragon"
+    ],
+    "base": {
+      "HP": 100,
+      "Attack": 85,
+      "Defense": 100,
+      "Sp. Attack": 135,
+      "Sp. Defense": 115,
+      "Speed": 135
+    }
+  },
+  {
+    "id": 1009,
+    "name": {
+      "english": "Walking Wake",
+      "japanese": "ウネルミナモ",
+      "french": "Serpente-Eau"
+    },
+    "type": [
+      "Water",
+      "Dragon"
+    ],
+    "base": {
+      "HP": 99,
+      "Attack": 83,
+      "Defense": 91,
+      "Sp. Attack": 125,
+      "Sp. Defense": 83,
+      "Speed": 109
+    }
+  },
+  {
+    "id": 1010,
+    "name": {
+      "english": "Iron Leaves",
+      "japanese": "テツノイサハ",
+      "french": "Vert-de-Fer"
+    },
+    "type": [
+      "Water",
+      "Dragon"
+    ],
+    "base": {
+      "HP": 90,
+      "Attack": 130,
+      "Defense": 88,
+      "Sp. Attack": 70,
+      "Sp. Defense": 108,
+      "Speed": 104
+    }
+  }
 ]
