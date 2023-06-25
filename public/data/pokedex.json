@@ -1,4 +1,5 @@
-[{
+[
+  {
     "id": 1,
     "name": {
       "english": "Bulbasaur",
@@ -17071,7 +17072,6 @@
     },
     "type": [
       "Electric"
-      
     ],
     "base": {
       "HP": 59,
@@ -17091,7 +17091,6 @@
     },
     "type": [
       "Electric"
-      
     ],
     "base": {
       "HP": 69,
@@ -17111,7 +17110,6 @@
     },
     "type": [
       "Rock"
-      
     ],
     "base": {
       "HP": 30,
@@ -17131,7 +17129,7 @@
     },
     "type": [
       "Rock",
-      "Fire"      
+      "Fire"
     ],
     "base": {
       "HP": 80,
@@ -17151,7 +17149,7 @@
     },
     "type": [
       "Rock",
-      "Fire"      
+      "Fire"
     ],
     "base": {
       "HP": 110,
@@ -17171,7 +17169,7 @@
     },
     "type": [
       "Grass",
-      "Dragon"      
+      "Dragon"
     ],
     "base": {
       "HP": 40,
@@ -17191,7 +17189,7 @@
     },
     "type": [
       "Grass",
-      "Dragon"      
+      "Dragon"
     ],
     "base": {
       "HP": 70,
@@ -17210,7 +17208,7 @@
       "french": "Dratatin"
     },
     "type": [
-      "Ground"   
+      "Ground"
     ],
     "base": {
       "HP": 110,
@@ -17229,7 +17227,7 @@
       "french": "Dunaja"
     },
     "type": [
-      "Ground"   
+      "Ground"
     ],
     "base": {
       "HP": 52,
@@ -17248,7 +17246,7 @@
       "french": "Dunaconda"
     },
     "type": [
-      "Ground"   
+      "Ground"
     ],
     "base": {
       "HP": 72,
@@ -17268,7 +17266,7 @@
     },
     "type": [
       "Flying",
-      "Water"   
+      "Water"
     ],
     "base": {
       "HP": 70,
@@ -17287,7 +17285,7 @@
       "french": "Embrochet"
     },
     "type": [
-      "Water"   
+      "Water"
     ],
     "base": {
       "HP": 41,
@@ -17306,7 +17304,7 @@
       "french": "Hastacuda"
     },
     "type": [
-      "Water"   
+      "Water"
     ],
     "base": {
       "HP": 61,
@@ -17326,7 +17324,7 @@
     },
     "type": [
       "Electric",
-      "Poison"   
+      "Poison"
     ],
     "base": {
       "HP": 40,
@@ -17346,7 +17344,7 @@
     },
     "type": [
       "Electric",
-      "Poison"   
+      "Poison"
     ],
     "base": {
       "HP": 75,
@@ -17366,7 +17364,7 @@
     },
     "type": [
       "Fire",
-      "Bug"   
+      "Bug"
     ],
     "base": {
       "HP": 50,
@@ -17386,7 +17384,7 @@
     },
     "type": [
       "Fire",
-      "Bug"   
+      "Bug"
     ],
     "base": {
       "HP": 100,
@@ -17405,7 +17403,7 @@
       "french": "Poulpaf"
     },
     "type": [
-      "Fighting"  
+      "Fighting"
     ],
     "base": {
       "HP": 50,
@@ -17424,7 +17422,7 @@
       "french": "Krakos"
     },
     "type": [
-      "Fighting"  
+      "Fighting"
     ],
     "base": {
       "HP": 80,
@@ -17443,7 +17441,7 @@
       "french": "Théffroi"
     },
     "type": [
-      "Dark" 
+      "Dark"
     ],
     "base": {
       "HP": 40,
@@ -17462,7 +17460,7 @@
       "french": "Polthégeist"
     },
     "type": [
-      "Dark" 
+      "Dark"
     ],
     "base": {
       "HP": 60,
@@ -17481,7 +17479,7 @@
       "french": "Bibichut"
     },
     "type": [
-      "Psychic" 
+      "Psychic"
     ],
     "base": {
       "HP": 42,
@@ -17500,7 +17498,7 @@
       "french": "Chapotus"
     },
     "type": [
-      "Psychic" 
+      "Psychic"
     ],
     "base": {
       "HP": 57,
@@ -18973,6 +18971,475 @@
       "Sp. Attack": 35,
       "Sp. Defense": 35,
       "Speed": 25
+    }
+  },
+  {
+    "id": 933,
+    "name": {
+      "english": "Naclstack",
+      "japanese": "ジオヅム",
+      "french": "Amassel"
+    },
+    "type": [
+      "Rock"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 60,
+      "Defense": 100,
+      "Sp. Attack": 35,
+      "Sp. Defense": 65,
+      "Speed": 35
+    }
+  },
+  {
+    "id": 934,
+    "name": {
+      "english": "Garganacl",
+      "japanese": "キョジオーン",
+      "french": "Gigansel"
+    },
+    "type": [
+      "Rock"
+    ],
+    "base": {
+      "HP": 100,
+      "Attack": 100,
+      "Defense": 130,
+      "Sp. Attack": 45,
+      "Sp. Defense": 90,
+      "Speed": 35
+    }
+  },
+  {
+    "id": 935,
+    "name": {
+      "english": "Charcadet",
+      "japanese": "カルボウ",
+      "french": "Charbambin"
+    },
+    "type": [
+      "Fire"
+    ],
+    "base": {
+      "HP": 40,
+      "Attack": 50,
+      "Defense": 40,
+      "Sp. Attack": 50,
+      "Sp. Defense": 40,
+      "Speed": 35
+    }
+  },
+  {
+    "id": 936,
+    "name": {
+      "english": "Armarouge",
+      "japanese": "グレンアルマ",
+      "french": "Carmadura"
+    },
+    "type": [
+      "Fire",
+      "Psychic"
+    ],
+    "base": {
+      "HP": 85,
+      "Attack": 60,
+      "Defense": 100,
+      "Sp. Attack": 125,
+      "Sp. Defense": 80,
+      "Speed": 75
+    }
+  },
+  {
+    "id": 937,
+    "name": {
+      "english": "Ceruledge",
+      "japanese": "ソウブレイズ",
+      "french": "Malvalame"
+    },
+    "type": [
+      "Fire",
+      "Dark"
+    ],
+    "base": {
+      "HP": 75,
+      "Attack": 125,
+      "Defense": 80,
+      "Sp. Attack": 60,
+      "Sp. Defense": 100,
+      "Speed": 85
+    }
+  },
+  {
+    "id": 938,
+    "name": {
+      "english": "Tadbulb",
+      "japanese": "ズピカ",
+      "french": "Têtampoule"
+    },
+    "type": [
+      "Electric"
+    ],
+    "base": {
+      "HP": 61,
+      "Attack": 31,
+      "Defense": 41,
+      "Sp. Attack": 59,
+      "Sp. Defense": 35,
+      "Speed": 45
+    }
+  },
+  {
+    "id": 939,
+    "name": {
+      "english": "Bellibolt",
+      "japanese": "ハラバリー",
+      "french": "Ampibidou"
+    },
+    "type": [
+      "Electric"
+    ],
+    "base": {
+      "HP": 109,
+      "Attack": 64,
+      "Defense": 91,
+      "Sp. Attack": 103,
+      "Sp. Defense": 83,
+      "Speed": 45
+    }
+  },
+  {
+    "id": 940,
+    "name": {
+      "english": "Wattrel",
+      "japanese": "カイデン",
+      "french": "Zapétrel"
+    },
+    "type": [
+      "Electric",
+      "Flying"
+    ],
+    "base": {
+      "HP": 40,
+      "Attack": 40,
+      "Defense": 35,
+      "Sp. Attack": 55,
+      "Sp. Defense": 40,
+      "Speed": 70
+    }
+  },
+  {
+    "id": 941,
+    "name": {
+      "english": "Kilowattrel",
+      "japanese": "タイカイデン",
+      "french": "Fulgulairo"
+    },
+    "type": [
+      "Electric",
+      "Flying"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 70,
+      "Defense": 60,
+      "Sp. Attack": 105,
+      "Sp. Defense": 60,
+      "Speed": 125
+    }
+  },
+  {
+    "id": 942,
+    "name": {
+      "english": "Maschiff",
+      "japanese": "オラチフ",
+      "french": "Grondogue"
+    },
+    "type": [
+      "Dark"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 70,
+      "Defense": 60,
+      "Sp. Attack": 105,
+      "Sp. Defense": 60,
+      "Speed": 125
+    }
+  },
+  {
+    "id": 943,
+    "name": {
+      "english": "Mabosstiff",
+      "japanese": "マフィティフ",
+      "french": "Dogrino"
+    },
+    "type": [
+      "Dark"
+    ],
+    "base": {
+      "HP": 80,
+      "Attack": 120,
+      "Defense": 90,
+      "Sp. Attack": 60,
+      "Sp. Defense": 70,
+      "Speed": 85
+    }
+  },
+  {
+    "id": 944,
+    "name": {
+      "english": "Shroodle",
+      "japanese": "シルシュルー",
+      "french": "Gribouraigne"
+    },
+    "type": [
+      "Poison",
+      "Normal"
+    ],
+    "base": {
+      "HP": 40,
+      "Attack": 65,
+      "Defense": 35,
+      "Sp. Attack": 40,
+      "Sp. Defense": 35,
+      "Speed": 75
+    }
+  },
+  {
+    "id": 945,
+    "name": {
+      "english": "Shroodle",
+      "japanese": "タギングル",
+      "french": "Tag-Tag"
+    },
+    "type": [
+      "Poison",
+      "Normal"
+    ],
+    "base": {
+      "HP": 63,
+      "Attack": 95,
+      "Defense": 65,
+      "Sp. Attack": 80,
+      "Sp. Defense": 72,
+      "Speed": 110
+    }
+  },
+  {
+    "id": 946,
+    "name": {
+      "english": "Bramblin",
+      "japanese": "アノクサ",
+      "french": "Virovent"
+    },
+    "type": [
+      "Grass",
+      "Dark"
+    ],
+    "base": {
+      "HP": 40,
+      "Attack": 65,
+      "Defense": 30,
+      "Sp. Attack": 45,
+      "Sp. Defense": 35,
+      "Speed": 60
+    }
+  },
+  {
+    "id": 947,
+    "name": {
+      "english": "Brambleghast",
+      "japanese": "アノホラグサ",
+      "french": "Virevorreur"
+    },
+    "type": [
+      "Grass",
+      "Dark"
+    ],
+    "base": {
+      "HP": 55,
+      "Attack": 115,
+      "Defense": 70,
+      "Sp. Attack": 80,
+      "Sp. Defense": 70,
+      "Speed": 90
+    }
+  },
+  {
+    "id": 948,
+    "name": {
+      "english": "Toedscool",
+      "japanese": "ノノクラゲ",
+      "french": "Terracool"
+    },
+    "type": [
+      "Ground",
+      "Dark"
+    ],
+    "base": {
+      "HP": 40,
+      "Attack": 40,
+      "Defense": 35,
+      "Sp. Attack": 50,
+      "Sp. Defense": 100,
+      "Speed": 70
+    }
+  },
+  {
+    "id": 949,
+    "name": {
+      "english": "Toedscruel",
+      "japanese": "リククラゲ",
+      "french": "Terracruel"
+    },
+    "type": [
+      "Ground",
+      "Dark"
+    ],
+    "base": {
+      "HP": 80,
+      "Attack": 70,
+      "Defense": 65,
+      "Sp. Attack": 80,
+      "Sp. Defense": 120,
+      "Speed": 100
+    }
+  },
+  {
+    "id": 950,
+    "name": {
+      "english": "Klawf",
+      "japanese": "ガケガニ",
+      "french": "Craparoi"
+    },
+    "type": [
+      "Ground",
+      "Dark"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 100,
+      "Defense": 115,
+      "Sp. Attack": 35,
+      "Sp. Defense": 55,
+      "Speed": 75
+    }
+  },
+  {
+    "id": 951,
+    "name": {
+      "english": "Capsakid",
+      "japanese": "カプサイジ",
+      "french": "Pimito"
+    },
+    "type": [
+      "Grass"
+    ],
+    "base": {
+      "HP": 52,
+      "Attack": 62,
+      "Defense": 40,
+      "Sp. Attack": 62,
+      "Sp. Defense": 40,
+      "Speed": 50
+    }
+  },
+  {
+    "id": 952,
+    "name": {
+      "english": "Scovillain",
+      "japanese": "スコヴィラン",
+      "french": "Scovilain"
+    },
+    "type": [
+      "Grass",
+      "Fire"
+    ],
+    "base": {
+      "HP": 65,
+      "Attack": 108,
+      "Defense": 54,
+      "Sp. Attack": 108,
+      "Sp. Defense": 65,
+      "Speed": 75
+    }
+  },
+  {
+    "id": 953,
+    "name": {
+      "english": "Rellor",
+      "japanese": "シガロコ",
+      "french": "Léboulérou"
+    },
+    "type": [
+      "Bug"
+    ],
+    "base": {
+      "HP": 41,
+      "Attack": 50,
+      "Defense": 60,
+      "Sp. Attack": 31,
+      "Sp. Defense": 58,
+      "Speed": 30
+    }
+  },
+  {
+    "id": 954,
+    "name": {
+      "english": "Rabsca",
+      "japanese": "ベラカス",
+      "french": "Bérasca"
+    },
+    "type": [
+      "Bug",
+      "Psychic"
+    ],
+    "base": {
+      "HP": 75,
+      "Attack": 50,
+      "Defense": 85,
+      "Sp. Attack": 115,
+      "Sp. Defense": 100,
+      "Speed": 45
+    }
+  },
+  {
+    "id": 955,
+    "name": {
+      "english": "Flittle",
+      "japanese": "ヒラヒナ",
+      "french": "Flotillon"
+    },
+    "type": [
+      "Psychic"
+    ],
+    "base": {
+      "HP": 30,
+      "Attack": 35,
+      "Defense": 30,
+      "Sp. Attack": 55,
+      "Sp. Defense": 30,
+      "Speed": 75
+    }
+  },
+  {
+    "id": 956,
+    "name": {
+      "english": "Flittle",
+      "japanese": "ヒラヒナ",
+      "french": "Flotillon"
+    },
+    "type": [
+      "Psychic"
+    ],
+    "base": {
+      "HP": 30,
+      "Attack": 35,
+      "Defense": 30,
+      "Sp. Attack": 55,
+      "Sp. Defense": 30,
+      "Speed": 75
     }
   },
 ]
