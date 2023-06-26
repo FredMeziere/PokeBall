@@ -24,7 +24,6 @@
   },
   {
     "id": 2,
-    "url": "https://i.ibb.co/Q9YtW6K/08.png",
     "name": {
       "english": "Ivysaur",
       "japanese": "フシギソウ",
@@ -48,7 +47,6 @@
   },
   {
     "id": 3,
-    "url": "https://i.ibb.co/Q9YtW6K/08.png",
     "name": {
       "english": "Venusaur",
       "japanese": "フシギバナ",
@@ -72,7 +70,6 @@
   },
   {
     "id": 4,
-    "url": "https://i.ibb.co/Q9YtW6K/08.png",
     "name": {
       "english": "Charmander",
       "japanese": "ヒトカゲ",
@@ -95,7 +92,6 @@
   },
   {
     "id": 5,
-    "url": "https://i.ibb.co/Q9YtW6K/08.png",
     "name": {
       "english": "Charmeleon",
       "japanese": "リザード",
@@ -118,7 +114,6 @@
   },
   {
     "id": 6,
-    "url": "https://i.ibb.co/Q9YtW6K/08.png",
     "name": {
       "english": "Charizard",
       "japanese": "リザードン",
@@ -142,7 +137,6 @@
   },
   {
     "id": 7,
-    "url": "https://i.ibb.co/Q9YtW6K/08.png",
     "name": {
       "english": "Squirtle",
       "japanese": "ゼニガメ",
@@ -165,7 +159,6 @@
   },
   {
     "id": 8,
-    "url": "https://i.ibb.co/Q9YtW6K/08.png",
     "name": {
       "english": "Wartortle",
       "japanese": "カメール",
@@ -188,7 +181,6 @@
   },
   {
     "id": 9,
-    "url": "https://i.ibb.co/Q9YtW6K/08.png",
     "name": {
       "english": "Blastoise",
       "japanese": "カメックス",
@@ -207,7 +199,7 @@
       "Speed": 78
     },
     "gen" : 1,
-    "url": "https://i.ibb.co/Q9YtW6K/08.png"
+    "url": "https://i.ibb.co/kqMJ55h/09.png"
   },
   {
     "id": 10,
