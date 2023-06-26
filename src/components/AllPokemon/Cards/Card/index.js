@@ -4,7 +4,7 @@ import {
 } from 'prop-types';
 
 function Card({
-  id, name, type, base,
+  id, name, type, base, gen, url,
 }) {
   // eslint-disable-next-line no-shadow
   function getColorForType(type) {
@@ -431,12 +431,12 @@ function Card({
   }
 
   const backgroundColor = getBackgroundColor(type);
-  const imagePath = `/images/${String(id).padStart(2, '0')}.png`;
 
   return (
     <div className="card" style={{ background: backgroundColor }}>
-      <img className="card-img" src={imagePath} alt={name.french} />
       <p className="card-name">{name.french} #{id}</p>
+      <img className="card-img" src={url} alt={name.french} />
+      <p className="card-type">Pokémon de génération {gen}</p>
       <p className="card-type">Type: {type.join(' / ')}</p>
       <div className="card-stat">
         {Object.entries(base).map(([statName, statValue]) => {
@@ -493,6 +493,8 @@ Card.propTypes = {
     'Sp. Defense': number.isRequired,
     Speed: number.isRequired,
   }).isRequired,
+  gen: number.isRequired,
+  url: string.isRequired,
 };
 
 export default Card;

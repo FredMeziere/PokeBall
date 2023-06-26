@@ -48,10 +48,18 @@ function AllPokemon() {
           placeholder="Écris le nom de ton Pokémon :"
         />
         <select className="allpokemon-div-select" name="type" id="" onChange={handleTypeChange}>
-          <option value="">Tous les types</option>
+          <option value="">Yypes</option>
           {pokemonTypes.map((pokemonType) => (
             <option value={pokemonType.english} key={pokemonType.english}>
               {pokemonType.english}
+            </option>
+          ))}
+        </select>
+        <select className="allpokemon-div-select" name="type" id="" onChange={handleTypeChange}>
+          <option value="">Génération</option>
+          {pokeData.map((pokeDatas) => (
+            <option value={pokeDatas.gen} key={pokeDatas.gen}>
+              {pokeDatas.gen}
             </option>
           ))}
         </select>
