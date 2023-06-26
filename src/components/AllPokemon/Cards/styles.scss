@@ -1,6 +1,13 @@
 @use "src/styles/vars";
 
-.cards{
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 5px;
+  margin-bottom: 5px;
+
+  &-all {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -8,3 +15,14 @@
     margin: 3rem;
     margin-top: 3rem;
   }
+
+  &-button-up {
+    padding: 20px;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 16px;
+    box-shadow: 1px 0px 20px black;
+    margin-top: 20px;
+    background-color: #d3d3d3;
+  }
+}

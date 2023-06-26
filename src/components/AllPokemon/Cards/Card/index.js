@@ -434,7 +434,7 @@ function Card({
 
   return (
     <div className="card" style={{ background: backgroundColor }}>
-      <p className="card-name">{name.french} #{id}</p>
+      <p className="card-name">{name.french} # {id}</p>
       <img className="card-img" src={url} alt={name.french} />
       <p className="card-type">Pokémon de génération {gen}</p>
       <p className="card-type">Type: {type.join(' / ')}</p>

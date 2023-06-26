@@ -1,12 +1,13 @@
 import { useState } from 'react';
 import './styles.scss';
 import Cards from './Cards';
-import pokeData from '../../../public/data/pokedex.json';
+import pokeDatas from '../../../public/data/pokedex.json';
 import pokemonTypes from '../../../public/data/types.json';
+import pokeGens from '../../../public/data/gen.json';
 
 function AllPokemon() {
   const [searchText, setSearchText] = useState('');
-  const [resultData, setResultData] = useState(pokeData);
+  const [resultData, setResultData] = useState(pokeDatas);
 
   const handleSearchChange = (event) => {
     setSearchText(event.target.value);
@@ -15,7 +16,7 @@ function AllPokemon() {
   };
   // eslint-disable-next-line no-shadow
   const filterData = (searchText) => {
-    const filteredData = pokeData.filter((pokemon) => {
+    const filteredData = pokeDatas.filter((pokemon) => {
       const { name } = pokemon;
       const lowercaseSearchText = searchText.toLowerCase();
       const lowercaseName = name.french.toLowerCase() || name.english.toLowerCase();
@@ -27,10 +28,10 @@ function AllPokemon() {
   const handleTypeChange = (event) => {
     const selectedType = event.target.value;
     if (selectedType === '') {
-      setResultData(pokeData);
+      setResultData(pokeDatas);
     }
     else {
-      const filteredData = pokeData.filter((pokemon) => pokemon.type.includes(selectedType));
+      const filteredData = pokeDatas.filter((pokemon) => pokemon.type.includes(selectedType));
       setResultData(filteredData);
     }
   };
@@ -48,18 +49,18 @@ function AllPokemon() {
           placeholder="Écris le nom de ton Pokémon :"
         />
         <select className="allpokemon-div-select" name="type" id="" onChange={handleTypeChange}>
-          <option value="">Yypes</option>
+          <option value="">Types</option>
           {pokemonTypes.map((pokemonType) => (
             <option value={pokemonType.english} key={pokemonType.english}>
               {pokemonType.english}
             </option>
           ))}
         </select>
-        <select className="allpokemon-div-select" name="type" id="" onChange={handleTypeChange}>
+        <select className="allpokemon-div-select" name="gen" id="" onChange={handleTypeChange}>
           <option value="">Génération</option>
-          {pokeData.map((pokeDatas) => (
-            <option value={pokeDatas.gen} key={pokeDatas.gen}>
-              {pokeDatas.gen}
+          {pokeGens.map((pokeGen) => (
+            <option value={pokeGen.gen} key={pokeGen.gen}>
+              {pokeGen.gen}
             </option>
           ))}
         </select>
