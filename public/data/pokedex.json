@@ -2055,7 +2055,7 @@
       "french": "Fantominus"
     },
     "type": [
-      "Ghost",
+      "Spectre",
       "Poison"
     ],
     "base": {
@@ -2078,7 +2078,7 @@
       "french": "Spectrum"
     },
     "type": [
-      "Ghost",
+      "Spectre",
       "Poison"
     ],
     "base": {
@@ -2101,7 +2101,7 @@
       "french": "Ectoplasma"
     },
     "type": [
-      "Ghost",
+      "Spectre",
       "Poison"
     ],
     "base": {
@@ -4477,7 +4477,7 @@
       "french": "Feuforêve"
     },
     "type": [
-      "Ghost"
+      "Spectre"
     ],
     "base": {
       "HP": 60,
@@ -6551,7 +6551,7 @@
     },
     "type": [
       "Insecte",
-      "Ghost"
+      "Spectre"
     ],
     "base": {
       "HP": 1,
@@ -6773,7 +6773,7 @@
     },
     "type": [
       "Ténèbres",
-      "Ghost"
+      "Spectre"
     ],
     "base": {
       "HP": 50,
@@ -7922,7 +7922,7 @@
       "french": "Polichombr"
     },
     "type": [
-      "Ghost"
+      "Spectre"
     ],
     "base": {
       "HP": 44,
@@ -7944,7 +7944,7 @@
       "french": "Branette"
     },
     "type": [
-      "Ghost"
+      "Spectre"
     ],
     "base": {
       "HP": 64,
@@ -7966,7 +7966,7 @@
       "french": "Skelénox"
     },
     "type": [
-      "Ghost"
+      "Spectre"
     ],
     "base": {
       "HP": 20,
@@ -7988,7 +7988,7 @@
       "french": "Téraclope"
     },
     "type": [
-      "Ghost"
+      "Spectre"
     ],
     "base": {
       "HP": 40,
@@ -9536,7 +9536,7 @@
       "french": "Baudrive"
     },
     "type": [
-      "Ghost",
+      "Spectre",
       "Vol"
     ],
     "base": {
@@ -9559,7 +9559,7 @@
       "french": "Grodrive"
     },
     "type": [
-      "Ghost",
+      "Spectre",
       "Vol"
     ],
     "base": {
@@ -9626,7 +9626,7 @@
       "french": "Magirêve"
     },
     "type": [
-      "Ghost"
+      "Spectre"
     ],
     "base": {
       "HP": 60,
@@ -9919,7 +9919,7 @@
       "french": "Spiritomb"
     },
     "type": [
-      "Ghost",
+      "Spectre",
       "Ténèbres"
     ],
     "base": {
@@ -10710,7 +10710,7 @@
       "french": "Noctunoir"
     },
     "type": [
-      "Ghost"
+      "Spectre"
     ],
     "base": {
       "HP": 45,
@@ -10733,7 +10733,7 @@
     },
     "type": [
       "Glace",
-      "Ghost"
+      "Spectre"
     ],
     "base": {
       "HP": 70,
@@ -10756,7 +10756,7 @@
     },
     "type": [
       "Electrik",
-      "Ghost"
+      "Spectre"
     ],
     "base": {
       "HP": 50,
@@ -10935,7 +10935,7 @@
       "french": "Giratina"
     },
     "type": [
-      "Ghost",
+      "Spectre",
       "Dragon"
     ],
     "base": {
@@ -12613,7 +12613,7 @@
       "french": "Tutafeh"
     },
     "type": [
-      "Ghost"
+      "Spectre"
     ],
     "base": {
       "HP": 38,
@@ -12635,7 +12635,7 @@
       "french": "Tutankafer"
     },
     "type": [
-      "Ghost"
+      "Spectre"
     ],
     "base": {
       "HP": 58,
@@ -13286,7 +13286,7 @@
     },
     "type": [
       "Eau",
-      "Ghost"
+      "Spectre"
     ],
     "base": {
       "HP": 55,
@@ -13309,7 +13309,7 @@
     },
     "type": [
       "Eau",
-      "Ghost"
+      "Spectre"
     ],
     "base": {
       "HP": 100,
@@ -13621,7 +13621,7 @@
       "french": "Funécire"
     },
     "type": [
-      "Ghost",
+      "Spectre",
       "Feu"
     ],
     "base": {
@@ -13644,7 +13644,7 @@
       "french": "Mélancolux"
     },
     "type": [
-      "Ghost",
+      "Spectre",
       "Feu"
     ],
     "base": {
@@ -13667,7 +13667,7 @@
       "french": "Lugulabre"
     },
     "type": [
-      "Ghost",
+      "Spectre",
       "Feu"
     ],
     "base": {
@@ -13956,7 +13956,7 @@
     },
     "type": [
       "Sol",
-      "Ghost"
+      "Spectre"
     ],
     "base": {
       "HP": 59,
@@ -13979,7 +13979,7 @@
     },
     "type": [
       "Sol",
-      "Ghost"
+      "Spectre"
     ],
     "base": {
       "HP": 89,
@@ -15246,7 +15246,7 @@
     },
     "type": [
       "Acier",
-      "Ghost"
+      "Spectre"
     ],
     "base": {
       "HP": 45,
@@ -15269,7 +15269,7 @@
     },
     "type": [
       "Acier",
-      "Ghost"
+      "Spectre"
     ],
     "base": {
       "HP": 59,
@@ -15292,7 +15292,7 @@
     },
     "type": [
       "Acier",
-      "Ghost"
+      "Spectre"
     ],
     "base": {
       "HP": 60,
@@ -15902,7 +15902,7 @@
       "french": "Brocélôme"
     },
     "type": [
-      "Ghost",
+      "Spectre",
       "Plante"
     ],
     "base": {
@@ -15925,7 +15925,7 @@
       "french": "Desséliande"
     },
     "type": [
-      "Ghost",
+      "Spectre",
       "Plante"
     ],
     "base": {
@@ -15948,7 +15948,7 @@
       "french": "Pitrouille"
     },
     "type": [
-      "Ghost",
+      "Spectre",
       "Plante"
     ],
     "base": {
@@ -15971,7 +15971,7 @@
       "french": "Banshitrouye"
     },
     "type": [
-      "Ghost",
+      "Spectre",
       "Plante"
     ],
     "base": {
@@ -16176,7 +16176,7 @@
     },
     "type": [
       "Psy",
-      "Ghost"
+      "Spectre"
     ],
     "base": {
       "HP": 80,
@@ -16268,7 +16268,7 @@
     },
     "type": [
       "Plante",
-      "Ghost"
+      "Spectre"
     ],
     "base": {
       "HP": 78,
@@ -17282,7 +17282,7 @@
       "french": "Bacabouh"
     },
     "type": [
-      "Ghost",
+      "Spectre",
       "Sol"
     ],
     "base": {
@@ -17305,7 +17305,7 @@
       "french": "Trépassable"
     },
     "type": [
-      "Ghost",
+      "Spectre",
       "Sol"
     ],
     "base": {
@@ -17485,7 +17485,7 @@
       "french": "Mimiqui"
     },
     "type": [
-      "Ghost",
+      "Spectre",
       "Fée"
     ],
     "base": {
@@ -17554,7 +17554,7 @@
       "french": "Sinistrail"
     },
     "type": [
-      "Ghost",
+      "Spectre",
       "Plante"
     ],
     "base": {
@@ -17805,7 +17805,7 @@
     },
     "type": [
       "Psy",
-      "Ghost"
+      "Spectre"
     ],
     "base": {
       "HP": 137,
@@ -18033,7 +18033,7 @@
     },
     "type": [
       "Combat",
-      "Ghost"
+      "Spectre"
     ],
     "base": {
       "HP": 90,
@@ -18124,7 +18124,7 @@
     },
     "type": [
       "Feu",
-      "Ghost"
+      "Spectre"
     ],
     "base": {
       "HP": 53,
