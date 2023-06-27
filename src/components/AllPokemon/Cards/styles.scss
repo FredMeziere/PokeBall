@@ -6,6 +6,8 @@
   justify-content: center;
   margin-top: 5px;
   margin-bottom: 5px;
+  transform-style: preserve-3d;
+  transition: transform 1000ms;
 
   &-all {
     display: flex;

@@ -24,7 +24,7 @@ function Cards({ datas }) {
   return (
     <div className="cards">
       {startIndex > 0 && (
-        <button className="cards-button-up" type="button" onClick={showPreviousCards}>Voir précédentes</button>
+        <button className="cards-button-up" type="button" onClick={showPreviousCards}>Voir les précédents</button>
       )}
       <div className="cards-all">
         {limitedDatas.map((data) => (
@@ -32,7 +32,7 @@ function Cards({ datas }) {
         ))}
       </div>
       {endIndex < datas.length && (
-        <button className="cards-button-down" type="button" onClick={showNextCards}>Voir suivantes</button>
+        <button className="cards-button-down" type="button" onClick={showNextCards}>Voir les suivants</button>
       )}
     </div>
   );

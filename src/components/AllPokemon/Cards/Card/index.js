@@ -20,7 +20,7 @@ function Card({
       case 'Normal':
         return 'rgb(153,153,153)';
       case 'Bug':
-        return 'rgb(136, 255, 0)';
+        return 'rgb(109, 255, 0)';
       case 'Flying':
         return 'rgb(215,215,215)';
       case 'Fairy':
@@ -125,40 +125,40 @@ function Card({
 
       // BUG TYPE
       if (types.includes('Bug') && types.includes('Flying')) {
-        return 'linear-gradient(60deg, rgba(177,179,176,1) 0%, rgba(136,255,0,1) 100%)';
+        return 'linear-gradient(60deg, rgba(177,179,176,1) 0%, rgba(109, 255, 0, 1) 100%)';
       }
       if (types.includes('Bug') && types.includes('Poison')) {
-        return 'linear-gradient(60deg, rgba(106,0,255,1) 0%, rgba(136,255,0,1) 100%)';
+        return 'linear-gradient(60deg, rgba(106,0,255,1) 0%, rgba(109, 255, 0, 1) 100%)';
       }
       if (types.includes('Bug') && types.includes('Fairy')) {
-        return 'linear-gradient(60deg, rgba(136,255,0,1) 0%, rgba(192,52,196,1)  100%)';
+        return 'linear-gradient(60deg, rgba(109, 255, 0, 1) 0%, rgba(192,52,196,1)  100%)';
       }
       if (types.includes('Bug') && types.includes('Grass')) {
-        return 'linear-gradient(60deg, rgba(136,255,0,1) 0%, rgba(35,149,2,1) 100%)';
+        return 'linear-gradient(60deg, rgba(109, 255, 0, 1) 0%, rgba(35,149,2,1) 100%)';
       }
       if (types.includes('Bug') && types.includes('Steel')) {
-        return 'linear-gradient(60deg, rgba(136,255,0,1) 0%, rgba(67,70,75,1) 100%)';
+        return 'linear-gradient(60deg, rgba(109, 255, 0, 1) 0%, rgba(67,70,75,1) 100%)';
       }
       if (types.includes('Bug') && types.includes('Rock')) {
-        return 'linear-gradient(60deg, rgba(136,255,0,1) 0%, rgba(90,77,65,1) 100%)';
+        return 'linear-gradient(60deg, rgba(109, 255, 0, 1) 0%, rgba(90,77,65,1) 100%)';
       }
       if (types.includes('Bug') && types.includes('Fighting')) {
-        return 'linear-gradient(60deg, rgba(136,255,0,1) 0%, rgba(87,87,87,1) 100%)';
+        return 'linear-gradient(60deg, rgba(109, 255, 0, 1) 0%, rgba(87,87,87,1) 100%)';
       }
       if (types.includes('Bug') && types.includes('Water')) {
-        return 'linear-gradient(60deg, rgba(136,255,0,1) 0%, rgba(0,142,255,1) 100%)';
+        return 'linear-gradient(60deg, rgba(109, 255, 0, 1) 0%, rgba(0,142,255,1) 100%)';
       }
       if (types.includes('Bug') && types.includes('Ground')) {
-        return 'linear-gradient(60deg, rgba(136,255,0,1) 0%, rgba(129,68,46,1) 100%)';
+        return 'linear-gradient(60deg, rgba(109, 255, 0, 1) 0%, rgba(129,68,46,1) 100%)';
       }
       if (types.includes('Bug') && types.includes('Ghost')) {
-        return 'linear-gradient(60deg, rgba(136,255,0,1) 0%, rgba(241, 241, 243,1) 100%)';
+        return 'linear-gradient(60deg, rgba(109, 255, 0, 1) 0%, rgba(241, 241, 243,1) 100%)';
       }
       if (types.includes('Bug') && types.includes('Electric')) {
-        return 'linear-gradient(60deg, rgba(136,255,0,1) 0%, rgba(251,255,96,1) 100%)';
+        return 'linear-gradient(60deg, rgba(109, 255, 0, 1) 0%, rgba(251,255,96,1) 100%)';
       }
       if (types.includes('Bug') && types.includes('Fire')) {
-        return 'linear-gradient(60deg, rgba(136,255,0,1) 0%, rgba(149,27,27,1) 100%)';
+        return 'linear-gradient(60deg, rgba(109, 255, 0, 1) 0%, rgba(149,27,27,1) 100%)';
       }
 
       // NORMAL TYPE
@@ -434,7 +434,7 @@ function Card({
 
   return (
     <div className="card" style={{ background: backgroundColor }}>
-      <p className="card-name">{name.french} # {id}</p>
+      <p className="card-name">{name.french} #{id}</p>
       <img className="card-img" src={url} alt={name.french} />
       <p className="card-type">Pokémon de génération {gen}</p>
       <p className="card-type">Type: {type.join(' / ')}</p>
