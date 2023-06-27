@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import './styles.scss';
 import {
   string, arrayOf, shape, number,
@@ -429,51 +430,70 @@ function Card({
     }
     return 'gray'; // Couleur par défaut si le nombre de types est incorrect
   }
-
   const backgroundColor = getBackgroundColor(type);
 
+  // Pour la gestion de l'affichage du front ou back de la carte avec les usestate
+  const [showBack, setShowBack] = useState(false);
+  const handleClick = () => {
+    setShowBack(!showBack);
+  };
+
   return (
-    <div className="card" style={{ background: backgroundColor }}>
-      <p className="card-name">{name.french} #{id}</p>
-      <img className="card-img" src={url} alt={name.french} />
-      <p className="card-type">Pokémon de génération {gen}</p>
-      <p className="card-type">Type: {type.join(' / ')}</p>
-      <div className="card-stat">
-        {Object.entries(base).map(([statName, statValue]) => {
-          let width;
+    <div
+      className={`card ${showBack ? 'card-flipped' : ''}`}
+      style={{ background: backgroundColor }}
+      onClick={handleClick}
+    >
+      {showBack ? (
+        <div className="card-content">
+          <p className="card-type">Pokémon de génération {gen}</p>
+          <p className="card-type">Pokémon de génération {gen}</p>
+          <p className="card-type">Pokémon de génération {gen}</p>
+        </div>
+      ) : (
+        <>
+          <p className="card-name">{name.french} #{id}</p>
+          <img className="card-img" src={url} alt={name.french} />
+          <p className="card-type">Pokémon de génération {gen}</p>
+          <p className="card-type">Type: {type.join(' / ')}</p>
+          <div className="card-stat">
+            {Object.entries(base).map(([statName, statValue]) => {
+              let width;
 
-          if (statValue > 0 && statValue <= 10) {
-            width = statValue * 5;
-          }
-          else if (statValue >= 11 && statValue <= 20) {
-            width = statValue * 3.8;
-          }
-          else if (statValue >= 21 && statValue <= 30) {
-            width = statValue * 3.2;
-          }
-          else if (statValue >= 31 && statValue <= 50) {
-            width = statValue * 2.3;
-          }
-          else if (statValue >= 51 && statValue <= 110) {
-            width = statValue * 2.2;
-          }
-          else if (statValue >= 111 && statValue <= 160) {
-            width = statValue * 2.1;
-          }
-          else {
-            width = statValue * 1.6;
-          }
+              if (statValue > 0 && statValue <= 10) {
+                width = statValue * 5;
+              }
+              else if (statValue >= 11 && statValue <= 20) {
+                width = statValue * 3.8;
+              }
+              else if (statValue >= 21 && statValue <= 30) {
+                width = statValue * 3.2;
+              }
+              else if (statValue >= 31 && statValue <= 50) {
+                width = statValue * 2.3;
+              }
+              else if (statValue >= 51 && statValue <= 110) {
+                width = statValue * 2.2;
+              }
+              else if (statValue >= 111 && statValue <= 160) {
+                width = statValue * 2.1;
+              }
+              else {
+                width = statValue * 1.6;
+              }
 
-          return (
-            <div className="card-stat-bar" key={statName}>
-              <span className="card-stat-bar-statvalue">{statValue}</span>
-              <div className="card-stat-bar-fill" style={{ width: `${width}px` }}>
-                <span className="card-stat-bar-statname">{statName}:</span>
-              </div>
-            </div>
-          );
-        })}
-      </div>
+              return (
+                <div className="card-stat-bar" key={statName}>
+                  <span className="card-stat-bar-statvalue">{statValue}</span>
+                  <div className="card-stat-bar-fill" style={{ width: `${width}px` }}>
+                    <span className="card-stat-bar-statname">{statName}:</span>
+                  </div>
+                </div>
+              );
+            })}
+          </div>
+        </>
+      )}
     </div>
   );
 }
