@@ -64,8 +64,8 @@ function AllPokemon() {
         <select className="allpokemon-div-select" name="type" id="" onChange={handleTypeChange}>
           <option value="">Types</option>
           {pokemonTypes.map((pokemonType) => (
-            <option value={pokemonType.english} key={pokemonType.english}>
-              {pokemonType.english}
+            <option value={pokemonType.french} key={pokemonType.french}>
+              {pokemonType.french}
             </option>
           ))}
         </select>

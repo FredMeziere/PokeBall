@@ -15,6 +15,24 @@
   perspective: 1000px;
   cursor: pointer;
 
+&-content {
+  transform: rotateY(180deg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+&-type-p {
+  padding: 5px;
+  color: white;
+  text-shadow: 1px 0px 20px black;
+} 
+
+  &-img-evol {
+    width: 30%;
+    padding: 10px;
+  }
+
   &-img {
     width: 60%;
     transition: transform 0.3s ease 0s;
@@ -73,10 +91,6 @@
       }
     }
   }
-  
-}
-.card-content {
-  transform: rotateY(180deg);
 }
 .card-flipped {
   transform: rotateY(180deg);

@@ -19,8 +19,15 @@
       "Sp. Defense": 65,
       "Speed": 45
     },
-
-    "gen" : 1,
+    "evolution": {
+      "namevo1": "Bulbizarre",
+      "namevo2": "Herbizarre",
+      "namevo3": "Florizarre",
+      "evo1": "https://i.ibb.co/hCZnSQB/01.png",
+      "evo2": "https://i.ibb.co/SxQMjJc/02.png",
+      "evo3": "https://i.ibb.co/tJcfLsX/03.png"
+    },
+    "gen": 1,
     "url": "https://i.ibb.co/hCZnSQB/01.png"
   },
   {
@@ -43,7 +50,15 @@
       "Sp. Defense": 80,
       "Speed": 60
     },
-    "gen" : 1,
+    "evolution": {
+      "namevo1": "Bulbizarre",
+      "namevo2": "Herbizarre",
+      "namevo3": "Florizarre",
+      "evo1": "https://i.ibb.co/hCZnSQB/01.png",
+      "evo2": "https://i.ibb.co/SxQMjJc/02.png",
+      "evo3": "https://i.ibb.co/tJcfLsX/03.png"
+    },
+    "gen": 1,
     "url": "https://i.ibb.co/SxQMjJc/02.png"
   },
   {
@@ -66,7 +81,15 @@
       "Sp. Defense": 100,
       "Speed": 80
     },
-    "gen" : 1,
+    "evolution": {
+      "namevo1": "Bulbizarre",
+      "namevo2": "Herbizarre",
+      "namevo3": "Florizarre",
+      "evo1": "https://i.ibb.co/hCZnSQB/01.png",
+      "evo2": "https://i.ibb.co/SxQMjJc/02.png",
+      "evo3": "https://i.ibb.co/tJcfLsX/03.png"
+    },
+    "gen": 1,
     "url": "https://i.ibb.co/tJcfLsX/03.png"
   },
   {
@@ -88,7 +111,7 @@
       "Sp. Defense": 50,
       "Speed": 65
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/C8W1GZb/04.png"
   },
   {
@@ -110,7 +133,7 @@
       "Sp. Defense": 65,
       "Speed": 80
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/G7F5y4N/05.png"
   },
   {
@@ -133,7 +156,7 @@
       "Sp. Defense": 85,
       "Speed": 100
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/dgJfYD8/06.png"
   },
   {
@@ -155,7 +178,7 @@
       "Sp. Defense": 64,
       "Speed": 43
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/bK8r8gZ/07.png"
   },
   {
@@ -177,7 +200,7 @@
       "Sp. Defense": 80,
       "Speed": 58
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/Q9YtW6K/08.png"
   },
   {
@@ -199,7 +222,7 @@
       "Sp. Defense": 105,
       "Speed": 78
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/kqMJ55h/09.png"
   },
   {
@@ -221,7 +244,7 @@
       "Sp. Defense": 20,
       "Speed": 45
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/f2KQLVz/10.png"
   },
   {
@@ -243,7 +266,7 @@
       "Sp. Defense": 25,
       "Speed": 30
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/QDyJ523/11.png"
   },
   {
@@ -266,7 +289,7 @@
       "Sp. Defense": 80,
       "Speed": 70
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/nQ3HZXJ/12.png"
   },
   {
@@ -289,7 +312,7 @@
       "Sp. Defense": 20,
       "Speed": 50
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/6yXwRGN/13.png"
   },
   {
@@ -312,7 +335,7 @@
       "Sp. Defense": 25,
       "Speed": 35
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/P1RrY5j/14.png"
   },
   {
@@ -335,7 +358,7 @@
       "Sp. Defense": 80,
       "Speed": 75
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/9HJvwfL/15.png"
   },
   {
@@ -358,7 +381,7 @@
       "Sp. Defense": 35,
       "Speed": 56
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/w0bn9jT/16.png"
   },
   {
@@ -381,7 +404,7 @@
       "Sp. Defense": 50,
       "Speed": 71
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/WGrVYYG/17.png"
   },
   {
@@ -404,7 +427,7 @@
       "Sp. Defense": 70,
       "Speed": 101
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/JKYT353/18.png"
   },
   {
@@ -426,7 +449,7 @@
       "Sp. Defense": 35,
       "Speed": 72
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/rsgQJSJ/19.png"
   },
   {
@@ -448,7 +471,7 @@
       "Sp. Defense": 70,
       "Speed": 97
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/D8JpT1V/20.png"
   },
   {
@@ -471,7 +494,7 @@
       "Sp. Defense": 31,
       "Speed": 70
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/NZ8ZYWP/21.png"
   },
   {
@@ -494,7 +517,7 @@
       "Sp. Defense": 61,
       "Speed": 100
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/LScFMbJ/22.png"
   },
   {
@@ -516,7 +539,7 @@
       "Sp. Defense": 54,
       "Speed": 55
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/gv3RMQv/23.png"
   },
   {
@@ -538,7 +561,7 @@
       "Sp. Defense": 79,
       "Speed": 80
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/54SqZ6W/24.png"
   },
   {
@@ -560,7 +583,7 @@
       "Sp. Defense": 50,
       "Speed": 90
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/GWx8Wsv/25.png"
   },
   {
@@ -582,7 +605,7 @@
       "Sp. Defense": 80,
       "Speed": 110
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/zNhvN0W/26.png"
   },
   {
@@ -604,7 +627,7 @@
       "Sp. Defense": 30,
       "Speed": 40
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/Np0ZvfG/27.png"
   },
   {
@@ -626,7 +649,7 @@
       "Sp. Defense": 55,
       "Speed": 65
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/xfJ53SR/28.png"
   },
   {
@@ -648,7 +671,7 @@
       "Sp. Defense": 40,
       "Speed": 41
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/bHpjwxv/29.png"
   },
   {
@@ -670,7 +693,7 @@
       "Sp. Defense": 55,
       "Speed": 56
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/WDHpXPM/30.png"
   },
   {
@@ -693,7 +716,7 @@
       "Sp. Defense": 85,
       "Speed": 76
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/ww1VfVR/31.png"
   },
   {
@@ -715,7 +738,7 @@
       "Sp. Defense": 40,
       "Speed": 50
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/Jq8sCp5/32.png"
   },
   {
@@ -737,7 +760,7 @@
       "Sp. Defense": 55,
       "Speed": 65
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/1Mn20wF/33.png"
   },
   {
@@ -760,7 +783,7 @@
       "Sp. Defense": 75,
       "Speed": 85
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/VL2nfs2/34.png"
   },
   {
@@ -782,7 +805,7 @@
       "Sp. Defense": 65,
       "Speed": 35
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/x57L067/35.png"
   },
   {
@@ -804,7 +827,7 @@
       "Sp. Defense": 90,
       "Speed": 60
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/rF1LmBB/36.png"
   },
   {
@@ -826,7 +849,7 @@
       "Sp. Defense": 65,
       "Speed": 65
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/WBcD76d/37.png"
   },
   {
@@ -848,7 +871,7 @@
       "Sp. Defense": 100,
       "Speed": 100
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/F5SmD6x/38.png"
   },
   {
@@ -871,7 +894,7 @@
       "Sp. Defense": 25,
       "Speed": 20
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/ccpFyhN/39.png"
   },
   {
@@ -894,7 +917,7 @@
       "Sp. Defense": 50,
       "Speed": 45
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/gV6P46g/40.png"
   },
   {
@@ -917,7 +940,7 @@
       "Sp. Defense": 40,
       "Speed": 55
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/BNXkJvw/41.png"
   },
   {
@@ -940,7 +963,7 @@
       "Sp. Defense": 75,
       "Speed": 90
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/31h6v49/42.png"
   },
   {
@@ -963,7 +986,7 @@
       "Sp. Defense": 65,
       "Speed": 30
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/3rbZ1n3/43.png"
   },
   {
@@ -986,7 +1009,7 @@
       "Sp. Defense": 75,
       "Speed": 40
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/PzpfLQq/44.png"
   },
   {
@@ -1009,7 +1032,7 @@
       "Sp. Defense": 90,
       "Speed": 50
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/wKtNyFB/45.png"
   },
   {
@@ -1032,7 +1055,7 @@
       "Sp. Defense": 55,
       "Speed": 25
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/B6XDvtY/46.png"
   },
   {
@@ -1055,7 +1078,7 @@
       "Sp. Defense": 80,
       "Speed": 30
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/Wpn0zDJ/47.png"
   },
   {
@@ -1078,7 +1101,7 @@
       "Sp. Defense": 55,
       "Speed": 45
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/3Y6gy6d/48.png"
   },
   {
@@ -1101,7 +1124,7 @@
       "Sp. Defense": 75,
       "Speed": 90
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/fXXdbQX/49.png"
   },
   {
@@ -1123,7 +1146,7 @@
       "Sp. Defense": 45,
       "Speed": 95
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/vZ8bJMZ/50.png"
   },
   {
@@ -1145,7 +1168,7 @@
       "Sp. Defense": 70,
       "Speed": 120
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/82QnrqW/51.png"
   },
   {
@@ -1167,7 +1190,7 @@
       "Sp. Defense": 40,
       "Speed": 90
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/H7qqYYb/52.png"
   },
   {
@@ -1189,7 +1212,7 @@
       "Sp. Defense": 65,
       "Speed": 115
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/nkPVLK5/53.png"
   },
   {
@@ -1211,7 +1234,7 @@
       "Sp. Defense": 50,
       "Speed": 55
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/d74wFsY/54.png"
   },
   {
@@ -1233,7 +1256,7 @@
       "Sp. Defense": 80,
       "Speed": 85
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/d74wFsY/54.png"
   },
   {
@@ -1255,7 +1278,7 @@
       "Sp. Defense": 45,
       "Speed": 70
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/VQmvDJ8/56.png"
   },
   {
@@ -1277,7 +1300,7 @@
       "Sp. Defense": 70,
       "Speed": 95
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/qY88XRf/57.png"
   },
   {
@@ -1299,7 +1322,7 @@
       "Sp. Defense": 50,
       "Speed": 60
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/zx9Gg3C/58.png"
   },
   {
@@ -1321,7 +1344,7 @@
       "Sp. Defense": 80,
       "Speed": 95
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/B4x0wPT/59.png"
   },
   {
@@ -1343,7 +1366,7 @@
       "Sp. Defense": 40,
       "Speed": 90
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/fkgbtxG/60.png"
   },
   {
@@ -1365,7 +1388,7 @@
       "Sp. Defense": 50,
       "Speed": 90
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/LzG7pYZ/61.png"
   },
   {
@@ -1388,7 +1411,7 @@
       "Sp. Defense": 90,
       "Speed": 70
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/LkpGb8v/62.png"
   },
   {
@@ -1410,7 +1433,7 @@
       "Sp. Defense": 55,
       "Speed": 90
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/sWRqkK7/63.png"
   },
   {
@@ -1432,7 +1455,7 @@
       "Sp. Defense": 70,
       "Speed": 105
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/1XG8T6K/64.png"
   },
   {
@@ -1454,7 +1477,7 @@
       "Sp. Defense": 95,
       "Speed": 120
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/HHqrNSR/65.png"
   },
   {
@@ -1476,7 +1499,7 @@
       "Sp. Defense": 35,
       "Speed": 35
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/547W5t8/66.png"
   },
   {
@@ -1498,7 +1521,7 @@
       "Sp. Defense": 60,
       "Speed": 45
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/8gJGb22/67.png"
   },
   {
@@ -1520,7 +1543,7 @@
       "Sp. Defense": 85,
       "Speed": 55
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/Thcg6Mm/68.png"
   },
   {
@@ -1543,7 +1566,7 @@
       "Sp. Defense": 30,
       "Speed": 40
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/C0d4mQK/69.png"
   },
   {
@@ -1566,7 +1589,7 @@
       "Sp. Defense": 45,
       "Speed": 55
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/kgyjFQY/70.png"
   },
   {
@@ -1589,7 +1612,7 @@
       "Sp. Defense": 70,
       "Speed": 70
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/pJyGpN0/71.png"
   },
   {
@@ -1612,7 +1635,7 @@
       "Sp. Defense": 100,
       "Speed": 70
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/HVw8Jbb/72.png"
   },
   {
@@ -1635,7 +1658,7 @@
       "Sp. Defense": 120,
       "Speed": 100
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/TBX5zgG/73.png"
   },
   {
@@ -1658,7 +1681,7 @@
       "Sp. Defense": 30,
       "Speed": 20
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/HpdRnTG/74.png"
   },
   {
@@ -1681,7 +1704,7 @@
       "Sp. Defense": 45,
       "Speed": 35
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/k3df8sr/75.png"
   },
   {
@@ -1704,7 +1727,7 @@
       "Sp. Defense": 65,
       "Speed": 45
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/xJNjsyf/76.png"
   },
   {
@@ -1726,7 +1749,7 @@
       "Sp. Defense": 65,
       "Speed": 90
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/XpnzKdC/77.png"
   },
   {
@@ -1748,7 +1771,7 @@
       "Sp. Defense": 80,
       "Speed": 105
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/GTSpJpF/78.png"
   },
   {
@@ -1771,7 +1794,7 @@
       "Sp. Defense": 40,
       "Speed": 15
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/y6bc949/79.png"
   },
   {
@@ -1794,7 +1817,7 @@
       "Sp. Defense": 80,
       "Speed": 30
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/0Y0WnLz/80.png"
   },
   {
@@ -1817,7 +1840,7 @@
       "Sp. Defense": 55,
       "Speed": 45
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/W6xysqr/81.png"
   },
   {
@@ -1840,7 +1863,7 @@
       "Sp. Defense": 70,
       "Speed": 70
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/rwFX9KT/82.png"
   },
   {
@@ -1863,7 +1886,7 @@
       "Sp. Defense": 62,
       "Speed": 60
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/XkDn5bh/83.png"
   },
   {
@@ -1886,7 +1909,7 @@
       "Sp. Defense": 35,
       "Speed": 75
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/s9ygVt4/84.png"
   },
   {
@@ -1909,7 +1932,7 @@
       "Sp. Defense": 60,
       "Speed": 110
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/cw0hpqw/85.png"
   },
   {
@@ -1931,7 +1954,7 @@
       "Sp. Defense": 70,
       "Speed": 45
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/YjYBDnG/86.png"
   },
   {
@@ -1954,7 +1977,7 @@
       "Sp. Defense": 95,
       "Speed": 70
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/1bFxS2k/87.png"
   },
   {
@@ -1976,7 +1999,7 @@
       "Sp. Defense": 50,
       "Speed": 25
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/YXDfJr3/88.png"
   },
   {
@@ -1998,7 +2021,7 @@
       "Sp. Defense": 100,
       "Speed": 50
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/bggyjH4/89.png"
   },
   {
@@ -2020,7 +2043,7 @@
       "Sp. Defense": 25,
       "Speed": 40
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/K5yKPXw/90.png"
   },
   {
@@ -2043,7 +2066,7 @@
       "Sp. Defense": 45,
       "Speed": 70
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/FxrsHSf/91.png"
   },
   {
@@ -2066,7 +2089,7 @@
       "Sp. Defense": 35,
       "Speed": 80
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/gZnrvqk/92.png"
   },
   {
@@ -2089,7 +2112,7 @@
       "Sp. Defense": 55,
       "Speed": 95
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/3RZ2RSM/93.png"
   },
   {
@@ -2112,7 +2135,7 @@
       "Sp. Defense": 75,
       "Speed": 110
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/pw5PTcS/94.png"
   },
   {
@@ -2135,7 +2158,7 @@
       "Sp. Defense": 45,
       "Speed": 70
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/sF715T7/95.png"
   },
   {
@@ -2157,7 +2180,7 @@
       "Sp. Defense": 90,
       "Speed": 42
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/gFywVyh/96.png"
   },
   {
@@ -2179,7 +2202,7 @@
       "Sp. Defense": 115,
       "Speed": 67
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/mGsfN9S/97.png"
   },
   {
@@ -2201,7 +2224,7 @@
       "Sp. Defense": 25,
       "Speed": 50
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/Rh9Wrpf/98.png"
   },
   {
@@ -2223,7 +2246,7 @@
       "Sp. Defense": 50,
       "Speed": 75
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/KLBSdQv/99.png"
   },
   {
@@ -2245,7 +2268,7 @@
       "Sp. Defense": 55,
       "Speed": 100
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/84XLhhf/100.png"
   },
   {
@@ -2267,7 +2290,7 @@
       "Sp. Defense": 80,
       "Speed": 150
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/Y7b40cR/101.png"
   },
   {
@@ -2290,7 +2313,7 @@
       "Sp. Defense": 45,
       "Speed": 40
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/RQwZHP1/102.png"
   },
   {
@@ -2313,7 +2336,7 @@
       "Sp. Defense": 75,
       "Speed": 55
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/wRTPrvV/103.png"
   },
   {
@@ -2335,7 +2358,7 @@
       "Sp. Defense": 50,
       "Speed": 35
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/YjRWxRm/104.png"
   },
   {
@@ -2357,7 +2380,7 @@
       "Sp. Defense": 80,
       "Speed": 45
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/Bg4NmXC/105.png"
   },
   {
@@ -2379,7 +2402,7 @@
       "Sp. Defense": 110,
       "Speed": 87
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/cJvkrcd/106.png"
   },
   {
@@ -2401,7 +2424,7 @@
       "Sp. Defense": 110,
       "Speed": 76
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/6WwqFt3/107.png"
   },
   {
@@ -2423,7 +2446,7 @@
       "Sp. Defense": 75,
       "Speed": 30
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/p2zpVpW/108.png"
   },
   {
@@ -2445,7 +2468,7 @@
       "Sp. Defense": 45,
       "Speed": 35
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/DtKQRR2/109.png"
   },
   {
@@ -2467,7 +2490,7 @@
       "Sp. Defense": 70,
       "Speed": 60
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/mvKYB8B/110.png"
   },
   {
@@ -2490,7 +2513,7 @@
       "Sp. Defense": 30,
       "Speed": 25
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/KXbpCDf/111.png"
   },
   {
@@ -2513,7 +2536,7 @@
       "Sp. Defense": 45,
       "Speed": 40
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/dbN4SJh/112.png"
   },
   {
@@ -2535,7 +2558,7 @@
       "Sp. Defense": 105,
       "Speed": 50
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/KWN8KvR/113.png"
   },
   {
@@ -2557,7 +2580,7 @@
       "Sp. Defense": 40,
       "Speed": 60
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/Vq0y3Df/114.png"
   },
   {
@@ -2579,7 +2602,7 @@
       "Sp. Defense": 80,
       "Speed": 90
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/5Mg4cmy/115.png"
   },
   {
@@ -2601,7 +2624,7 @@
       "Sp. Defense": 25,
       "Speed": 60
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/ydqDywR/116.png"
   },
   {
@@ -2623,7 +2646,7 @@
       "Sp. Defense": 45,
       "Speed": 85
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/sPNrR68/117.png"
   },
   {
@@ -2645,7 +2668,7 @@
       "Sp. Defense": 50,
       "Speed": 63
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/tqYXLrn/118.png"
   },
   {
@@ -2667,7 +2690,7 @@
       "Sp. Defense": 80,
       "Speed": 68
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/nPsYwWk/119.png"
   },
   {
@@ -2689,7 +2712,7 @@
       "Sp. Defense": 55,
       "Speed": 85
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/CQXrY3B/120.png"
   },
   {
@@ -2712,7 +2735,7 @@
       "Sp. Defense": 85,
       "Speed": 115
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/h2wHtxh/121.png"
   },
   {
@@ -2735,7 +2758,7 @@
       "Sp. Defense": 120,
       "Speed": 90
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/6mBSNyf/122.png"
   },
   {
@@ -2758,7 +2781,7 @@
       "Sp. Defense": 80,
       "Speed": 105
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/9nD4d5x/123.png"
   },
   {
@@ -2781,7 +2804,7 @@
       "Sp. Defense": 95,
       "Speed": 95
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/JsK5Y6c/124.png"
   },
   {
@@ -2803,7 +2826,7 @@
       "Sp. Defense": 85,
       "Speed": 105
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/fpLfwHJ/125.png"
   },
   {
@@ -2825,7 +2848,7 @@
       "Sp. Defense": 85,
       "Speed": 93
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/yYwLQk6/126.png"
   },
   {
@@ -2847,7 +2870,7 @@
       "Sp. Defense": 70,
       "Speed": 85
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/sjw4mKd/127.png"
   },
   {
@@ -2869,7 +2892,7 @@
       "Sp. Defense": 70,
       "Speed": 110
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/SwkTkKK/128.png"
   },
   {
@@ -2891,7 +2914,7 @@
       "Sp. Defense": 20,
       "Speed": 80
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/7KGtn4z/129.png"
   },
   {
@@ -2914,7 +2937,7 @@
       "Sp. Defense": 100,
       "Speed": 81
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/6wByd3J/130.png"
   },
   {
@@ -2937,7 +2960,7 @@
       "Sp. Defense": 95,
       "Speed": 60
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/0YNM25J/131.png"
   },
   {
@@ -2959,7 +2982,7 @@
       "Sp. Defense": 48,
       "Speed": 48
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/m9ydN13/132.png"
   },
   {
@@ -2981,7 +3004,7 @@
       "Sp. Defense": 65,
       "Speed": 55
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/bB40V1D/133.png"
   },
   {
@@ -3003,7 +3026,7 @@
       "Sp. Defense": 95,
       "Speed": 65
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/yQQShB5/134.png"
   },
   {
@@ -3025,7 +3048,7 @@
       "Sp. Defense": 95,
       "Speed": 130
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/CBPv0zY/135.png"
   },
   {
@@ -3047,7 +3070,7 @@
       "Sp. Defense": 110,
       "Speed": 65
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/ysGycF6/136.png"
   },
   {
@@ -3069,7 +3092,7 @@
       "Sp. Defense": 75,
       "Speed": 40
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/SfqXcy4/137.png"
   },
   {
@@ -3092,7 +3115,7 @@
       "Sp. Defense": 55,
       "Speed": 35
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/fYTyDpK/138.png"
   },
   {
@@ -3115,7 +3138,7 @@
       "Sp. Defense": 70,
       "Speed": 55
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/DRf6fhg/139.png"
   },
   {
@@ -3138,7 +3161,7 @@
       "Sp. Defense": 45,
       "Speed": 55
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/jh7kPDT/140.png"
   },
   {
@@ -3161,7 +3184,7 @@
       "Sp. Defense": 70,
       "Speed": 80
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/p07x62j/141.png"
   },
   {
@@ -3184,7 +3207,7 @@
       "Sp. Defense": 75,
       "Speed": 130
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/GTqvHBj/142.png"
   },
   {
@@ -3206,7 +3229,7 @@
       "Sp. Defense": 110,
       "Speed": 30
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/XZsyXKV/143.png"
   },
   {
@@ -3229,7 +3252,7 @@
       "Sp. Defense": 125,
       "Speed": 85
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/4d8kGhM/144.png"
   },
   {
@@ -3252,7 +3275,7 @@
       "Sp. Defense": 90,
       "Speed": 100
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/Qd5m1M8/145.png"
   },
   {
@@ -3275,7 +3298,7 @@
       "Sp. Defense": 85,
       "Speed": 90
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/54R8Gg9/146.png"
   },
   {
@@ -3297,7 +3320,7 @@
       "Sp. Defense": 50,
       "Speed": 50
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/VjnrFRk/147.png"
   },
   {
@@ -3319,7 +3342,7 @@
       "Sp. Defense": 70,
       "Speed": 70
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/JFznK19/148.png"
   },
   {
@@ -3342,7 +3365,7 @@
       "Sp. Defense": 100,
       "Speed": 80
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/tsyT2xy/149.png"
   },
   {
@@ -3364,7 +3387,7 @@
       "Sp. Defense": 90,
       "Speed": 130
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/PMPLDwY/150.png"
   },
   {
@@ -3386,7 +3409,7 @@
       "Sp. Defense": 100,
       "Speed": 100
     },
-    "gen" : 1,
+    "gen": 1,
     "url": "https://i.ibb.co/HC8C0zH/151.png"
   },
   {
@@ -3408,7 +3431,7 @@
       "Sp. Defense": 65,
       "Speed": 45
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/w4W7HCQ/152.png"
   },
   {
@@ -3430,7 +3453,7 @@
       "Sp. Defense": 80,
       "Speed": 60
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/kGDtnGM/153.png"
   },
   {
@@ -3452,7 +3475,7 @@
       "Sp. Defense": 100,
       "Speed": 80
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/N2vfnVP/154.png"
   },
   {
@@ -3474,7 +3497,7 @@
       "Sp. Defense": 50,
       "Speed": 65
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/1RGDJQP/155.png"
   },
   {
@@ -3496,7 +3519,7 @@
       "Sp. Defense": 65,
       "Speed": 80
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/Pcs4NXH/156.png"
   },
   {
@@ -3518,7 +3541,7 @@
       "Sp. Defense": 85,
       "Speed": 100
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/k509382/157.png"
   },
   {
@@ -3540,7 +3563,7 @@
       "Sp. Defense": 48,
       "Speed": 43
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/6vSS4ZR/158.png"
   },
   {
@@ -3562,7 +3585,7 @@
       "Sp. Defense": 63,
       "Speed": 58
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/qrfhLsP/159.png"
   },
   {
@@ -3584,7 +3607,7 @@
       "Sp. Defense": 83,
       "Speed": 78
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/ZYLPfxn/160.png"
   },
   {
@@ -3606,7 +3629,7 @@
       "Sp. Defense": 45,
       "Speed": 20
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/Hg9DXs9/161.png"
   },
   {
@@ -3628,7 +3651,7 @@
       "Sp. Defense": 55,
       "Speed": 90
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/8zkprqC/162.png"
   },
   {
@@ -3651,7 +3674,7 @@
       "Sp. Defense": 56,
       "Speed": 50
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/YjYj887/163.png"
   },
   {
@@ -3674,7 +3697,7 @@
       "Sp. Defense": 96,
       "Speed": 70
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/Y7hds2p/164.png"
   },
   {
@@ -3697,7 +3720,7 @@
       "Sp. Defense": 80,
       "Speed": 55
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/sbvbD4r/165.png"
   },
   {
@@ -3720,7 +3743,7 @@
       "Sp. Defense": 110,
       "Speed": 85
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/TbD2Fn6/166.png"
   },
   {
@@ -3743,7 +3766,7 @@
       "Sp. Defense": 40,
       "Speed": 30
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/whv1CCM/167.png"
   },
   {
@@ -3766,7 +3789,7 @@
       "Sp. Defense": 70,
       "Speed": 40
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/j8bwnz2/168.png"
   },
   {
@@ -3789,7 +3812,7 @@
       "Sp. Defense": 80,
       "Speed": 130
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/hR0zd0T/169.png"
   },
   {
@@ -3812,7 +3835,7 @@
       "Sp. Defense": 56,
       "Speed": 67
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/P4v806J/170.png"
   },
   {
@@ -3835,7 +3858,7 @@
       "Sp. Defense": 76,
       "Speed": 67
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/K9z9Z7W/171.png"
   },
   {
@@ -3857,7 +3880,7 @@
       "Sp. Defense": 35,
       "Speed": 60
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/8dkhyrs/172.png"
   },
   {
@@ -3879,7 +3902,7 @@
       "Sp. Defense": 55,
       "Speed": 15
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/m9DKNXK/173.png"
   },
   {
@@ -3902,7 +3925,7 @@
       "Sp. Defense": 20,
       "Speed": 15
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/1Q4SYNc/174.png"
   },
   {
@@ -3924,7 +3947,7 @@
       "Sp. Defense": 65,
       "Speed": 20
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/nf46s3R/175.png"
   },
   {
@@ -3947,7 +3970,7 @@
       "Sp. Defense": 105,
       "Speed": 40
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/9TC1Pcz/176.png"
   },
   {
@@ -3970,7 +3993,7 @@
       "Sp. Defense": 45,
       "Speed": 70
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/SdpRn5g/177.png"
   },
   {
@@ -3993,7 +4016,7 @@
       "Sp. Defense": 70,
       "Speed": 95
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/xXFxqQQ/178.png"
   },
   {
@@ -4015,7 +4038,7 @@
       "Sp. Defense": 45,
       "Speed": 35
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/pRgsgqd/179.png"
   },
   {
@@ -4037,7 +4060,7 @@
       "Sp. Defense": 60,
       "Speed": 45
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/LZ41NNc/180.png"
   },
   {
@@ -4059,7 +4082,7 @@
       "Sp. Defense": 90,
       "Speed": 55
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/bjhxkNf/181.png"
   },
   {
@@ -4081,7 +4104,7 @@
       "Sp. Defense": 100,
       "Speed": 50
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/H7QScF8/182.png"
   },
   {
@@ -4104,7 +4127,7 @@
       "Sp. Defense": 50,
       "Speed": 40
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/ySv907W/183.png"
   },
   {
@@ -4127,7 +4150,7 @@
       "Sp. Defense": 80,
       "Speed": 50
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/pzV7xDP/184.png"
   },
   {
@@ -4149,7 +4172,7 @@
       "Sp. Defense": 65,
       "Speed": 30
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/tLz9N0p/185.png"
   },
   {
@@ -4171,7 +4194,7 @@
       "Sp. Defense": 100,
       "Speed": 70
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/hYpdVfb/186.png"
   },
   {
@@ -4194,7 +4217,7 @@
       "Sp. Defense": 55,
       "Speed": 50
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/Gx1pLr4/187.png"
   },
   {
@@ -4217,7 +4240,7 @@
       "Sp. Defense": 65,
       "Speed": 80
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/HdGpLXw/188.png"
   },
   {
@@ -4240,7 +4263,7 @@
       "Sp. Defense": 95,
       "Speed": 110
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/q0RsTLc/189.png"
   },
   {
@@ -4262,7 +4285,7 @@
       "Sp. Defense": 55,
       "Speed": 85
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/FKqfgjQ/190.png"
   },
   {
@@ -4284,7 +4307,7 @@
       "Sp. Defense": 30,
       "Speed": 30
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/3NfCWg8/191.png"
   },
   {
@@ -4306,7 +4329,7 @@
       "Sp. Defense": 85,
       "Speed": 30
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/jf2dqSz/192.png"
   },
   {
@@ -4329,7 +4352,7 @@
       "Sp. Defense": 45,
       "Speed": 95
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/jbWHS3d/193.png"
   },
   {
@@ -4352,7 +4375,7 @@
       "Sp. Defense": 25,
       "Speed": 15
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/y6HM8yR/194.png"
   },
   {
@@ -4375,7 +4398,7 @@
       "Sp. Defense": 65,
       "Speed": 35
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/qxgyxn4/195.png"
   },
   {
@@ -4397,7 +4420,7 @@
       "Sp. Defense": 95,
       "Speed": 110
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/y093pNg/196.png"
   },
   {
@@ -4419,7 +4442,7 @@
       "Sp. Defense": 130,
       "Speed": 65
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/RS0BzV8/197.png"
   },
   {
@@ -4442,7 +4465,7 @@
       "Sp. Defense": 42,
       "Speed": 91
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/YfYTQXs/198.png"
   },
   {
@@ -4465,7 +4488,7 @@
       "Sp. Defense": 110,
       "Speed": 30
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/48nfskP/199.png"
   },
   {
@@ -4487,7 +4510,7 @@
       "Sp. Defense": 85,
       "Speed": 85
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/FqxLY09/200.png"
   },
   {
@@ -4509,7 +4532,7 @@
       "Sp. Defense": 48,
       "Speed": 48
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/3s0ZmS8/201.png"
   },
   {
@@ -4531,7 +4554,7 @@
       "Sp. Defense": 58,
       "Speed": 33
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/rHJqwTv/202.png"
   },
   {
@@ -4554,7 +4577,7 @@
       "Sp. Defense": 65,
       "Speed": 85
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/wzdTFmx/203.png"
   },
   {
@@ -4576,7 +4599,7 @@
       "Sp. Defense": 35,
       "Speed": 15
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/ctP8BYh/204.png"
   },
   {
@@ -4599,7 +4622,7 @@
       "Sp. Defense": 60,
       "Speed": 40
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/y815wBh/205.png"
   },
   {
@@ -4621,7 +4644,7 @@
       "Sp. Defense": 65,
       "Speed": 45
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/r5ChQpk/206.png"
   },
   {
@@ -4644,7 +4667,7 @@
       "Sp. Defense": 65,
       "Speed": 85
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/qNtNYN5/207.png"
   },
   {
@@ -4667,7 +4690,7 @@
       "Sp. Defense": 65,
       "Speed": 30
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/Cwztbd8/208.png"
   },
   {
@@ -4689,7 +4712,7 @@
       "Sp. Defense": 40,
       "Speed": 30
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/9398Wxb/209.png"
   },
   {
@@ -4711,7 +4734,7 @@
       "Sp. Defense": 60,
       "Speed": 45
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/0VzwjtP/210.png"
   },
   {
@@ -4734,7 +4757,7 @@
       "Sp. Defense": 55,
       "Speed": 85
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/2SZfBmN/211.png"
   },
   {
@@ -4757,7 +4780,7 @@
       "Sp. Defense": 80,
       "Speed": 65
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/QKhB7hD/212.png"
   },
   {
@@ -4780,7 +4803,7 @@
       "Sp. Defense": 230,
       "Speed": 5
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/dbbGBhk/213.png"
   },
   {
@@ -4803,7 +4826,7 @@
       "Sp. Defense": 95,
       "Speed": 85
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/MGJLx5d/214.png"
   },
   {
@@ -4826,7 +4849,7 @@
       "Sp. Defense": 75,
       "Speed": 115
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/ZSXPFzH/215.png"
   },
   {
@@ -4848,7 +4871,7 @@
       "Sp. Defense": 50,
       "Speed": 40
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/SJgFWh9/216.png"
   },
   {
@@ -4870,7 +4893,7 @@
       "Sp. Defense": 75,
       "Speed": 55
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/VWyDW6x/217.png"
   },
   {
@@ -4892,7 +4915,7 @@
       "Sp. Defense": 40,
       "Speed": 20
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/n7mv0bn/218.png"
   },
   {
@@ -4915,7 +4938,7 @@
       "Sp. Defense": 80,
       "Speed": 30
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/ZXr3Bsc/219.png"
   },
   {
@@ -4938,7 +4961,7 @@
       "Sp. Defense": 30,
       "Speed": 50
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/t84s5kb/220.png"
   },
   {
@@ -4961,7 +4984,7 @@
       "Sp. Defense": 60,
       "Speed": 50
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/HNmnbqz/221.png"
   },
   {
@@ -4984,7 +5007,7 @@
       "Sp. Defense": 95,
       "Speed": 35
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/8x1xSQM/222.png"
   },
   {
@@ -5006,7 +5029,7 @@
       "Sp. Defense": 35,
       "Speed": 65
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/g9F9Ywj/223.png"
   },
   {
@@ -5028,7 +5051,7 @@
       "Sp. Defense": 75,
       "Speed": 45
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/QMSRvZr/224.png"
   },
   {
@@ -5051,7 +5074,7 @@
       "Sp. Defense": 45,
       "Speed": 75
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/McCKc22/225.png"
   },
   {
@@ -5074,7 +5097,7 @@
       "Sp. Defense": 140,
       "Speed": 70
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/6mwQ8cp/226.png"
   },
   {
@@ -5097,7 +5120,7 @@
       "Sp. Defense": 70,
       "Speed": 70
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/26BbcVw/227.png"
   },
   {
@@ -5120,7 +5143,7 @@
       "Sp. Defense": 50,
       "Speed": 65
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/gJzGC20/228.png"
   },
   {
@@ -5143,7 +5166,7 @@
       "Sp. Defense": 80,
       "Speed": 95
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/mtmTH1j/229.png"
   },
   {
@@ -5166,7 +5189,7 @@
       "Sp. Defense": 95,
       "Speed": 85
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/CBP3ckG/230.png"
   },
   {
@@ -5188,7 +5211,7 @@
       "Sp. Defense": 40,
       "Speed": 40
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/ZGpW1pg/231.png"
   },
   {
@@ -5210,7 +5233,7 @@
       "Sp. Defense": 60,
       "Speed": 50
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/zSB294V/232.png"
   },
   {
@@ -5232,7 +5255,7 @@
       "Sp. Defense": 95,
       "Speed": 60
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/4NRHR7L/233.png"
   },
   {
@@ -5254,7 +5277,7 @@
       "Sp. Defense": 65,
       "Speed": 85
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/b6bSVTj/234.png"
   },
   {
@@ -5276,7 +5299,7 @@
       "Sp. Defense": 45,
       "Speed": 75
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/0ykWR83/235.png"
   },
   {
@@ -5298,7 +5321,7 @@
       "Sp. Defense": 35,
       "Speed": 35
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/56jhQSg/236.png"
   },
   {
@@ -5320,7 +5343,7 @@
       "Sp. Defense": 110,
       "Speed": 70
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/smpDGjd/237.png"
   },
   {
@@ -5343,7 +5366,7 @@
       "Sp. Defense": 65,
       "Speed": 65
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/QCKxKXF/238.png"
   },
   {
@@ -5365,7 +5388,7 @@
       "Sp. Defense": 55,
       "Speed": 95
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/bPYvH2x/239.png"
   },
   {
@@ -5387,7 +5410,7 @@
       "Sp. Defense": 55,
       "Speed": 83
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/nRtgt8B/240.png"
   },
   {
@@ -5409,7 +5432,7 @@
       "Sp. Defense": 70,
       "Speed": 100
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/3BzLdwz/241.png"
   },
   {
@@ -5431,7 +5454,7 @@
       "Sp. Defense": 135,
       "Speed": 55
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/3RPfK9Z/242.png"
   },
   {
@@ -5453,7 +5476,7 @@
       "Sp. Defense": 100,
       "Speed": 115
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/t2YS4f9/243.png"
   },
   {
@@ -5475,7 +5498,7 @@
       "Sp. Defense": 75,
       "Speed": 100
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/9NtY3kr/244.png"
   },
   {
@@ -5497,7 +5520,7 @@
       "Sp. Defense": 115,
       "Speed": 85
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/FYPLt07/245.png"
   },
   {
@@ -5520,7 +5543,7 @@
       "Sp. Defense": 50,
       "Speed": 41
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/42FsjP3/246.png"
   },
   {
@@ -5543,7 +5566,7 @@
       "Sp. Defense": 70,
       "Speed": 51
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/MPHvM4p/247.png"
   },
   {
@@ -5566,7 +5589,7 @@
       "Sp. Defense": 100,
       "Speed": 61
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/d7Jz2fp/248.png"
   },
   {
@@ -5589,7 +5612,7 @@
       "Sp. Defense": 154,
       "Speed": 110
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/whhBdk0/249.png"
   },
   {
@@ -5612,7 +5635,7 @@
       "Sp. Defense": 154,
       "Speed": 90
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/KDsbHnb/250.png"
   },
   {
@@ -5635,7 +5658,7 @@
       "Sp. Defense": 100,
       "Speed": 100
     },
-    "gen" : 2,
+    "gen": 2,
     "url": "https://i.ibb.co/DDqd03M/251.png"
   },
   {

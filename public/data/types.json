@@ -42,12 +42,6 @@
     "french": "Insecte"
   },
   {
-    "english": "Ghost",
-    "chinese": "幽灵",
-    "japanese": "ゴースト",
-    "french": "Fantome"
-  },
-  {
     "english": "Steel",
     "chinese": "钢",
     "japanese": "はがね",
@@ -70,7 +64,6 @@
     "chinese": "草",
     "japanese": "くさ",
     "french": "Plante"
-    
   },
   {
     "english": "Electric",
@@ -100,7 +93,7 @@
     "english": "Dark",
     "chinese": "恶",
     "japanese": "あく",
-    "french": "Tenebre"
+    "french": "Ténèbres"
   },
   {
     "english": "Fairy",

@@ -5,7 +5,7 @@ import {
 } from 'prop-types';
 
 function Card({
-  id, name, type, base, gen, url,
+  id, name, type, base, gen, url, evolution,
 }) {
   // eslint-disable-next-line no-shadow
   function getColorForType(type) {
@@ -446,9 +446,15 @@ function Card({
     >
       {showBack ? (
         <div className="card-content">
-          <p className="card-type">Pokémon de génération {gen}</p>
-          <p className="card-type">Pokémon de génération {gen}</p>
-          <p className="card-type">Pokémon de génération {gen}</p>
+          <p className="card-type-p">Les différentes évolution de ce pokemon</p>
+          <p className="card-type-p">{evolution.namevo1}</p>
+          <img className="card-img-evol" src={evolution.evo1} alt="Pokemon de base" />
+          <p className="card-type-p">Niveau 16 ▼</p>
+          <p className="card-type-p">{evolution.namevo2}</p>
+          <img className="card-img-evol" src={evolution.evo2} alt="Évolution 2" />
+          <p className="card-type-p">Niveau 32 ▼</p>
+          <p className="card-type-p">{evolution.namevo3}</p>
+          <img className="card-img-evol" src={evolution.evo3} alt="Évolution 3" />
         </div>
       ) : (
         <>
@@ -515,6 +521,14 @@ Card.propTypes = {
   }).isRequired,
   gen: number.isRequired,
   url: string.isRequired,
+  evolution: shape({
+    nameevo1: string,
+    nameevo2: string,
+    nameevo3: string,
+    evo1: string,
+    evo2: string,
+    evo3: string,
+  }).isRequired,
 };
 
 export default Card;

@@ -4,10 +4,12 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  flex-direction: column;
   margin-top: 5px;
   margin-bottom: 5px;
   transform-style: preserve-3d;
   transition: transform 1000ms;
+  align-items: center;
 
   &-all {
     display: flex;
@@ -26,7 +28,9 @@
     box-shadow: 1px 0px 20px black;
     margin-top: 20px;
     background-color: #d3d3d3;
+    width: 200px;
   }
+
   
   &-button-down {
     padding: 20px;
@@ -35,5 +39,6 @@
     font-size: 16px;
     box-shadow: 1px 0px 20px black;
     background-color: #d3d3d3;
+    width: 200px;
   }
 }
