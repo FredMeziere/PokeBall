@@ -3476,6 +3476,24 @@
       "Sp. Defense": 60,
       "Speed": 110
     },
+    "evolution": {
+      "namevo1": "Doduo",
+      "namevo2": "Dodrio",
+      "namevo3": "",
+      "evo1": "https://i.ibb.co/s9ygVt4/84.png",
+      "evo2": "https://i.ibb.co/cw0hpqw/85.png",
+      "evo3": ""
+    },
+    "levels": {
+      "lvl1": 31
+    },
+    "talents": {
+      "talent1": "Fuite",
+      "description1": "permet de fuir n'importe quel Pokémon sauvage.",
+      "talent2": "Matinal",
+      "description2": "le Pokémon se réveille deux fois plus rapidement que les autres."
+    },
+    "pokemonetymo": "Dodrio vient de dodo et de trio",
     "gen": 1,
     "url": "https://i.ibb.co/cw0hpqw/85.png"
   },
@@ -3499,23 +3517,23 @@
       "Speed": 45
     },
     "evolution": {
-      "namevo1": "Doduo",
-      "namevo2": "Dodrio",
+      "namevo1": "Otaria",
+      "namevo2": "Lamantine",
       "namevo3": "",
-      "evo1": "https://i.ibb.co/s9ygVt4/84.png",
-      "evo2": "https://i.ibb.co/cw0hpqw/85.png",
+      "evo1": "https://i.ibb.co/YjYBDnG/86.png",
+      "evo2": "https://i.ibb.co/1bFxS2k/87.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 31
+      "lvl1": 34
     },
     "talents": {
-      "talent1": "Fuite",
-      "description1": "permet de fuir n'importe quel Pokémon sauvage.",
-      "talent2": "Matinal",
-      "description2": "le Pokémon se réveille deux fois plus rapidement que les autres."
+      "talent1": "Isograisse",
+      "description1": "le Pokémon est protégé par une épaisse couche de graisse qui diminue de moitié les dégâts qu'il subit des capacités de types Feu et Glace.",
+      "talent2": "Hydratation",
+      "description2": "soigne les altérations de statut du Pokémon quand il pleut."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Otaria vient d'otarie avec ajout d'un suffixe poétique.",
     "gen": 1,
     "url": "https://i.ibb.co/YjYBDnG/86.png"
   },
@@ -3540,24 +3558,23 @@
       "Speed": 70
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Otaria",
+      "namevo2": "Lamantine",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/YjYBDnG/86.png",
+      "evo2": "https://i.ibb.co/1bFxS2k/87.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 34
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Isograisse",
+      "description1": "le Pokémon est protégé par une épaisse couche de graisse qui diminue de moitié les dégâts qu'il subit des capacités de types Feu et Glace.",
+      "talent2": "Hydratation",
+      "description2": "soigne les altérations de statut du Pokémon quand il pleut."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Lamantine vient de lamantin et de comptine",
     "gen": 1,
     "url": "https://i.ibb.co/1bFxS2k/87.png"
   },
@@ -3581,24 +3598,23 @@
       "Speed": 25
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Tadmorv",
+      "namevo2": "Grotadmorv",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/YXDfJr3/88.png",
+      "evo2": "https://i.ibb.co/bggyjH4/89.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 38
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Puanteur",
+      "description1": "le Pokémon émet une odeur si nauséabonde qu'il peut effrayer sa cible. La puanteur permet également de diminuer les rencontres de Pokémon sauvages dans la nature.",
+      "talent2": "Glu",
+      "description2": "les objets sont collés au corps gluant du Pokémon, ce qui empêche ses adversaires de les dérober."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Tadmorv vient de l'expression tas de morve.",
     "gen": 1,
     "url": "https://i.ibb.co/YXDfJr3/88.png"
   },
@@ -3622,24 +3638,23 @@
       "Speed": 50
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Tadmorv",
+      "namevo2": "Grotadmorv",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/YXDfJr3/88.png",
+      "evo2": "https://i.ibb.co/bggyjH4/89.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 38
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Puanteur",
+      "description1": "le Pokémon émet une odeur si nauséabonde qu'il peut effrayer sa cible. La puanteur permet également de diminuer les rencontres de Pokémon sauvages dans la nature.",
+      "talent2": "Glu",
+      "description2": "les objets sont collés au corps gluant du Pokémon, ce qui empêche ses adversaires de les dérober."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Grotadmorv vient de l'expression gros tas de morve.",
     "gen": 1,
     "url": "https://i.ibb.co/bggyjH4/89.png"
   },
@@ -3663,24 +3678,23 @@
       "Speed": 40
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Kokiyas",
+      "namevo2": "Crustabri",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/K5yKPXw/90.png",
+      "evo2": "https://i.ibb.co/FxrsHSf/91.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Avec une Pierre Eau"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Coque Armure",
+      "description1": " le Pokémon est protégé des coups critiques par sa carapace.",
+      "talent2": "Multi-Coups",
+      "description2": "les capacités pouvant frapper plusieurs fois frappent toujours le nombre maximum de coups."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Kokiyas vient de coquillage.",
     "gen": 1,
     "url": "https://i.ibb.co/K5yKPXw/90.png"
   },
@@ -3705,24 +3719,23 @@
       "Speed": 70
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Kokiyas",
+      "namevo2": "Crustabri",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/K5yKPXw/90.png",
+      "evo2": "https://i.ibb.co/FxrsHSf/91.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Avec une Pierre Eau"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Coque Armure",
+      "description1": " le Pokémon est protégé des coups critiques par sa carapace.",
+      "talent2": "Multi-Coups",
+      "description2": "les capacités pouvant frapper plusieurs fois frappent toujours le nombre maximum de coups."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Crustabri vient de crustacé et d'abri.",
     "gen": 1,
     "url": "https://i.ibb.co/FxrsHSf/91.png"
   },
@@ -3747,24 +3760,24 @@
       "Speed": 80
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Fantominus",
+      "namevo2": "Spectrum",
+      "namevo3": "Ectoplasma",
+      "evo1": "https://i.ibb.co/gZnrvqk/92.png",
+      "evo2": "https://i.ibb.co/3RZ2RSM/93.png",
+      "evo3": "https://i.ibb.co/pw5PTcS/94.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 25,
+      "lvl2": "Échange ou Au contact d'un Fil de Liaison"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Lévitation",
+      "description1": "le Pokémon flotte, ce qui l'immunise contre les capacités de type Sol.",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Fantominus vient de fantôme et de minus",
     "gen": 1,
     "url": "https://i.ibb.co/gZnrvqk/92.png"
   },
@@ -3789,24 +3802,24 @@
       "Speed": 95
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Fantominus",
+      "namevo2": "Spectrum",
+      "namevo3": "Ectoplasma",
+      "evo1": "https://i.ibb.co/gZnrvqk/92.png",
+      "evo2": "https://i.ibb.co/3RZ2RSM/93.png",
+      "evo3": "https://i.ibb.co/pw5PTcS/94.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 25,
+      "lvl2": "Échange ou Au contact d'un Fil de Liaison"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Lévitation",
+      "description1": "le Pokémon flotte, ce qui l'immunise contre les capacités de type Sol.",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Spectrum vient de spectre avec ajout d'un suffixe scientifique.",
     "gen": 1,
     "url": "https://i.ibb.co/3RZ2RSM/93.png"
   },
@@ -3831,24 +3844,24 @@
       "Speed": 110
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Fantominus",
+      "namevo2": "Spectrum",
+      "namevo3": "Ectoplasma",
+      "evo1": "https://i.ibb.co/gZnrvqk/92.png",
+      "evo2": "https://i.ibb.co/3RZ2RSM/93.png",
+      "evo3": "https://i.ibb.co/pw5PTcS/94.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 25,
+      "lvl2": "Échange ou Au contact d'un Fil de Liaison"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Lévitation",
+      "description1": "le Pokémon flotte, ce qui l'immunise contre les capacités de type Sol.",
+      "talent2": "Corps Maudit",
+      "description2": "quand le Pokémon est touché par une capacité, il inflige parfois Entrave sur celle-ci."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Ectoplasma vient d'ectoplasme.",
     "gen": 1,
     "url": "https://i.ibb.co/pw5PTcS/94.png"
   },
@@ -3873,24 +3886,24 @@
       "Speed": 70
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Onix",
+      "namevo2": "Steelix",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/sF715T7/95.png",
+      "evo2": "https://i.ibb.co/Cwztbd8/208.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Au contact d'une Peau Métal",
+      "lvl2": ""
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Tête de Roc",
+      "description1": "le Pokémon peut utiliser des capacités occasionnant un contrecoup sans perdre de PV.",
+      "talent2": "Fermeté",
+      "description2": "le Pokémon encaisse toujours au moins une attaque s'il a tous ses PV. Il est également immunisé contre les capacités pouvant mettre K.O. en un coup."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Onix vient d'onyx, une pierre variante de calcédoine",
     "gen": 1,
     "url": "https://i.ibb.co/sF715T7/95.png"
   },
@@ -3914,24 +3927,23 @@
       "Speed": 42
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Soporifik",
+      "namevo2": "Hypnomade",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/gFywVyh/96.png",
+      "evo2": "https://i.ibb.co/mGsfN9S/97.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 26
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Insomnia",
+      "description1": "le Pokémon est incapable de dormir.",
+      "talent2": "Prédiction",
+      "description2": "révèle l'une des capacités de l'ennemi quand le combat commence."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Soporifik vient d'une déformation de soporifique.",
     "gen": 1,
     "url": "https://i.ibb.co/gFywVyh/96.png"
   },
@@ -3955,24 +3967,23 @@
       "Speed": 67
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Soporifik",
+      "namevo2": "Hypnomade",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/gFywVyh/96.png",
+      "evo2": "https://i.ibb.co/mGsfN9S/97.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 26
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Insomnia",
+      "description1": "le Pokémon est incapable de dormir.",
+      "talent2": "Prédiction",
+      "description2": "révèle l'une des capacités de l'ennemi quand le combat commence."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Hypnomade vient d'hypnose et de nomade.",
     "gen": 1,
     "url": "https://i.ibb.co/mGsfN9S/97.png"
   },
@@ -3996,24 +4007,23 @@
       "Speed": 50
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Krabby",
+      "namevo2": "Krabboss",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/Rh9Wrpf/98.png",
+      "evo2": "https://i.ibb.co/KLBSdQv/99.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 28
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Hyper Cutter",
+      "description1": "le Pokémon est armé de lames tranchantes qui font sa fierté et empêchent son Attaque de baisser.",
+      "talent2": "Coque Armure",
+      "description2": "le Pokémon est protégé des coups critiques par sa carapace."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Krabby vient de crabe et de baby(bébé)",
     "gen": 1,
     "url": "https://i.ibb.co/Rh9Wrpf/98.png"
   },
@@ -4037,24 +4047,23 @@
       "Speed": 75
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Krabby",
+      "namevo2": "Krabboss",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/Rh9Wrpf/98.png",
+      "evo2": "https://i.ibb.co/KLBSdQv/99.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 28
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Hyper Cutter",
+      "description1": "le Pokémon est armé de lames tranchantes qui font sa fierté et empêchent son Attaque de baisser.",
+      "talent2": "Coque Armure",
+      "description2": "le Pokémon est protégé des coups critiques par sa carapace."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Krabboss vient de crabe et de boss.",
     "gen": 1,
     "url": "https://i.ibb.co/KLBSdQv/99.png"
   },
@@ -4078,11 +4087,11 @@
       "Speed": 100
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Voltorbe",
+      "namevo2": "Électrode",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/84XLhhf/100.png",
+      "evo2": "https://i.ibb.co/Y7b40cR/101.png",
       "evo3": ""
     },
     "levels": {
@@ -4090,12 +4099,12 @@
       "lvl2": 32
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "https://i.ibb.co/Y7b40cR/101.png",
+      "description1": "protège le Pokémon de toutes les capacités sonores.",
+      "talent2": "Statik",
+      "description2": "le Pokémon charge son corps en électricité statique, et tout contact avec lui peut paralyser."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Voltorbe pourrait venir de volt et d'orbe",
     "gen": 1,
     "url": "https://i.ibb.co/84XLhhf/100.png"
   },
@@ -4119,11 +4128,11 @@
       "Speed": 150
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Voltorbe",
+      "namevo2": "Électrode",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/84XLhhf/100.png",
+      "evo2": "https://i.ibb.co/Y7b40cR/101.png",
       "evo3": ""
     },
     "levels": {
@@ -4131,12 +4140,12 @@
       "lvl2": 32
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "https://i.ibb.co/Y7b40cR/101.png",
+      "description1": "protège le Pokémon de toutes les capacités sonores.",
+      "talent2": "Statik",
+      "description2": "le Pokémon charge son corps en électricité statique, et tout contact avec lui peut paralyser."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Électrode pourrait venir d'électrode",
     "gen": 1,
     "url": "https://i.ibb.co/Y7b40cR/101.png"
   },
