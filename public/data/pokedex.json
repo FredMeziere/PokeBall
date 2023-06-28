@@ -1557,7 +1557,7 @@
       "talent2": "Sécheresse",
       "description2": "le soleil se met à briller quand le Pokémon entre au combat."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Feunard vient de feu et de renard[2]. Feun est aussi le verlan de neuf, en référence à ses neuf queues",
     "gen": 1,
     "url": "https://i.ibb.co/F5SmD6x/38.png"
   },
@@ -1582,24 +1582,24 @@
       "Speed": 20
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Toudoudou",
+      "namevo2": "Rondoudou",
+      "namevo3": "Grodoudou",
+      "evo1": "https://i.ibb.co/1Q4SYNc/174.png",
+      "evo2": "https://i.ibb.co/ccpFyhN/39.png",
+      "evo3": "https://i.ibb.co/gV6P46g/40.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Bonheur",
+      "lvl2": "Pierre Lune"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Joli Sourire",
+      "description1": "peut rendre amoureux l'attaquant lorsque le Pokémon subit une attaque directe.",
+      "talent2": "Battant",
+      "description2": "augmente beaucoup l'Attaque Spéciale du Pokémon quand ses stats baissent."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Rondoudou vient de roudoudou, de rond et de doux",
     "gen": 1,
     "url": "https://i.ibb.co/ccpFyhN/39.png"
   },
@@ -1624,24 +1624,24 @@
       "Speed": 45
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Toudoudou",
+      "namevo2": "Rondoudou",
+      "namevo3": "Grodoudou",
+      "evo1": "https://i.ibb.co/1Q4SYNc/174.png",
+      "evo2": "https://i.ibb.co/ccpFyhN/39.png",
+      "evo3": "https://i.ibb.co/gV6P46g/40.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Bonheur",
+      "lvl2": "Pierre Lune"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Joli Sourire",
+      "description1": "peut rendre amoureux l'attaquant lorsque le Pokémon subit une attaque directe.",
+      "talent2": "Battant",
+      "description2": "augmente beaucoup l'Attaque Spéciale du Pokémon quand ses stats baissent."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Grodoudou vient de gros et de doudou",
     "gen": 1,
     "url": "https://i.ibb.co/gV6P46g/40.png"
   },
@@ -1666,24 +1666,24 @@
       "Speed": 55
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Nosferapti",
+      "namevo2": "Nosferalto",
+      "namevo3": "Nostenfer",
+      "evo1": "https://i.ibb.co/BNXkJvw/41.png",
+      "evo2": "https://i.ibb.co/31h6v49/42.png",
+      "evo3": "https://i.ibb.co/hR0zd0T/169.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 22,
+      "lvl2": "Bonheur"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Attention",
+      "description1": " le Pokémon a un mental à toute épreuve qui empêche les capacités ennemies de lui faire peur.",
+      "talent2": "Infiltration",
+      "description2": " traverse les barrières et les clones de l'ennemi pour attaquer directement."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Nosferapti vient de Nosferatu et de petit",
     "gen": 1,
     "url": "https://i.ibb.co/BNXkJvw/41.png"
   },
@@ -1708,24 +1708,24 @@
       "Speed": 90
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Nosferapti",
+      "namevo2": "Nosferalto",
+      "namevo3": "Nostenfer",
+      "evo1": "https://i.ibb.co/BNXkJvw/41.png",
+      "evo2": "https://i.ibb.co/31h6v49/42.png",
+      "evo3": "https://i.ibb.co/hR0zd0T/169.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 22,
+      "lvl2": "Bonheur"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Attention",
+      "description1": " le Pokémon a un mental à toute épreuve qui empêche les capacités ennemies de lui faire peur.",
+      "talent2": "Infiltration",
+      "description2": " traverse les barrières et les clones de l'ennemi pour attaquer directement."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Nosferalto vient de Nosferatu et d'alto (grand et imposant, comme une voix alto ou contralto à l'opéra)",
     "gen": 1,
     "url": "https://i.ibb.co/31h6v49/42.png"
   },
@@ -1750,24 +1750,24 @@
       "Speed": 30
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Mystherbe",
+      "namevo2": "Ortide",
+      "namevo3": "Rafflesia",
+      "evo1": "https://i.ibb.co/BNXkJvw/41.png",
+      "evo2": "https://i.ibb.co/31h6v49/42.png",
+      "evo3": "https://i.ibb.co/hR0zd0T/169.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 21,
+      "lvl2": "Pierre Plante"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Chlorophylle",
+      "description1": "double la Vitesse du Pokémon sous le soleil",
+      "talent2": "Fuite",
+      "description2": "permet de fuir n'importe quel Pokémon sauvage."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Mystherbe vient de mystère et d'herbe",
     "gen": 1,
     "url": "https://i.ibb.co/3rbZ1n3/43.png"
   },
@@ -1792,24 +1792,24 @@
       "Speed": 40
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Mystherbe",
+      "namevo2": "Ortide",
+      "namevo3": "Rafflesia",
+      "evo1": "https://i.ibb.co/BNXkJvw/41.png",
+      "evo2": "https://i.ibb.co/31h6v49/42.png",
+      "evo3": "https://i.ibb.co/hR0zd0T/169.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 21,
+      "lvl2": "Pierre Plante"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Chlorophylle",
+      "description1": "double la Vitesse du Pokémon sous le soleil",
+      "talent2": "Puanteur",
+      "description2": "le Pokémon émet une odeur si nauséabonde qu'il peut effrayer sa cible. La puanteur permet également de diminuer les rencontres de Pokémon sauvages dans la nature."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Ortide vient d'ortie et de fétide ou putride",
     "gen": 1,
     "url": "https://i.ibb.co/PzpfLQq/44.png"
   },
@@ -1834,24 +1834,24 @@
       "Speed": 50
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Mystherbe",
+      "namevo2": "Ortide",
+      "namevo3": "Rafflesia",
+      "evo1": "https://i.ibb.co/BNXkJvw/41.png",
+      "evo2": "https://i.ibb.co/31h6v49/42.png",
+      "evo3": "https://i.ibb.co/hR0zd0T/169.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 21,
+      "lvl2": "Pierre Plante"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Chlorophylle",
+      "description1": "double la Vitesse du Pokémon sous le soleil",
+      "talent2": "Pose Spore",
+      "description2": "peut paralyser, empoisonner ou endormir l'attaquant lorsque le Pokémon subit une attaque directe."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Rafflesia vient de rafflesia, une plante parasite possédant la plus grande fleur au monde",
     "gen": 1,
     "url": "https://i.ibb.co/wKtNyFB/45.png"
   },
@@ -1876,24 +1876,23 @@
       "Speed": 25
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Paras",
+      "namevo2": "Parasect",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/B6XDvtY/46.png",
+      "evo2": "https://i.ibb.co/Wpn0zDJ/47.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 24,
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Pose Spore",
+      "description1": "peut paralyser, empoisonner ou endormir l'attaquant lorsque le Pokémon subit une attaque directe.",
+      "talent2": "Peau Sèche",
+      "description2": "le Pokémon perd des PV quand le soleil brille, mais il en regagne lorsqu'il pleut ou s'il est touché par une capacité Eau. Il subit aussi plus de dégâts de Feu."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Paras vient de parasite et fait référence aux champignons sur son dos",
     "gen": 1,
     "url": "https://i.ibb.co/B6XDvtY/46.png"
   },
@@ -1918,24 +1917,23 @@
       "Speed": 30
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Paras",
+      "namevo2": "Parasect",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/B6XDvtY/46.png",
+      "evo2": "https://i.ibb.co/Wpn0zDJ/47.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 24,
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Pose Spore",
+      "description1": "peut paralyser, empoisonner ou endormir l'attaquant lorsque le Pokémon subit une attaque directe.",
+      "talent2": "Peau Sèche",
+      "description2": "le Pokémon perd des PV quand le soleil brille, mais il en regagne lorsqu'il pleut ou s'il est touché par une capacité Eau. Il subit aussi plus de dégâts de Feu."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Parasect vient de parasite et d'insecte",
     "gen": 1,
     "url": "https://i.ibb.co/Wpn0zDJ/47.png"
   },
@@ -1960,24 +1958,23 @@
       "Speed": 45
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Mimitoss",
+      "namevo2": "Aéromite",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/3Y6gy6d/48.png",
+      "evo2": "https://i.ibb.co/fXXdbQX/49.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 31,
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Œil Composé",
+      "description1": "les yeux à facettes du Pokémon augmentent sa Précision.",
+      "talent2": "Lentiteintée",
+      "description2": "permet à une capacité « pas très efficace » d'infliger des dégâts comme si elle était efficace normalement."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Mimitoss pourrait venir de mimi (terme affectif venant de « mignon »), de mite et de to toss (lancer, jeter, en anglais).",
     "gen": 1,
     "url": "https://i.ibb.co/3Y6gy6d/48.png"
   },
@@ -2002,24 +1999,23 @@
       "Speed": 90
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Mimitoss",
+      "namevo2": "Aéromite",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/3Y6gy6d/48.png",
+      "evo2": "https://i.ibb.co/fXXdbQX/49.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 31,
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Écran Poudre",
+      "description1": "le Pokémon dispose d'un écran naturel qui le protège des effets additionnels des attaques ennemies.",
+      "talent2": "Lentiteintée",
+      "description2": "permet à une capacité « pas très efficace » d'infliger des dégâts comme si elle était efficace normalement."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Aéromite vient d'aéro (préfixe grec désignant l'air) et de mite",
     "gen": 1,
     "url": "https://i.ibb.co/fXXdbQX/49.png"
   },
@@ -2043,11 +2039,11 @@
       "Speed": 95
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Taupiqueur",
+      "namevo2": "Triopikeur",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/vZ8bJMZ/50.png",
+      "evo2": "https://i.ibb.co/82QnrqW/51.png",
       "evo3": ""
     },
     "levels": {
@@ -2055,12 +2051,12 @@
       "lvl2": 32
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Voile Sable",
+      "description1": "augmente l'Esquive du Pokémon lors des tempêtes de sable.",
+      "talent2": "Piège Sable",
+      "description2": "empêche l'ennemi de s'enfuir et attire les Pokémon sauvages dans la nature."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Taupiqueur vient de taupe et de marteau-piqueur",
     "gen": 1,
     "url": "https://i.ibb.co/vZ8bJMZ/50.png"
   },
@@ -2084,11 +2080,11 @@
       "Speed": 120
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Taupiqueur",
+      "namevo2": "Triopikeur",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/vZ8bJMZ/50.png",
+      "evo2": "https://i.ibb.co/82QnrqW/51.png",
       "evo3": ""
     },
     "levels": {
@@ -2096,12 +2092,12 @@
       "lvl2": 32
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Voile Sable",
+      "description1": "augmente l'Esquive du Pokémon lors des tempêtes de sable.",
+      "talent2": "Piège Sable",
+      "description2": "empêche l'ennemi de s'enfuir et attire les Pokémon sauvages dans la nature."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Triopikeur vient de trio et de marteau-piqueur",
     "gen": 1,
     "url": "https://i.ibb.co/82QnrqW/51.png"
   },
@@ -2125,24 +2121,23 @@
       "Speed": 90
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Miaouss",
+      "namevo2": "Persian",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/H7qqYYb/52.png",
+      "evo2": "https://i.ibb.co/nkPVLK5/53.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 28
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Ramassage",
+      "description1": "permet parfois au Pokémon de ramasser les objets que ses ennemis ont utilisés. Il lui arrive aussi d'en trouver hors des combats.",
+      "talent2": "Technicien",
+      "description2": "augmente la puissance des capacités lorsque celle-ci est inférieure ou égale à 60."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Miaouss vient de miaou, le cri du chat et d'ouste.",
     "gen": 1,
     "url": "https://i.ibb.co/H7qqYYb/52.png"
   },
@@ -2166,24 +2161,23 @@
       "Speed": 115
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Miaouss",
+      "namevo2": "Persian",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/H7qqYYb/52.png",
+      "evo2": "https://i.ibb.co/nkPVLK5/53.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 28
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Échauffement",
+      "description1": "le Pokémon s'est suffisamment échauffé, ce qui l'immunise contre la paralysie.",
+      "talent2": "Technicien",
+      "description2": "augmente la puissance des capacités lorsque celle-ci est inférieure ou égale à 60."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Persian vient de persan, une race de chat.",
     "gen": 1,
     "url": "https://i.ibb.co/nkPVLK5/53.png"
   },
@@ -2207,24 +2201,23 @@
       "Speed": 55
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Psykokwak",
+      "namevo2": "Akwakwak",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/d74wFsY/54.png",
+      "evo2": "https://i.ibb.co/d74wFsY/54.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 33
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Moiteur",
+      "description1": "le Pokémon augmente l'humidité de l'air, ce qui empêche tous les Pokémon d'utiliser des capacités explosives telles que Destruction.",
+      "talent2": "Ciel Gris",
+      "description2": "annule tous les effets liés à la météo."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Psykokwak vient de psycho, ce qui a attrait au mental et de couac, un des cris du canard",
     "gen": 1,
     "url": "https://i.ibb.co/d74wFsY/54.png"
   },
@@ -2248,24 +2241,23 @@
       "Speed": 85
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Psykokwak",
+      "namevo2": "Akwakwak",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/d74wFsY/54.png",
+      "evo2": "https://i.ibb.co/d74wFsY/54.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 33
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Moiteur",
+      "description1": "le Pokémon augmente l'humidité de l'air, ce qui empêche tous les Pokémon d'utiliser des capacités explosives telles que Destruction.",
+      "talent2": "Ciel Gris",
+      "description2": "annule tous les effets liés à la météo."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Akwakwak vient d'une déformation d'aqua (eau, en latin) et de couac, un des cris du canard",
     "gen": 1,
     "url": "https://i.ibb.co/d74wFsY/54.png"
   },

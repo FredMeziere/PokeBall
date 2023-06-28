@@ -52,7 +52,7 @@ function AllPokemon() {
     <div className="allpokemon">
       <h2 className="allpokemon-h2">La liste des Pokémon</h2>
       <div className="allpokemon-div">
-        <p className="allpokemon-div-p">Vous retrouverez ici l'ensemble des pokemon de génération une à neuf, présentés sous forme de carte. Pour plus de réactivité du site, ils sont rangés neuf par neuf. Vous pouvez trier les pokemon par nom, mais aussi par type mais aussi par génération.</p>
+        <p className="allpokemon-div-p">Vous retrouverez ici l'ensemble des Pokémon de génération une à neuf, présentés sous forme de carte. Pour plus de réactivité du site, ils sont rangés neuf par neuf. Vous pouvez trier les pokemon par nom, mais aussi par type mais aussi par génération.</p>
         <p className="allpokemon-div-p">Trouve ton Pokémon plus rapidement grâce à la barre de recherche !</p>
         <input
           className="allpokemon-div-input"
