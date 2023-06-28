@@ -27,6 +27,17 @@
       "evo2": "https://i.ibb.co/SxQMjJc/02.png",
       "evo3": "https://i.ibb.co/tJcfLsX/03.png"
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+    },
+    "talents": {
+      "talent1": "Engrais",
+      "description1": "augmente la puissance des capacités de type Plante du Pokémon quand ses PV sont inférieurs à 1/3",
+      "talent2": "Chlorophylle (talent caché)",
+      "description2": "double la Vitesse du Pokémon sous le soleil."
+    },
+    "pokemonetymo": "Bulbizarre vient de bulbe et de bizarre, ce qui fait référence au jeu de mots du nom japonais, signifiant « c'est bizarre, n'est-ce pas ? ",
     "gen": 1,
     "url": "https://i.ibb.co/hCZnSQB/01.png"
   },
@@ -58,6 +69,17 @@
       "evo2": "https://i.ibb.co/SxQMjJc/02.png",
       "evo3": "https://i.ibb.co/tJcfLsX/03.png"
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+    },
+    "talents": {
+      "talent1": "Engrais",
+      "description1": "augmente la puissance des capacités de type Plante du Pokémon quand ses PV sont inférieurs à 1/3",
+      "talent2": "Chlorophylle (talent caché)",
+      "description2": "double la Vitesse du Pokémon sous le soleil."
+    },
+    "pokemonetymo": "Herbizarre vient d'herbe et de bizarre. Il s'agit aussi d'une référence au jeu de mots du nom japonais, signifiant « C'est bizarre, en effet. »",
     "gen": 1,
     "url": "https://i.ibb.co/SxQMjJc/02.png"
   },
@@ -89,6 +111,17 @@
       "evo2": "https://i.ibb.co/SxQMjJc/02.png",
       "evo3": "https://i.ibb.co/tJcfLsX/03.png"
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+    },
+    "talents": {
+      "talent1": "Engrais",
+      "description1": "augmente la puissance des capacités de type Plante du Pokémon quand ses PV sont inférieurs à 1/3",
+      "talent2": "Chlorophylle (talent caché)",
+      "description2": "double la Vitesse du Pokémon sous le soleil."
+    },
+    "pokemonetymo": "Florizarre vient de flore et de bizarre. Cette étymologie est une référence à un jeu de mots du nom japonais de sa sous-évolution de base, Bulbizarre, signifiant « c'est bizarre, n'est-ce pas ? » ",
     "gen": 1,
     "url": "https://i.ibb.co/tJcfLsX/03.png"
   },
@@ -111,6 +144,25 @@
       "Sp. Defense": 50,
       "Speed": 65
     },
+    "evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
+    },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+    },
+    "talents": {
+      "talent1": "",
+      "description1": "",
+      "talent2": "",
+      "description2": ""
+    },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/C8W1GZb/04.png"
   },
@@ -133,6 +185,25 @@
       "Sp. Defense": 65,
       "Speed": 80
     },
+    "evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
+    },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+    },
+    "talents": {
+      "talent1": "",
+      "description1": "",
+      "talent2": "",
+      "description2": ""
+    },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/G7F5y4N/05.png"
   },
@@ -156,6 +227,25 @@
       "Sp. Defense": 85,
       "Speed": 100
     },
+    "evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
+    },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+    },
+    "talents": {
+      "talent1": "",
+      "description1": "",
+      "talent2": "",
+      "description2": ""
+    },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/dgJfYD8/06.png"
   },
@@ -178,6 +268,25 @@
       "Sp. Defense": 64,
       "Speed": 43
     },
+    "evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
+    },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+    },
+    "talents": {
+      "talent1": "",
+      "description1": "",
+      "talent2": "",
+      "description2": ""
+    },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/bK8r8gZ/07.png"
   },
@@ -222,6 +331,25 @@
       "Sp. Defense": 105,
       "Speed": 78
     },
+    "evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
+    },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+    },
+    "talents": {
+      "talent1": "",
+      "description1": "",
+      "talent2": "",
+      "description2": ""
+    },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/kqMJ55h/09.png"
   },
@@ -244,6 +372,25 @@
       "Sp. Defense": 20,
       "Speed": 45
     },
+    "evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
+    },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+    },
+    "talents": {
+      "talent1": "",
+      "description1": "",
+      "talent2": "",
+      "description2": ""
+    },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/f2KQLVz/10.png"
   },
@@ -266,6 +413,25 @@
       "Sp. Defense": 25,
       "Speed": 30
     },
+    "evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
+    },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+    },
+    "talents": {
+      "talent1": "",
+      "description1": "",
+      "talent2": "",
+      "description2": ""
+    },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/QDyJ523/11.png"
   },
@@ -289,6 +455,25 @@
       "Sp. Defense": 80,
       "Speed": 70
     },
+    "evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
+    },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+    },
+    "talents": {
+      "talent1": "",
+      "description1": "",
+      "talent2": "",
+      "description2": ""
+    },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/nQ3HZXJ/12.png"
   },
@@ -312,6 +497,25 @@
       "Sp. Defense": 20,
       "Speed": 50
     },
+    "evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
+    },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+    },
+    "talents": {
+      "talent1": "",
+      "description1": "",
+      "talent2": "",
+      "description2": ""
+    },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/6yXwRGN/13.png"
   },
@@ -334,7 +538,25 @@
       "Sp. Attack": 25,
       "Sp. Defense": 25,
       "Speed": 35
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/P1RrY5j/14.png"
   },
@@ -357,7 +579,25 @@
       "Sp. Attack": 45,
       "Sp. Defense": 80,
       "Speed": 75
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/9HJvwfL/15.png"
   },
@@ -380,7 +620,25 @@
       "Sp. Attack": 35,
       "Sp. Defense": 35,
       "Speed": 56
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/w0bn9jT/16.png"
   },
@@ -426,7 +684,25 @@
       "Sp. Attack": 70,
       "Sp. Defense": 70,
       "Speed": 101
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/JKYT353/18.png"
   },
@@ -448,7 +724,25 @@
       "Sp. Attack": 25,
       "Sp. Defense": 35,
       "Speed": 72
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/rsgQJSJ/19.png"
   },
@@ -470,7 +764,25 @@
       "Sp. Attack": 50,
       "Sp. Defense": 70,
       "Speed": 97
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/D8JpT1V/20.png"
   },
@@ -493,7 +805,25 @@
       "Sp. Attack": 31,
       "Sp. Defense": 31,
       "Speed": 70
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/NZ8ZYWP/21.png"
   },
@@ -516,7 +846,25 @@
       "Sp. Attack": 61,
       "Sp. Defense": 61,
       "Speed": 100
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/LScFMbJ/22.png"
   },
@@ -538,7 +886,25 @@
       "Sp. Attack": 40,
       "Sp. Defense": 54,
       "Speed": 55
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/gv3RMQv/23.png"
   },
@@ -560,7 +926,25 @@
       "Sp. Attack": 65,
       "Sp. Defense": 79,
       "Speed": 80
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/54SqZ6W/24.png"
   },
@@ -582,7 +966,25 @@
       "Sp. Attack": 50,
       "Sp. Defense": 50,
       "Speed": 90
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/GWx8Wsv/25.png"
   },
@@ -604,7 +1006,25 @@
       "Sp. Attack": 90,
       "Sp. Defense": 80,
       "Speed": 110
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/zNhvN0W/26.png"
   },
@@ -626,7 +1046,25 @@
       "Sp. Attack": 20,
       "Sp. Defense": 30,
       "Speed": 40
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/Np0ZvfG/27.png"
   },
@@ -648,7 +1086,25 @@
       "Sp. Attack": 45,
       "Sp. Defense": 55,
       "Speed": 65
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/xfJ53SR/28.png"
   },
@@ -670,7 +1126,25 @@
       "Sp. Attack": 40,
       "Sp. Defense": 40,
       "Speed": 41
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/bHpjwxv/29.png"
   },
@@ -692,7 +1166,25 @@
       "Sp. Attack": 55,
       "Sp. Defense": 55,
       "Speed": 56
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/WDHpXPM/30.png"
   },
@@ -715,7 +1207,25 @@
       "Sp. Attack": 75,
       "Sp. Defense": 85,
       "Speed": 76
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/ww1VfVR/31.png"
   },
@@ -737,7 +1247,25 @@
       "Sp. Attack": 40,
       "Sp. Defense": 40,
       "Speed": 50
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/Jq8sCp5/32.png"
   },
@@ -759,7 +1287,25 @@
       "Sp. Attack": 55,
       "Sp. Defense": 55,
       "Speed": 65
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/1Mn20wF/33.png"
   },
@@ -782,7 +1328,25 @@
       "Sp. Attack": 85,
       "Sp. Defense": 75,
       "Speed": 85
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/VL2nfs2/34.png"
   },
@@ -804,7 +1368,25 @@
       "Sp. Attack": 60,
       "Sp. Defense": 65,
       "Speed": 35
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/x57L067/35.png"
   },
@@ -849,6 +1431,25 @@
       "Sp. Defense": 65,
       "Speed": 65
     },
+    "evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
+    },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/WBcD76d/37.png"
   },
@@ -871,6 +1472,25 @@
       "Sp. Defense": 100,
       "Speed": 100
     },
+    "evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
+    },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/F5SmD6x/38.png"
   },
@@ -894,6 +1514,25 @@
       "Sp. Defense": 25,
       "Speed": 20
     },
+    "evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
+    },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/ccpFyhN/39.png"
   },
@@ -916,7 +1555,25 @@
       "Sp. Attack": 85,
       "Sp. Defense": 50,
       "Speed": 45
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/gV6P46g/40.png"
   },
@@ -940,6 +1597,25 @@
       "Sp. Defense": 40,
       "Speed": 55
     },
+    "evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
+    },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/BNXkJvw/41.png"
   },
@@ -963,6 +1639,25 @@
       "Sp. Defense": 75,
       "Speed": 90
     },
+    "evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
+    },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/31h6v49/42.png"
   },
@@ -985,7 +1680,25 @@
       "Sp. Attack": 75,
       "Sp. Defense": 65,
       "Speed": 30
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/3rbZ1n3/43.png"
   },
@@ -1008,7 +1721,25 @@
       "Sp. Attack": 85,
       "Sp. Defense": 75,
       "Speed": 40
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/PzpfLQq/44.png"
   },
@@ -1031,7 +1762,25 @@
       "Sp. Attack": 110,
       "Sp. Defense": 90,
       "Speed": 50
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/wKtNyFB/45.png"
   },
@@ -1054,7 +1803,25 @@
       "Sp. Attack": 45,
       "Sp. Defense": 55,
       "Speed": 25
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/B6XDvtY/46.png"
   },
@@ -1077,7 +1844,25 @@
       "Sp. Attack": 60,
       "Sp. Defense": 80,
       "Speed": 30
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/Wpn0zDJ/47.png"
   },
@@ -1100,7 +1885,25 @@
       "Sp. Attack": 40,
       "Sp. Defense": 55,
       "Speed": 45
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/3Y6gy6d/48.png"
   },
@@ -1123,7 +1926,25 @@
       "Sp. Attack": 90,
       "Sp. Defense": 75,
       "Speed": 90
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/fXXdbQX/49.png"
   },
@@ -1145,7 +1966,25 @@
       "Sp. Attack": 35,
       "Sp. Defense": 45,
       "Speed": 95
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/vZ8bJMZ/50.png"
   },
@@ -1167,7 +2006,25 @@
       "Sp. Attack": 50,
       "Sp. Defense": 70,
       "Speed": 120
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/82QnrqW/51.png"
   },
@@ -1189,7 +2046,25 @@
       "Sp. Attack": 40,
       "Sp. Defense": 40,
       "Speed": 90
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/H7qqYYb/52.png"
   },
@@ -1211,7 +2086,25 @@
       "Sp. Attack": 65,
       "Sp. Defense": 65,
       "Speed": 115
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/nkPVLK5/53.png"
   },
@@ -1233,7 +2126,25 @@
       "Sp. Attack": 65,
       "Sp. Defense": 50,
       "Speed": 55
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/d74wFsY/54.png"
   },
@@ -1255,7 +2166,25 @@
       "Sp. Attack": 95,
       "Sp. Defense": 80,
       "Speed": 85
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/d74wFsY/54.png"
   },
@@ -1277,7 +2206,25 @@
       "Sp. Attack": 35,
       "Sp. Defense": 45,
       "Speed": 70
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/VQmvDJ8/56.png"
   },
@@ -1299,7 +2246,25 @@
       "Sp. Attack": 60,
       "Sp. Defense": 70,
       "Speed": 95
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/qY88XRf/57.png"
   },
@@ -1321,7 +2286,25 @@
       "Sp. Attack": 70,
       "Sp. Defense": 50,
       "Speed": 60
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/zx9Gg3C/58.png"
   },
@@ -1343,7 +2326,25 @@
       "Sp. Attack": 100,
       "Sp. Defense": 80,
       "Speed": 95
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/B4x0wPT/59.png"
   },
@@ -1365,7 +2366,25 @@
       "Sp. Attack": 40,
       "Sp. Defense": 40,
       "Speed": 90
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/fkgbtxG/60.png"
   },
@@ -1387,7 +2406,25 @@
       "Sp. Attack": 50,
       "Sp. Defense": 50,
       "Speed": 90
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/LzG7pYZ/61.png"
   },
@@ -1410,7 +2447,25 @@
       "Sp. Attack": 70,
       "Sp. Defense": 90,
       "Speed": 70
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/LkpGb8v/62.png"
   },
@@ -1432,7 +2487,25 @@
       "Sp. Attack": 105,
       "Sp. Defense": 55,
       "Speed": 90
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/sWRqkK7/63.png"
   },
@@ -1454,7 +2527,25 @@
       "Sp. Attack": 120,
       "Sp. Defense": 70,
       "Speed": 105
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/1XG8T6K/64.png"
   },
@@ -1476,7 +2567,25 @@
       "Sp. Attack": 135,
       "Sp. Defense": 95,
       "Speed": 120
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/HHqrNSR/65.png"
   },
@@ -1498,7 +2607,25 @@
       "Sp. Attack": 35,
       "Sp. Defense": 35,
       "Speed": 35
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/547W5t8/66.png"
   },
@@ -1520,7 +2647,25 @@
       "Sp. Attack": 50,
       "Sp. Defense": 60,
       "Speed": 45
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/8gJGb22/67.png"
   },
@@ -1542,7 +2687,25 @@
       "Sp. Attack": 65,
       "Sp. Defense": 85,
       "Speed": 55
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/Thcg6Mm/68.png"
   },
@@ -1565,7 +2728,25 @@
       "Sp. Attack": 70,
       "Sp. Defense": 30,
       "Speed": 40
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/C0d4mQK/69.png"
   },
@@ -1588,7 +2769,25 @@
       "Sp. Attack": 85,
       "Sp. Defense": 45,
       "Speed": 55
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/kgyjFQY/70.png"
   },
@@ -1611,7 +2810,25 @@
       "Sp. Attack": 100,
       "Sp. Defense": 70,
       "Speed": 70
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/pJyGpN0/71.png"
   },
@@ -1634,7 +2851,25 @@
       "Sp. Attack": 50,
       "Sp. Defense": 100,
       "Speed": 70
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/HVw8Jbb/72.png"
   },
@@ -1657,7 +2892,25 @@
       "Sp. Attack": 80,
       "Sp. Defense": 120,
       "Speed": 100
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/TBX5zgG/73.png"
   },
@@ -1680,7 +2933,25 @@
       "Sp. Attack": 30,
       "Sp. Defense": 30,
       "Speed": 20
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/HpdRnTG/74.png"
   },
@@ -1703,7 +2974,25 @@
       "Sp. Attack": 45,
       "Sp. Defense": 45,
       "Speed": 35
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/k3df8sr/75.png"
   },
@@ -1726,7 +3015,25 @@
       "Sp. Attack": 55,
       "Sp. Defense": 65,
       "Speed": 45
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/xJNjsyf/76.png"
   },
@@ -1749,6 +3056,25 @@
       "Sp. Defense": 65,
       "Speed": 90
     },
+    "evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
+    },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/XpnzKdC/77.png"
   },
@@ -1770,7 +3096,25 @@
       "Sp. Attack": 80,
       "Sp. Defense": 80,
       "Speed": 105
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/GTSpJpF/78.png"
   },
@@ -1793,7 +3137,25 @@
       "Sp. Attack": 40,
       "Sp. Defense": 40,
       "Speed": 15
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/y6bc949/79.png"
   },
@@ -1816,7 +3178,25 @@
       "Sp. Attack": 100,
       "Sp. Defense": 80,
       "Speed": 30
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/0Y0WnLz/80.png"
   },
@@ -1839,7 +3219,25 @@
       "Sp. Attack": 95,
       "Sp. Defense": 55,
       "Speed": 45
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/W6xysqr/81.png"
   },
@@ -1862,7 +3260,25 @@
       "Sp. Attack": 120,
       "Sp. Defense": 70,
       "Speed": 70
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/rwFX9KT/82.png"
   },
@@ -1885,7 +3301,25 @@
       "Sp. Attack": 58,
       "Sp. Defense": 62,
       "Speed": 60
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/XkDn5bh/83.png"
   },
@@ -1908,7 +3342,25 @@
       "Sp. Attack": 35,
       "Sp. Defense": 35,
       "Speed": 75
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/s9ygVt4/84.png"
   },
@@ -1953,7 +3405,25 @@
       "Sp. Attack": 45,
       "Sp. Defense": 70,
       "Speed": 45
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/YjYBDnG/86.png"
   },
@@ -1976,7 +3446,25 @@
       "Sp. Attack": 70,
       "Sp. Defense": 95,
       "Speed": 70
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/1bFxS2k/87.png"
   },
@@ -1998,7 +3486,25 @@
       "Sp. Attack": 40,
       "Sp. Defense": 50,
       "Speed": 25
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/YXDfJr3/88.png"
   },
@@ -2020,7 +3526,25 @@
       "Sp. Attack": 65,
       "Sp. Defense": 100,
       "Speed": 50
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/bggyjH4/89.png"
   },
@@ -2042,7 +3566,25 @@
       "Sp. Attack": 45,
       "Sp. Defense": 25,
       "Speed": 40
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/K5yKPXw/90.png"
   },
@@ -2065,7 +3607,25 @@
       "Sp. Attack": 85,
       "Sp. Defense": 45,
       "Speed": 70
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/FxrsHSf/91.png"
   },
@@ -2088,7 +3648,25 @@
       "Sp. Attack": 100,
       "Sp. Defense": 35,
       "Speed": 80
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/gZnrvqk/92.png"
   },
@@ -2111,7 +3689,25 @@
       "Sp. Attack": 115,
       "Sp. Defense": 55,
       "Speed": 95
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/3RZ2RSM/93.png"
   },
@@ -2134,7 +3730,25 @@
       "Sp. Attack": 130,
       "Sp. Defense": 75,
       "Speed": 110
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/pw5PTcS/94.png"
   },
@@ -2157,7 +3771,25 @@
       "Sp. Attack": 30,
       "Sp. Defense": 45,
       "Speed": 70
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/sF715T7/95.png"
   },
@@ -2179,7 +3811,25 @@
       "Sp. Attack": 43,
       "Sp. Defense": 90,
       "Speed": 42
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/gFywVyh/96.png"
   },
@@ -2201,7 +3851,25 @@
       "Sp. Attack": 73,
       "Sp. Defense": 115,
       "Speed": 67
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/mGsfN9S/97.png"
   },
@@ -2223,7 +3891,25 @@
       "Sp. Attack": 25,
       "Sp. Defense": 25,
       "Speed": 50
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/Rh9Wrpf/98.png"
   },
@@ -2245,7 +3931,25 @@
       "Sp. Attack": 50,
       "Sp. Defense": 50,
       "Speed": 75
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/KLBSdQv/99.png"
   },
@@ -2267,7 +3971,25 @@
       "Sp. Attack": 55,
       "Sp. Defense": 55,
       "Speed": 100
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/84XLhhf/100.png"
   },
@@ -2289,7 +4011,25 @@
       "Sp. Attack": 80,
       "Sp. Defense": 80,
       "Speed": 150
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/Y7b40cR/101.png"
   },
@@ -2312,7 +4052,25 @@
       "Sp. Attack": 60,
       "Sp. Defense": 45,
       "Speed": 40
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/RQwZHP1/102.png"
   },
@@ -2335,7 +4093,25 @@
       "Sp. Attack": 125,
       "Sp. Defense": 75,
       "Speed": 55
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/wRTPrvV/103.png"
   },
@@ -2357,7 +4133,25 @@
       "Sp. Attack": 40,
       "Sp. Defense": 50,
       "Speed": 35
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/YjRWxRm/104.png"
   },
@@ -2379,7 +4173,25 @@
       "Sp. Attack": 50,
       "Sp. Defense": 80,
       "Speed": 45
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/Bg4NmXC/105.png"
   },
@@ -2401,7 +4213,25 @@
       "Sp. Attack": 35,
       "Sp. Defense": 110,
       "Speed": 87
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/cJvkrcd/106.png"
   },
@@ -2423,7 +4253,25 @@
       "Sp. Attack": 35,
       "Sp. Defense": 110,
       "Speed": 76
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/6WwqFt3/107.png"
   },
@@ -2445,7 +4293,25 @@
       "Sp. Attack": 60,
       "Sp. Defense": 75,
       "Speed": 30
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/p2zpVpW/108.png"
   },
@@ -2467,7 +4333,25 @@
       "Sp. Attack": 60,
       "Sp. Defense": 45,
       "Speed": 35
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/DtKQRR2/109.png"
   },
@@ -2489,7 +4373,25 @@
       "Sp. Attack": 85,
       "Sp. Defense": 70,
       "Speed": 60
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/mvKYB8B/110.png"
   },
@@ -2512,7 +4414,25 @@
       "Sp. Attack": 30,
       "Sp. Defense": 30,
       "Speed": 25
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/KXbpCDf/111.png"
   },
@@ -2535,7 +4455,25 @@
       "Sp. Attack": 45,
       "Sp. Defense": 45,
       "Speed": 40
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/dbN4SJh/112.png"
   },
@@ -2557,7 +4495,25 @@
       "Sp. Attack": 35,
       "Sp. Defense": 105,
       "Speed": 50
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/KWN8KvR/113.png"
   },
@@ -2579,7 +4535,25 @@
       "Sp. Attack": 100,
       "Sp. Defense": 40,
       "Speed": 60
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/Vq0y3Df/114.png"
   },
@@ -2601,7 +4575,25 @@
       "Sp. Attack": 40,
       "Sp. Defense": 80,
       "Speed": 90
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/5Mg4cmy/115.png"
   },
@@ -2623,7 +4615,25 @@
       "Sp. Attack": 70,
       "Sp. Defense": 25,
       "Speed": 60
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/ydqDywR/116.png"
   },
@@ -2645,7 +4655,25 @@
       "Sp. Attack": 95,
       "Sp. Defense": 45,
       "Speed": 85
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/sPNrR68/117.png"
   },
@@ -2667,7 +4695,25 @@
       "Sp. Attack": 35,
       "Sp. Defense": 50,
       "Speed": 63
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/tqYXLrn/118.png"
   },
@@ -2689,7 +4735,25 @@
       "Sp. Attack": 65,
       "Sp. Defense": 80,
       "Speed": 68
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/nPsYwWk/119.png"
   },
@@ -2711,7 +4775,25 @@
       "Sp. Attack": 70,
       "Sp. Defense": 55,
       "Speed": 85
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/CQXrY3B/120.png"
   },
@@ -2734,7 +4816,25 @@
       "Sp. Attack": 100,
       "Sp. Defense": 85,
       "Speed": 115
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/h2wHtxh/121.png"
   },
@@ -2757,7 +4857,25 @@
       "Sp. Attack": 100,
       "Sp. Defense": 120,
       "Speed": 90
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/6mBSNyf/122.png"
   },
@@ -2780,7 +4898,25 @@
       "Sp. Attack": 55,
       "Sp. Defense": 80,
       "Speed": 105
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/9nD4d5x/123.png"
   },
@@ -2803,7 +4939,25 @@
       "Sp. Attack": 115,
       "Sp. Defense": 95,
       "Speed": 95
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/JsK5Y6c/124.png"
   },
@@ -2825,7 +4979,25 @@
       "Sp. Attack": 95,
       "Sp. Defense": 85,
       "Speed": 105
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/fpLfwHJ/125.png"
   },
@@ -2847,7 +5019,25 @@
       "Sp. Attack": 100,
       "Sp. Defense": 85,
       "Speed": 93
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/yYwLQk6/126.png"
   },
@@ -2869,7 +5059,25 @@
       "Sp. Attack": 55,
       "Sp. Defense": 70,
       "Speed": 85
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/sjw4mKd/127.png"
   },
@@ -2891,7 +5099,25 @@
       "Sp. Attack": 40,
       "Sp. Defense": 70,
       "Speed": 110
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/SwkTkKK/128.png"
   },
@@ -2913,7 +5139,25 @@
       "Sp. Attack": 15,
       "Sp. Defense": 20,
       "Speed": 80
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/7KGtn4z/129.png"
   },
@@ -2936,7 +5180,25 @@
       "Sp. Attack": 60,
       "Sp. Defense": 100,
       "Speed": 81
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/6wByd3J/130.png"
   },
@@ -2959,7 +5221,25 @@
       "Sp. Attack": 85,
       "Sp. Defense": 95,
       "Speed": 60
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/0YNM25J/131.png"
   },
@@ -2981,7 +5261,25 @@
       "Sp. Attack": 48,
       "Sp. Defense": 48,
       "Speed": 48
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/m9ydN13/132.png"
   },
@@ -3003,7 +5301,25 @@
       "Sp. Attack": 45,
       "Sp. Defense": 65,
       "Speed": 55
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/bB40V1D/133.png"
   },
@@ -3047,7 +5363,25 @@
       "Sp. Attack": 110,
       "Sp. Defense": 95,
       "Speed": 130
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/CBPv0zY/135.png"
   },
@@ -3091,7 +5425,25 @@
       "Sp. Attack": 85,
       "Sp. Defense": 75,
       "Speed": 40
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/SfqXcy4/137.png"
   },
@@ -3137,7 +5489,25 @@
       "Sp. Attack": 115,
       "Sp. Defense": 70,
       "Speed": 55
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/DRf6fhg/139.png"
   },
@@ -3160,7 +5530,25 @@
       "Sp. Attack": 55,
       "Sp. Defense": 45,
       "Speed": 55
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/jh7kPDT/140.png"
   },
@@ -3183,7 +5571,25 @@
       "Sp. Attack": 65,
       "Sp. Defense": 70,
       "Speed": 80
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/p07x62j/141.png"
   },
@@ -3206,7 +5612,25 @@
       "Sp. Attack": 60,
       "Sp. Defense": 75,
       "Speed": 130
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/GTqvHBj/142.png"
   },
@@ -3228,7 +5652,25 @@
       "Sp. Attack": 65,
       "Sp. Defense": 110,
       "Speed": 30
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/XZsyXKV/143.png"
   },
@@ -3251,7 +5693,25 @@
       "Sp. Attack": 95,
       "Sp. Defense": 125,
       "Speed": 85
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/4d8kGhM/144.png"
   },
@@ -3274,7 +5734,25 @@
       "Sp. Attack": 125,
       "Sp. Defense": 90,
       "Speed": 100
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/Qd5m1M8/145.png"
   },
@@ -3297,7 +5775,25 @@
       "Sp. Attack": 125,
       "Sp. Defense": 85,
       "Speed": 90
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/54R8Gg9/146.png"
   },
@@ -3319,7 +5815,25 @@
       "Sp. Attack": 50,
       "Sp. Defense": 50,
       "Speed": 50
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/VjnrFRk/147.png"
   },
@@ -3341,7 +5855,25 @@
       "Sp. Attack": 70,
       "Sp. Defense": 70,
       "Speed": 70
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/JFznK19/148.png"
   },
@@ -3364,7 +5896,25 @@
       "Sp. Attack": 100,
       "Sp. Defense": 100,
       "Speed": 80
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/tsyT2xy/149.png"
   },
@@ -3386,7 +5936,25 @@
       "Sp. Attack": 154,
       "Sp. Defense": 90,
       "Speed": 130
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 1,
     "url": "https://i.ibb.co/PMPLDwY/150.png"
   },
@@ -3430,7 +5998,25 @@
       "Sp. Attack": 49,
       "Sp. Defense": 65,
       "Speed": 45
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/w4W7HCQ/152.png"
   },
@@ -3452,7 +6038,25 @@
       "Sp. Attack": 63,
       "Sp. Defense": 80,
       "Speed": 60
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/kGDtnGM/153.png"
   },
@@ -3474,7 +6078,25 @@
       "Sp. Attack": 83,
       "Sp. Defense": 100,
       "Speed": 80
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/N2vfnVP/154.png"
   },
@@ -3496,7 +6118,25 @@
       "Sp. Attack": 60,
       "Sp. Defense": 50,
       "Speed": 65
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/1RGDJQP/155.png"
   },
@@ -3518,7 +6158,25 @@
       "Sp. Attack": 80,
       "Sp. Defense": 65,
       "Speed": 80
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/Pcs4NXH/156.png"
   },
@@ -3540,7 +6198,25 @@
       "Sp. Attack": 109,
       "Sp. Defense": 85,
       "Speed": 100
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/k509382/157.png"
   },
@@ -3562,7 +6238,25 @@
       "Sp. Attack": 44,
       "Sp. Defense": 48,
       "Speed": 43
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/6vSS4ZR/158.png"
   },
@@ -3584,7 +6278,25 @@
       "Sp. Attack": 59,
       "Sp. Defense": 63,
       "Speed": 58
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/qrfhLsP/159.png"
   },
@@ -3606,7 +6318,25 @@
       "Sp. Attack": 79,
       "Sp. Defense": 83,
       "Speed": 78
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/ZYLPfxn/160.png"
   },
@@ -3628,7 +6358,25 @@
       "Sp. Attack": 35,
       "Sp. Defense": 45,
       "Speed": 20
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/Hg9DXs9/161.png"
   },
@@ -3650,7 +6398,25 @@
       "Sp. Attack": 45,
       "Sp. Defense": 55,
       "Speed": 90
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/8zkprqC/162.png"
   },
@@ -3673,7 +6439,25 @@
       "Sp. Attack": 36,
       "Sp. Defense": 56,
       "Speed": 50
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/YjYj887/163.png"
   },
@@ -3696,7 +6480,25 @@
       "Sp. Attack": 86,
       "Sp. Defense": 96,
       "Speed": 70
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/Y7hds2p/164.png"
   },
@@ -3719,7 +6521,25 @@
       "Sp. Attack": 40,
       "Sp. Defense": 80,
       "Speed": 55
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/sbvbD4r/165.png"
   },
@@ -3742,7 +6562,25 @@
       "Sp. Attack": 55,
       "Sp. Defense": 110,
       "Speed": 85
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/TbD2Fn6/166.png"
   },
@@ -3765,7 +6603,25 @@
       "Sp. Attack": 40,
       "Sp. Defense": 40,
       "Speed": 30
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/whv1CCM/167.png"
   },
@@ -3788,7 +6644,25 @@
       "Sp. Attack": 60,
       "Sp. Defense": 70,
       "Speed": 40
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/j8bwnz2/168.png"
   },
@@ -3811,7 +6685,25 @@
       "Sp. Attack": 70,
       "Sp. Defense": 80,
       "Speed": 130
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/hR0zd0T/169.png"
   },
@@ -3834,7 +6726,25 @@
       "Sp. Attack": 56,
       "Sp. Defense": 56,
       "Speed": 67
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/P4v806J/170.png"
   },
@@ -3857,7 +6767,25 @@
       "Sp. Attack": 76,
       "Sp. Defense": 76,
       "Speed": 67
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/K9z9Z7W/171.png"
   },
@@ -3879,7 +6807,25 @@
       "Sp. Attack": 35,
       "Sp. Defense": 35,
       "Speed": 60
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/8dkhyrs/172.png"
   },
@@ -3901,7 +6847,25 @@
       "Sp. Attack": 45,
       "Sp. Defense": 55,
       "Speed": 15
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/m9DKNXK/173.png"
   },
@@ -3924,7 +6888,25 @@
       "Sp. Attack": 40,
       "Sp. Defense": 20,
       "Speed": 15
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/1Q4SYNc/174.png"
   },
@@ -3946,7 +6928,25 @@
       "Sp. Attack": 40,
       "Sp. Defense": 65,
       "Speed": 20
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/nf46s3R/175.png"
   },
@@ -3969,7 +6969,25 @@
       "Sp. Attack": 80,
       "Sp. Defense": 105,
       "Speed": 40
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/9TC1Pcz/176.png"
   },
@@ -3992,7 +7010,25 @@
       "Sp. Attack": 70,
       "Sp. Defense": 45,
       "Speed": 70
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/SdpRn5g/177.png"
   },
@@ -4015,7 +7051,25 @@
       "Sp. Attack": 95,
       "Sp. Defense": 70,
       "Speed": 95
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/xXFxqQQ/178.png"
   },
@@ -4037,7 +7091,25 @@
       "Sp. Attack": 65,
       "Sp. Defense": 45,
       "Speed": 35
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/pRgsgqd/179.png"
   },
@@ -4059,7 +7131,25 @@
       "Sp. Attack": 80,
       "Sp. Defense": 60,
       "Speed": 45
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/LZ41NNc/180.png"
   },
@@ -4103,7 +7193,25 @@
       "Sp. Attack": 90,
       "Sp. Defense": 100,
       "Speed": 50
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/H7QScF8/182.png"
   },
@@ -4126,7 +7234,25 @@
       "Sp. Attack": 20,
       "Sp. Defense": 50,
       "Speed": 40
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/ySv907W/183.png"
   },
@@ -4149,7 +7275,25 @@
       "Sp. Attack": 60,
       "Sp. Defense": 80,
       "Speed": 50
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/pzV7xDP/184.png"
   },
@@ -4171,7 +7315,25 @@
       "Sp. Attack": 30,
       "Sp. Defense": 65,
       "Speed": 30
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/tLz9N0p/185.png"
   },
@@ -4193,7 +7355,25 @@
       "Sp. Attack": 90,
       "Sp. Defense": 100,
       "Speed": 70
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/hYpdVfb/186.png"
   },
@@ -4216,7 +7396,25 @@
       "Sp. Attack": 35,
       "Sp. Defense": 55,
       "Speed": 50
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/Gx1pLr4/187.png"
   },
@@ -4239,7 +7437,25 @@
       "Sp. Attack": 45,
       "Sp. Defense": 65,
       "Speed": 80
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/HdGpLXw/188.png"
   },
@@ -4262,7 +7478,25 @@
       "Sp. Attack": 55,
       "Sp. Defense": 95,
       "Speed": 110
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/q0RsTLc/189.png"
   },
@@ -4284,7 +7518,25 @@
       "Sp. Attack": 40,
       "Sp. Defense": 55,
       "Speed": 85
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/FKqfgjQ/190.png"
   },
@@ -4306,7 +7558,25 @@
       "Sp. Attack": 30,
       "Sp. Defense": 30,
       "Speed": 30
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/3NfCWg8/191.png"
   },
@@ -4328,7 +7598,25 @@
       "Sp. Attack": 105,
       "Sp. Defense": 85,
       "Speed": 30
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/jf2dqSz/192.png"
   },
@@ -4351,7 +7639,25 @@
       "Sp. Attack": 75,
       "Sp. Defense": 45,
       "Speed": 95
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/jbWHS3d/193.png"
   },
@@ -4374,7 +7680,25 @@
       "Sp. Attack": 25,
       "Sp. Defense": 25,
       "Speed": 15
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/y6HM8yR/194.png"
   },
@@ -4397,7 +7721,25 @@
       "Sp. Attack": 65,
       "Sp. Defense": 65,
       "Speed": 35
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/qxgyxn4/195.png"
   },
@@ -4419,7 +7761,25 @@
       "Sp. Attack": 130,
       "Sp. Defense": 95,
       "Speed": 110
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/y093pNg/196.png"
   },
@@ -4441,7 +7801,25 @@
       "Sp. Attack": 60,
       "Sp. Defense": 130,
       "Speed": 65
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/RS0BzV8/197.png"
   },
@@ -4464,7 +7842,25 @@
       "Sp. Attack": 85,
       "Sp. Defense": 42,
       "Speed": 91
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/YfYTQXs/198.png"
   },
@@ -4487,7 +7883,25 @@
       "Sp. Attack": 100,
       "Sp. Defense": 110,
       "Speed": 30
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/48nfskP/199.png"
   },
@@ -4509,7 +7923,25 @@
       "Sp. Attack": 85,
       "Sp. Defense": 85,
       "Speed": 85
+    },"evolution": {
+      "namevo1": "",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "",
+      "evo2": "",
+      "evo3": ""
     },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+      },
+      "talents": {
+        "talent1": "",
+        "description1": "",
+        "talent2": "",
+        "description2": ""
+      },
+    "pokemonetymo": "",
     "gen": 2,
     "url": "https://i.ibb.co/FqxLY09/200.png"
   },

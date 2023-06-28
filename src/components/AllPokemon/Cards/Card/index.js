@@ -5,7 +5,7 @@ import {
 } from 'prop-types';
 
 function Card({
-  id, name, type, base, gen, url, evolution,
+  id, name, type, base, gen, url, evolution, levels, talents, pokemonetymo,
 }) {
   // eslint-disable-next-line no-shadow
   function getColorForType(type) {
@@ -437,7 +437,7 @@ function Card({
   const handleClick = () => {
     setShowBack(!showBack);
   };
-
+  // eslint-disable-next-line no-console
   return (
     <div
       className={`card ${showBack ? 'card-flipped' : ''}`}
@@ -449,12 +449,16 @@ function Card({
           <p className="card-type-p">Les différentes évolution de ce pokemon</p>
           <p className="card-type-p">{evolution.namevo1}</p>
           <img className="card-img-evol" src={evolution.evo1} alt="Pokemon de base" />
-          <p className="card-type-p">Niveau 16 ▼</p>
+          <p className="card-type-p">Niveau : {levels.lvl1} ▼</p>
           <p className="card-type-p">{evolution.namevo2}</p>
           <img className="card-img-evol" src={evolution.evo2} alt="Évolution 2" />
-          <p className="card-type-p">Niveau 32 ▼</p>
+          <p className="card-type-p">Niveau : {levels.lvl2} ▼</p>
           <p className="card-type-p">{evolution.namevo3}</p>
           <img className="card-img-evol" src={evolution.evo3} alt="Évolution 3" />
+          <p className="card-type-p">Les Talents: </p>
+          <p className="card-type-p">{talents.talent1} : {talents.description1}</p>
+          <p className="card-type-p">{talents.talent2} : {talents.description2}</p>
+          <p className="card-type-p">{pokemonetymo}</p>
         </div>
       ) : (
         <>
@@ -522,13 +526,24 @@ Card.propTypes = {
   gen: number.isRequired,
   url: string.isRequired,
   evolution: shape({
-    nameevo1: string,
-    nameevo2: string,
-    nameevo3: string,
-    evo1: string,
-    evo2: string,
-    evo3: string,
+    nameevo1: string.isRequired,
+    nameevo2: string.isRequired,
+    nameevo3: string.isRequired,
+    evo1: string.isRequired,
+    evo2: string.isRequired,
+    evo3: string.isRequired,
   }).isRequired,
+  levels: shape({
+    lvl1: number.isRequired,
+    lvl2: number.isRequired,
+  }).isRequired,
+  talents: shape({
+    talent1: string.isRequired,
+    description1: string.isRequired,
+    talent2: string.isRequired,
+    description2: string.isRequired,
+  }).isRequired,
+  pokemonetymo: string.isRequired,
 };
 
 export default Card;
