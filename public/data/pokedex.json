@@ -145,24 +145,24 @@
       "Speed": 65
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Salamèche",
+      "namevo2": "Reptincel",
+      "namevo3": "Dracaufeu",
+      "evo1": "https://i.ibb.co/C8W1GZb/04.png",
+      "evo2": "https://i.ibb.co/G7F5y4N/05.png",
+      "evo3": "https://i.ibb.co/dgJfYD8/06.png"
     },
     "levels": {
       "lvl1": 16,
-      "lvl2": 32
+      "lvl2": 36
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Brasier ",
+      "description1": "augmente la puissance des capacités de type Feu du Pokémon quand ses PV sont inférieurs à 1/3.",
+      "talent2": "Force Soleil",
+      "description2": "quand le soleil brille, l'Attaque Spéciale du Pokémon augmente de 50 % mais il perd des PV à chaque tour."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Salamèche vient de salamandre et de mèche",
     "gen": 1,
     "url": "https://i.ibb.co/C8W1GZb/04.png"
   },
@@ -186,24 +186,24 @@
       "Speed": 80
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Salamèche",
+      "namevo2": "Reptincel",
+      "namevo3": "Dracaufeu",
+      "evo1": "https://i.ibb.co/C8W1GZb/04.png",
+      "evo2": "https://i.ibb.co/G7F5y4N/05.png",
+      "evo3": "https://i.ibb.co/dgJfYD8/06.png"
     },
     "levels": {
       "lvl1": 16,
-      "lvl2": 32
+      "lvl2": 36
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Brasier ",
+      "description1": "augmente la puissance des capacités de type Feu du Pokémon quand ses PV sont inférieurs à 1/3.",
+      "talent2": "Force Soleil",
+      "description2": "quand le soleil brille, l'Attaque Spéciale du Pokémon augmente de 50 % mais il perd des PV à chaque tour."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Reptincel vient de reptile et d'étincelle",
     "gen": 1,
     "url": "https://i.ibb.co/G7F5y4N/05.png"
   },
@@ -228,24 +228,24 @@
       "Speed": 100
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Salamèche",
+      "namevo2": "Reptincel",
+      "namevo3": "Dracaufeu",
+      "evo1": "https://i.ibb.co/C8W1GZb/04.png",
+      "evo2": "https://i.ibb.co/G7F5y4N/05.png",
+      "evo3": "https://i.ibb.co/dgJfYD8/06.png"
     },
     "levels": {
       "lvl1": 16,
-      "lvl2": 32
+      "lvl2": 36
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Brasier ",
+      "description1": "augmente la puissance des capacités de type Feu du Pokémon quand ses PV sont inférieurs à 1/3.",
+      "talent2": "Force Soleil",
+      "description2": "quand le soleil brille, l'Attaque Spéciale du Pokémon augmente de 50 % mais il perd des PV à chaque tour."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Dracaufeu vient du latin draco (dragon) et de l'expression au feu",
     "gen": 1,
     "url": "https://i.ibb.co/dgJfYD8/06.png"
   },
@@ -269,24 +269,24 @@
       "Speed": 43
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Carapuce",
+      "namevo2": "Carabaffe",
+      "namevo3": "Tortank",
+      "evo1": "https://i.ibb.co/bK8r8gZ/07.png",
+      "evo2": "https://i.ibb.co/Q9YtW6K/08.png",
+      "evo3": "https://i.ibb.co/kqMJ55h/09.png"
     },
     "levels": {
       "lvl1": 16,
       "lvl2": 32
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Torrent",
+      "description1": "augmente la puissance des capacités de type Eau du Pokémon quand ses PV sont inférieurs à 1/3.",
+      "talent2": "Cuvette",
+      "description2": "le Pokémon récupère 1/16 de ses PV lorsqu'il pleut."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Carapuce vient de carapace et de puce",
     "gen": 1,
     "url": "https://i.ibb.co/bK8r8gZ/07.png"
   },
@@ -309,6 +309,25 @@
       "Sp. Defense": 80,
       "Speed": 58
     },
+    "evolution": {
+      "namevo1": "Carapuce",
+      "namevo2": "Carabaffe",
+      "namevo3": "Tortank",
+      "evo1": "https://i.ibb.co/bK8r8gZ/07.png",
+      "evo2": "https://i.ibb.co/Q9YtW6K/08.png",
+      "evo3": "https://i.ibb.co/kqMJ55h/09.png"
+    },
+    "levels": {
+      "lvl1": 16,
+      "lvl2": 32
+    },
+    "talents": {
+      "talent1": "Torrent",
+      "description1": "augmente la puissance des capacités de type Eau du Pokémon quand ses PV sont inférieurs à 1/3.",
+      "talent2": "Cuvette",
+      "description2": "le Pokémon récupère 1/16 de ses PV lorsqu'il pleut."
+    },
+    "pokemonetymo": "Carabaffe vient de carapace et de baffe",
     "gen": 1,
     "url": "https://i.ibb.co/Q9YtW6K/08.png"
   },
@@ -332,24 +351,24 @@
       "Speed": 78
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Carapuce",
+      "namevo2": "Carabaffe",
+      "namevo3": "Tortank",
+      "evo1": "https://i.ibb.co/bK8r8gZ/07.png",
+      "evo2": "https://i.ibb.co/Q9YtW6K/08.png",
+      "evo3": "https://i.ibb.co/kqMJ55h/09.png"
     },
     "levels": {
       "lvl1": 16,
       "lvl2": 32
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Torrent",
+      "description1": "augmente la puissance des capacités de type Eau du Pokémon quand ses PV sont inférieurs à 1/3.",
+      "talent2": "Cuvette",
+      "description2": "le Pokémon récupère 1/16 de ses PV lorsqu'il pleut."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Tortank vient de tortue et de tank",
     "gen": 1,
     "url": "https://i.ibb.co/kqMJ55h/09.png"
   },
@@ -373,24 +392,24 @@
       "Speed": 45
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Chenipan",
+      "namevo2": "Chrysacier",
+      "namevo3": "Papilusion",
+      "evo1": "https://i.ibb.co/f2KQLVz/10.png",
+      "evo2": "https://i.ibb.co/QDyJ523/11.png",
+      "evo3": "https://i.ibb.co/nQ3HZXJ/12.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 7,
+      "lvl2": 10
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Écran Poudre",
+      "description1": "le Pokémon dispose d'un écran naturel qui le protège des effets additionnels des attaques ennemies.",
+      "talent2": "Fuite",
+      "description2": "permet de fuir n'importe quel Pokémon sauvage."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Chenipan vient de chenille et de chenapan",
     "gen": 1,
     "url": "https://i.ibb.co/f2KQLVz/10.png"
   },
@@ -414,24 +433,24 @@
       "Speed": 30
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Chenipan",
+      "namevo2": "Chrysacier",
+      "namevo3": "Papilusion",
+      "evo1": "https://i.ibb.co/f2KQLVz/10.png",
+      "evo2": "https://i.ibb.co/QDyJ523/11.png",
+      "evo3": "https://i.ibb.co/nQ3HZXJ/12.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 7,
+      "lvl2": 10
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Écran Poudre",
+      "description1": "le Pokémon dispose d'un écran naturel qui le protège des effets additionnels des attaques ennemies.",
+      "talent2": "Fuite",
+      "description2": "permet de fuir n'importe quel Pokémon sauvage."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Chrysacier vient de chrysalide et d'acier",
     "gen": 1,
     "url": "https://i.ibb.co/QDyJ523/11.png"
   },
@@ -456,24 +475,24 @@
       "Speed": 70
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Chenipan",
+      "namevo2": "Chrysacier",
+      "namevo3": "Papilusion",
+      "evo1": "https://i.ibb.co/f2KQLVz/10.png",
+      "evo2": "https://i.ibb.co/QDyJ523/11.png",
+      "evo3": "https://i.ibb.co/nQ3HZXJ/12.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 7,
+      "lvl2": 10
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Écran Poudre",
+      "description1": "le Pokémon dispose d'un écran naturel qui le protège des effets additionnels des attaques ennemies.",
+      "talent2": "Fuite",
+      "description2": "permet de fuir n'importe quel Pokémon sauvage."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Papilusion vient de papillon et d'illusion. Un simple l pourrait avoir été choisi à la place d'un double ll afin de respecter la limite fixée de 10 caractères pour les noms",
     "gen": 1,
     "url": "https://i.ibb.co/nQ3HZXJ/12.png"
   },
@@ -498,24 +517,24 @@
       "Speed": 50
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Aspicot",
+      "namevo2": "Coconfort",
+      "namevo3": "Dardargnan",
+      "evo1": "https://i.ibb.co/6yXwRGN/13.png",
+      "evo2": "https://i.ibb.co/P1RrY5j/14.png",
+      "evo3": "https://i.ibb.co/9HJvwfL/15.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 7,
+      "lvl2": 10
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Écran Poudre",
+      "description1": "le Pokémon dispose d'un écran naturel qui le protège des effets additionnels des attaques ennemies.",
+      "talent2": "Fuite",
+      "description2": "permet de fuir n'importe quel Pokémon sauvage."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Aspicot vient d'asticot et de picot",
     "gen": 1,
     "url": "https://i.ibb.co/6yXwRGN/13.png"
   },
@@ -540,24 +559,24 @@
       "Speed": 35
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Aspicot",
+      "namevo2": "Coconfort",
+      "namevo3": "Dardargnan",
+      "evo1": "https://i.ibb.co/6yXwRGN/13.png",
+      "evo2": "https://i.ibb.co/P1RrY5j/14.png",
+      "evo3": "https://i.ibb.co/9HJvwfL/15.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 7,
+      "lvl2": 10
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Écran Poudre",
+      "description1": "le Pokémon dispose d'un écran naturel qui le protège des effets additionnels des attaques ennemies.",
+      "talent2": "Fuite",
+      "description2": "permet de fuir n'importe quel Pokémon sauvage."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Coconfort vient de cocon, de fort et de confort",
     "gen": 1,
     "url": "https://i.ibb.co/P1RrY5j/14.png"
   },
@@ -582,24 +601,24 @@
       "Speed": 75
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Aspicot",
+      "namevo2": "Coconfort",
+      "namevo3": "Dardargnan",
+      "evo1": "https://i.ibb.co/6yXwRGN/13.png",
+      "evo2": "https://i.ibb.co/P1RrY5j/14.png",
+      "evo3": "https://i.ibb.co/9HJvwfL/15.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 7,
+      "lvl2": 10
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Écran Poudre",
+      "description1": "le Pokémon dispose d'un écran naturel qui le protège des effets additionnels des attaques ennemies.",
+      "talent2": "Fuite",
+      "description2": "permet de fuir n'importe quel Pokémon sauvage."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Dardargnan vient de dard, de dare-dare (notion d'empressement, de vitesse) et d'Artagnan[",
     "gen": 1,
     "url": "https://i.ibb.co/9HJvwfL/15.png"
   },
@@ -624,24 +643,24 @@
       "Speed": 56
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Roucool",
+      "namevo2": "Roucoups",
+      "namevo3": "Roucarnage",
+      "evo1": "https://i.ibb.co/w0bn9jT/16.png",
+      "evo2": "https://i.ibb.co/WGrVYYG/17.png",
+      "evo3": "https://i.ibb.co/JKYT353/18.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 18,
+      "lvl2": 36
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Regard Vif",
+      "description1": " les yeux perçants du Pokémon empêchent sa Précision de baisser.",
+      "talent2": "Pieds Confus",
+      "description2": "augmente l'Esquive du Pokémon s'il est confus."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Roucool vient de roucouler et de cool",
     "gen": 1,
     "url": "https://i.ibb.co/w0bn9jT/16.png"
   },
@@ -665,6 +684,25 @@
       "Sp. Defense": 50,
       "Speed": 71
     },
+    "evolution": {
+      "namevo1": "Roucool",
+      "namevo2": "Roucoups",
+      "namevo3": "Roucarnage",
+      "evo1": "https://i.ibb.co/w0bn9jT/16.png",
+      "evo2": "https://i.ibb.co/WGrVYYG/17.png",
+      "evo3": "https://i.ibb.co/JKYT353/18.png"
+    },
+    "levels": {
+      "lvl1": 18,
+      "lvl2": 36
+    },
+    "talents": {
+      "talent1": "Regard Vif",
+      "description1": " les yeux perçants du Pokémon empêchent sa Précision de baisser.",
+      "talent2": "Pieds Confus",
+      "description2": "augmente l'Esquive du Pokémon s'il est confus."
+    },
+    "pokemonetymo": "Roucoups vient de roucouler et de coups",
     "gen": 1,
     "url": "https://i.ibb.co/WGrVYYG/17.png"
   },
@@ -689,24 +727,24 @@
       "Speed": 101
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Roucool",
+      "namevo2": "Roucoups",
+      "namevo3": "Roucarnage",
+      "evo1": "https://i.ibb.co/w0bn9jT/16.png",
+      "evo2": "https://i.ibb.co/WGrVYYG/17.png",
+      "evo3": "https://i.ibb.co/JKYT353/18.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 18,
+      "lvl2": 36
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Regard Vif",
+      "description1": " les yeux perçants du Pokémon empêchent sa Précision de baisser.",
+      "talent2": "Pieds Confus",
+      "description2": "augmente l'Esquive du Pokémon s'il est confus."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Roucarnage vient de roucouler et de carnage",
     "gen": 1,
     "url": "https://i.ibb.co/JKYT353/18.png"
   },
@@ -730,24 +768,23 @@
       "Speed": 72
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Rattata",
+      "namevo2": "Rattatac",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/rsgQJSJ/19.png",
+      "evo2": "https://i.ibb.co/D8JpT1V/20.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 20
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Fuite",
+      "description1": "permet de fuir n'importe quel Pokémon sauvage.",
+      "talent2": "Cran ",
+      "description2": "augmente l'Attaque du Pokémon s'il est affecté par une altération de statut."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Rattata pourrait venir de rat et d'attaque.",
     "gen": 1,
     "url": "https://i.ibb.co/rsgQJSJ/19.png"
   },
@@ -771,24 +808,23 @@
       "Speed": 97
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Rattata",
+      "namevo2": "Rattatac",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/rsgQJSJ/19.png",
+      "evo2": "https://i.ibb.co/D8JpT1V/20.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 20
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Fuite",
+      "description1": "permet de fuir n'importe quel Pokémon sauvage.",
+      "talent2": "Cran ",
+      "description2": "augmente l'Attaque du Pokémon s'il est affecté par une altération de statut."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Rattatac vient de rat et d'attaque",
     "gen": 1,
     "url": "https://i.ibb.co/D8JpT1V/20.png"
   },
@@ -813,24 +849,23 @@
       "Speed": 70
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Piafabec",
+      "namevo2": "Rapasdepic",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/NZ8ZYWP/21.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 20
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Regard Vif",
+      "description1": "les yeux perçants du Pokémon empêchent sa Précision de baisser.",
+      "talent2": "Sniper",
+      "description2": " lorsque le Pokémon porte un coup critique, les dégâts infligés augmentent de 50 %."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Piafabec vient de piaf, de la préposition à et de bec",
     "gen": 1,
     "url": "https://i.ibb.co/NZ8ZYWP/21.png"
   },
@@ -855,24 +890,23 @@
       "Speed": 100
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Piafabec",
+      "namevo2": "Rapasdepic",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/NZ8ZYWP/21.png",
+      "evo2": "https://i.ibb.co/LScFMbJ/22.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 20
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Regard Vif",
+      "description1": "les yeux perçants du Pokémon empêchent sa Précision de baisser.",
+      "talent2": "Sniper",
+      "description2": " lorsque le Pokémon porte un coup critique, les dégâts infligés augmentent de 50 %."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Rapasdepic vient de rapace et d'as de pique",
     "gen": 1,
     "url": "https://i.ibb.co/LScFMbJ/22.png"
   },
@@ -896,24 +930,23 @@
       "Speed": 55
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Abo",
+      "namevo2": "Arbok",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/gv3RMQv/23.png",
+      "evo2": "https://i.ibb.co/54SqZ6W/24.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 22
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Intimidation",
+      "description1": "le Pokémon rugit lorsqu'il arrive au combat, ce qui intimide l'ennemi et baisse son Attaque.",
+      "talent2": "Mue",
+      "description2": "entre chaque tour, le Pokémon soigne parfois ses altérations de statut en muant."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Abo est une anagramme de boa",
     "gen": 1,
     "url": "https://i.ibb.co/gv3RMQv/23.png"
   },
@@ -937,24 +970,23 @@
       "Speed": 80
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Abo",
+      "namevo2": "Arbok",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/gv3RMQv/23.png",
+      "evo2": "https://i.ibb.co/54SqZ6W/24.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 22
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Intimidation",
+      "description1": "le Pokémon rugit lorsqu'il arrive au combat, ce qui intimide l'ennemi et baisse son Attaque.",
+      "talent2": "Mue",
+      "description2": "entre chaque tour, le Pokémon soigne parfois ses altérations de statut en muant."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Arbok vient de cobra écrit à l'envers, avec la lettre « k » au lieu de la lettre « c »",
     "gen": 1,
     "url": "https://i.ibb.co/54SqZ6W/24.png"
   },
@@ -978,24 +1010,24 @@
       "Speed": 90
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Pichu",
+      "namevo2": "Pikachu",
+      "namevo3": "Raichu",
+      "evo1": "https://i.ibb.co/8dkhyrs/172.png",
+      "evo2": "https://i.ibb.co/GWx8Wsv/25.png",
+      "evo3": "https://i.ibb.co/zNhvN0W/26.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "bonheur",
+      "lvl2": "Pierre Foudre"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Statik",
+      "description1": "le Pokémon charge son corps en électricité statique, et tout contact avec lui peut paralyser.",
+      "talent2": "Paratonnerre",
+      "description2": "le Pokémon détourne sur lui les capacités de type Électrik et les neutralise, tout en montant son Attaque Spéciale."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Pikachu vient de ぴかぴか pikapika (crépitement électrique, en japonais) et de ちゅうちゅう chūchū (pour souligner son côté mignon).",
     "gen": 1,
     "url": "https://i.ibb.co/GWx8Wsv/25.png"
   },
@@ -1019,24 +1051,24 @@
       "Speed": 110
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Pichu",
+      "namevo2": "Pikachu",
+      "namevo3": "Raichu",
+      "evo1": "https://i.ibb.co/8dkhyrs/172.png",
+      "evo2": "https://i.ibb.co/GWx8Wsv/25.png",
+      "evo3": "https://i.ibb.co/zNhvN0W/26.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "bonheur",
+      "lvl2": "Pierre Foudre"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Statik",
+      "description1": "le Pokémon charge son corps en électricité statique, et tout contact avec lui peut paralyser.",
+      "talent2": "Paratonnerre",
+      "description2": "le Pokémon détourne sur lui les capacités de type Électrik et les neutralise, tout en montant son Attaque Spéciale."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Raichu vient de 雷 rai (tonnerre, en japonais) et de ちゅうちゅう chūchū (bruit d'une souris)",
     "gen": 1,
     "url": "https://i.ibb.co/zNhvN0W/26.png"
   },
@@ -1060,24 +1092,23 @@
       "Speed": 40
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Sabelette",
+      "namevo2": "Sablaireau",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/Np0ZvfG/27.png",
+      "evo2": "https://i.ibb.co/xfJ53SR/28.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 22
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Voile Sable",
+      "description1": "augmente l'Esquive du Pokémon lors des tempêtes de sable.",
+      "talent2": "Baigne Sable",
+      "description2": "augmente la Vitesse lors des tempêtes de sable."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Sabelette vient de sable et de belette",
     "gen": 1,
     "url": "https://i.ibb.co/Np0ZvfG/27.png"
   },
@@ -1101,24 +1132,23 @@
       "Speed": 65
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Sabelette",
+      "namevo2": "Sablaireau",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/Np0ZvfG/27.png",
+      "evo2": "https://i.ibb.co/xfJ53SR/28.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 22
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Voile Sable",
+      "description1": "augmente l'Esquive du Pokémon lors des tempêtes de sable.",
+      "talent2": "Baigne Sable",
+      "description2": "augmente la Vitesse lors des tempêtes de sable."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Sablaireau vient de sable et de blaireau",
     "gen": 1,
     "url": "https://i.ibb.co/xfJ53SR/28.png"
   },
@@ -1142,24 +1172,24 @@
       "Speed": 41
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Nidoran♀",
+      "namevo2": "Nidorina",
+      "namevo3": "Nidoqueen",
+      "evo1": "https://i.ibb.co/bHpjwxv/29.png",
+      "evo2": "https://i.ibb.co/WDHpXPM/30.png",
+      "evo3": "https://i.ibb.co/ww1VfVR/31.png"
     },
     "levels": {
       "lvl1": 16,
-      "lvl2": 32
+      "lvl2": "Pierre Lune"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Point Poison ",
+      "description1": "peut empoisonner l'attaquant lorsque le Pokémon subit une attaque directe.",
+      "talent2": "Rivalité",
+      "description2": "le Pokémon déteste la concurrence et inflige plus de dégâts si l'ennemi est du même sexe. Par contre, il en inflige moins si l'ennemi est du sexe opposé."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Nidoran♀ pourrait venir de needle (aiguilles, en anglais)",
     "gen": 1,
     "url": "https://i.ibb.co/bHpjwxv/29.png"
   },
@@ -1183,24 +1213,24 @@
       "Speed": 56
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Nidoran♀",
+      "namevo2": "Nidorina",
+      "namevo3": "Nidoqueen",
+      "evo1": "https://i.ibb.co/bHpjwxv/29.png",
+      "evo2": "https://i.ibb.co/WDHpXPM/30.png",
+      "evo3": "https://i.ibb.co/ww1VfVR/31.png"
     },
     "levels": {
       "lvl1": 16,
-      "lvl2": 32
+      "lvl2": "Pierre Lune"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Point Poison ",
+      "description1": "peut empoisonner l'attaquant lorsque le Pokémon subit une attaque directe.",
+      "talent2": "Rivalité",
+      "description2": "le Pokémon déteste la concurrence et inflige plus de dégâts si l'ennemi est du même sexe. Par contre, il en inflige moins si l'ennemi est du sexe opposé."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Nidorina vient de needle (aiguilles, en anglais), de rhinocéros et du suffixe -a, désignant le genre féminin dans certaines langues comme l'italien ou l'espagnol",
     "gen": 1,
     "url": "https://i.ibb.co/WDHpXPM/30.png"
   },
@@ -1225,24 +1255,24 @@
       "Speed": 76
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Nidoran♀",
+      "namevo2": "Nidorina",
+      "namevo3": "Nidoqueen",
+      "evo1": "https://i.ibb.co/bHpjwxv/29.png",
+      "evo2": "https://i.ibb.co/WDHpXPM/30.png",
+      "evo3": "https://i.ibb.co/ww1VfVR/31.png"
     },
     "levels": {
       "lvl1": 16,
-      "lvl2": 32
+      "lvl2": "Pierre Lune"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Point Poison ",
+      "description1": "peut empoisonner l'attaquant lorsque le Pokémon subit une attaque directe.",
+      "talent2": "Rivalité",
+      "description2": "le Pokémon déteste la concurrence et inflige plus de dégâts si l'ennemi est du même sexe. Par contre, il en inflige moins si l'ennemi est du sexe opposé."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Nidoqueen vient de needle (aiguilles, en anglais) et de queen (reine, en anglais)",
     "gen": 1,
     "url": "https://i.ibb.co/ww1VfVR/31.png"
   },
@@ -1266,24 +1296,24 @@
       "Speed": 50
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Nidoran♂",
+      "namevo2": "Nidorino",
+      "namevo3": "Nidoking",
+      "evo1": "https://i.ibb.co/Jq8sCp5/32.png",
+      "evo2": "https://i.ibb.co/1Mn20wF/33.png",
+      "evo3": "https://i.ibb.co/VL2nfs2/34.png"
     },
     "levels": {
       "lvl1": 16,
-      "lvl2": 32
+      "lvl2": "Pierre Lune"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Point Poison ",
+      "description1": "peut empoisonner l'attaquant lorsque le Pokémon subit une attaque directe.",
+      "talent2": "Rivalité",
+      "description2": "le Pokémon déteste la concurrence et inflige plus de dégâts si l'ennemi est du même sexe. Par contre, il en inflige moins si l'ennemi est du sexe opposé."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Nidoran♂ pourrait venir de needle (aiguilles, en anglais)[1]. Le symbole ♂ sert à définir le sexe du Pokémon et à le différencier du Nidoran♀",
     "gen": 1,
     "url": "https://i.ibb.co/Jq8sCp5/32.png"
   },
@@ -1307,24 +1337,24 @@
       "Speed": 65
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Nidoran♂",
+      "namevo2": "Nidorino",
+      "namevo3": "Nidoking",
+      "evo1": "https://i.ibb.co/Jq8sCp5/32.png",
+      "evo2": "https://i.ibb.co/1Mn20wF/33.png",
+      "evo3": "https://i.ibb.co/VL2nfs2/34.png"
     },
     "levels": {
       "lvl1": 16,
-      "lvl2": 32
+      "lvl2": "Pierre Lune"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Point Poison ",
+      "description1": "peut empoisonner l'attaquant lorsque le Pokémon subit une attaque directe.",
+      "talent2": "Rivalité",
+      "description2": "le Pokémon déteste la concurrence et inflige plus de dégâts si l'ennemi est du même sexe. Par contre, il en inflige moins si l'ennemi est du sexe opposé."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Nidorino vient de needle (aiguilles, en anglais), de rhinocéros et du suffixe -o, désignant le genre masculin dans certaines langues comme l'italien ou l'espagnol",
     "gen": 1,
     "url": "https://i.ibb.co/1Mn20wF/33.png"
   },
@@ -1349,24 +1379,24 @@
       "Speed": 85
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Nidoran♂",
+      "namevo2": "Nidorino",
+      "namevo3": "Nidoking",
+      "evo1": "https://i.ibb.co/Jq8sCp5/32.png",
+      "evo2": "https://i.ibb.co/1Mn20wF/33.png",
+      "evo3": "https://i.ibb.co/VL2nfs2/34.png"
     },
     "levels": {
       "lvl1": 16,
-      "lvl2": 32
+      "lvl2": "Pierre Lune"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Point Poison ",
+      "description1": "peut empoisonner l'attaquant lorsque le Pokémon subit une attaque directe.",
+      "talent2": "Rivalité",
+      "description2": "le Pokémon déteste la concurrence et inflige plus de dégâts si l'ennemi est du même sexe. Par contre, il en inflige moins si l'ennemi est du sexe opposé."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Nidoking vient de needle (aiguilles, en anglais) et de king (roi, en anglais)",
     "gen": 1,
     "url": "https://i.ibb.co/VL2nfs2/34.png"
   },
@@ -1390,24 +1420,24 @@
       "Speed": 35
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Mélo",
+      "namevo2": "Mélofée",
+      "namevo3": "Mélodelfe",
+      "evo1": "https://i.ibb.co/m9DKNXK/173.png",
+      "evo2": "https://i.ibb.co/x57L067/35.png",
+      "evo3": "https://i.ibb.co/rF1LmBB/36.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Bonheur",
+      "lvl2": "Pierre Lune"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Joli Sourire",
+      "description1": "peut rendre amoureux l'attaquant lorsque le Pokémon subit une attaque directe",
+      "talent2": "Garde Magik",
+      "description2": "seules les attaques peuvent blesser le Pokémon."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Mélofée vient de mélopée et de fée",
     "gen": 1,
     "url": "https://i.ibb.co/x57L067/35.png"
   },
@@ -1429,7 +1459,25 @@
       "Sp. Attack": 95,
       "Sp. Defense": 90,
       "Speed": 60
+    },"evolution": {
+      "namevo1": "Mélo",
+      "namevo2": "Mélofée",
+      "namevo3": "Mélodelfe",
+      "evo1": "https://i.ibb.co/m9DKNXK/173.png",
+      "evo2": "https://i.ibb.co/x57L067/35.png",
+      "evo3": "https://i.ibb.co/rF1LmBB/36.png"
     },
+    "levels": {
+      "lvl1": "Bonheur",
+      "lvl2": "Pierre Lune"
+    },
+    "talents": {
+      "talent1": "Joli Sourire",
+      "description1": "peut rendre amoureux l'attaquant lorsque le Pokémon subit une attaque directe",
+      "talent2": "Garde Magik",
+      "description2": "seules les attaques peuvent blesser le Pokémon."
+    },
+    "pokemonetymo": "Mélodelfe vient de mélodie et d'elfe",
     "gen": 1,
     "url": "https://i.ibb.co/rF1LmBB/36.png"
   },
@@ -1453,24 +1501,23 @@
       "Speed": 65
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Goupix",
+      "namevo2": "Feunard",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/WBcD76d/37.png",
+      "evo2": "https://i.ibb.co/F5SmD6x/38.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Pierre Feu"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Torche",
+      "description1": " lorsque le Pokémon est touché par une capacité de type Feu, il absorbe la chaleur pour renforcer ses propres capacités Feu.",
+      "talent2": "Sécheresse",
+      "description2": "le soleil se met à briller quand le Pokémon entre au combat."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Goupix vient de goupil, nom donné au renard au Moyen Âge, de six, en référence au nombre de queues qu'il possède",
     "gen": 1,
     "url": "https://i.ibb.co/WBcD76d/37.png"
   },
@@ -1494,22 +1541,21 @@
       "Speed": 100
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Goupix",
+      "namevo2": "Feunard",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/WBcD76d/37.png",
+      "evo2": "https://i.ibb.co/F5SmD6x/38.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Pierre Feu"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Torche",
+      "description1": " lorsque le Pokémon est touché par une capacité de type Feu, il absorbe la chaleur pour renforcer ses propres capacités Feu.",
+      "talent2": "Sécheresse",
+      "description2": "le soleil se met à briller quand le Pokémon entre au combat."
     },
     "pokemonetymo": "",
     "gen": 1,

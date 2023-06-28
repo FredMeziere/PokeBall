@@ -449,12 +449,20 @@ function Card({
           <p className="card-type-p">Les différentes évolution de ce pokemon</p>
           <p className="card-type-p">{evolution.namevo1}</p>
           <img className="card-img-evol" src={evolution.evo1} alt="Pokemon de base" />
-          <p className="card-type-p">Niveau : {levels.lvl1} ▼</p>
+          {levels.lvl1 && (
+            <p className="card-type-p">Niveau : {levels.lvl1} ▼</p>
+          )}
           <p className="card-type-p">{evolution.namevo2}</p>
           <img className="card-img-evol" src={evolution.evo2} alt="Évolution 2" />
-          <p className="card-type-p">Niveau : {levels.lvl2} ▼</p>
-          <p className="card-type-p">{evolution.namevo3}</p>
-          <img className="card-img-evol" src={evolution.evo3} alt="Évolution 3" />
+          {evolution.namevo3 ? (
+            <>
+              {levels.lvl2 && (
+                <p className="card-type-p">Niveau : {levels.lvl2} ▼</p>
+              )}
+              <p className="card-type-p">{evolution.namevo3}</p>
+              <img className="card-img-evol" src={evolution.evo3} alt="Évolution 3" />
+            </>
+          ) : null}
           <p className="card-type-p">Les Talents: </p>
           <p className="card-type-p">{talents.talent1} : {talents.description1}</p>
           <p className="card-type-p">{talents.talent2} : {talents.description2}</p>
