@@ -6946,24 +6946,23 @@
       "Speed": 67
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Loupio",
+      "namevo2": "Lanturn",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/P4v806J/170.png",
+      "evo2": "https://i.ibb.co/K9z9Z7W/171.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 27
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Absorbe-Volt",
+      "description1": "si le Pokémon est touché par une capacité Électrik, il ne subit aucun dégât et regagne des PV à la place.",
+      "talent2": "Lumiattirance",
+      "description2": "émet une lumière spécifique qui facilite les rencontres avec les Pokémon sauvages."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Loupio vient de loupiote",
     "gen": 2,
     "url": "https://i.ibb.co/P4v806J/170.png"
   },
@@ -6988,24 +6987,23 @@
       "Speed": 67
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Loupio",
+      "namevo2": "Lanturn",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/P4v806J/170.png",
+      "evo2": "https://i.ibb.co/K9z9Z7W/171.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 27
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Absorbe-Volt",
+      "description1": "si le Pokémon est touché par une capacité Électrik, il ne subit aucun dégât et regagne des PV à la place.",
+      "talent2": "Lumiattirance",
+      "description2": "émet une lumière spécifique qui facilite les rencontres avec les Pokémon sauvages."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Lanturn pourrait venir de lanterne et de to turn",
     "gen": 2,
     "url": "https://i.ibb.co/K9z9Z7W/171.png"
   },
@@ -7029,24 +7027,24 @@
       "Speed": 60
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Pichu",
+      "namevo2": "Pikachu",
+      "namevo3": "Raichu",
+      "evo1": "https://i.ibb.co/8dkhyrs/172.png",
+      "evo2": "https://i.ibb.co/GWx8Wsv/25.png",
+      "evo3": "https://i.ibb.co/zNhvN0W/26.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "bonheur",
+      "lvl2": "Pierre Foudre"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Statik",
+      "description1": "le Pokémon charge son corps en électricité statique, et tout contact avec lui peut paralyser.",
+      "talent2": "Paratonnerre",
+      "description2": "le Pokémon détourne sur lui les capacités de type Électrik et les neutralise, tout en montant son Attaque Spéciale."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Pichu pourrait venir de la forme abrégée de Pikachu",
     "gen": 2,
     "url": "https://i.ibb.co/8dkhyrs/172.png"
   },
@@ -7070,24 +7068,24 @@
       "Speed": 15
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Mélo",
+      "namevo2": "Mélofée",
+      "namevo3": "Mélodelfe",
+      "evo1": "https://i.ibb.co/m9DKNXK/173.png",
+      "evo2": "https://i.ibb.co/x57L067/35.png",
+      "evo3": "https://i.ibb.co/rF1LmBB/36.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Bonheur",
+      "lvl2": "Pierre Lune"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Joli Sourire",
+      "description1": "peut rendre amoureux l'attaquant lorsque le Pokémon subit une attaque directe",
+      "talent2": "Garde Magik",
+      "description2": "seules les attaques peuvent blesser le Pokémon."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Mélo vient de la forme abrégée de Mélofée",
     "gen": 2,
     "url": "https://i.ibb.co/m9DKNXK/173.png"
   },
@@ -7112,24 +7110,24 @@
       "Speed": 15
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Toudoudou",
+      "namevo2": "Rondoudou",
+      "namevo3": "Grodoudou",
+      "evo1": "https://i.ibb.co/1Q4SYNc/174.png",
+      "evo2": "https://i.ibb.co/ccpFyhN/39.png",
+      "evo3": "https://i.ibb.co/gV6P46g/40.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Bonheur",
+      "lvl2": "Pierre Lune"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Joli Sourire",
+      "description1": "peut rendre amoureux l'attaquant lorsque le Pokémon subit une attaque directe.",
+      "talent2": "Battant",
+      "description2": "augmente beaucoup l'Attaque Spéciale du Pokémon quand ses stats baissent."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Toudoudou pourrait venir de tout doux et de doudou.",
     "gen": 2,
     "url": "https://i.ibb.co/1Q4SYNc/174.png"
   },
@@ -7153,24 +7151,24 @@
       "Speed": 20
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Togepi",
+      "namevo2": "Togetic",
+      "namevo3": "Togekiss",
+      "evo1": "https://i.ibb.co/nf46s3R/175.png",
+      "evo2": "https://i.ibb.co/9TC1Pcz/176.png",
+      "evo3": "https://i.ibb.co/whdftzs/468.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Bonheur",
+      "lvl2": "Avec une Pierre Éclat"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Sérénité",
+      "description1": "double les chances d'infliger des effets additionnels.",
+      "talent2": "Agitation",
+      "description2": "améliore l'Attaque du Pokémon mais diminue la Précision."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Togepi pourrait venir de 刺 toge (éclat, pic) et de ピヨピヨ(gazouillement d'oiseau).",
     "gen": 2,
     "url": "https://i.ibb.co/nf46s3R/175.png"
   },
@@ -7195,24 +7193,24 @@
       "Speed": 40
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Togepi",
+      "namevo2": "Togetic",
+      "namevo3": "Togekiss",
+      "evo1": "https://i.ibb.co/nf46s3R/175.png",
+      "evo2": "https://i.ibb.co/9TC1Pcz/176.png",
+      "evo3": "https://i.ibb.co/whdftzs/468.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Bonheur",
+      "lvl2": "Avec une Pierre Éclat"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Sérénité",
+      "description1": "double les chances d'infliger des effets additionnels.",
+      "talent2": "Agitation",
+      "description2": "améliore l'Attaque du Pokémon mais diminue la Précision."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Togetic pourrait venir de トゲチック Togechick, le nom japonais de Togetic.",
     "gen": 2,
     "url": "https://i.ibb.co/9TC1Pcz/176.png"
   },
@@ -7237,24 +7235,23 @@
       "Speed": 70
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Natu",
+      "namevo2": "Xatu",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/SdpRn5g/177.png",
+      "evo2": "https://i.ibb.co/xXFxqQQ/178.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 25
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Synchro",
+      "description1": "quand le Pokémon est brûlé, paralysé ou empoisonné par un autre Pokémon, il partage ce statut avec celui-ci.",
+      "talent2": "Matinal",
+      "description2": "le Pokémon se réveille deux fois plus rapidement que les autres."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Natu pourrait venir de nature et de native(autochtone, en anglais).",
     "gen": 2,
     "url": "https://i.ibb.co/SdpRn5g/177.png"
   },
@@ -7279,24 +7276,23 @@
       "Speed": 95
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Natu",
+      "namevo2": "Xatu",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/SdpRn5g/177.png",
+      "evo2": "https://i.ibb.co/xXFxqQQ/178.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 25
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Synchro",
+      "description1": "quand le Pokémon est brûlé, paralysé ou empoisonné par un autre Pokémon, il partage ce statut avec celui-ci.",
+      "talent2": "Matinal",
+      "description2": "le Pokémon se réveille deux fois plus rapidement que les autres."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Xatu pourrait venir de Xat, un totem amérindien, de nature et de native (autochtone, en anglais).",
     "gen": 2,
     "url": "https://i.ibb.co/xXFxqQQ/178.png"
   },
@@ -19271,24 +19267,24 @@
       "Speed": 80
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Togepi",
+      "namevo2": "Togetic",
+      "namevo3": "Togekiss",
+      "evo1": "https://i.ibb.co/nf46s3R/175.png",
+      "evo2": "https://i.ibb.co/9TC1Pcz/176.png",
+      "evo3": "https://i.ibb.co/whdftzs/468.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Bonheur",
+      "lvl2": "Avec une Pierre Éclat"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Sérénité",
+      "description1": "double les chances d'infliger des effets additionnels.",
+      "talent2": "Agitation",
+      "description2": "améliore l'Attaque du Pokémon mais diminue la Précision."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Togekiss pourrait venir de 刺(éclat, pic) et de to kiss.",
     "gen": 4,
     "url": "https://i.ibb.co/whdftzs/468.png"
   },
