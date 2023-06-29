@@ -5238,7 +5238,6 @@
     },
     "levels": {
       "lvl1": "Tauros n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
-      
     },
     "talents": {
       "talent1": "Intimidation",
@@ -5810,7 +5809,6 @@
     },
     "levels": {
       "lvl1": "prochainement"
-      
     },
     "talents": {
       "talent1": "Tête de Roc",
@@ -8106,12 +8104,12 @@
       "lvl1": "Avec une Pierre Nuit"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Insomnia",
+      "description1": "le Pokémon est incapable de dormir.",
+      "talent2": "Chanceux",
+      "description2": "le Pokémon est tellement chanceux qu'il inflige plus fréquemment des coups critiques."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Cornèbre vient de corneille et de ténèbres",
     "gen": 2,
     "url": "https://i.ibb.co/YfYTQXs/198.png"
   },
@@ -8136,24 +8134,23 @@
       "Speed": 30
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Ramoloss",
+      "namevo2": "Roigada",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/y6bc949/79.png",
+      "evo2": "https://i.ibb.co/48nfskP/199.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Échange en tenant Roche Royale"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Benêt",
+      "description1": "le Pokémon est un grand benêt, ce qui l'immunise contre l'attraction ou la provocation",
+      "talent2": "Tempo Perso",
+      "description2": "le Pokémon vit sa vie à son propre rythme, ce qui l'immunise contre la confusion"
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Roigada vient de roi et de flagada",
     "gen": 2,
     "url": "https://i.ibb.co/48nfskP/199.png"
   },
@@ -8177,24 +8174,23 @@
       "Speed": 85
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Feuforêve",
+      "namevo2": "Magirêve",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/FqxLY09/200.png",
+      "evo2": "https://i.ibb.co/mJY77q0/429.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Avec une Pierre Nuit "
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Lévitation",
+      "description1": "Pokémon flotte, ce qui l'immunise contre les capacités de type Sol.",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Feuforêve vient de feu follet et de rêve",
     "gen": 2,
     "url": "https://i.ibb.co/FqxLY09/200.png"
   },
@@ -8218,16 +8214,15 @@
       "Speed": 48
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Zarbi",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/3s0ZmS8/201.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Zarbi est le deuxième Pokémon ayant le plus de formes différentes répertoriées derrière Charmilly, mais n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
       "talent1": "",
@@ -8259,24 +8254,23 @@
       "Speed": 33
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Okéoké",
+      "namevo2": "Qulbutoké",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/Mcj9ty4/360.png",
+      "evo2": "https://i.ibb.co/rHJqwTv/202.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 15
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Marque Ombre",
+      "description1": "empêche le Pokémon ennemi de quitter le combat.",
+      "talent2": "Télépathe",
+      "description2": "en Combat Duo et Multi, le Pokémon anticipe et évite les attaques de ses alliés."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Qulbutoké vient de culbuto, de toqué et d'okay",
     "gen": 2,
     "url": "https://i.ibb.co/rHJqwTv/202.png"
   },
@@ -8301,24 +8295,23 @@
       "Speed": 85
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Girafarig",
+      "namevo2": "Farigiraf",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/wzdTFmx/203.png",
+      "evo2": "https://i.ibb.co/TTSjrL0/981.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Connaître la capacité Double Laser + gagner un niveau"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Attention",
+      "description1": "le Pokémon a un mental à toute épreuve qui empêche les capacités ennemies de lui faire peur.",
+      "talent2": "Matinal",
+      "description2": "le Pokémon se réveille deux fois plus rapidement que les autres."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Girafarig est un palindrome de girafe",
     "gen": 2,
     "url": "https://i.ibb.co/wzdTFmx/203.png"
   },
@@ -8342,24 +8335,23 @@
       "Speed": 15
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Pomdepik",
+      "namevo2": "Foretress",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/ctP8BYh/204.png",
+      "evo2": "https://i.ibb.co/y815wBh/205.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 31
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Fermeté",
+      "description1": "le Pokémon encaisse toujours au moins une attaque s'il a tous ses PV. Il est également immunisé contre les capacités pouvant mettre K.O. en un coup.",
+      "talent2": "Envelocape",
+      "description2": "protège des dégâts occasionnés par les tempêtes de sable ou la grêle, et neutralise les attaques à base de poudre."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Pomdepik vient de pomme de pin et de pique",
     "gen": 2,
     "url": "https://i.ibb.co/ctP8BYh/204.png"
   },
@@ -8384,22 +8376,21 @@
       "Speed": 40
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Pomdepik",
+      "namevo2": "Foretress",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/ctP8BYh/204.png",
+      "evo2": "https://i.ibb.co/y815wBh/205.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 31
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Fermeté",
+      "description1": "le Pokémon encaisse toujours au moins une attaque s'il a tous ses PV. Il est également immunisé contre les capacités pouvant mettre K.O. en un coup.",
+      "talent2": "Envelocape",
+      "description2": "protège des dégâts occasionnés par les tempêtes de sable ou la grêle, et neutralise les attaques à base de poudre."
     },
     "pokemonetymo": "",
     "gen": 2,
@@ -14797,24 +14788,23 @@
       "Speed": 23
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Okéoké",
+      "namevo2": "Qulbutoké",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/Mcj9ty4/360.png",
+      "evo2": "https://i.ibb.co/rHJqwTv/202.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 15
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Marque Ombre",
+      "description1": "empêche le Pokémon ennemi de quitter le combat.",
+      "talent2": "Télépathe",
+      "description2": "en Combat Duo et Multi, le Pokémon anticipe et évite les attaques de ses alliés."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Okéoké est l'équivalent phonétique de l'exclamation okay, okay!.",
     "gen": 3,
     "url": "https://i.ibb.co/Mcj9ty4/360.png"
   },
@@ -17656,24 +17646,23 @@
       "Speed": 105
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Feuforêve",
+      "namevo2": "Magirêve",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/FqxLY09/200.png",
+      "evo2": "https://i.ibb.co/mJY77q0/429.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Avec une Pierre Nuit "
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Lévitation",
+      "description1": "Pokémon flotte, ce qui l'immunise contre les capacités de type Sol.",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Magirêve pourrait venir de magie et de rêve.",
     "gen": 4,
     "url": "https://i.ibb.co/mJY77q0/429.png"
   },
@@ -17698,24 +17687,23 @@
       "Speed": 71
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Cornèbre",
+      "namevo2": "Corboss",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/YfYTQXs/198.png",
+      "evo2": "https://i.ibb.co/1RYZp8Q/430.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Avec une Pierre Nuit"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Insomnia",
+      "description1": "le Pokémon est incapable de dormir.",
+      "talent2": "Chanceux",
+      "description2": "le Pokémon est tellement chanceux qu'il inflige plus fréquemment des coups critiques."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Corboss pourrait venir de corbeau et de boss.",
     "gen": 4,
     "url": "https://i.ibb.co/1RYZp8Q/430.png"
   },
@@ -40377,24 +40365,23 @@
       "Speed": 60
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Girafarig",
+      "namevo2": "Farigiraf",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/wzdTFmx/203.png",
+      "evo2": "https://i.ibb.co/TTSjrL0/981.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Connaître la capacité Double Laser + gagner un niveau"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Ruminant",
+      "description1": "permet de manger une Baie tenue une deuxième fois après l'avoir déjà consommée au tour précédent.",
+      "talent2": "Armure Caudale",
+      "description2": "empêche les Pokémon adverses d'utiliser des capacités prioritaires."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Son nom rappelle ainsi celui de Girafarig, sa pré-évolution.",
     "gen": 9,
     "url": "https://i.ibb.co/TTSjrL0/981.png"
   },

@@ -25,5 +25,10 @@
         margin: 20px;
         text-shadow: 1px 1px 10px black;
     }
-
+    &-p {
+        color: vars.$yellow;
+        font-weight: 700;
+        margin: 20px;
+        text-shadow: 1px 1px 10px black;
+    }
 }
