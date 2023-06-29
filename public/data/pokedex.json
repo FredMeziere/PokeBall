@@ -5646,12 +5646,12 @@
       "lvl1": 40
     },
     "talents": {
-      "talent1": "Calque",
-      "description1": "lorsque le Pokémon entre au combat, il calque le talent d'un ennemi pour remplacer le sien.",
-      "talent2": "Télécharge",
-      "description2": "le Pokémon compare la Défense et la Défense Spéciale de l'adversaire et augmente son Attaque ou son Attaque Spéciale en conséquence."
+      "talent1": "Glissade",
+      "description1": "augmente la Vitesse du Pokémon s'il pleut.",
+      "talent2": "Coque Armure",
+      "description2": "le Pokémon est protégé des coups critiques par sa carapace."
     },
-    "pokemonetymo": "Porygon vient de la prononciation japonaise de polygone",
+    "pokemonetymo": "Amonita vient d'ammonite, famille de créatures préhistoriques (Ammonoidea) ayant inspiré le Pokémon.",
     "gen": 1,
     "url": "https://i.ibb.co/fYTyDpK/138.png"
   },
@@ -5676,24 +5676,23 @@
       "Speed": 55
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Amonita",
+      "namevo2": "Amonistar",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/fYTyDpK/138.png",
+      "evo2": "https://i.ibb.co/DRf6fhg/139.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 40
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Glissade",
+      "description1": "augmente la Vitesse du Pokémon s'il pleut.",
+      "talent2": "Coque Armure",
+      "description2": "le Pokémon est protégé des coups critiques par sa carapace."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Amonistar vient d'ammonite, famille de créatures préhistoriques, et de star (étoile, en anglais), en référence à l'étoile de mer.",
     "gen": 1,
     "url": "https://i.ibb.co/DRf6fhg/139.png"
   },
@@ -5718,11 +5717,11 @@
       "Speed": 55
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Kabuto",
+      "namevo2": "Kabutops",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/jh7kPDT/140.png",
+      "evo2": "https://i.ibb.co/p07x62j/141.png",
       "evo3": ""
     },
     "levels": {
@@ -5730,12 +5729,12 @@
       "lvl2": 32
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Glissade",
+      "description1": "augmente la Vitesse du Pokémon s'il pleut.",
+      "talent2": "Armurbaston",
+      "description2": "le Pokémon est protégé des coups critiques par une solide carapace."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Kabuto vient de 兜 kabuto (casques traditionnels des samouraïs japonais).",
     "gen": 1,
     "url": "https://i.ibb.co/jh7kPDT/140.png"
   },
@@ -5760,11 +5759,11 @@
       "Speed": 80
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Kabuto",
+      "namevo2": "Kabutops",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/jh7kPDT/140.png",
+      "evo2": "https://i.ibb.co/p07x62j/141.png",
       "evo3": ""
     },
     "levels": {
@@ -5772,12 +5771,12 @@
       "lvl2": 32
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Glissade",
+      "description1": "augmente la Vitesse du Pokémon s'il pleut.",
+      "talent2": "Armurbaston",
+      "description2": "le Pokémon est protégé des coups critiques par une solide carapace."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Kabutops vient de 兜 kabuto (casques traditionnels des samouraïs japonais) et du crustacé préhistorique triops",
     "gen": 1,
     "url": "https://i.ibb.co/p07x62j/141.png"
   },
@@ -5802,24 +5801,24 @@
       "Speed": 130
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Ptéra",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/GTqvHBj/142.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "prochainement"
+      
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Tête de Roc",
+      "description1": "le Pokémon peut utiliser des capacités occasionnant un contrecoup sans perdre de PV.",
+      "talent2": "Pression",
+      "description2": "force l'ennemi à dépenser deux PP par capacité utilisée."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Ptéra pourrait venir de ptéranodon, reptile volant dont il est inspiré.",
     "gen": 1,
     "url": "https://i.ibb.co/GTqvHBj/142.png"
   },
@@ -5843,24 +5842,23 @@
       "Speed": 30
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Goinfrex",
+      "namevo2": "Ronflex",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/VNkPtys/446.png",
+      "evo2": "https://i.ibb.co/XZsyXKV/143.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Bonheur"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Vaccin",
+      "description1": "le Pokémon est naturellement immunisé contre toute forme de poison.",
+      "talent2": "Isograisse",
+      "description2": "le Pokémon est protégé par une épaisse couche de graisse qui diminue de moitié les dégâts qu'il subit des capacités de types Feu et Glace."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Ronflex vient de ronflement et de flexible",
     "gen": 1,
     "url": "https://i.ibb.co/XZsyXKV/143.png"
   },
@@ -5885,24 +5883,23 @@
       "Speed": 85
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Artikodin",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/4d8kGhM/144.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Artikodin n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Pression",
+      "description1": "force l'ennemi à dépenser deux PP par capacité utilisée.",
+      "talent2": "Rideau Neige",
+      "description2": "augmente l'Esquive du Pokémon durant les tempêtes de grêle."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Artikodin vient d'arctique et d'Odin, dieu scandinave de la mythologie nordique.",
     "gen": 1,
     "url": "https://i.ibb.co/4d8kGhM/144.png"
   },
@@ -5927,24 +5924,23 @@
       "Speed": 100
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Électhor",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/Qd5m1M8/145.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Électhor n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Pression",
+      "description1": "force l'ennemi à dépenser deux PP par capacité utilisée.",
+      "talent2": "Statik",
+      "description2": "le Pokémon charge son corps en électricité statique, et tout contact avec lui peut paralyser."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Électhor vient d'électrique et de Thor.",
     "gen": 1,
     "url": "https://i.ibb.co/Qd5m1M8/145.png"
   },
@@ -5969,22 +5965,21 @@
       "Speed": 90
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Sulfura",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/54R8Gg9/146.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Sulfura n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Pression",
+      "description1": "force l'ennemi à dépenser deux PP par capacité utilisée.",
+      "talent2": "Corps Ardent",
+      "description2": "peut brûler l'attaquant lorsque le Pokémon subit une attaque directe et permet une éclosion plus rapide des Œufs."
     },
     "pokemonetymo": "",
     "gen": 1,
@@ -6010,24 +6005,24 @@
       "Speed": 50
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Minidraco",
+      "namevo2": "Draco",
+      "namevo3": "Dracolosse",
+      "evo1": "https://i.ibb.co/VjnrFRk/147.png",
+      "evo2": "https://i.ibb.co/JFznK19/148.png",
+      "evo3": "https://i.ibb.co/tsyT2xy/149.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 30,
+      "lvl2": 55
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Mue",
+      "description1": "entre chaque tour, le Pokémon soigne parfois ses altérations de statut en muant.",
+      "talent2": "Écaille Spéciale",
+      "description2": "les écailles mystérieuses du Pokémon réagissent aux altérations de statut en augmentant sa Défense."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Minidraco vient de miniature et de draco (dragon, en latin).",
     "gen": 1,
     "url": "https://i.ibb.co/VjnrFRk/147.png"
   },
@@ -6051,24 +6046,24 @@
       "Speed": 70
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Minidraco",
+      "namevo2": "Draco",
+      "namevo3": "Dracolosse",
+      "evo1": "https://i.ibb.co/VjnrFRk/147.png",
+      "evo2": "https://i.ibb.co/JFznK19/148.png",
+      "evo3": "https://i.ibb.co/tsyT2xy/149.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 30,
+      "lvl2": 55
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Mue",
+      "description1": "entre chaque tour, le Pokémon soigne parfois ses altérations de statut en muant.",
+      "talent2": "Écaille Spéciale",
+      "description2": "les écailles mystérieuses du Pokémon réagissent aux altérations de statut en augmentant sa Défense."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Draco vient de draco (dragon, en latin)",
     "gen": 1,
     "url": "https://i.ibb.co/JFznK19/148.png"
   },
@@ -6093,24 +6088,24 @@
       "Speed": 80
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Minidraco",
+      "namevo2": "Draco",
+      "namevo3": "Dracolosse",
+      "evo1": "https://i.ibb.co/VjnrFRk/147.png",
+      "evo2": "https://i.ibb.co/JFznK19/148.png",
+      "evo3": "https://i.ibb.co/tsyT2xy/149.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 30,
+      "lvl2": 55
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Attention",
+      "description1": "le Pokémon a un mental à toute épreuve qui empêche les capacités ennemies de lui faire peur.",
+      "talent2": "Multiécaille",
+      "description2": "le Pokémon reçoit moins de dégâts quand ses PV sont au maximum."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Dracolosse vient de draco (dragon, en latin) et de colosse",
     "gen": 1,
     "url": "https://i.ibb.co/tsyT2xy/149.png"
   },
@@ -6134,24 +6129,23 @@
       "Speed": 130
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Mewtwo",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/PMPLDwY/150.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Possède 2 Méga-évolutions"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Pression",
+      "description1": "force l'ennemi à dépenser deux PP par capacité utilisée.",
+      "talent2": "Tension",
+      "description2": "fait stresser l'ennemi, ce qui l'empêche de manger des Baies."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Mewtwo vient de Mew le Pokémon à partir duquel il a été créé",
     "gen": 1,
     "url": "https://i.ibb.co/PMPLDwY/150.png"
   },
@@ -6173,6 +6167,23 @@
       "Sp. Attack": 100,
       "Sp. Defense": 100,
       "Speed": 100
+    },
+    "evolution": {
+      "namevo1": "Mew",
+      "namevo2": "",
+      "namevo3": "",
+      "evo1": "https://i.ibb.co/HC8C0zH/151.png",
+      "evo2": "",
+      "evo3": ""
+    },
+    "levels": {
+      "lvl1": "Mew n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
+    },
+    "talents": {
+      "talent1": "Synchro",
+      "description1": "quand le Pokémon est brûlé, paralysé ou empoisonné par un autre Pokémon, il partage ce statut avec celui-ci.",
+      "talent2": "",
+      "description2": ""
     },
     "gen": 1,
     "url": "https://i.ibb.co/HC8C0zH/151.png"
@@ -6197,24 +6208,24 @@
       "Speed": 45
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Germignon",
+      "namevo2": "Macronium",
+      "namevo3": "Méganium",
+      "evo1": "https://i.ibb.co/w4W7HCQ/152.png",
+      "evo2": "https://i.ibb.co/kGDtnGM/153.png",
+      "evo3": "https://i.ibb.co/N2vfnVP/154.png"
     },
     "levels": {
       "lvl1": 16,
       "lvl2": 32
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Engrais",
+      "description1": "augmente la puissance des capacités de type Plante du Pokémon quand ses PV sont inférieurs à 1/3",
+      "talent2": "Feuille Garde",
+      "description2": "protège le Pokémon contre les altérations de statut quand le soleil brille."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Germignon vient de germe et de mignon",
     "gen": 2,
     "url": "https://i.ibb.co/w4W7HCQ/152.png"
   },
@@ -6238,24 +6249,24 @@
       "Speed": 60
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Germignon",
+      "namevo2": "Macronium",
+      "namevo3": "Méganium",
+      "evo1": "https://i.ibb.co/w4W7HCQ/152.png",
+      "evo2": "https://i.ibb.co/kGDtnGM/153.png",
+      "evo3": "https://i.ibb.co/N2vfnVP/154.png"
     },
     "levels": {
       "lvl1": 16,
       "lvl2": 32
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Engrais",
+      "description1": "augmente la puissance des capacités de type Plante du Pokémon quand ses PV sont inférieurs à 1/3",
+      "talent2": "Feuille Garde",
+      "description2": "protège le Pokémon contre les altérations de statut quand le soleil brille."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Macronium vient de macro (grand) et de géranium",
     "gen": 2,
     "url": "https://i.ibb.co/kGDtnGM/153.png"
   },
@@ -6279,24 +6290,24 @@
       "Speed": 80
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Germignon",
+      "namevo2": "Macronium",
+      "namevo3": "Méganium",
+      "evo1": "https://i.ibb.co/w4W7HCQ/152.png",
+      "evo2": "https://i.ibb.co/kGDtnGM/153.png",
+      "evo3": "https://i.ibb.co/N2vfnVP/154.png"
     },
     "levels": {
       "lvl1": 16,
       "lvl2": 32
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Engrais",
+      "description1": "augmente la puissance des capacités de type Plante du Pokémon quand ses PV sont inférieurs à 1/3",
+      "talent2": "Feuille Garde",
+      "description2": "protège le Pokémon contre les altérations de statut quand le soleil brille."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Méganium vient de méga (grand) et de géranium",
     "gen": 2,
     "url": "https://i.ibb.co/N2vfnVP/154.png"
   },
@@ -6320,24 +6331,24 @@
       "Speed": 65
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Héricendre",
+      "namevo2": "Feurisson",
+      "namevo3": "Typhlosion",
+      "evo1": "https://i.ibb.co/1RGDJQP/155.png",
+      "evo2": "https://i.ibb.co/Pcs4NXH/156.png",
+      "evo3": "https://i.ibb.co/k509382/157.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Niveau 14 ou 17",
+      "lvl2": 36
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Brasier",
+      "description1": " augmente la puissance des capacités de type Feu du Pokémon quand ses PV sont inférieurs à 1/3.",
+      "talent2": "Torche",
+      "description2": "lorsque le Pokémon est touché par une capacité de type Feu, il absorbe la chaleur pour renforcer ses propres capacités Feu."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Héricendre vient de hérisson et de cendre.",
     "gen": 2,
     "url": "https://i.ibb.co/1RGDJQP/155.png"
   },
@@ -6361,24 +6372,24 @@
       "Speed": 80
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Héricendre",
+      "namevo2": "Feurisson",
+      "namevo3": "Typhlosion",
+      "evo1": "https://i.ibb.co/1RGDJQP/155.png",
+      "evo2": "https://i.ibb.co/Pcs4NXH/156.png",
+      "evo3": "https://i.ibb.co/k509382/157.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Niveau 14 ou 17",
+      "lvl2": 36
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Brasier",
+      "description1": " augmente la puissance des capacités de type Feu du Pokémon quand ses PV sont inférieurs à 1/3.",
+      "talent2": "Torche",
+      "description2": "lorsque le Pokémon est touché par une capacité de type Feu, il absorbe la chaleur pour renforcer ses propres capacités Feu."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Feurisson vient de feu et de hérisson.",
     "gen": 2,
     "url": "https://i.ibb.co/Pcs4NXH/156.png"
   },
@@ -6402,24 +6413,24 @@
       "Speed": 100
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Héricendre",
+      "namevo2": "Feurisson",
+      "namevo3": "Typhlosion",
+      "evo1": "https://i.ibb.co/1RGDJQP/155.png",
+      "evo2": "https://i.ibb.co/Pcs4NXH/156.png",
+      "evo3": "https://i.ibb.co/k509382/157.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Niveau 14 ou 17",
+      "lvl2": 36
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Brasier",
+      "description1": " augmente la puissance des capacités de type Feu du Pokémon quand ses PV sont inférieurs à 1/3.",
+      "talent2": "Torche",
+      "description2": "lorsque le Pokémon est touché par une capacité de type Feu, il absorbe la chaleur pour renforcer ses propres capacités Feu."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Typhlosion vient de typhon et d'explosion.",
     "gen": 2,
     "url": "https://i.ibb.co/k509382/157.png"
   },
@@ -6443,24 +6454,24 @@
       "Speed": 43
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Kaiminus",
+      "namevo2": "Crocrodil",
+      "namevo3": "Aligatueur",
+      "evo1": "https://i.ibb.co/6vSS4ZR/158.png",
+      "evo2": "https://i.ibb.co/qrfhLsP/159.png",
+      "evo3": "https://i.ibb.co/ZYLPfxn/160.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 18,
+      "lvl2": 30
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Torrent",
+      "description1": "augmente la puissance des capacités de type Eau du Pokémon quand ses PV sont inférieurs à 1/3.",
+      "talent2": "Sans Limite",
+      "description2": "les capacités ayant un effet additionnel perdent celui-ci, mais leur puissance augmente de 30 %."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Kaiminus vient de caïman et de minus",
     "gen": 2,
     "url": "https://i.ibb.co/6vSS4ZR/158.png"
   },
@@ -6484,24 +6495,24 @@
       "Speed": 58
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Kaiminus",
+      "namevo2": "Crocrodil",
+      "namevo3": "Aligatueur",
+      "evo1": "https://i.ibb.co/6vSS4ZR/158.png",
+      "evo2": "https://i.ibb.co/qrfhLsP/159.png",
+      "evo3": "https://i.ibb.co/ZYLPfxn/160.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 18,
+      "lvl2": 30
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Torrent",
+      "description1": "augmente la puissance des capacités de type Eau du Pokémon quand ses PV sont inférieurs à 1/3.",
+      "talent2": "Sans Limite",
+      "description2": "les capacités ayant un effet additionnel perdent celui-ci, mais leur puissance augmente de 30 %."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Crocrodil vient de croc et de crocodile",
     "gen": 2,
     "url": "https://i.ibb.co/qrfhLsP/159.png"
   },
@@ -6525,24 +6536,24 @@
       "Speed": 78
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Kaiminus",
+      "namevo2": "Crocrodil",
+      "namevo3": "Aligatueur",
+      "evo1": "https://i.ibb.co/6vSS4ZR/158.png",
+      "evo2": "https://i.ibb.co/qrfhLsP/159.png",
+      "evo3": "https://i.ibb.co/ZYLPfxn/160.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 18,
+      "lvl2": 30
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Torrent",
+      "description1": "augmente la puissance des capacités de type Eau du Pokémon quand ses PV sont inférieurs à 1/3.",
+      "talent2": "Sans Limite",
+      "description2": "les capacités ayant un effet additionnel perdent celui-ci, mais leur puissance augmente de 30 %."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Aligatueur vient d'alligator et pourrait venir de tueur.",
     "gen": 2,
     "url": "https://i.ibb.co/ZYLPfxn/160.png"
   },
@@ -6566,24 +6577,23 @@
       "Speed": 20
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Fouinette",
+      "namevo2": "Fouinar",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/Hg9DXs9/161.png",
+      "evo2": "https://i.ibb.co/8zkprqC/162.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 15
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Fuite",
+      "description1": "permet de fuir n'importe quel Pokémon sauvage.",
+      "talent2": "Regard Vif",
+      "description2": "les yeux perçants du Pokémon empêchent sa Précision de baisser."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Fouinette pourrait venir de fouine et de belette ou du suffixe -ette",
     "gen": 2,
     "url": "https://i.ibb.co/Hg9DXs9/161.png"
   },
@@ -6607,24 +6617,23 @@
       "Speed": 90
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Fouinette",
+      "namevo2": "Fouinar",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/Hg9DXs9/161.png",
+      "evo2": "https://i.ibb.co/8zkprqC/162.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 15
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Fuite",
+      "description1": "permet de fuir n'importe quel Pokémon sauvage.",
+      "talent2": "Regard Vif",
+      "description2": "les yeux perçants du Pokémon empêchent sa Précision de baisser."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Fouinar pourrait venir de fouine et de renard.",
     "gen": 2,
     "url": "https://i.ibb.co/8zkprqC/162.png"
   },
@@ -6649,24 +6658,23 @@
       "Speed": 50
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Hoothoot",
+      "namevo2": "Noarfang",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/YjYj887/163.png",
+      "evo2": "https://i.ibb.co/Y7hds2p/164.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 20
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Insomnia",
+      "description1": "le Pokémon est incapable de dormir.",
+      "talent2": "Regard Vif",
+      "description2": "les yeux perçants du Pokémon empêchent sa Précision de baisser."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Hoothoot pourrait venir de l'onomatopée associée au bruit qu'émettent les hiboux : hou hou.",
     "gen": 2,
     "url": "https://i.ibb.co/YjYj887/163.png"
   },
@@ -6691,24 +6699,23 @@
       "Speed": 70
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Hoothoot",
+      "namevo2": "Noarfang",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/YjYj887/163.png",
+      "evo2": "https://i.ibb.co/Y7hds2p/164.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 20
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Insomnia",
+      "description1": "le Pokémon est incapable de dormir.",
+      "talent2": "Regard Vif",
+      "description2": "les yeux perçants du Pokémon empêchent sa Précision de baisser."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Noarfang vient d'une déformation de noir et d'harfang.",
     "gen": 2,
     "url": "https://i.ibb.co/Y7hds2p/164.png"
   },
@@ -6733,24 +6740,23 @@
       "Speed": 55
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Coxy",
+      "namevo2": "Coxyclaque",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/sbvbD4r/165.png",
+      "evo2": "https://i.ibb.co/TbD2Fn6/166.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 18
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Essaim",
+      "description1": "augmente la puissance des capacités de type Insecte du Pokémon quand ses PV sont inférieurs à 1/3.",
+      "talent2": "Matinal",
+      "description2": " le Pokémon se réveille deux fois plus rapidement que les autres."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Coxy vient de coccinelle",
     "gen": 2,
     "url": "https://i.ibb.co/sbvbD4r/165.png"
   },
@@ -6775,24 +6781,23 @@
       "Speed": 85
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Coxy",
+      "namevo2": "Coxyclaque",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/sbvbD4r/165.png",
+      "evo2": "https://i.ibb.co/TbD2Fn6/166.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 18
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Essaim",
+      "description1": "augmente la puissance des capacités de type Insecte du Pokémon quand ses PV sont inférieurs à 1/3.",
+      "talent2": "Matinal",
+      "description2": " le Pokémon se réveille deux fois plus rapidement que les autres."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Coxyclaque vient de coccinelle et de claque.",
     "gen": 2,
     "url": "https://i.ibb.co/TbD2Fn6/166.png"
   },
@@ -6817,24 +6822,23 @@
       "Speed": 30
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Mimigal",
+      "namevo2": "Migalos",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/whv1CCM/167.png",
+      "evo2": "https://i.ibb.co/j8bwnz2/168.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 22
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Essaim",
+      "description1": "augmente la puissance des capacités de type Insecte du Pokémon quand ses PV sont inférieurs à 1/3.",
+      "talent2": "Insomnia",
+      "description2": "le Pokémon est incapable de dormir."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": " Mimigal vient de mimi (diminutif de mignon) et de mygale.",
     "gen": 2,
     "url": "https://i.ibb.co/whv1CCM/167.png"
   },
@@ -6859,24 +6863,23 @@
       "Speed": 40
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Mimigal",
+      "namevo2": "Migalos",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/whv1CCM/167.png",
+      "evo2": "https://i.ibb.co/j8bwnz2/168.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 22
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Essaim",
+      "description1": "augmente la puissance des capacités de type Insecte du Pokémon quand ses PV sont inférieurs à 1/3.",
+      "talent2": "Insomnia",
+      "description2": "le Pokémon est incapable de dormir."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Migalos vient de mygale et de colosse.",
     "gen": 2,
     "url": "https://i.ibb.co/j8bwnz2/168.png"
   },
@@ -6901,24 +6904,24 @@
       "Speed": 130
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Nosferapti",
+      "namevo2": "Nosferalto",
+      "namevo3": "Nostenfer",
+      "evo1": "https://i.ibb.co/BNXkJvw/41.png",
+      "evo2": "https://i.ibb.co/31h6v49/42.png",
+      "evo3": "https://i.ibb.co/hR0zd0T/169.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 22,
+      "lvl2": "Bonheur"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Attention",
+      "description1": " le Pokémon a un mental à toute épreuve qui empêche les capacités ennemies de lui faire peur.",
+      "talent2": "Infiltration",
+      "description2": " traverse les barrières et les clones de l'ennemi pour attaquer directement."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Nostenfer vient de Nosferatu, nom d'un vampire célèbre et d'enfer",
     "gen": 2,
     "url": "https://i.ibb.co/hR0zd0T/169.png"
   },
@@ -18357,22 +18360,21 @@
       "Speed": 5
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Goinfrex",
+      "namevo2": "Ronflex",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/VNkPtys/446.png",
+      "evo2": "https://i.ibb.co/XZsyXKV/143.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Bonheur"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Vaccin",
+      "description1": "le Pokémon est naturellement immunisé contre toute forme de poison.",
+      "talent2": "Isograisse",
+      "description2": "le Pokémon est protégé par une épaisse couche de graisse qui diminue de moitié les dégâts qu'il subit des capacités de types Feu et Glace."
     },
     "pokemonetymo": "",
     "gen": 4,
