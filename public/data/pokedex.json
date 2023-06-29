@@ -7316,24 +7316,24 @@
       "Speed": 35
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Wattouat",
+      "namevo2": "Lainergie",
+      "namevo3": "Pharamp",
+      "evo1": "https://i.ibb.co/pRgsgqd/179.png",
+      "evo2": "https://i.ibb.co/LZ41NNc/180.png",
+      "evo3": "https://i.ibb.co/bjhxkNf/181.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 15,
+      "lvl2": 30
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Statik",
+      "description1": "le Pokémon charge son corps en électricité statique, et tout contact avec lui peut paralyser.",
+      "talent2": "Plus",
+      "description2": "en Combat Duo et Multi, l'Attaque Spéciale du Pokémon augmente si un Pokémon allié a le talent Moins ou Plus."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Wattouat vient de Watt et d'ouate",
     "gen": 2,
     "url": "https://i.ibb.co/pRgsgqd/179.png"
   },
@@ -7357,24 +7357,24 @@
       "Speed": 45
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Wattouat",
+      "namevo2": "Lainergie",
+      "namevo3": "Pharamp",
+      "evo1": "https://i.ibb.co/pRgsgqd/179.png",
+      "evo2": "https://i.ibb.co/LZ41NNc/180.png",
+      "evo3": "https://i.ibb.co/bjhxkNf/181.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 15,
+      "lvl2": 30
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Statik",
+      "description1": "le Pokémon charge son corps en électricité statique, et tout contact avec lui peut paralyser.",
+      "talent2": "Plus",
+      "description2": "en Combat Duo et Multi, l'Attaque Spéciale du Pokémon augmente si un Pokémon allié a le talent Moins ou Plus."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Lainergie vient de laine et d'énergie.",
     "gen": 2,
     "url": "https://i.ibb.co/LZ41NNc/180.png"
   },
@@ -7397,6 +7397,25 @@
       "Sp. Defense": 90,
       "Speed": 55
     },
+    "evolution": {
+      "namevo1": "Wattouat",
+      "namevo2": "Lainergie",
+      "namevo3": "Pharamp",
+      "evo1": "https://i.ibb.co/pRgsgqd/179.png",
+      "evo2": "https://i.ibb.co/LZ41NNc/180.png",
+      "evo3": "https://i.ibb.co/bjhxkNf/181.png"
+    },
+    "levels": {
+      "lvl1": 15,
+      "lvl2": 30
+    },
+    "talents": {
+      "talent1": "Statik",
+      "description1": "le Pokémon charge son corps en électricité statique, et tout contact avec lui peut paralyser.",
+      "talent2": "Plus",
+      "description2": "en Combat Duo et Multi, l'Attaque Spéciale du Pokémon augmente si un Pokémon allié a le talent Moins ou Plus."
+    },
+    "pokemonetymo": "Pharamp vient de phare et d'ampère",
     "gen": 2,
     "url": "https://i.ibb.co/bjhxkNf/181.png"
   },
@@ -7420,24 +7439,24 @@
       "Speed": 50
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Mystherbe",
+      "namevo2": "Ortide",
+      "namevo3": "Joliflor",
+      "evo1": "https://i.ibb.co/BNXkJvw/41.png",
+      "evo2": "https://i.ibb.co/31h6v49/42.png",
+      "evo3": "https://i.ibb.co/hR0zd0T/169.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 21,
+      "lvl2": "Avec une Pierre Soleil"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Chlorophylle",
+      "description1": "double la Vitesse du Pokémon sous le soleil",
+      "talent2": "Cœur Soin",
+      "description2": "en Combat Duo ou Multi, soigne parfois une altération de statut d'un allié proche."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Joliflor vient de jolie et de flore",
     "gen": 2,
     "url": "https://i.ibb.co/H7QScF8/182.png"
   },
@@ -7462,24 +7481,24 @@
       "Speed": 40
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Azurill",
+      "namevo2": "Marill",
+      "namevo3": "Azumarill",
+      "evo1": "https://i.ibb.co/Dt0PBGC/298.png",
+      "evo2": "https://i.ibb.co/ySv907W/183.png",
+      "evo3": "https://i.ibb.co/pzV7xDP/184.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Bonheur",
+      "lvl2": 18
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Isograisse",
+      "description1": "le Pokémon est protégé par une épaisse couche de graisse qui diminue de moitié les dégâts qu'il subit des capacités de types Feu et Glace.",
+      "talent2": "Coloforce",
+      "description2": "double l'Attaque du Pokémon."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Marill pourrait venir de marine et de rill.",
     "gen": 2,
     "url": "https://i.ibb.co/ySv907W/183.png"
   },
@@ -7504,24 +7523,24 @@
       "Speed": 50
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Azurill",
+      "namevo2": "Marill",
+      "namevo3": "Azumarill",
+      "evo1": "https://i.ibb.co/Dt0PBGC/298.png",
+      "evo2": "https://i.ibb.co/ySv907W/183.png",
+      "evo3": "https://i.ibb.co/pzV7xDP/184.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Bonheur",
+      "lvl2": 18
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Isograisse",
+      "description1": "le Pokémon est protégé par une épaisse couche de graisse qui diminue de moitié les dégâts qu'il subit des capacités de types Feu et Glace.",
+      "talent2": "Coloforce",
+      "description2": "double l'Attaque du Pokémon."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Azumarill pourrait venir d'azur et de sa pré-évolution Marill",
     "gen": 2,
     "url": "https://i.ibb.co/pzV7xDP/184.png"
   },
@@ -7545,24 +7564,23 @@
       "Speed": 30
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Manzaï",
+      "namevo2": "Simularbre",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/tLz9N0p/185.png",
+      "evo2": "https://i.ibb.co/1LW5FSc/438.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Connaître la capacité Copie + gagner un niveau"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Fermeté",
+      "description1": "le Pokémon encaisse toujours au moins une attaque s'il a tous ses PV. Il est également immunisé contre les capacités pouvant mettre K.O. en un coup.",
+      "talent2": "Tête de Roc",
+      "description2": "le Pokémon peut utiliser des capacités occasionnant un contrecoup sans perdre de PV."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Simularbre vient de simuler et d'arbre et pourrait venir d'un jeu de mots avec simulacre.",
     "gen": 2,
     "url": "https://i.ibb.co/tLz9N0p/185.png"
   },
@@ -7586,24 +7604,24 @@
       "Speed": 70
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Ptitard",
+      "namevo2": "Têtarte",
+      "namevo3": "Tarpaud",
+      "evo1": "https://i.ibb.co/fkgbtxG/60.png",
+      "evo2": "https://i.ibb.co/LzG7pYZ/61.png",
+      "evo3": "https://i.ibb.co/hYpdVfb/186.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 25,
+      "lvl2": "Échange en tenant Roche Royale"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Absorbe-Eau",
+      "description1": "si le Pokémon est touché par une capacité Eau, il ne subit aucun dégât et regagne des PV à la place.",
+      "talent2": "Moiteur",
+      "description2": "le Pokémon augmente l'humidité de l'air, ce qui empêche tous les Pokémon d'utiliser des capacités explosives telles que Destruction."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": " Tarpaud vient de têtard et de crapaud.",
     "gen": 2,
     "url": "https://i.ibb.co/hYpdVfb/186.png"
   },
@@ -7628,24 +7646,24 @@
       "Speed": 50
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Granivol",
+      "namevo2": "Floravol",
+      "namevo3": "Cotovol",
+      "evo1": "https://i.ibb.co/Gx1pLr4/187.png",
+      "evo2": "https://i.ibb.co/HdGpLXw/188.png",
+      "evo3": "https://i.ibb.co/q0RsTLc/189.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 18,
+      "lvl2": 27
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Chlorophylle",
+      "description1": "double la Vitesse du Pokémon sous le soleil.",
+      "talent2": "Feuille Garde",
+      "description2": "protège le Pokémon contre les altérations de statut quand le soleil brille."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Granivol vient de graine et de vol.",
     "gen": 2,
     "url": "https://i.ibb.co/Gx1pLr4/187.png"
   },
@@ -7670,24 +7688,24 @@
       "Speed": 80
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Granivol",
+      "namevo2": "Floravol",
+      "namevo3": "Cotovol",
+      "evo1": "https://i.ibb.co/Gx1pLr4/187.png",
+      "evo2": "https://i.ibb.co/HdGpLXw/188.png",
+      "evo3": "https://i.ibb.co/q0RsTLc/189.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 18,
+      "lvl2": 27
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Chlorophylle",
+      "description1": "double la Vitesse du Pokémon sous le soleil.",
+      "talent2": "Feuille Garde",
+      "description2": "protège le Pokémon contre les altérations de statut quand le soleil brille."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Floravol vient de flore et de vol",
     "gen": 2,
     "url": "https://i.ibb.co/HdGpLXw/188.png"
   },
@@ -7712,24 +7730,24 @@
       "Speed": 110
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Granivol",
+      "namevo2": "Floravol",
+      "namevo3": "Cotovol",
+      "evo1": "https://i.ibb.co/Gx1pLr4/187.png",
+      "evo2": "https://i.ibb.co/HdGpLXw/188.png",
+      "evo3": "https://i.ibb.co/q0RsTLc/189.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 18,
+      "lvl2": 27
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Chlorophylle",
+      "description1": "double la Vitesse du Pokémon sous le soleil.",
+      "talent2": "Feuille Garde",
+      "description2": "protège le Pokémon contre les altérations de statut quand le soleil brille."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Cotovol vient de coton et de vol",
     "gen": 2,
     "url": "https://i.ibb.co/q0RsTLc/189.png"
   },
@@ -7753,24 +7771,23 @@
       "Speed": 85
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Capumain",
+      "namevo2": "Capidextre",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/FKqfgjQ/190.png",
+      "evo2": "https://i.ibb.co/YpZp8Nh/424.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Monter d'un niveau en connaissant la capacité Coup Double"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Fuite",
+      "description1": "permet de fuir n'importe quel Pokémon sauvage.",
+      "talent2": "Ramassage",
+      "description2": "permet parfois au Pokémon de ramasser les objets que ses ennemis ont utilisés. Il lui arrive aussi d'en trouver hors des combats."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Capumain vient de capucin et de main",
     "gen": 2,
     "url": "https://i.ibb.co/FKqfgjQ/190.png"
   },
@@ -7794,24 +7811,23 @@
       "Speed": 30
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Tournegrin",
+      "namevo2": "Héliatronc",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/3NfCWg8/191.png",
+      "evo2": "https://i.ibb.co/jf2dqSz/192.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Avec une Pierre Soleil"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Chlorophylle",
+      "description1": "double la Vitesse du Pokémon sous le soleil.",
+      "talent2": "Force Soleil",
+      "description2": "quand le soleil brille, l'Attaque Spéciale du Pokémon augmente de 50 % mais il perd des PV à chaque tour."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Tournegrin vient de tourner et de grain.",
     "gen": 2,
     "url": "https://i.ibb.co/3NfCWg8/191.png"
   },
@@ -7835,24 +7851,23 @@
       "Speed": 30
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Tournegrin",
+      "namevo2": "Héliatronc",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/3NfCWg8/191.png",
+      "evo2": "https://i.ibb.co/jf2dqSz/192.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Avec une Pierre Soleil"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Chlorophylle",
+      "description1": "double la Vitesse du Pokémon sous le soleil.",
+      "talent2": "Force Soleil",
+      "description2": "quand le soleil brille, l'Attaque Spéciale du Pokémon augmente de 50 % mais il perd des PV à chaque tour."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Héliatronc vient de héliotrope et de tronc",
     "gen": 2,
     "url": "https://i.ibb.co/jf2dqSz/192.png"
   },
@@ -7877,24 +7892,23 @@
       "Speed": 95
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Yanma",
+      "namevo2": "Yanmega",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/jbWHS3d/193.png",
+      "evo2": "https://i.ibb.co/8BkfNZB/469.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "En apprenant la capacité Pouvoir Antique + passer un niveau "
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Turbo",
+      "description1": "la Vitesse du Pokémon augmente à chaque tour.",
+      "talent2": "Œil Composé",
+      "description2": "les yeux à facettes du Pokémon augmentent sa Précision de 30 %."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Yanma est dérivé de ヤンヤンマ, le nom japonais de Yanma.",
     "gen": 2,
     "url": "https://i.ibb.co/jbWHS3d/193.png"
   },
@@ -7919,24 +7933,23 @@
       "Speed": 15
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Axoloto",
+      "namevo2": "Maraiste",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/y6HM8yR/194.png",
+      "evo2": "https://i.ibb.co/qxgyxn4/195.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 20
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Absorbe-Eau",
+      "description1": "si le Pokémon est touché par une capacité Eau, il ne subit aucun dégât et regagne des PV à la place.",
+      "talent2": "Moiteur",
+      "description2": "le Pokémon augmente l'humidité de l'air, ce qui empêche tous les Pokémon d'utiliser des capacités explosives telles que Destruction."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Axoloto vient d'axolotl, amphibien urodèle originaire du Mexique",
     "gen": 2,
     "url": "https://i.ibb.co/y6HM8yR/194.png"
   },
@@ -7961,24 +7974,23 @@
       "Speed": 35
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Axoloto",
+      "namevo2": "Maraiste",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/y6HM8yR/194.png",
+      "evo2": "https://i.ibb.co/qxgyxn4/195.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 20
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Absorbe-Eau",
+      "description1": "si le Pokémon est touché par une capacité Eau, il ne subit aucun dégât et regagne des PV à la place.",
+      "talent2": "Moiteur",
+      "description2": "le Pokémon augmente l'humidité de l'air, ce qui empêche tous les Pokémon d'utiliser des capacités explosives telles que Destruction."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Maraiste vient de marais et de majesté",
     "gen": 2,
     "url": "https://i.ibb.co/qxgyxn4/195.png"
   },
@@ -8002,24 +8014,23 @@
       "Speed": 110
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Évoli",
+      "namevo2": "Mentali",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/bB40V1D/133.png",
+      "evo2": "https://i.ibb.co/y093pNg/196.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Bonheur, Jour"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Synchro",
+      "description1": "quand le Pokémon est brûlé, paralysé ou empoisonné par un autre Pokémon, il partage ce statut avec celui-ci.",
+      "talent2": "Miroir Magik",
+      "description2": "annule les effets des capacités de statut subies par le Pokémon et les retourne à l'envoyeur."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Mentali vient de mental et du suffixe lithe, commun aux Évolitions",
     "gen": 2,
     "url": "https://i.ibb.co/y093pNg/196.png"
   },
@@ -8043,24 +8054,23 @@
       "Speed": 65
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Évoli",
+      "namevo2": "Noctali",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/bB40V1D/133.png",
+      "evo2": "https://i.ibb.co/RS0BzV8/197.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Bonheur, Nuit"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Synchro",
+      "description1": "quand le Pokémon est brûlé, paralysé ou empoisonné par un autre Pokémon, il partage ce statut avec celui-ci.",
+      "talent2": "Attention",
+      "description2": "le Pokémon a un mental à toute épreuve qui empêche les capacités ennemies de lui faire peur."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Noctali vient de nocturne et du suffixe lithe, commun aux Évolitions",
     "gen": 2,
     "url": "https://i.ibb.co/RS0BzV8/197.png"
   },
@@ -8085,16 +8095,15 @@
       "Speed": 91
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Cornèbre",
+      "namevo2": "Corboss",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/YfYTQXs/198.png",
+      "evo2": "https://i.ibb.co/1RYZp8Q/430.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Avec une Pierre Nuit"
     },
     "talents": {
       "talent1": "",
@@ -12217,24 +12226,24 @@
       "Speed": 20
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Azurill",
+      "namevo2": "Marill",
+      "namevo3": "Azumarill",
+      "evo1": "https://i.ibb.co/Dt0PBGC/298.png",
+      "evo2": "https://i.ibb.co/ySv907W/183.png",
+      "evo3": "https://i.ibb.co/pzV7xDP/184.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Bonheur",
+      "lvl2": 18
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Isograisse",
+      "description1": "le Pokémon est protégé par une épaisse couche de graisse qui diminue de moitié les dégâts qu'il subit des capacités de types Feu et Glace.",
+      "talent2": "Coloforce",
+      "description2": "double l'Attaque du Pokémon."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Azurill pourrait venir d'azur et de rill.",
     "gen": 3,
     "url": "https://i.ibb.co/Dt0PBGC/298.png"
   },
@@ -17441,22 +17450,21 @@
       "Speed": 115
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Capumain",
+      "namevo2": "Capidextre",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/FKqfgjQ/190.png",
+      "evo2": "https://i.ibb.co/YpZp8Nh/424.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Monter d'un niveau en connaissant la capacité Coup Double"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Fuite",
+      "description1": "permet de fuir n'importe quel Pokémon sauvage.",
+      "talent2": "Ramassage",
+      "description2": "permet parfois au Pokémon de ramasser les objets que ses ennemis ont utilisés. Il lui arrive aussi d'en trouver hors des combats."
     },
     "pokemonetymo": "",
     "gen": 4,
@@ -18022,11 +18030,11 @@
       "Speed": 10
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Manzaï",
+      "namevo2": "Simularbre",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/tLz9N0p/185.png",
+      "evo2": "https://i.ibb.co/1LW5FSc/438.png",
       "evo3": ""
     },
     "levels": {
@@ -18034,10 +18042,10 @@
       "lvl2": 32
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Fermeté",
+      "description1": "le Pokémon encaisse toujours au moins une attaque s'il a tous ses PV. Il est également immunisé contre les capacités pouvant mettre K.O. en un coup.",
+      "talent2": "Tête de Roc",
+      "description2": "le Pokémon peut utiliser des capacités occasionnant un contrecoup sans perdre de PV."
     },
     "pokemonetymo": "",
     "gen": 4,
@@ -19309,22 +19317,21 @@
       "Speed": 95
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Yanma",
+      "namevo2": "Yanmega",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/jbWHS3d/193.png",
+      "evo2": "https://i.ibb.co/8BkfNZB/469.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "En apprenant la capacité Pouvoir Antique + passer un niveau "
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Turbo",
+      "description1": "la Vitesse du Pokémon augmente à chaque tour.",
+      "talent2": "Œil Composé",
+      "description2": "les yeux à facettes du Pokémon augmentent sa Précision de 30 %."
     },
     "pokemonetymo": "",
     "gen": 4,
