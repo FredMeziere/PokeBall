@@ -4982,24 +4982,24 @@
       "Speed": 90
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Mime Jr.",
+      "namevo2": "M. Mime",
+      "namevo3": "M. Glaquette",
+      "evo1": "https://i.ibb.co/2hvg3nx/439.png",
+      "evo2": "https://i.ibb.co/6mBSNyf/122.png",
+      "evo3": "https://i.ibb.co/z59kVMc/866.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Connaître la capacité Copie + gagner un niveau",
+      "lvl2": 42
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Anti-Bruit",
+      "description1": "protège le Pokémon de toutes les capacités sonores.",
+      "talent2": "Filtre",
+      "description2": "réduit les dégâts subis lorsque le Pokémon est touché par une capacité super efficace."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "M. Mime vient de l'abréviation M. (Monsieur) et de mime",
     "gen": 1,
     "url": "https://i.ibb.co/6mBSNyf/122.png"
   },
@@ -5024,24 +5024,24 @@
       "Speed": 105
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Insécateur",
+      "namevo2": "Cizayox",
+      "namevo3": "Hachécateur",
+      "evo1": "https://i.ibb.co/9nD4d5x/123.png",
+      "evo2": "https://i.ibb.co/QKhB7hD/212.png",
+      "evo3": "https://i.ibb.co/X28HM7z/900.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Avec une Peau Métal",
+      "lvl2": "Avec une Obsidienne"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Essaim",
+      "description1": "augmente la puissance des capacités de type Insecte du Pokémon quand ses PV sont inférieurs à 1/3.",
+      "talent2": "Technicien",
+      "description2": "augmente la puissance des capacités lorsque celle-ci est inférieure ou égale à 60."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Insécateur vient d'insecte et de sécateur.",
     "gen": 1,
     "url": "https://i.ibb.co/9nD4d5x/123.png"
   },
@@ -5066,24 +5066,23 @@
       "Speed": 95
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Lippouti",
+      "namevo2": "Lippoutou",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/QCKxKXF/238.png",
+      "evo2": "https://i.ibb.co/JsK5Y6c/124.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 30
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Benêt",
+      "description1": "le Pokémon est un grand benêt, ce qui l'immunise contre l'attraction ou la provocation.",
+      "talent2": "Prédiction",
+      "description2": "révèle l'une des capacités de l'ennemi quand le combat commence."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Lippoutou vient de lippu (qui a des lèvres épaisses) et de poutou (bisou, en occitan).",
     "gen": 1,
     "url": "https://i.ibb.co/JsK5Y6c/124.png"
   },
@@ -5107,24 +5106,24 @@
       "Speed": 105
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Élekid",
+      "namevo2": "Élektek",
+      "namevo3": "Élekable",
+      "evo1": "https://i.ibb.co/bPYvH2x/239.png",
+      "evo2": "https://i.ibb.co/fpLfwHJ/125.png",
+      "evo3": "https://i.ibb.co/WxyVY7L/466.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 30,
+      "lvl2": "Au contact d'un Électriseur"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Statik",
+      "description1": "le Pokémon charge son corps en électricité statique, et tout contact avec lui peut paralyser.",
+      "talent2": "Esprit Vital",
+      "description2": "empêche le Pokémon de s'endormir et, lorsqu'il est placé en tête d'équipe, permet de rencontrer des Pokémon sauvages de plus haut niveau."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Élektek (sans accent aigu en allemand) pourrait venir d'électrique et de tekken",
     "gen": 1,
     "url": "https://i.ibb.co/fpLfwHJ/125.png"
   },
@@ -5148,22 +5147,22 @@
       "Speed": 93
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Magby",
+      "namevo2": "Magmar",
+      "namevo3": "Maganon",
+      "evo1": "https://i.ibb.co/nRtgt8B/240.png",
+      "evo2": "https://i.ibb.co/yYwLQk6/126.png",
+      "evo3": "https://i.ibb.co/pPvWLqM/467.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 30,
+      "lvl2": "Au contact d'un Magmariseur"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Corps Ardent",
+      "description1": "peut brûler l'attaquant lorsque le Pokémon subit une attaque directe et permet une éclosion plus rapide des Œufs.",
+      "talent2": "Esprit Vital",
+      "description2": "empêche le Pokémon de s'endormir et, lorsqu'il est placé en tête d'équipe, permet de rencontrer des Pokémon sauvages de plus haut niveau."
     },
     "pokemonetymo": "",
     "gen": 1,
@@ -5189,10 +5188,10 @@
       "Speed": 85
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Scarabrute",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/sjw4mKd/127.png",
       "evo2": "",
       "evo3": ""
     },
@@ -5201,12 +5200,12 @@
       "lvl2": 32
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Hyper Cutter",
+      "description1": " le Pokémon est armé de lames tranchantes qui font sa fierté et empêchent son Attaque de baisser.",
+      "talent2": "Brise Moule",
+      "description2": "le Pokémon ignore les talents adverses qui auraient un effet sur ses capacités."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Scarabrute vient de scarabée et de brute.",
     "gen": 1,
     "url": "https://i.ibb.co/sjw4mKd/127.png"
   },
@@ -5230,24 +5229,24 @@
       "Speed": 110
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Tauros",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/SwkTkKK/128.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Tauros n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
+      
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Intimidation",
+      "description1": "le Pokémon rugit lorsqu'il arrive au combat, ce qui intimide l'ennemi et baisse son Attaque.",
+      "talent2": "Colérique",
+      "description2": "si le Pokémon subit un coup critique, il entre dans une colère noire qui augmente son Attaque au maximum."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Tauros vient de ταυρος tauros",
     "gen": 1,
     "url": "https://i.ibb.co/SwkTkKK/128.png"
   },
@@ -5271,24 +5270,23 @@
       "Speed": 80
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Magicarpe",
+      "namevo2": "Léviator",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/7KGtn4z/129.png",
+      "evo2": "https://i.ibb.co/6wByd3J/130.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 20
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Glissade",
+      "description1": "augmente la Vitesse du Pokémon s'il pleut.",
+      "talent2": "Phobique",
+      "description2": "si le Pokémon est touché par une capacité de type Ténèbres, Spectre ou Insecte, sa phobie se révèle et sa Vitesse augmente."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Magicarpe vient de magique et de carpe",
     "gen": 1,
     "url": "https://i.ibb.co/7KGtn4z/129.png"
   },
@@ -5313,24 +5311,23 @@
       "Speed": 81
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Magicarpe",
+      "namevo2": "Léviator",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/7KGtn4z/129.png",
+      "evo2": "https://i.ibb.co/6wByd3J/130.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 20
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Intimidation",
+      "description1": "le Pokémon rugit lorsqu'il arrive au combat, ce qui intimide l'ennemi et baisse son Attaque.",
+      "talent2": "Impudence",
+      "description2": "quand le Pokémon met un ennemi K.O., sa confiance en lui ne connaît plus de limite et son Attaque augmente."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Léviator vient du Léviathan (monstre légendaire de l'Apocalypse souvent assimilé au milieu marin) et d'or.",
     "gen": 1,
     "url": "https://i.ibb.co/6wByd3J/130.png"
   },
@@ -5355,24 +5352,23 @@
       "Speed": 60
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Lokhlass",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/0YNM25J/131.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Lokhlass n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Absorbe-Eau",
+      "description1": "si le Pokémon est touché par une capacité Eau, il ne subit aucun dégât et regagne des PV à la place.",
+      "talent2": "Coque Armure",
+      "description2": "le Pokémon est protégé des coups critiques par sa carapace."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Lokhlass vient de Loch Ness et de l'expression « la classe ! »",
     "gen": 1,
     "url": "https://i.ibb.co/0YNM25J/131.png"
   },
@@ -5396,24 +5392,23 @@
       "Speed": 48
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Métamorph",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/m9ydN13/132.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Métamorph n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Échauffement",
+      "description1": "le Pokémon s'est suffisamment échauffé, ce qui l'immunise contre la paralysie.",
+      "talent2": "Imposteur",
+      "description2": "donne l'apparence du Pokémon adverse."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Métamorph vient de métamorphe.",
     "gen": 1,
     "url": "https://i.ibb.co/m9ydN13/132.png"
   },
@@ -5437,24 +5432,24 @@
       "Speed": 55
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Évoli",
+      "namevo2": "Voltali",
+      "namevo3": "Pyroli",
+      "evo1": "https://i.ibb.co/bB40V1D/133.png",
+      "evo2": "https://i.ibb.co/CBPv0zY/135.png",
+      "evo3": "https://i.ibb.co/ysGycF6/136.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Avec une Pierre Foudre",
+      "lvl2": "Avec une Pierre Feu. Il possede de nombreuses autres évolutions."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Fuite",
+      "description1": "permet de fuir n'importe quel Pokémon sauvage.",
+      "talent2": "Adaptabilité",
+      "description2": "quand le Pokémon utilise une capacité du même type que lui, le bonus de puissance qu'elle reçoit est multiplié par 2, au lieu de 1,5 normalement."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Évoli pourrait venir d'évolution et du suffixe lithe, commun à toutes les évolutions d'Évoli, venant du grec ancien signifiant pierre",
     "gen": 1,
     "url": "https://i.ibb.co/bB40V1D/133.png"
   },
@@ -5477,6 +5472,24 @@
       "Sp. Defense": 95,
       "Speed": 65
     },
+    "evolution": {
+      "namevo1": "Évoli",
+      "namevo2": "Aquali",
+      "namevo3": "",
+      "evo1": "https://i.ibb.co/bB40V1D/133.png",
+      "evo2": "https://i.ibb.co/yQQShB5/134.png",
+      "evo3": ""
+    },
+    "levels": {
+      "lvl1": "Avec une Pierre Eau"
+    },
+    "talents": {
+      "talent1": "Absorbe-Eau",
+      "description1": "si le Pokémon est touché par une capacité Eau, il ne subit aucun dégât et regagne des PV à la place.",
+      "talent2": "Hydratation",
+      "description2": "soigne les altérations de statut du Pokémon quand il pleut."
+    },
+    "pokemonetymo": "Aquali vient d'aqua et du suffixe lithe commun à toutes les évolutions d'Évoli venant du grec ancien signifiant pierre",
     "gen": 1,
     "url": "https://i.ibb.co/yQQShB5/134.png"
   },
@@ -5500,24 +5513,23 @@
       "Speed": 130
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Évoli",
+      "namevo2": "Voltali",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/bB40V1D/133.png",
+      "evo2": "https://i.ibb.co/CBPv0zY/135.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Avec une Pierre Eau"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Absorbe-Volt",
+      "description1": "si le Pokémon est touché par une capacité Électrik, il ne subit aucun dégât et regagne des PV à la place.",
+      "talent2": "Pied Véloce",
+      "description2": "augmente la Vitesse du Pokémon en cas d'altération de statut."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Voltali vient de volt et du suffixe lithe commun à toutes les évolutions d'Évoli venant du grec ancien signifiant pierre.",
     "gen": 1,
     "url": "https://i.ibb.co/CBPv0zY/135.png"
   },
@@ -5540,6 +5552,24 @@
       "Sp. Defense": 110,
       "Speed": 65
     },
+    "evolution": {
+      "namevo1": "Évoli",
+      "namevo2": "Pyroli",
+      "namevo3": "",
+      "evo1": "https://i.ibb.co/bB40V1D/133.png",
+      "evo2": "https://i.ibb.co/ysGycF6/136.png",
+      "evo3": ""
+    },
+    "levels": {
+      "lvl1": "Avec une Pierre Eau"
+    },
+    "talents": {
+      "talent1": "Torche",
+      "description1": "lorsque le Pokémon est touché par une capacité de type Feu, il absorbe la chaleur pour renforcer ses propres capacités Feu.",
+      "talent2": "Cran",
+      "description2": "augmente l'Attaque du Pokémon s'il est affecté par une altération de statut."
+    },
+    "pokemonetymo": "Pyroli vient de Πυρος pyros (feu) et du suffixe lithe commun à toutes les évolutions d'Évoli venant du grec ancien signifiant pierre",
     "gen": 1,
     "url": "https://i.ibb.co/ysGycF6/136.png"
   },
@@ -5563,24 +5593,24 @@
       "Speed": 40
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Porygon",
+      "namevo2": "Porygon2",
+      "namevo3": "Porygon-Z",
+      "evo1": "https://i.ibb.co/SfqXcy4/137.png",
+      "evo2": "https://i.ibb.co/4NRHR7L/233.png",
+      "evo3": "https://i.ibb.co/mhFTsWK/474.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Au contact d'un Améliorator",
+      "lvl2": "Au contact d'un CD Douteux"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Calque",
+      "description1": "lorsque le Pokémon entre au combat, il calque le talent d'un ennemi pour remplacer le sien.",
+      "talent2": "Télécharge",
+      "description2": "le Pokémon compare la Défense et la Défense Spéciale de l'adversaire et augmente son Attaque ou son Attaque Spéciale en conséquence."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Porygon vient de la prononciation japonaise de polygone",
     "gen": 1,
     "url": "https://i.ibb.co/SfqXcy4/137.png"
   },
@@ -5604,6 +5634,24 @@
       "Sp. Defense": 55,
       "Speed": 35
     },
+    "evolution": {
+      "namevo1": "Amonita",
+      "namevo2": "Amonistar",
+      "namevo3": "",
+      "evo1": "https://i.ibb.co/fYTyDpK/138.png",
+      "evo2": "https://i.ibb.co/DRf6fhg/139.png",
+      "evo3": ""
+    },
+    "levels": {
+      "lvl1": 40
+    },
+    "talents": {
+      "talent1": "Calque",
+      "description1": "lorsque le Pokémon entre au combat, il calque le talent d'un ennemi pour remplacer le sien.",
+      "talent2": "Télécharge",
+      "description2": "le Pokémon compare la Défense et la Défense Spéciale de l'adversaire et augmente son Attaque ou son Attaque Spéciale en conséquence."
+    },
+    "pokemonetymo": "Porygon vient de la prononciation japonaise de polygone",
     "gen": 1,
     "url": "https://i.ibb.co/fYTyDpK/138.png"
   },
@@ -8619,24 +8667,24 @@
       "Speed": 65
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Insécateur",
+      "namevo2": "Cizayox",
+      "namevo3": "Hachécateur",
+      "evo1": "https://i.ibb.co/9nD4d5x/123.png",
+      "evo2": "https://i.ibb.co/QKhB7hD/212.png",
+      "evo3": "https://i.ibb.co/X28HM7z/900.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Avec une Peau Métal",
+      "lvl2": "Avec une Obsidienne"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Essaim",
+      "description1": "augmente la puissance des capacités de type Insecte du Pokémon quand ses PV sont inférieurs à 1/3.",
+      "talent2": "Technicien",
+      "description2": "augmente la puissance des capacités lorsque celle-ci est inférieure ou égale à 60."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Cizayox pourrait venir de cisaille et d'oxydation, en référence à sa couleur semblable à celle de la rouille.",
     "gen": 2,
     "url": "https://i.ibb.co/QKhB7hD/212.png"
   },
@@ -9493,24 +9541,24 @@
       "Speed": 60
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Porygon",
+      "namevo2": "Porygon2",
+      "namevo3": "Porygon-Z",
+      "evo1": "https://i.ibb.co/SfqXcy4/137.png",
+      "evo2": "https://i.ibb.co/4NRHR7L/233.png",
+      "evo3": "https://i.ibb.co/mhFTsWK/474.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Au contact d'un Améliorator",
+      "lvl2": "Au contact d'un CD Douteux"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Calque",
+      "description1": "lorsque le Pokémon entre au combat, il calque le talent d'un ennemi pour remplacer le sien.",
+      "talent2": "Télécharge",
+      "description2": "le Pokémon compare la Défense et la Défense Spéciale de l'adversaire et augmente son Attaque ou son Attaque Spéciale en conséquence."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Porygon2 pourrait venir de la prononciation japonaise de polygone, d'origami et du chiffre 2, indiquant qu'il s'agit de l'évolution de Porygon",
     "gen": 2,
     "url": "https://i.ibb.co/4NRHR7L/233.png"
   },
@@ -9699,22 +9747,21 @@
       "Speed": 65
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Lippouti",
+      "namevo2": "Lippoutou",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/QCKxKXF/238.png",
+      "evo2": "https://i.ibb.co/JsK5Y6c/124.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 30
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Benêt",
+      "description1": "le Pokémon est un grand benêt, ce qui l'immunise contre l'attraction ou la provocation.",
+      "talent2": "Prédiction",
+      "description2": "révèle l'une des capacités de l'ennemi quand le combat commence."
     },
     "pokemonetymo": "",
     "gen": 2,
@@ -9740,24 +9787,24 @@
       "Speed": 95
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Élekid",
+      "namevo2": "Élektek",
+      "namevo3": "Élekable",
+      "evo1": "https://i.ibb.co/bPYvH2x/239.png",
+      "evo2": "https://i.ibb.co/fpLfwHJ/125.png",
+      "evo3": "https://i.ibb.co/WxyVY7L/466.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 30,
+      "lvl2": "Au contact d'un Électriseur"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Motorisé",
+      "description1": "si le Pokémon est touché par une capacité Électrik, il ne subit aucun dégât et sa Vitesse augmente.",
+      "talent2": "Esprit Vital",
+      "description2": "empêche le Pokémon de s'endormir et, lorsqu'il est placé en tête d'équipe, permet de rencontrer des Pokémon sauvages de plus haut niveau."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Elekid pourrait venir d'électrique et de kid",
     "gen": 2,
     "url": "https://i.ibb.co/bPYvH2x/239.png"
   },
@@ -9781,24 +9828,24 @@
       "Speed": 83
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Magby",
+      "namevo2": "Magmar",
+      "namevo3": "Maganon",
+      "evo1": "https://i.ibb.co/nRtgt8B/240.png",
+      "evo2": "https://i.ibb.co/yYwLQk6/126.png",
+      "evo3": "https://i.ibb.co/pPvWLqM/467.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 30,
+      "lvl2": "Au contact d'un Magmariseur"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Corps Ardent",
+      "description1": "peut brûler l'attaquant lorsque le Pokémon subit une attaque directe et permet une éclosion plus rapide des Œufs.",
+      "talent2": "Esprit Vital",
+      "description2": "empêche le Pokémon de s'endormir et, lorsqu'il est placé en tête d'équipe, permet de rencontrer des Pokémon sauvages de plus haut niveau."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Magby pourrait venir de magma et de baby",
     "gen": 2,
     "url": "https://i.ibb.co/nRtgt8B/240.png"
   },
@@ -18018,24 +18065,24 @@
       "Speed": 60
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Mime Jr.",
+      "namevo2": "M. Mime",
+      "namevo3": "M. Glaquette",
+      "evo1": "https://i.ibb.co/2hvg3nx/439.png",
+      "evo2": "https://i.ibb.co/6mBSNyf/122.png",
+      "evo3": "https://i.ibb.co/z59kVMc/866.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Connaître la capacité Copie + gagner un niveau",
+      "lvl2": 42
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Anti-Bruit",
+      "description1": "protège le Pokémon de toutes les capacités sonores.",
+      "talent2": "Filtre",
+      "description2": "réduit les dégâts subis lorsque le Pokémon est touché par une capacité super efficace."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Mime Jr. pourrait venir du nom de son évolution M. Mime et de junior.",
     "gen": 4,
     "url": "https://i.ibb.co/2hvg3nx/439.png"
   },
@@ -19139,24 +19186,24 @@
       "Speed": 95
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Élekid",
+      "namevo2": "Élektek",
+      "namevo3": "Élekable",
+      "evo1": "https://i.ibb.co/bPYvH2x/239.png",
+      "evo2": "https://i.ibb.co/fpLfwHJ/125.png",
+      "evo3": "https://i.ibb.co/WxyVY7L/466.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 30,
+      "lvl2": "Au contact d'un Électriseur"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Motorisé",
+      "description1": "si le Pokémon est touché par une capacité Électrik, il ne subit aucun dégât et sa Vitesse augmente.",
+      "talent2": "Esprit Vital",
+      "description2": "empêche le Pokémon de s'endormir et, lorsqu'il est placé en tête d'équipe, permet de rencontrer des Pokémon sauvages de plus haut niveau."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Élekable pourrait venir d'électrique et de câble.",
     "gen": 4,
     "url": "https://i.ibb.co/WxyVY7L/466.png"
   },
@@ -19180,24 +19227,24 @@
       "Speed": 83
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Magby",
+      "namevo2": "Magmar",
+      "namevo3": "Maganon",
+      "evo1": "https://i.ibb.co/nRtgt8B/240.png",
+      "evo2": "https://i.ibb.co/yYwLQk6/126.png",
+      "evo3": "https://i.ibb.co/pPvWLqM/467.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 30,
+      "lvl2": "Au contact d'un Magmariseur"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Corps Ardent",
+      "description1": "peut brûler l'attaquant lorsque le Pokémon subit une attaque directe et permet une éclosion plus rapide des Œufs.",
+      "talent2": "Esprit Vital",
+      "description2": "empêche le Pokémon de s'endormir et, lorsqu'il est placé en tête d'équipe, permet de rencontrer des Pokémon sauvages de plus haut niveau."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Maganon pourrait venir de magma et de canon.",
     "gen": 4,
     "url": "https://i.ibb.co/pPvWLqM/467.png"
   },
@@ -19471,24 +19518,24 @@
       "Speed": 90
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Porygon",
+      "namevo2": "Porygon2",
+      "namevo3": "Porygon-Z",
+      "evo1": "https://i.ibb.co/SfqXcy4/137.png",
+      "evo2": "https://i.ibb.co/4NRHR7L/233.png",
+      "evo3": "https://i.ibb.co/mhFTsWK/474.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Au contact d'un Améliorator",
+      "lvl2": "Au contact d'un CD Douteux"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Calque",
+      "description1": "lorsque le Pokémon entre au combat, il calque le talent d'un ennemi pour remplacer le sien.",
+      "talent2": "Télécharge",
+      "description2": "le Pokémon compare la Défense et la Défense Spéciale de l'adversaire et augmente son Attaque ou son Attaque Spéciale en conséquence."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Porygon-Z pourrait venir de la prononciation japonaise de polygone et d'origami. La lettre Z peut signifier la transformation finale de Porygon",
     "gen": 4,
     "url": "https://i.ibb.co/mhFTsWK/474.png"
   },
@@ -35664,24 +35711,24 @@
       "Speed": 70
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Mime Jr.",
+      "namevo2": "M. Mime",
+      "namevo3": "M. Glaquette",
+      "evo1": "https://i.ibb.co/2hvg3nx/439.png",
+      "evo2": "https://i.ibb.co/6mBSNyf/122.png",
+      "evo3": "https://i.ibb.co/z59kVMc/866.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Connaître la capacité Copie + gagner un niveau",
+      "lvl2": 42
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Anti-Bruit",
+      "description1": "protège le Pokémon de toutes les capacités sonores.",
+      "talent2": "Filtre",
+      "description2": "réduit les dégâts subis lorsque le Pokémon est touché par une capacité super efficace."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "M. Glaquette pourrait venir de l'abréviation M. (Monsieur), de glaçon et de claquette.",
     "gen": 8,
     "url": "https://i.ibb.co/z59kVMc/866.png"
   },
@@ -37043,24 +37090,24 @@
       "Speed": 85
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Insécateur",
+      "namevo2": "Cizayox",
+      "namevo3": "Hachécateur",
+      "evo1": "https://i.ibb.co/9nD4d5x/123.png",
+      "evo2": "https://i.ibb.co/QKhB7hD/212.png",
+      "evo3": "https://i.ibb.co/X28HM7z/900.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Avec une Peau Métal",
+      "lvl2": "Avec une Obsidienne"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Essaim",
+      "description1": "augmente la puissance des capacités de type Insecte du Pokémon quand ses PV sont inférieurs à 1/3.",
+      "talent2": "Technicien",
+      "description2": "augmente la puissance des capacités lorsque celle-ci est inférieure ou égale à 60."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Hachécateur pourrait venir de hache et de sécateur.",
     "gen": 8,
     "url": "https://i.ibb.co/X28HM7z/900.png"
   },
