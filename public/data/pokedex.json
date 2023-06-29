@@ -8392,7 +8392,7 @@
       "talent2": "Envelocape",
       "description2": "protège des dégâts occasionnés par les tempêtes de sable ou la grêle, et neutralise les attaques à base de poudre."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Foretress vient de forêt et de forteresse",
     "gen": 2,
     "url": "https://i.ibb.co/y815wBh/205.png"
   },
@@ -8416,24 +8416,23 @@
       "Speed": 45
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Insolourdo",
+      "namevo2": "Deusolourdo",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/r5ChQpk/206.png",
+      "evo2": "https://i.ibb.co/vJQ63S5/982.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Connaître la capacité Hyperceuse + gagner un niveau"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Sérénité",
+      "description1": " double les chances d'infliger des effets additionnels.",
+      "talent2": "Fuite",
+      "description2": "permet de fuir n'importe quel Pokémon sauvage."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Insolourdo vient d'insolite et de lourdaud",
     "gen": 2,
     "url": "https://i.ibb.co/r5ChQpk/206.png"
   },
@@ -8458,24 +8457,23 @@
       "Speed": 85
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Scorplane",
+      "namevo2": "Scorvol",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/qNtNYN5/207.png",
+      "evo2": "https://i.ibb.co/P5N1HKB/472.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Au contact d'une Croc Rasoir de nuit"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Voile Sable",
+      "description1": "augmente l'Esquive du Pokémon lors des tempêtes de sable.",
+      "talent2": "Hyper Cutter",
+      "description2": "le Pokémon est armé de lames tranchantes qui font sa fierté et empêchent son Attaque de baisser."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Scorplane vient de scorpion et pourrait venir de planer",
     "gen": 2,
     "url": "https://i.ibb.co/qNtNYN5/207.png"
   },
@@ -8500,24 +8498,24 @@
       "Speed": 30
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Onix",
+      "namevo2": "Steelix",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/sF715T7/95.png",
+      "evo2": "https://i.ibb.co/Cwztbd8/208.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Au contact d'une Peau Métal",
+      "lvl2": ""
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Tête de Roc",
+      "description1": "le Pokémon peut utiliser des capacités occasionnant un contrecoup sans perdre de PV.",
+      "talent2": "Fermeté",
+      "description2": "le Pokémon encaisse toujours au moins une attaque s'il a tous ses PV. Il est également immunisé contre les capacités pouvant mettre K.O. en un coup."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Steelix vient de steel (acier) et d'onyx",
     "gen": 2,
     "url": "https://i.ibb.co/Cwztbd8/208.png"
   },
@@ -8541,24 +8539,23 @@
       "Speed": 30
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Snubbull",
+      "namevo2": "Granbull",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/9398Wxb/209.png",
+      "evo2": "https://i.ibb.co/0VzwjtP/210.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 23
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Fuite",
+      "description1": "permet de fuir n'importe quel Pokémon sauvage.",
+      "talent2": "Intimidation",
+      "description2": "le Pokémon rugit lorsqu'il arrive au combat, ce qui intimide l'ennemi et baisse son Attaque."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Snubbull pourrait venir de to snub et de bulldog",
     "gen": 2,
     "url": "https://i.ibb.co/9398Wxb/209.png"
   },
@@ -8582,24 +8579,23 @@
       "Speed": 45
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Snubbull",
+      "namevo2": "Granbull",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/9398Wxb/209.png",
+      "evo2": "https://i.ibb.co/0VzwjtP/210.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 23
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Pied Véloce",
+      "description1": "augmente la Vitesse du Pokémon en cas d'altération de statut.",
+      "talent2": "Intimidation",
+      "description2": "le Pokémon rugit lorsqu'il arrive au combat, ce qui intimide l'ennemi et baisse son Attaque."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Granbull pourrait venir de grand et de bulldog",
     "gen": 2,
     "url": "https://i.ibb.co/0VzwjtP/210.png"
   },
@@ -8624,24 +8620,23 @@
       "Speed": 85
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Qwilfish",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/2SZfBmN/211.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Qwilfish n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Point Poison",
+      "description1": "peut empoisonner l'attaquant lorsque le Pokémon subit une attaque directe.",
+      "talent2": "Glissade",
+      "description2": "augmente la Vitesse du Pokémon s'il pleut."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Qwilfish pourrait venir de quill (piquant) et de fish (poisson).",
     "gen": 2,
     "url": "https://i.ibb.co/2SZfBmN/211.png"
   },
@@ -8708,24 +8703,23 @@
       "Speed": 5
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Caratroc",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/dbbGBhk/213.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Caratroc n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Fermeté",
+      "description1": "le Pokémon encaisse toujours au moins une attaque s'il a tous ses PV. Il est également immunisé contre les capacités pouvant mettre K.O. en un coup.",
+      "talent2": "Gloutonnerie",
+      "description2": "si le Pokémon tient une Baie à manger en cas de PV bas, il la mange dès qu'il a perdu la moitié de ses PV."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Caratroc pourrait venir de carapace et de roc.",
     "gen": 2,
     "url": "https://i.ibb.co/dbbGBhk/213.png"
   },
@@ -8750,24 +8744,23 @@
       "Speed": 85
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Scarhino",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/MGJLx5d/214.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Méga-évolution"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Cran",
+      "description1": "augmente l'Attaque du Pokémon s'il est affecté par une altération de statut.",
+      "talent2": "Essaim",
+      "description2": "augmente la puissance des capacités de type Insecte du Pokémon quand ses PV sont inférieurs à 1/3."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Scarhino vient de scarabée rhinocéros",
     "gen": 2,
     "url": "https://i.ibb.co/MGJLx5d/214.png"
   },
@@ -19428,24 +19421,23 @@
       "Speed": 95
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Scorplane",
+      "namevo2": "Scorvol",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/qNtNYN5/207.png",
+      "evo2": "https://i.ibb.co/P5N1HKB/472.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Au contact d'une Croc Rasoir de nuit"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Hyper Cutter",
+      "description1": "le Pokémon est armé de lames tranchantes qui font sa fierté et empêchent son Attaque de baisser.",
+      "talent2": "Voile Sable",
+      "description2": "augmente l'Esquive du Pokémon lors des tempêtes de sable."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Scorvol pourrait venir de scorpion, de vol et de voler.",
     "gen": 4,
     "url": "https://i.ibb.co/P5N1HKB/472.png"
   },
@@ -40404,24 +40396,23 @@
       "Speed": 55
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Insolourdo",
+      "namevo2": "Deusolourdo",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/r5ChQpk/206.png",
+      "evo2": "https://i.ibb.co/vJQ63S5/982.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Connaître la capacité Hyperceuse + gagner un niveau"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Sérénité",
+      "description1": " double les chances d'infliger des effets additionnels.",
+      "talent2": "Fuite",
+      "description2": "permet de fuir n'importe quel Pokémon sauvage."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Deusolourdo pourrait venir de deux et d'Insolourdo",
     "gen": 9,
     "url": "https://i.ibb.co/vJQ63S5/982.png"
   },
