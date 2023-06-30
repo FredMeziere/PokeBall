@@ -4372,16 +4372,15 @@
       "Speed": 76
     },
     "evolution": {
-      "namevo1": "Kicklee",
+      "namevo1": "Debugant",
       "namevo2": "Tygnon",
-      "namevo3": "Kapoera",
-      "evo1": "https://i.ibb.co/cJvkrcd/106.png",
+      "namevo3": "",
+      "evo1": "https://i.ibb.co/56jhQSg/236.png",
       "evo2": "https://i.ibb.co/6WwqFt3/107.png",
-      "evo3": "https://i.ibb.co/smpDGjd/237.png"
+      "evo3": ""
     },
     "levels": {
-      "lvl1": "Ces 3 pokemon viennent de l'évolution de Debugant",
-      "lvl2": "Ces 3 pokemon viennent de l'évolution de Debugant"
+      "lvl1": "Niveau 20, Attaque < Défense"
     },
     "talents": {
       "talent1": "Regard Vif",
@@ -8964,7 +8963,7 @@
       "talent2": "Corps Ardent",
       "description2": "peut brûler l'attaquant lorsque le Pokémon subit une attaque directe et permet une éclosion plus rapide des Œufs."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Volcaropod vient de volcan et de gastéropode",
     "gen": 2,
     "url": "https://i.ibb.co/ZXr3Bsc/219.png"
   },
@@ -8989,24 +8988,24 @@
       "Speed": 50
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Marcacrin",
+      "namevo2": "Cochignon",
+      "namevo3": "Mammochon",
+      "evo1": "https://i.ibb.co/t84s5kb/220.png",
+      "evo2": "https://i.ibb.co/HNmnbqz/221.png",
+      "evo3": "https://i.ibb.co/4RSLKPP/473.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 33,
+      "lvl2": "En connaissant l'attaque Pouvoir Antique + passer un niveau"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Benêt",
+      "description1": "le Pokémon est un grand benêt, ce qui l'immunise contre l'attraction ou la provocation",
+      "talent2": "Rideau Neige",
+      "description2": "augmente l'Esquive du Pokémon durant les tempêtes de grêle."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Marcacrin vient de marcassin et de crin",
     "gen": 2,
     "url": "https://i.ibb.co/t84s5kb/220.png"
   },
@@ -9031,24 +9030,24 @@
       "Speed": 50
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Marcacrin",
+      "namevo2": "Cochignon",
+      "namevo3": "Mammochon",
+      "evo1": "https://i.ibb.co/t84s5kb/220.png",
+      "evo2": "https://i.ibb.co/HNmnbqz/221.png",
+      "evo3": "https://i.ibb.co/4RSLKPP/473.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 33,
+      "lvl2": "En connaissant l'attaque Pouvoir Antique + passer un niveau"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Benêt",
+      "description1": "le Pokémon est un grand benêt, ce qui l'immunise contre l'attraction ou la provocation",
+      "talent2": "Rideau Neige",
+      "description2": "augmente l'Esquive du Pokémon durant les tempêtes de grêle."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Cochignon vient de cochon et de chignon",
     "gen": 2,
     "url": "https://i.ibb.co/HNmnbqz/221.png"
   },
@@ -9073,24 +9072,23 @@
       "Speed": 35
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Corayon",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/8x1xSQM/222.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Corayon n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Agitation",
+      "description1": "améliore l'Attaque du Pokémon mais diminue la Précision.",
+      "talent2": "Médic Nature",
+      "description2": "le Pokémon soigne ses altérations de statut en quittant le combat."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Corayon vient de corail et de rayon.",
     "gen": 2,
     "url": "https://i.ibb.co/8x1xSQM/222.png"
   },
@@ -9114,24 +9112,23 @@
       "Speed": 65
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Rémoraid",
+      "namevo2": "Octillery",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/g9F9Ywj/223.png",
+      "evo2": "https://i.ibb.co/QMSRvZr/224.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 25
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Agitation",
+      "description1": "améliore l'Attaque du Pokémon mais diminue la Précision.",
+      "talent2": "Sniper",
+      "description2": "lorsque le Pokémon porte un coup critique, les dégâts infligés augmentent de 50 %."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Rémoraid vient de rémora (genre de poissons de la famille des echeneidés) et de raid",
     "gen": 2,
     "url": "https://i.ibb.co/g9F9Ywj/223.png"
   },
@@ -9155,24 +9152,23 @@
       "Speed": 45
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Rémoraid",
+      "namevo2": "Octillery",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/g9F9Ywj/223.png",
+      "evo2": "https://i.ibb.co/QMSRvZr/224.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 25
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Agitation",
+      "description1": "améliore l'Attaque du Pokémon mais diminue la Précision.",
+      "talent2": "Sniper",
+      "description2": "lorsque le Pokémon porte un coup critique, les dégâts infligés augmentent de 50 %."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Octillery vient d'octopus (pieuvre) et d'artillery (artillerie)",
     "gen": 2,
     "url": "https://i.ibb.co/QMSRvZr/224.png"
   },
@@ -9197,24 +9193,23 @@
       "Speed": 75
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Cadoizo",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/McCKc22/225.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Cadoizo n'évolue pas et n'est l'évolution d'aucun Pokémon"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Agitation",
+      "description1": "améliore l'Attaque du Pokémon mais diminue la Précision.",
+      "talent2": "Esprit Vital",
+      "description2": "empêche le Pokémon de s'endormir et, lorsqu'il est placé en tête d'équipe, permet de rencontrer des Pokémon sauvages de plus haut niveau."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Cadoizo vient de cadeau et d'oiseau.",
     "gen": 2,
     "url": "https://i.ibb.co/McCKc22/225.png"
   },
@@ -9239,24 +9234,23 @@
       "Speed": 70
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Babimanta",
+      "namevo2": "Démanta",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/q5BfNjt/458.png",
+      "evo2": "https://i.ibb.co/6mwQ8cp/226.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Gain de niveau avec Rémoraid dans l'équipe"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Glissade",
+      "description1": "augmente la Vitesse du Pokémon s'il pleut.",
+      "talent2": "Absorbe-Eau",
+      "description2": "si le Pokémon est touché par une capacité Eau, il ne subit aucun dégât et regagne des PV à la place."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Démanta pourrait venir de dément, de la raie manta et de démon.",
     "gen": 2,
     "url": "https://i.ibb.co/6mwQ8cp/226.png"
   },
@@ -9281,24 +9275,23 @@
       "Speed": 70
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Airmure",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/26BbcVw/227.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Airmure n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Fermeté",
+      "description1": "le Pokémon encaisse toujours au moins une attaque s'il a tous ses PV. Il est également immunisé contre les capacités pouvant mettre K.O. en un coup.",
+      "talent2": "Regard Vif",
+      "description2": "les yeux perçants du Pokémon empêchent sa Précision de baisser."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Airmure vient d'air et d'armure",
     "gen": 2,
     "url": "https://i.ibb.co/26BbcVw/227.png"
   },
@@ -9323,10 +9316,10 @@
       "Speed": 65
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
+      "namevo1": "Malosse",
+      "namevo2": "Démolosse",
+      "namevo3": "https://i.ibb.co/gJzGC20/228.png",
+      "evo1": "https://i.ibb.co/mtmTH1j/229.png",
       "evo2": "",
       "evo3": ""
     },
@@ -9335,12 +9328,12 @@
       "lvl2": 32
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Torche",
+      "description1": "lorsque le Pokémon entre au combat, il calque le talent d'un ennemi pour remplacer le sien.",
+      "talent2": "Matinal",
+      "description2": "le Pokémon se réveille deux fois plus rapidement que les autres."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Malosse vient de mal et de molosse.",
     "gen": 2,
     "url": "https://i.ibb.co/gJzGC20/228.png"
   },
@@ -9365,10 +9358,10 @@
       "Speed": 95
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
+      "namevo1": "Malosse",
+      "namevo2": "Démolosse",
+      "namevo3": "https://i.ibb.co/gJzGC20/228.png",
+      "evo1": "https://i.ibb.co/mtmTH1j/229.png",
       "evo2": "",
       "evo3": ""
     },
@@ -9377,12 +9370,12 @@
       "lvl2": 32
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Torche",
+      "description1": "lorsque le Pokémon entre au combat, il calque le talent d'un ennemi pour remplacer le sien.",
+      "talent2": "Matinal",
+      "description2": "le Pokémon se réveille deux fois plus rapidement que les autres."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Démolosse vient de démon et de molosse.",
     "gen": 2,
     "url": "https://i.ibb.co/mtmTH1j/229.png"
   },
@@ -9448,24 +9441,23 @@
       "Speed": 40
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Phanpy",
+      "namevo2": "Donphan",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/ZGpW1pg/231.png",
+      "evo2": "https://i.ibb.co/zSB294V/232.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 25
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Ramassage",
+      "description1": "permet parfois au Pokémon de ramasser les objets que ses ennemis ont utilisés. Il lui arrive aussi d'en trouver hors des combats.",
+      "talent2": "Voile Sable",
+      "description2": "augmente l'Esquive du Pokémon lors des tempêtes de sable."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Phanpy pourrait venir d'éléphant et de baby (bébé).",
     "gen": 2,
     "url": "https://i.ibb.co/ZGpW1pg/231.png"
   },
@@ -9489,24 +9481,23 @@
       "Speed": 50
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Phanpy",
+      "namevo2": "Donphan",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/ZGpW1pg/231.png",
+      "evo2": "https://i.ibb.co/zSB294V/232.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 25
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Fermeté",
+      "description1": "le Pokémon encaisse toujours au moins une attaque s'il a tous ses PV. Il est également immunisé contre les capacités pouvant mettre K.O. en un coup.",
+      "talent2": "Voile Sable",
+      "description2": "augmente l'Esquive du Pokémon lors des tempêtes de sable."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Donphan pourrait venir de don, de mastodonte et d'éléphant.",
     "gen": 2,
     "url": "https://i.ibb.co/zSB294V/232.png"
   },
@@ -9571,24 +9562,23 @@
       "Speed": 85
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Cerfrousse",
+      "namevo2": "Cerbyllin",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/b6bSVTj/234.png",
+      "evo2": "https://i.ibb.co/XZbwLFJ/899.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Utiliser 20 fois ou plus la capacité Sprint Bouclier sous Style Rapide"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Intimidation",
+      "description1": "le Pokémon rugit lorsqu'il arrive au combat, ce qui intimide l'ennemi et baisse son Attaque.",
+      "talent2": "Fouille",
+      "description2": "permet de connaître l'objet tenu par l'ennemi quand le combat commence."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Cerfrousse vient de cerf et de frousse, en référence à la peur (les gens perdent leurs sens en regardant ses bois).",
     "gen": 2,
     "url": "https://i.ibb.co/b6bSVTj/234.png"
   },
@@ -9612,24 +9602,23 @@
       "Speed": 75
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Queulorior",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/0ykWR83/235.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Queulorior n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Technicien",
+      "description1": "augmente la puissance des capacités lorsque celle-ci est inférieure ou égale à 60.",
+      "talent2": "Tempo Perso",
+      "description2": "le Pokémon vit sa vie à son propre rythme, ce qui l'immunise contre la confusion."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Queulorior vient de queue et d'une déformation de colorier.",
     "gen": 2,
     "url": "https://i.ibb.co/0ykWR83/235.png"
   },
@@ -9639,7 +9628,7 @@
       "english": "Tyrogue",
       "japanese": "バルキー",
       "chinese": "无畏小子",
-      "french": "DeInsecteant"
+      "french": "Debugant"
     },
     "type": [
       "Combat"
@@ -9653,24 +9642,24 @@
       "Speed": 35
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Kicklee",
+      "namevo2": "Tygnon",
+      "namevo3": "Kapoera",
+      "evo1": "https://i.ibb.co/cJvkrcd/106.png",
+      "evo2": "https://i.ibb.co/6WwqFt3/107.png",
+      "evo3": "https://i.ibb.co/smpDGjd/237.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Ces 3 pokemon viennent de l'évolution de Debugant",
+      "lvl2": "Ces 3 pokemon viennent de l'évolution de Debugant"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Cran",
+      "description1": "augmente l'Attaque du Pokémon s'il est affecté par une altération de statut.",
+      "talent2": "Impassible",
+      "description2": "augmente la Vitesse du Pokémon quand il a peur."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Debugant vient de débutant et de gant.",
     "gen": 2,
     "url": "https://i.ibb.co/56jhQSg/236.png"
   },
@@ -9694,24 +9683,23 @@
       "Speed": 70
     },
     "evolution": {
-      "namevo1": "Kicklee",
-      "namevo2": "Tygnon",
-      "namevo3": "Kapoera",
-      "evo1": "https://i.ibb.co/cJvkrcd/106.png",
-      "evo2": "https://i.ibb.co/6WwqFt3/107.png",
-      "evo3": "https://i.ibb.co/smpDGjd/237.png"
+      "namevo1": "Debugant",
+      "namevo2": "Kapoera",
+      "namevo3": "",
+      "evo1": "https://i.ibb.co/56jhQSg/236.png",
+      "evo2": "https://i.ibb.co/smpDGjd/237.png",
+      "evo3": ""
     },
     "levels": {
-      "lvl1": "Ces 3 pokemon viennent de l'évolution de Debugant",
-      "lvl2": "Ces 3 pokemon viennent de l'évolution de Debugant"
+      "lvl1": "Niveau 20, Attaque et Défense identiques"
     },
     "talents": {
-      "talent1": "Échauffement",
-      "description1": "le Pokémon s'est suffisamment échauffé, ce qui l'immunise contre la paralysie.",
-      "talent2": "Téméraire",
-      "description2": "augmente la puissance des capacités occasionnant un contrecoup."
+      "talent1": "Intimidation",
+      "description1": "le Pokémon rugit lorsqu'il arrive au combat, ce qui intimide l'ennemi et baisse son Attaque.",
+      "talent2": "Technicien",
+      "description2": "augmente la puissance des capacités lorsque celle-ci est inférieure ou égale à 60."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Kapoera pourrait venir de capoeira, art martial brésilien qui emploie surtout les pieds.",
     "gen": 2,
     "url": "https://i.ibb.co/smpDGjd/237.png"
   },
@@ -9858,24 +9846,23 @@
       "Speed": 100
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Écrémeuh",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/3BzLdwz/241.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Écrémeuh n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Isograisse",
+      "description1": "le Pokémon est protégé par une épaisse couche de graisse qui diminue de moitié les dégâts qu'il subit des capacités de types Feu et Glace.",
+      "talent2": "Querelleur",
+      "description2": "permet aux capacités de type Normal ou Combat du Pokémon de toucher les Pokémon de type Spectre."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Écrémeuh vient de lait écrémé et de meuh",
     "gen": 2,
     "url": "https://i.ibb.co/3BzLdwz/241.png"
   },
@@ -9940,24 +9927,23 @@
       "Speed": 115
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Raikou",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/t2YS4f9/243.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Raikou n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Pression",
+      "description1": "force l'ennemi à dépenser deux PP par capacité utilisée.",
+      "talent2": "Attention",
+      "description2": "le Pokémon a un mental à toute épreuve qui empêche les capacités ennemies de lui faire peur."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Raikou pourrait venir de 雷 rai (tonnerre, en japonais) et de 皇 kō (empereur, en japonais).",
     "gen": 2,
     "url": "https://i.ibb.co/t2YS4f9/243.png"
   },
@@ -9981,24 +9967,23 @@
       "Speed": 100
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Entei",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/9NtY3kr/244.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Entei n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Pression",
+      "description1": "force l'ennemi à dépenser deux PP par capacité utilisée.",
+      "talent2": "Attention",
+      "description2": "le Pokémon a un mental à toute épreuve qui empêche les capacités ennemies de lui faire peur."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Entei pourrait venir de 炎天 enten (chaleur, en japonais), de 炎 en (flamme, en japonais) et de 皇帝 kōtei (empereur, en japonais).",
     "gen": 2,
     "url": "https://i.ibb.co/9NtY3kr/244.png"
   },
@@ -10022,24 +10007,23 @@
       "Speed": 85
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Suicune",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/FYPLt07/245.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Suicune n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Pression",
+      "description1": "force l'ennemi à dépenser deux PP par capacité utilisée.",
+      "talent2": "Attention",
+      "description2": "le Pokémon a un mental à toute épreuve qui empêche les capacités ennemies de lui faire peur."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Suicune pourrait venir de 水 sui (eau, en japonais) et de 君 kun (monarque, en japonais).",
     "gen": 2,
     "url": "https://i.ibb.co/FYPLt07/245.png"
   },
@@ -10064,24 +10048,24 @@
       "Speed": 41
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Embrylex",
+      "namevo2": "Ymphect",
+      "namevo3": "Tyranocif",
+      "evo1": "https://i.ibb.co/42FsjP3/246.png",
+      "evo2": "https://i.ibb.co/MPHvM4p/247.png",
+      "evo3": "https://i.ibb.co/d7Jz2fp/248.png"
     },
     "levels": {
       "lvl1": 16,
       "lvl2": 32
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Cran",
+      "description1": "augmente l'Attaque du Pokémon s'il est affecté par une altération de statut.",
+      "talent2": "Voile Sable",
+      "description2": "augmente l'Esquive du Pokémon durant les tempêtes de sable."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Embrylex pourrait venir d'embryon et de silex.",
     "gen": 2,
     "url": "https://i.ibb.co/42FsjP3/246.png"
   },
@@ -10106,24 +10090,24 @@
       "Speed": 51
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Embrylex",
+      "namevo2": "Ymphect",
+      "namevo3": "Tyranocif",
+      "evo1": "https://i.ibb.co/42FsjP3/246.png",
+      "evo2": "https://i.ibb.co/MPHvM4p/247.png",
+      "evo3": "https://i.ibb.co/d7Jz2fp/248.png"
     },
     "levels": {
       "lvl1": 16,
       "lvl2": 32
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Mue",
+      "description1": "entre chaque tour, le Pokémon soigne parfois ses altérations de statut en muant..",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Ymphect pourrait venir de nymphe et d'infect.",
     "gen": 2,
     "url": "https://i.ibb.co/MPHvM4p/247.png"
   },
@@ -18839,24 +18823,23 @@
       "Speed": 50
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Babimanta",
+      "namevo2": "Démanta",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/q5BfNjt/458.png",
+      "evo2": "https://i.ibb.co/6mwQ8cp/226.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Gain de niveau avec Rémoraid dans l'équipe"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Glissade",
+      "description1": "augmente la Vitesse du Pokémon s'il pleut.",
+      "talent2": "Absorbe-Eau",
+      "description2": "si le Pokémon est touché par une capacité Eau, il ne subit aucun dégât et regagne des PV à la place."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Babimanta pourrait venir de baby et de raie manta.",
     "gen": 4,
     "url": "https://i.ibb.co/q5BfNjt/458.png"
   },
@@ -19458,24 +19441,24 @@
       "Speed": 80
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Marcacrin",
+      "namevo2": "Cochignon",
+      "namevo3": "Mammochon",
+      "evo1": "https://i.ibb.co/t84s5kb/220.png",
+      "evo2": "https://i.ibb.co/HNmnbqz/221.png",
+      "evo3": "https://i.ibb.co/4RSLKPP/473.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 33,
+      "lvl2": "En connaissant l'attaque Pouvoir Antique + passer un niveau"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Benêt",
+      "description1": "le Pokémon est un grand benêt, ce qui l'immunise contre l'attraction ou la provocation",
+      "talent2": "Rideau Neige",
+      "description2": "augmente l'Esquive du Pokémon durant les tempêtes de grêle."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Mammochon pourrait venir de mammouth et de cochon.",
     "gen": 4,
     "url": "https://i.ibb.co/4RSLKPP/473.png"
   },
@@ -37030,24 +37013,23 @@
       "Speed": 65
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Cerfrousse",
+      "namevo2": "Cerbyllin",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/b6bSVTj/234.png",
+      "evo2": "https://i.ibb.co/XZbwLFJ/899.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Utiliser 20 fois ou plus la capacité Sprint Bouclier sous Style Rapide"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Intimidation",
+      "description1": "le Pokémon rugit lorsqu'il arrive au combat, ce qui intimide l'ennemi et baisse son Attaque.",
+      "talent2": "Fouille",
+      "description2": "permet de connaître l'objet tenu par l'ennemi quand le combat commence."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Cerbyllin pourrait venir de cerf et de sibyllin.",
     "gen": 8,
     "url": "https://i.ibb.co/XZbwLFJ/899.png"
   },
