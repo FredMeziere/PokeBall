@@ -12354,24 +12354,23 @@
       "Speed": 50
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Ténéfix",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/0scVSps/302.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "il possède une Méga-Évolution avec la sortie des jeux Pokémon Rubis Oméga et Saphir Alpha."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Regard Vif",
+      "description1": "les yeux perçants du Pokémon empêchent sa Précision de baisser.",
+      "talent2": "Frein",
+      "description2": "le Pokémon utilise toujours sa capacité en dernier."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Ténéfix pourrait venir de ténèbres et de fixer.",
     "gen": 3,
     "url": "https://i.ibb.co/0scVSps/302.png"
   },
@@ -12396,24 +12395,23 @@
       "Speed": 50
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Mysdibule",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/bjhF4HN/303.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Depuis la sixième génération, Mysdibule peut méga-évoluer en Méga-Mysdibule s'il tient une Mysdibulite."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Hyper Cutter",
+      "description1": "le Pokémon est armé de lames tranchantes qui font sa fierté et empêchent son Attaque de baisser.",
+      "talent2": "Intimidation",
+      "description2": "le Pokémon rugit lorsqu'il arrive au combat, ce qui intimide l'ennemi et baisse son Attaque."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Mysdibule pourrait venir de mystifier et de mandibule, en référence à sa fausse gueule proéminente.",
     "gen": 3,
     "url": "https://i.ibb.co/bjhF4HN/303.png"
   },
@@ -12438,24 +12436,24 @@
       "Speed": 30
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Galekid",
+      "namevo2": "Galegon",
+      "namevo3": "Galeking",
+      "evo1": "https://i.ibb.co/4KGVgyp/304.png",
+      "evo2": "https://i.ibb.co/tLqdhRJ/305.png",
+      "evo3": "https://i.ibb.co/GJW4w9f/306.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 32,
+      "lvl2": 42
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Fermeté",
+      "description1": "le Pokémon encaisse toujours au moins une attaque s'il a tous ses PV. Il est également immunisé contre les capacités pouvant mettre K.O. en un coup.",
+      "talent2": "Tête de Roc",
+      "description2": "le Pokémon peut utiliser des capacités occasionnant un contrecoup sans perdre de PV."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Galekid pourrait venir de galet ou de galea (casque) et de kid (enfant).",
     "gen": 3,
     "url": "https://i.ibb.co/4KGVgyp/304.png"
   },
@@ -12480,24 +12478,24 @@
       "Speed": 40
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Galekid",
+      "namevo2": "Galegon",
+      "namevo3": "Galeking",
+      "evo1": "https://i.ibb.co/4KGVgyp/304.png",
+      "evo2": "https://i.ibb.co/tLqdhRJ/305.png",
+      "evo3": "https://i.ibb.co/GJW4w9f/306.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 32,
+      "lvl2": 42
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Fermeté",
+      "description1": "le Pokémon encaisse toujours au moins une attaque s'il a tous ses PV. Il est également immunisé contre les capacités pouvant mettre K.O. en un coup.",
+      "talent2": "Tête de Roc",
+      "description2": "le Pokémon peut utiliser des capacités occasionnant un contrecoup sans perdre de PV."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Galegon pourrait venir de galet ou de galea (casque) et de dragon.",
     "gen": 3,
     "url": "https://i.ibb.co/tLqdhRJ/305.png"
   },
@@ -12522,24 +12520,24 @@
       "Speed": 50
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Galekid",
+      "namevo2": "Galegon",
+      "namevo3": "Galeking",
+      "evo1": "https://i.ibb.co/4KGVgyp/304.png",
+      "evo2": "https://i.ibb.co/tLqdhRJ/305.png",
+      "evo3": "https://i.ibb.co/GJW4w9f/306.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 32,
+      "lvl2": 42
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Fermeté",
+      "description1": "le Pokémon encaisse toujours au moins une attaque s'il a tous ses PV. Il est également immunisé contre les capacités pouvant mettre K.O. en un coup.",
+      "talent2": "Tête de Roc",
+      "description2": "le Pokémon peut utiliser des capacités occasionnant un contrecoup sans perdre de PV."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Galeking pourrait venir de galet ou de galea (casque) et de king (roi, en anglais).",
     "gen": 3,
     "url": "https://i.ibb.co/GJW4w9f/306.png"
   },
@@ -12564,24 +12562,24 @@
       "Speed": 60
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Méditikka",
+      "namevo2": "Charmina",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/jrxQzTy/307.png",
+      "evo2": "https://i.ibb.co/JKMvXNY/308.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 37,
+      "lvl2": "Méga-Évolution avec Charminite"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Force Pure",
+      "description1": "le Pokémon utilise sa maîtrise du yoga pour doubler la puissance de ses capacités physiques.",
+      "talent2": "Télépathe",
+      "description2": "en Combat Duo et Multi, le Pokémon anticipe et évite les attaques de ses alliés."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Méditikka pourrait venir de méditation et de karatéka.",
     "gen": 3,
     "url": "https://i.ibb.co/jrxQzTy/307.png"
   },
@@ -12606,24 +12604,24 @@
       "Speed": 80
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Méditikka",
+      "namevo2": "Charmina",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/jrxQzTy/307.png",
+      "evo2": "https://i.ibb.co/JKMvXNY/308.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 37,
+      "lvl2": "Méga-Évolution avec Charminite"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Force Pure",
+      "description1": "le Pokémon utilise sa maîtrise du yoga pour doubler la puissance de ses capacités physiques.",
+      "talent2": "Télépathe",
+      "description2": "en Combat Duo et Multi, le Pokémon anticipe et évite les attaques de ses alliés."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Charmina pourrait venir de charme et de minauder.",
     "gen": 3,
     "url": "https://i.ibb.co/JKMvXNY/308.png"
   },
@@ -12647,24 +12645,24 @@
       "Speed": 65
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Dynavolt",
+      "namevo2": "Élecsprint",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/V9wxF6z/309.png",
+      "evo2": "https://i.ibb.co/4ZFNsD8/310.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 26,
+      "lvl2": " Méga-Évolution avec Élecsprintite"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Paratonnerre",
+      "description1": "le Pokémon détourne sur lui les capacités de type Électrik et les neutralise, tout en montant son Attaque Spéciale.",
+      "talent2": "Statik",
+      "description2": "le Pokémon charge son corps en électricité statique, et tout contact avec lui peut paralyser."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Dynavolt pourrait venir de dynamo et de volt.",
     "gen": 3,
     "url": "https://i.ibb.co/V9wxF6z/309.png"
   },
@@ -12688,24 +12686,24 @@
       "Speed": 105
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Dynavolt",
+      "namevo2": "Élecsprint",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/V9wxF6z/309.png",
+      "evo2": "https://i.ibb.co/4ZFNsD8/310.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 26,
+      "lvl2": " Méga-Évolution avec Élecsprintite"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Paratonnerre",
+      "description1": "le Pokémon détourne sur lui les capacités de type Électrik et les neutralise, tout en montant son Attaque Spéciale.",
+      "talent2": "Statik",
+      "description2": "le Pokémon charge son corps en électricité statique, et tout contact avec lui peut paralyser."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Élecsprint pourrait venir d'électrique et de sprint.",
     "gen": 3,
     "url": "https://i.ibb.co/4ZFNsD8/310.png"
   },
@@ -12729,24 +12727,23 @@
       "Speed": 95
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Posipi",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/jgw3Jhx/311.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Posipi n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Plus",
+      "description1": "en Combat Duo et Multi, l'Attaque Spéciale du Pokémon augmente si un Pokémon allié a le talent Moins ou Plus.",
+      "talent2": "Paratonnerre",
+      "description2": "le Pokémon détourne sur lui les capacités de type Électrik et les neutralise, tout en montant son Attaque Spéciale."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Posipi pourrait venir de positif et de pi, contraction de petit et allusion à Pikachu.",
     "gen": 3,
     "url": "https://i.ibb.co/jgw3Jhx/311.png"
   },
@@ -12770,24 +12767,23 @@
       "Speed": 95
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Négapi",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/xJPYK0k/312.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Négapi n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Moins",
+      "description1": "en Combat Duo et Multi, l'Attaque Spéciale du Pokémon augmente si un Pokémon allié a le talent Moins ou Plus.",
+      "talent2": "Absorbe-Volt ",
+      "description2": "si le Pokémon est touché par une capacité Électrik, il ne subit aucun dégât et regagne des PV à la place."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Négapi pourrait venir de négatif, de pile et de pi, contraction de petit et allusion à Pikachu.",
     "gen": 3,
     "url": "https://i.ibb.co/xJPYK0k/312.png"
   },
