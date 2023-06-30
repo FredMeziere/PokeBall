@@ -12807,24 +12807,23 @@
       "Speed": 85
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Muciole",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/TvxHw9B/313.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Muciole n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Lumiattirance",
+      "description1": "émet une lumière spécifique qui facilite les rencontres avec les Pokémon sauvages.",
+      "talent2": "Essaim",
+      "description2": "augmente la puissance des capacités de type Insecte du Pokémon quand ses PV sont inférieurs à 1/3."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Muciole pourrait venir de mue, de musique et de luciole.",
     "gen": 3,
     "url": "https://i.ibb.co/TvxHw9B/313.png"
   },
@@ -12848,24 +12847,23 @@
       "Speed": 85
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Lumivole",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/0V0pnpY/314.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Lumivole n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Benêt",
+      "description1": "le Pokémon est un grand benêt, ce qui l'immunise contre l'attraction ou la provocation.",
+      "talent2": "Lentiteintée",
+      "description2": "permet à une capacité « pas très efficace » d'infliger des dégâts comme si elle était efficace normalement."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Lumivole pourrait venir de lumière, de voler (dans les airs) et de luciole.",
     "gen": 3,
     "url": "https://i.ibb.co/0V0pnpY/314.png"
   },
@@ -12890,24 +12888,24 @@
       "Speed": 65
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Rozbouton",
+      "namevo2": "Rosélia",
+      "namevo3": "Roserade",
+      "evo1": "https://i.ibb.co/GH6gYpY/406.png",
+      "evo2": "https://i.ibb.co/tb64YNG/315.png",
+      "evo3": "https://i.ibb.co/YccV8P1/407.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Bonheur, Jour",
+      "lvl2": "Avec une Pierre Éclat"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Médic Nature",
+      "description1": "le Pokémon soigne ses altérations de statut en quittant le combat.",
+      "talent2": "Point Poison",
+      "description2": "peut empoisonner l'attaquant lorsque le Pokémon subit une attaque directe."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Roselia pourrait venir de rose, d'azalée et de ἥλιος hếlios (soleil).",
     "gen": 3,
     "url": "https://i.ibb.co/tb64YNG/315.png"
   },
@@ -12931,24 +12929,23 @@
       "Speed": 40
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Gloupti",
+      "namevo2": "Avaltout",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/WKpvXJ3/316.png",
+      "evo2": "https://i.ibb.co/Z1tSmfN/317.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 26
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Suintement",
+      "description1": "le Pokémon suinte un liquide toxique qui blesse tous ceux qui tentent de voler ses PV.",
+      "talent2": "Glu",
+      "description2": "les objets sont collés au corps gluant du Pokémon, ce qui empêche ses adversaires de les dérober."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Gloupti pourrait venir de l'onomatopée glou et de petit.",
     "gen": 3,
     "url": "https://i.ibb.co/WKpvXJ3/316.png"
   },
@@ -12972,24 +12969,23 @@
       "Speed": 55
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Gloupti",
+      "namevo2": "Avaltout",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/WKpvXJ3/316.png",
+      "evo2": "https://i.ibb.co/Z1tSmfN/317.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 26
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Suintement",
+      "description1": "le Pokémon suinte un liquide toxique qui blesse tous ceux qui tentent de voler ses PV.",
+      "talent2": "Glu",
+      "description2": "les objets sont collés au corps gluant du Pokémon, ce qui empêche ses adversaires de les dérober."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Avaltout pourrait venir d'avale et de tout.",
     "gen": 3,
     "url": "https://i.ibb.co/Z1tSmfN/317.png"
   },
@@ -13014,24 +13010,24 @@
       "Speed": 65
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Carvanha",
+      "namevo2": "Sharpedo",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/YP4CLBX/318.png",
+      "evo2": "https://i.ibb.co/0KCjqc3/319.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 30,
+      "lvl2": "Méga-Évolution avec Sharpedite"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Peau Dure",
+      "description1": "blesse l'attaquant lorsque le Pokémon subit une attaque directe.",
+      "talent2": "Turbo",
+      "description2": "la Vitesse du Pokémon augmente à chaque tour."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Carvanha pourrait venir de carnivore et de piranha.",
     "gen": 3,
     "url": "https://i.ibb.co/YP4CLBX/318.png"
   },
@@ -13056,24 +13052,24 @@
       "Speed": 95
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Carvanha",
+      "namevo2": "Sharpedo",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/YP4CLBX/318.png",
+      "evo2": "https://i.ibb.co/0KCjqc3/319.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 30,
+      "lvl2": "Méga-Évolution avec Sharpedite"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Peau Dure",
+      "description1": "blesse l'attaquant lorsque le Pokémon subit une attaque directe.",
+      "talent2": "Turbo",
+      "description2": "la Vitesse du Pokémon augmente à chaque tour."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Sharpedo pourrait venir de shark (requin) et de torpedo (torpille), ainsi que de sharp (aiguisé), en référence à son talent Peau Dure et à son allure aérodynamique.",
     "gen": 3,
     "url": "https://i.ibb.co/0KCjqc3/319.png"
   },
@@ -13097,26 +13093,25 @@
       "Speed": 60
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Wailmer",
+      "namevo2": "Wailord",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/m5xqDk1/320.png",
+      "evo2": "https://i.ibb.co/dDztcgY/321.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 40
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Ignifu-Voile",
+      "description1": "le voile qui recouvre le Pokémon le protège des brûlures.",
+      "talent2": "Benêt",
+      "description2": "le Pokémon est un grand benêt, ce qui l'immunise contre l'attraction ou la provocation."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Wailmer pourrait venir de whale (baleine, en anglais) et de mer.",
     "gen": 3,
-    "url": "ttps://i.ibb.co/m5xqDk1/320.png"
+    "url": "https://i.ibb.co/m5xqDk1/320.png"
   },
   {
     "id": 321,
@@ -13138,24 +13133,23 @@
       "Speed": 60
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Wailmer",
+      "namevo2": "Wailord",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/m5xqDk1/320.png",
+      "evo2": "https://i.ibb.co/dDztcgY/321.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 40
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Ignifu-Voile",
+      "description1": "le voile qui recouvre le Pokémon le protège des brûlures.",
+      "talent2": "Benêt",
+      "description2": "le Pokémon est un grand benêt, ce qui l'immunise contre l'attraction ou la provocation."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Wailord pourrait venir de whale (baleine, en anglais) et de lord (seigneur).",
     "gen": 3,
     "url": "https://i.ibb.co/dDztcgY/321.png"
   },
@@ -13180,24 +13174,24 @@
       "Speed": 35
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Chamallot",
+      "namevo2": "Camérupt",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/jfs3tcx/322.png",
+      "evo2": "https://i.ibb.co/G9xPpss/323.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 22,
+      "lvl2": "Méga-Évolution avec Caméruptite"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Benêt",
+      "description1": "le Pokémon est un grand benêt, ce qui l'immunise contre l'attraction ou la provocation.",
+      "talent2": "Simple",
+      "description2": "les variations de stats sont deux fois plus importantes pour le Pokémon."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Chamallot pourrait venir de chameau, de la prononciation de chamallow et du mot anglais hot",
     "gen": 3,
     "url": "https://i.ibb.co/jfs3tcx/322.png"
   },
@@ -13222,24 +13216,24 @@
       "Speed": 40
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Chamallot",
+      "namevo2": "Camérupt",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/jfs3tcx/322.png",
+      "evo2": "https://i.ibb.co/G9xPpss/323.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 22,
+      "lvl2": "Méga-Évolution avec Caméruptite"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Armumagma",
+      "description1": "le magma qui recouvre le corps du Pokémon le protège contre le gel.",
+      "talent2": "Solide Roc",
+      "description2": "réduit les dégâts subis lorsque le Pokémon est touché par une capacité super efficace."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Camerupt pourrait venir de camelus, genre animalier des chameaux, et d'éruption.",
     "gen": 3,
     "url": "https://i.ibb.co/G9xPpss/323.png"
   },
@@ -13263,24 +13257,23 @@
       "Speed": 20
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Chartor",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/hMN97KW/324.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Chartor n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Écran Fumée",
+      "description1": "un écran de fumée empêche l'ennemi de baisser les stats du Pokémon.",
+      "talent2": "Sécheresse",
+      "description2": "le soleil se met à briller quand le Pokémon entre au combat."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Chartor pourrait venir de charbon et de tortue.",
     "gen": 3,
     "url": "https://i.ibb.co/hMN97KW/324.png"
   },
@@ -13304,24 +13297,23 @@
       "Speed": 60
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Spoink",
+      "namevo2": "Groret",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/d2M6DHQ/325.png",
+      "evo2": "https://i.ibb.co/4mvjspy/326.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 32
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Isograisse",
+      "description1": "le Pokémon est protégé par une épaisse couche de graisse qui diminue de moitié les dégâts qu'il subit des capacités de types Feu et Glace.",
+      "talent2": "Tempo Perso",
+      "description2": "le Pokémon vit sa vie à son propre rythme, ce qui l'immunise contre la confusion."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Spoink pourrait venir de spring (ressort) et de l'onomatopée oink, afin de former l'onomatopée produite par un ressort, « spoink ! ».",
     "gen": 3,
     "url": "https://i.ibb.co/d2M6DHQ/325.png"
   },
@@ -13345,24 +13337,23 @@
       "Speed": 80
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Spoink",
+      "namevo2": "Groret",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/d2M6DHQ/325.png",
+      "evo2": "https://i.ibb.co/4mvjspy/326.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 32
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Isograisse",
+      "description1": "le Pokémon est protégé par une épaisse couche de graisse qui diminue de moitié les dégâts qu'il subit des capacités de types Feu et Glace.",
+      "talent2": "Tempo Perso",
+      "description2": "le Pokémon vit sa vie à son propre rythme, ce qui l'immunise contre la confusion."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Groret pourrait venir de gros, de grommelant et de goret, en référence à ses allures porcines.",
     "gen": 3,
     "url": "https://i.ibb.co/4mvjspy/326.png"
   },
@@ -13386,24 +13377,23 @@
       "Speed": 60
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Spinda",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/rdBgRnf/327.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Spinda n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Tempo Perso",
+      "description1": "le Pokémon vit sa vie à son propre rythme, ce qui l'immunise contre la confusion.",
+      "talent2": "Pieds Confus",
+      "description2": "augmente l'Esquive du Pokémon s'il est confus."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Spinda pourrait venir de to spin (tourner) et de panda.",
     "gen": 3,
     "url": "https://i.ibb.co/rdBgRnf/327.png"
   },
@@ -13427,24 +13417,24 @@
       "Speed": 10
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Kraknoix",
+      "namevo2": "Vibraninf",
+      "namevo3": "Libégon",
+      "evo1": "https://i.ibb.co/fMV3j7D/328.png",
+      "evo2": "https://i.ibb.co/ZT07Hzn/329.png",
+      "evo3": "https://i.ibb.co/n04dRqX/330.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 35,
+      "lvl2": 45
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Hyper Cutter",
+      "description1": "le Pokémon est armé de lames tranchantes qui font sa fierté et empêchent son Attaque de baisser.",
+      "talent2": "Piège Sable",
+      "description2": "empêche l'ennemi de s'enfuir et attire les Pokémon sauvages dans la nature."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Kraknoix pourrait venir de l'écriture phonétique de craque-noix, en rapport avec sa mâchoire.",
     "gen": 3,
     "url": "https://i.ibb.co/fMV3j7D/328.png"
   },
@@ -13469,24 +13459,24 @@
       "Speed": 70
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Kraknoix",
+      "namevo2": "Vibraninf",
+      "namevo3": "Libégon",
+      "evo1": "https://i.ibb.co/fMV3j7D/328.png",
+      "evo2": "https://i.ibb.co/ZT07Hzn/329.png",
+      "evo3": "https://i.ibb.co/n04dRqX/330.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 35,
+      "lvl2": 45
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Lévitation",
+      "description1": "le Pokémon flotte, ce qui l'immunise contre les capacités de type Sol.",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Vibraninf pourrait venir de vibration et de nymphe.",
     "gen": 3,
     "url": "https://i.ibb.co/ZT07Hzn/329.png"
   },
@@ -13511,24 +13501,24 @@
       "Speed": 100
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Kraknoix",
+      "namevo2": "Vibraninf",
+      "namevo3": "Libégon",
+      "evo1": "https://i.ibb.co/fMV3j7D/328.png",
+      "evo2": "https://i.ibb.co/ZT07Hzn/329.png",
+      "evo3": "https://i.ibb.co/n04dRqX/330.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 35,
+      "lvl2": 45
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Lévitation",
+      "description1": "le Pokémon flotte, ce qui l'immunise contre les capacités de type Sol.",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Libégon pourrait venir de libellule et de dragon.",
     "gen": 3,
     "url": "https://i.ibb.co/n04dRqX/330.png"
   },
@@ -13552,24 +13542,23 @@
       "Speed": 35
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Cacnea",
+      "namevo2": "Cacturne",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/kX8g43j/331.png",
+      "evo2": "https://i.ibb.co/xj0HLFz/332.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 32
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Voile Sable",
+      "description1": "augmente l'Esquive du Pokémon lors des tempêtes de sable.",
+      "talent2": "Absorbe-Eau",
+      "description2": "si le Pokémon est touché par une capacité Eau, il ne subit aucun dégât et regagne des PV à la place."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Cacnea pourrait venir de cactus et de la terminaison du nom japonais de Cacnea, Sabonea.",
     "gen": 3,
     "url": "https://i.ibb.co/kX8g43j/331.png"
   },
@@ -13594,24 +13583,23 @@
       "Speed": 55
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Cacnea",
+      "namevo2": "Cacturne",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/kX8g43j/331.png",
+      "evo2": "https://i.ibb.co/xj0HLFz/332.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 32
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Voile Sable",
+      "description1": "augmente l'Esquive du Pokémon lors des tempêtes de sable.",
+      "talent2": "Absorbe-Eau",
+      "description2": "si le Pokémon est touché par une capacité Eau, il ne subit aucun dégât et regagne des PV à la place."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Cacturne pourrait venir de cactus et de nocturne.",
     "gen": 3,
     "url": "https://i.ibb.co/xj0HLFz/332.png"
   },
@@ -13636,24 +13624,24 @@
       "Speed": 50
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Tylton",
+      "namevo2": "Altaria",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/BGHBBpQ/333.png",
+      "evo2": "https://i.ibb.co/cwp9cCs/334.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 35,
+      "lvl2": "Méga-Évolution avec Altarite"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Médic Nature ",
+      "description1": "le Pokémon soigne ses altérations de statut en quittant le combat.",
+      "talent2": "Ciel Gris",
+      "description2": "annule tous les effets liés à la météo."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Tylton pourrait venir de Tyltyl et Mytyl, héros de la pièce de théâtre",
     "gen": 3,
     "url": "https://i.ibb.co/BGHBBpQ/333.png"
   },
@@ -13678,24 +13666,24 @@
       "Speed": 80
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Tylton",
+      "namevo2": "Altaria",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/BGHBBpQ/333.png",
+      "evo2": "https://i.ibb.co/cwp9cCs/334.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 35,
+      "lvl2": "Méga-Évolution avec Altarite"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Médic Nature ",
+      "description1": "le Pokémon soigne ses altérations de statut en quittant le combat.",
+      "talent2": "Ciel Gris",
+      "description2": "annule tous les effets liés à la météo."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": " Altaria pourrait venir d'alto (grand, en italien et espagnol) et d'aria (air, en italien et espagnol)",
     "gen": 3,
     "url": "https://i.ibb.co/cwp9cCs/334.png"
   },
@@ -13719,24 +13707,23 @@
       "Speed": 90
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Mangriff",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/4pYN5GP/335.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Mangriff n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Vaccin",
+      "description1": "le Pokémon est naturellement immunisé contre toute forme de poison.",
+      "talent2": "Rage Poison",
+      "description2": "augmente la puissance des capacités physiques quand le Pokémon est empoisonné."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Mangriff pourrait venir de mangouste et de griffe.",
     "gen": 3,
     "url": "https://i.ibb.co/4pYN5GP/335.png"
   },
@@ -13760,24 +13747,23 @@
       "Speed": 65
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Séviper",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/qydC3YZ/336.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Séviper n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Mue",
+      "description1": "entre chaque tour, le Pokémon soigne parfois ses altérations de statut en muant.",
+      "talent2": "Infiltration",
+      "description2": "traverse les barrières (comme Mur Lumière) et les clones de l'ennemi pour attaquer directement."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Séviper pourrait venir de sévir et de vipère.",
     "gen": 3,
     "url": "https://i.ibb.co/qydC3YZ/336.png"
   },
@@ -13802,24 +13788,23 @@
       "Speed": 70
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Séléroc",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/10c4mJj/337.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Séléroc n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Lévitation",
+      "description1": "le Pokémon flotte, ce qui l'immunise contre les capacités de type Sol.",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Solaroc pourrait venir de soleil, de solaire et de roc.",
     "gen": 3,
     "url": "https://i.ibb.co/10c4mJj/337.png"
   },
@@ -13844,24 +13829,23 @@
       "Speed": 70
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Solaroc",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/syPWydp/338.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Solaroc n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Lévitation",
+      "description1": "le Pokémon flotte, ce qui l'immunise contre les capacités de type Sol.",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Solaroc pourrait venir de soleil, de solaire et de roc.",
     "gen": 3,
     "url": "https://i.ibb.co/syPWydp/338.png"
   },
@@ -13886,24 +13870,23 @@
       "Speed": 60
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Barloche",
+      "namevo2": "Barbicha",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/XSx3jDh/339.png",
+      "evo2": "https://i.ibb.co/ZGjsqBb/340.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 30
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Benêt",
+      "description1": "le Pokémon est un grand benêt, ce qui l'immunise contre l'attraction ou la provocation.",
+      "talent2": "Anticipation",
+      "description2": "le Pokémon devine si l'adversaire connaît une capacité dangereuse pour lui."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Barloche pourrait venir de barbillon et de loche.",
     "gen": 3,
     "url": "https://i.ibb.co/XSx3jDh/339.png"
   },
@@ -13928,24 +13911,23 @@
       "Speed": 60
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Barloche",
+      "namevo2": "Barbicha",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/XSx3jDh/339.png",
+      "evo2": "https://i.ibb.co/ZGjsqBb/340.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 30
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Benêt",
+      "description1": "le Pokémon est un grand benêt, ce qui l'immunise contre l'attraction ou la provocation.",
+      "talent2": "Anticipation",
+      "description2": "le Pokémon devine si l'adversaire connaît une capacité dangereuse pour lui."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Barbicha pourrait venir de barbillon, de barbiche et de poisson-chat.",
     "gen": 3,
     "url": "https://i.ibb.co/ZGjsqBb/340.png"
   },
@@ -13969,24 +13951,23 @@
       "Speed": 35
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Écrapince",
+      "namevo2": "Colhomard",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/BzCkKg1/341.png",
+      "evo2": "https://i.ibb.co/VJCmp7z/342.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 30
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Hyper Cutter",
+      "description1": "le Pokémon est armé de lames tranchantes qui font sa fierté et empêchent son Attaque de baisser.",
+      "talent2": "Coque Armure",
+      "description2": "le Pokémon est protégé des coups critiques par sa carapace."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Écrapince pourrait venir d'écrevisse, d'écraser et de pince.",
     "gen": 3,
     "url": "https://i.ibb.co/BzCkKg1/341.png"
   },
@@ -14011,24 +13992,23 @@
       "Speed": 55
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Écrapince",
+      "namevo2": "Colhomard",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/BzCkKg1/341.png",
+      "evo2": "https://i.ibb.co/VJCmp7z/342.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 30
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Hyper Cutter",
+      "description1": "le Pokémon est armé de lames tranchantes qui font sa fierté et empêchent son Attaque de baisser.",
+      "talent2": "Coque Armure",
+      "description2": "le Pokémon est protégé des coups critiques par sa carapace."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Colhomard pourrait venir de colonel et de homard.",
     "gen": 3,
     "url": "https://i.ibb.co/VJCmp7z/342.png"
   },
@@ -14053,24 +14033,23 @@
       "Speed": 55
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Balbuto",
+      "namevo2": "Kaorine",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/LxMWMsq/343.png",
+      "evo2": "https://i.ibb.co/hdCRhC9/344.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 36
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Lévitation",
+      "description1": "le Pokémon flotte, ce qui l'immunise contre les capacités de type Sol.",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Balbuto pourrait venir de balbutier et de culbuto.",
     "gen": 3,
     "url": "https://i.ibb.co/LxMWMsq/343.png"
   },
@@ -14095,24 +14074,23 @@
       "Speed": 75
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Balbuto",
+      "namevo2": "Kaorine",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/LxMWMsq/343.png",
+      "evo2": "https://i.ibb.co/hdCRhC9/344.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 36
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Lévitation",
+      "description1": "le Pokémon flotte, ce qui l'immunise contre les capacités de type Sol.",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Kaorine pourrait venir de kaolin (sorte d'argile), de chaos et de figurine.",
     "gen": 3,
     "url": "https://i.ibb.co/hdCRhC9/344.png"
   },
@@ -14137,24 +14115,23 @@
       "Speed": 23
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Lilia",
+      "namevo2": "Vacilys",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/wd5vfYP/345.png",
+      "evo2": "https://i.ibb.co/Q6NqYH1/346.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 40
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Ventouse",
+      "description1": "le Pokémon est solidement fixé au sol, ce qui le protège des capacités ou objets qui font changer de Pokémon.",
+      "talent2": "Lavabo",
+      "description2": "le Pokémon détourne sur lui les capacités de type Eau et les neutralise, tout en montant son Attaque Spéciale."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Lilia pourrait venir de lilas, en référence à sa couleur pourpre et sa forme rappelant celle d'une fleur.",
     "gen": 3,
     "url": "https://i.ibb.co/wd5vfYP/345.png"
   },
@@ -14179,24 +14156,23 @@
       "Speed": 43
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Lilia",
+      "namevo2": "Vacilys",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/wd5vfYP/345.png",
+      "evo2": "https://i.ibb.co/Q6NqYH1/346.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 40
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Ventouse",
+      "description1": "le Pokémon est solidement fixé au sol, ce qui le protège des capacités ou objets qui font changer de Pokémon.",
+      "talent2": "Lavabo",
+      "description2": "le Pokémon détourne sur lui les capacités de type Eau et les neutralise, tout en montant son Attaque Spéciale."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Vacilys pourrait venir de vaciller et de lys.",
     "gen": 3,
     "url": "https://i.ibb.co/Q6NqYH1/346.png"
   },
@@ -14221,24 +14197,23 @@
       "Speed": 75
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Anorith",
+      "namevo2": "Armaldo",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/KqJSH3Y/347.png",
+      "evo2": "https://i.ibb.co/gg6GcyQ/348.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 40
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Armurbaston",
+      "description1": "le Pokémon est protégé des coups critiques par une solide carapace.",
+      "talent2": "Glissade",
+      "description2": "double la Vitesse du Pokémon s'il pleut."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Anorith pourrait venir d'anomalocaris, un prédateur invertébré du Cambrien et de λίθος(pierre). Son nom se rapproche du type de minéral Anorthite.",
     "gen": 3,
     "url": "https://i.ibb.co/KqJSH3Y/347.png"
   },
@@ -14263,24 +14238,23 @@
       "Speed": 45
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Anorith",
+      "namevo2": "Armaldo",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/KqJSH3Y/347.png",
+      "evo2": "https://i.ibb.co/gg6GcyQ/348.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 40
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Armurbaston",
+      "description1": "le Pokémon est protégé des coups critiques par une solide carapace.",
+      "talent2": "Glissade",
+      "description2": "double la Vitesse du Pokémon s'il pleut."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "rmaldo pourrait venir d'anomalocaris et de la combinaison des termes anglais armor (armure) et armadillo",
     "gen": 3,
     "url": "https://i.ibb.co/gg6GcyQ/348.png"
   },
@@ -16662,24 +16636,24 @@
       "Speed": 55
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Rozbouton",
+      "namevo2": "Rosélia",
+      "namevo3": "Roserade",
+      "evo1": "https://i.ibb.co/GH6gYpY/406.png",
+      "evo2": "https://i.ibb.co/tb64YNG/315.png",
+      "evo3": "https://i.ibb.co/YccV8P1/407.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Bonheur, Jour",
+      "lvl2": "Avec une Pierre Éclat"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Médic Nature",
+      "description1": "le Pokémon soigne ses altérations de statut en quittant le combat.",
+      "talent2": "Point Poison",
+      "description2": "peut empoisonner l'attaquant lorsque le Pokémon subit une attaque directe."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Rozbouton pourrait venir de rose et de bouton.",
     "gen": 4,
     "url": "https://i.ibb.co/GH6gYpY/406.png"
   },
@@ -16704,24 +16678,24 @@
       "Speed": 90
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Rozbouton",
+      "namevo2": "Rosélia",
+      "namevo3": "Roserade",
+      "evo1": "https://i.ibb.co/GH6gYpY/406.png",
+      "evo2": "https://i.ibb.co/tb64YNG/315.png",
+      "evo3": "https://i.ibb.co/YccV8P1/407.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Bonheur, Jour",
+      "lvl2": "Avec une Pierre Éclat"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Médic Nature",
+      "description1": "le Pokémon soigne ses altérations de statut en quittant le combat.",
+      "talent2": "Point Poison",
+      "description2": "peut empoisonner l'attaquant lorsque le Pokémon subit une attaque directe."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Roserade pourrait venir de rose, de parade et de mascarade, en référence à son masque.",
     "gen": 4,
     "url": "https://i.ibb.co/YccV8P1/407.png"
   },
