@@ -8785,24 +8785,23 @@
       "Speed": 115
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Farfuret",
+      "namevo2": "Dimoret",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/ZSXPFzH/215.png",
+      "evo2": "https://i.ibb.co/DWZ3Q9G/461.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Au contact d'une Griffe Rasoir de nuit"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Attention",
+      "description1": "le Pokémon a un mental à toute épreuve qui empêche les capacités ennemies de lui faire peur.",
+      "talent2": "Regard Vif",
+      "description2": "les yeux perçants du Pokémon empêchent sa Précision de baisser."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Farfuret vient de farfadet et de furet",
     "gen": 2,
     "url": "https://i.ibb.co/ZSXPFzH/215.png"
   },
@@ -8826,24 +8825,24 @@
       "Speed": 40
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Teddiursa",
+      "namevo2": "Ursaring",
+      "namevo3": "Ursaking",
+      "evo1": "https://i.ibb.co/SJgFWh9/216.png",
+      "evo2": "https://i.ibb.co/VWyDW6x/217.png",
+      "evo3": "https://i.ibb.co/Y3Fdc0K/901.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 30,
+      "lvl2": "Avec un Bloc de Tourbe lors d'une nuit de pleine lune"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Ramassage",
+      "description1": "permet parfois au Pokémon de ramasser les objets que ses ennemis ont utilisés. Il lui arrive aussi d'en trouver hors des combats.",
+      "talent2": "Pied Véloce",
+      "description2": "augmente la Vitesse du Pokémon en cas d'altération de statut."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Teddiursa vient de teddy bear (ours en peluche) et d'ursa (ours).",
     "gen": 2,
     "url": "https://i.ibb.co/SJgFWh9/216.png"
   },
@@ -8867,24 +8866,24 @@
       "Speed": 55
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Teddiursa",
+      "namevo2": "Ursaring",
+      "namevo3": "Ursaking",
+      "evo1": "https://i.ibb.co/SJgFWh9/216.png",
+      "evo2": "https://i.ibb.co/VWyDW6x/217.png",
+      "evo3": "https://i.ibb.co/Y3Fdc0K/901.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 30,
+      "lvl2": "Avec un Bloc de Tourbe lors d'une nuit de pleine lune"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Cran",
+      "description1": "augmente l'Attaque du Pokémon s'il est affecté par une altération de statut.",
+      "talent2": "Pied Véloce",
+      "description2": "augmente la Vitesse du Pokémon en cas d'altération de statut."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Ursaring vient de d'ursa (ours) et de ring (anneau, en référence à celui représenté sur son ventre).",
     "gen": 2,
     "url": "https://i.ibb.co/VWyDW6x/217.png"
   },
@@ -8908,24 +8907,23 @@
       "Speed": 20
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Limagma",
+      "namevo2": "Volcaropod",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/n7mv0bn/218.png",
+      "evo2": "https://i.ibb.co/ZXr3Bsc/219.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 38
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Armumagma",
+      "description1": "le magma qui recouvre le corps du Pokémon le protège contre le gel.",
+      "talent2": "Corps Ardent",
+      "description2": "peut brûler l'attaquant lorsque le Pokémon subit une attaque directe et permet une éclosion plus rapide des Œufs."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Limagma vient de limace et de magma",
     "gen": 2,
     "url": "https://i.ibb.co/n7mv0bn/218.png"
   },
@@ -8950,22 +8948,21 @@
       "Speed": 30
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Limagma",
+      "namevo2": "Volcaropod",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/n7mv0bn/218.png",
+      "evo2": "https://i.ibb.co/ZXr3Bsc/219.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 38
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Armumagma",
+      "description1": "le magma qui recouvre le corps du Pokémon le protège contre le gel.",
+      "talent2": "Corps Ardent",
+      "description2": "peut brûler l'attaquant lorsque le Pokémon subit une attaque directe et permet une éclosion plus rapide des Œufs."
     },
     "pokemonetymo": "",
     "gen": 2,
@@ -18968,24 +18965,23 @@
       "Speed": 125
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Farfuret",
+      "namevo2": "Dimoret",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/ZSXPFzH/215.png",
+      "evo2": "https://i.ibb.co/DWZ3Q9G/461.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Au contact d'une Griffe Rasoir de nuit"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Pression",
+      "description1": "force l'ennemi à dépenser deux PP par capacité utilisée.",
+      "talent2": "Pickpocket",
+      "description2": "vole l'objet que tient l'attaquant quand le Pokémon subit une attaque directe."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Dimoret pourrait venir de la déformation de démon et de furet.",
     "gen": 4,
     "url": "https://i.ibb.co/DWZ3Q9G/461.png"
   },
@@ -37116,24 +37112,24 @@
       "Speed": 50
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Teddiursa",
+      "namevo2": "Ursaring",
+      "namevo3": "Ursaking",
+      "evo1": "https://i.ibb.co/SJgFWh9/216.png",
+      "evo2": "https://i.ibb.co/VWyDW6x/217.png",
+      "evo3": "https://i.ibb.co/Y3Fdc0K/901.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 30,
+      "lvl2": "Avec un Bloc de Tourbe lors d'une nuit de pleine lune"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Cran",
+      "description1": "augmente l'Attaque du Pokémon s'il est affecté par une altération de statut.",
+      "talent2": "Pare-Balles",
+      "description2": "protège de certaines capacités lançant des projectiles comme des bombes ou des balles."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Ursaking vient d'ursa (ours) et de king (roi).",
     "gen": 8,
     "url": "https://i.ibb.co/Y3Fdc0K/901.png"
   },
