@@ -23064,24 +23064,23 @@
       "Speed": 22
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Carapagos",
+      "namevo2": "Mégapagos",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/LZLTxtY/564.png",
+      "evo2": "https://i.ibb.co/sQkFhGz/565.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 37
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Solide Roc",
+      "description1": "réduit les dégâts subis lorsque le Pokémon est touché par une capacité super efficace.",
+      "talent2": "Fermeté",
+      "description2": "le Pokémon encaisse toujours au moins une attaque s'il a tous ses PV. Il est également immunisé contre les capacités pouvant mettre K.O. en un coup."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Carapagos pourrait venir de carapace et des Îles Galápagos qui abritent les tortues géantes du même nom.",
     "gen": 5,
     "url": "https://i.ibb.co/LZLTxtY/564.png"
   },
@@ -23106,24 +23105,23 @@
       "Speed": 32
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Carapagos",
+      "namevo2": "Mégapagos",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/LZLTxtY/564.png",
+      "evo2": "https://i.ibb.co/sQkFhGz/565.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 37
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Solide Roc",
+      "description1": "réduit les dégâts subis lorsque le Pokémon est touché par une capacité super efficace.",
+      "talent2": "Fermeté",
+      "description2": "le Pokémon encaisse toujours au moins une attaque s'il a tous ses PV. Il est également immunisé contre les capacités pouvant mettre K.O. en un coup."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Mégapagos pourrait venir de Μέγα méga (grand) et des Îles Galápagos qui abritent les tortues géantes du même nom.",
     "gen": 5,
     "url": "https://i.ibb.co/sQkFhGz/565.png"
   },
@@ -23148,24 +23146,23 @@
       "Speed": 70
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Arkéapti",
+      "namevo2": "Aéroptéryx",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/fHJzn7p/566.png",
+      "evo2": "https://i.ibb.co/v3Wwk14/567.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 37
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Défaitiste",
+      "description1": "Le Pokémon devient défaitiste quand ses PV tombent à la moitié, et son Attaque et son Attaque Spéciale sont divisées par deux.",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Arkéapti pourrait venir d'Archaeopteryx (oiseau primitif du Jurassique) et de petit.",
     "gen": 5,
     "url": "https://i.ibb.co/fHJzn7p/566.png"
   },
@@ -23190,24 +23187,23 @@
       "Speed": 110
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Arkéapti",
+      "namevo2": "Aéroptéryx",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/fHJzn7p/566.png",
+      "evo2": "https://i.ibb.co/v3Wwk14/567.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 37
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Défaitiste",
+      "description1": "Le Pokémon devient défaitiste quand ses PV tombent à la moitié, et son Attaque et son Attaque Spéciale sont divisées par deux.",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Aéroptéryx (sans accents aigus en allemand) pourrait venir de ἀήρος aeros (air, en grec ancien) et d'Archaeopteryx.",
     "gen": 5,
     "url": "https://i.ibb.co/v3Wwk14/567.png"
   },
@@ -23231,24 +23227,23 @@
       "Speed": 65
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Miamiasme",
+      "namevo2": "Miasmax",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/4jHK7Lb/568.png",
+      "evo2": "https://i.ibb.co/v3xBZzR/569.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 36
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Puanteur",
+      "description1": "le Pokémon émet une odeur si nauséabonde qu'il peut effrayer sa cible. La puanteur permet également de diminuer les rencontres de Pokémon sauvages dans la nature.",
+      "talent2": "Glu",
+      "description2": "les objets sont collés au corps gluant du Pokémon, ce qui empêche ses adversaires de les dérober."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Miamiasme pourrait venir de miam-miam, onomatopée pour inviter à manger et de miasme.",
     "gen": 5,
     "url": "https://i.ibb.co/4jHK7Lb/568.png"
   },
@@ -23272,24 +23267,23 @@
       "Speed": 75
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Miamiasme",
+      "namevo2": "Miasmax",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/4jHK7Lb/568.png",
+      "evo2": "https://i.ibb.co/v3xBZzR/569.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 36
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Puanteur",
+      "description1": "le Pokémon émet une odeur si nauséabonde qu'il peut effrayer sa cible. La puanteur permet également de diminuer les rencontres de Pokémon sauvages dans la nature.",
+      "talent2": "Armurouillée",
+      "description2": "quand le Pokémon est touché par une capacité physique, sa Défense baisse mais sa Vitesse augmente beaucoup."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Miasmax pourrait venir de miasme (émanation putride provenant de déchets en décomposition) et de maximum.",
     "gen": 5,
     "url": "https://i.ibb.co/v3xBZzR/569.png"
   },
@@ -23313,24 +23307,23 @@
       "Speed": 65
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Zorua",
+      "namevo2": "Zoroark",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/B2kkLRD/570.png",
+      "evo2": "https://i.ibb.co/S79MtkD/571.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 30
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Illusion",
+      "description1": "donne au Pokémon l'apparence du dernier membre de l'équipe pour tromper l'adversaire.",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Zorua pourrait venir de zorro (renard), de ルア rua (leurre) et du prophète perse Zoroastre.",
     "gen": 5,
     "url": "https://i.ibb.co/B2kkLRD/570.png"
   },
@@ -23354,24 +23347,23 @@
       "Speed": 105
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Zorua",
+      "namevo2": "Zoroark",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/B2kkLRD/570.png",
+      "evo2": "https://i.ibb.co/S79MtkD/571.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 30
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Illusion",
+      "description1": "donne au Pokémon l'apparence du dernier membre de l'équipe pour tromper l'adversaire.",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Zoroark pourrait venir de zorro (renard, en espagnol) et de dark (sombre, obscur, en anglais).",
     "gen": 5,
     "url": "https://i.ibb.co/S79MtkD/571.png"
   },
@@ -23395,24 +23387,23 @@
       "Speed": 75
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Chinchidou",
+      "namevo2": "Pashmilla",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/L0QrFtV/572.png",
+      "evo2": "https://i.ibb.co/ZfVTNq7/573.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Avec une Pierre Éclat"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Joli Sourire",
+      "description1": "peut rendre amoureux l'attaquant lorsque le Pokémon subit une attaque directe.",
+      "talent2": "Technicien",
+      "description2": "augmente la puissance des capacités lorsque celle-ci est inférieure ou égale à 60."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Chinchidou pourrait venir de chinchilla et de doux.",
     "gen": 5,
     "url": "https://i.ibb.co/L0QrFtV/572.png"
   },
@@ -23436,24 +23427,23 @@
       "Speed": 115
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Chinchidou",
+      "namevo2": "Pashmilla",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/L0QrFtV/572.png",
+      "evo2": "https://i.ibb.co/ZfVTNq7/573.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Avec une Pierre Éclat"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Joli Sourire",
+      "description1": "peut rendre amoureux l'attaquant lorsque le Pokémon subit une attaque directe.",
+      "talent2": "Technicien",
+      "description2": "augmente la puissance des capacités lorsque celle-ci est inférieure ou égale à 60."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Pashmilla pourrait venir de Pashmînâ et de chinchilla.",
     "gen": 5,
     "url": "https://i.ibb.co/ZfVTNq7/573.png"
   },
@@ -23477,24 +23467,24 @@
       "Speed": 45
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Scrutella",
+      "namevo2": "Mesmérella",
+      "namevo3": "Sidérella",
+      "evo1": "https://i.ibb.co/ykv0MBc/574.png",
+      "evo2": "https://i.ibb.co/zmnX9w9/575.png",
+      "evo3": "https://i.ibb.co/JdgYgw7/576.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 32,
+      "lvl2": 41
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Fouille",
+      "description1": "permet de connaître l'objet tenu par l'ennemi quand le combat commence.",
+      "talent2": "Battant",
+      "description2": "augmente beaucoup l'Attaque Spéciale du Pokémon quand ses stats baissent."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Scrutella pourrait venir de scruter et de stella (étoile).",
     "gen": 5,
     "url": "https://i.ibb.co/ykv0MBc/574.png"
   },
@@ -23518,24 +23508,24 @@
       "Speed": 55
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Scrutella",
+      "namevo2": "Mesmérella",
+      "namevo3": "Sidérella",
+      "evo1": "https://i.ibb.co/ykv0MBc/574.png",
+      "evo2": "https://i.ibb.co/zmnX9w9/575.png",
+      "evo3": "https://i.ibb.co/JdgYgw7/576.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 32,
+      "lvl2": 41
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Fouille",
+      "description1": "permet de connaître l'objet tenu par l'ennemi quand le combat commence.",
+      "talent2": "Battant",
+      "description2": "augmente beaucoup l'Attaque Spéciale du Pokémon quand ses stats baissent."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Mesmérella pourrait venir de mesmérisme et de stella (étoile).",
     "gen": 5,
     "url": "https://i.ibb.co/zmnX9w9/575.png"
   },
@@ -23559,24 +23549,24 @@
       "Speed": 65
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Scrutella",
+      "namevo2": "Mesmérella",
+      "namevo3": "Sidérella",
+      "evo1": "https://i.ibb.co/ykv0MBc/574.png",
+      "evo2": "https://i.ibb.co/zmnX9w9/575.png",
+      "evo3": "https://i.ibb.co/JdgYgw7/576.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 32,
+      "lvl2": 41
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Fouille",
+      "description1": "permet de connaître l'objet tenu par l'ennemi quand le combat commence.",
+      "talent2": "Battant",
+      "description2": "augmente beaucoup l'Attaque Spéciale du Pokémon quand ses stats baissent."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Sidérella pourrait venir de sidéral et de stella (étoile), afin de faire penser au nom anglais de Cendrillon : Cinderella.",
     "gen": 5,
     "url": "https://i.ibb.co/JdgYgw7/576.png"
   },
@@ -23600,24 +23590,24 @@
       "Speed": 20
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Nucléos",
+      "namevo2": "Méios",
+      "namevo3": "Symbios",
+      "evo1": "https://i.ibb.co/HG5VztG/577.png",
+      "evo2": "https://i.ibb.co/Nshkc98/578.png",
+      "evo3": "https://i.ibb.co/tzzgby2/579.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 32,
+      "lvl2": 41
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Envelocape",
+      "description1": "protège des dégâts occasionnés par les tempêtes de sable ou la grêle, et neutralise les attaques à base de poudre.",
+      "talent2": "Garde Magi",
+      "description2": "seules les attaques peuvent blesser le Pokémon."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Nucléos pourrait venir de nucleus (noyau).",
     "gen": 5,
     "url": "https://i.ibb.co/HG5VztG/577.png"
   },
@@ -23641,24 +23631,24 @@
       "Speed": 30
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Nucléos",
+      "namevo2": "Méios",
+      "namevo3": "Symbios",
+      "evo1": "https://i.ibb.co/HG5VztG/577.png",
+      "evo2": "https://i.ibb.co/Nshkc98/578.png",
+      "evo3": "https://i.ibb.co/tzzgby2/579.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 32,
+      "lvl2": 41
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Envelocape",
+      "description1": "protège des dégâts occasionnés par les tempêtes de sable ou la grêle, et neutralise les attaques à base de poudre.",
+      "talent2": "Garde Magi",
+      "description2": "seules les attaques peuvent blesser le Pokémon."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Méios pourrait venir de méiose, processus de division cellulaire engendré lors de la création des gamètes.",
     "gen": 5,
     "url": "https://i.ibb.co/Nshkc98/578.png"
   },
@@ -23682,24 +23672,24 @@
       "Speed": 30
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Nucléos",
+      "namevo2": "Méios",
+      "namevo3": "Symbios",
+      "evo1": "https://i.ibb.co/HG5VztG/577.png",
+      "evo2": "https://i.ibb.co/Nshkc98/578.png",
+      "evo3": "https://i.ibb.co/tzzgby2/579.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 32,
+      "lvl2": 41
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Envelocape",
+      "description1": "protège des dégâts occasionnés par les tempêtes de sable ou la grêle, et neutralise les attaques à base de poudre.",
+      "talent2": "Garde Magi",
+      "description2": "seules les attaques peuvent blesser le Pokémon."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Symbios pourrait venir de symbiose et de bios (vie).",
     "gen": 5,
     "url": "https://i.ibb.co/tzzgby2/579.png"
   },
