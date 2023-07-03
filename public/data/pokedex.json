@@ -35230,24 +35230,23 @@
       "Speed": 50
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Berserkatt",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/1vbRkqF/863.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Berserkatt est l'évolution de Miaouss de Galar à partir du niveau 28."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Armurbaston",
+      "description1": "le Pokémon est protégé des coups critiques par une solide carapace.",
+      "talent2": "Griffe Dure",
+      "description2": "augmente la puissance des attaques directes du Pokémon."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Berserkatt pourrait venir de berserk et de katt (chat).",
     "gen": 8,
     "url": "https://i.ibb.co/1vbRkqF/863.png"
   },
@@ -35270,24 +35269,23 @@
       "Speed": 30
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Corayôme",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/gWgQH25/864.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Corayôme est l'évolution de Corayon de Galar au niveau 38."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Armurouillée",
+      "description1": "quand le Pokémon est touché par une capacité physique, sa Défense baisse mais sa Vitesse augmente beaucoup.",
+      "talent2": "Corps Condamné",
+      "description2": "lorsque le Pokémon est directement touché par une attaque, l'assaillant et lui tomberont K.O. dans trois tours, à moins qu'ils ne soient remplacés entre temps."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Corayôme pourrait venir de corail, de rayon et de fantôme, afin d'être une déformation de Corayon.",
     "gen": 8,
     "url": "https://i.ibb.co/gWgQH25/864.png"
   },
@@ -35310,24 +35308,23 @@
       "Speed": 65
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Palarticho",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/wh4L2yQ/865.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Palarticho est l'évolution de Canarticho de Galar, après avoir infligé 3 coups critiques au cours d'un même combat (hors raid Dynamax)."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Impassible",
+      "description1": "augmente la Vitesse du Pokémon quand il a peur.",
+      "talent2": "Querelleur",
+      "description2": "permet aux capacités de type Normal ou Combat du Pokémon de toucher les Pokémon de type Spectre."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Palarticho pourrait venir de paladin et d'artichaut.",
     "gen": 8,
     "url": "https://i.ibb.co/wh4L2yQ/865.png"
   },
@@ -35392,24 +35389,23 @@
       "Speed": 30
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Tutétékri",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/MSVVL1P/867.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Tutétékri est l'évolution de Tutafeh de Galar, après avoir perdu 49 PV ou plus suite à des attaques adverses et sans avoir été soigné lors d'un combat."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Âme Vagabonde",
+      "description1": "lorsque le Pokémon est directement touché par une attaque, il échange son talent avec celui de l'assaillant.",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Tutétékri pourrait venir de Toutânkhamon et de la contraction de l'expression « tout est écrit ».",
     "gen": 8,
     "url": "https://i.ibb.co/MSVVL1P/867.png"
   },
@@ -35432,24 +35428,23 @@
       "Speed": 34
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Crèmy",
+      "namevo2": "Charmilly",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/ZVLGMgB/868.png",
+      "evo2": "https://i.ibb.co/dPw9jKn/869.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Objet en Sucre + tourner sur soi-même"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Gluco-Voile",
+      "description1": "le Pokémon et ses alliés ne peuvent pas s'endormir.",
+      "talent2": "Aroma-Voile",
+      "description2": "protège le Pokémon et l'équipe des effets limitant le libre arbitre, comme Provoc."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Crèmy pourrait venir de la contraction de crème chantilly, ou de crème et de baby (bébé).",
     "gen": 8,
     "url": "https://i.ibb.co/ZVLGMgB/868.png"
   },
@@ -35472,24 +35467,23 @@
       "Speed": 64
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Crèmy",
+      "namevo2": "Charmilly",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/ZVLGMgB/868.png",
+      "evo2": "https://i.ibb.co/dPw9jKn/869.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Objet en Sucre + tourner sur soi-même"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Gluco-Voile",
+      "description1": "le Pokémon et ses alliés ne peuvent pas s'endormir.",
+      "talent2": "Aroma-Voile",
+      "description2": "protège le Pokémon et l'équipe des effets limitant le libre arbitre, comme Provoc."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Charmilly pourrait venir de charme et de crème chantilly.",
     "gen": 8,
     "url": "https://i.ibb.co/dPw9jKn/869.png"
   },
@@ -35512,24 +35506,23 @@
       "Speed": 75
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Hexadron",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/FsD932w/870.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Hexadron n'a pas d'évolution, et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Armurbaston",
+      "description1": "le Pokémon est protégé des coups critiques par une solide carapace.",
+      "talent2": "Acharné",
+      "description2": "augmente beaucoup l'Attaque du Pokémon quand ses stats baissent."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": " Hexadron pourrait venir d'hexa- (préfixe représentant le chiffre 6) et d'escadron.",
     "gen": 8,
     "url": "https://i.ibb.co/FsD932w/870.png"
   },
@@ -35552,24 +35545,23 @@
       "Speed": 15
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Wattapik",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/X5RpcbT/871.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Wattapik n'a pas d'évolution, et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Paratonnerre",
+      "description1": "le Pokémon détourne sur lui les capacités de type Électrik et les neutralise, tout en montant son Attaque Spéciale.",
+      "talent2": "Créa-Élec",
+      "description2": "le Pokémon crée un Champ Électrifié au moment où il entre au combat."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Wattapik pourrait venir de watt et d'à pics.",
     "gen": 8,
     "url": "https://i.ibb.co/X5RpcbT/871.png"
   },
@@ -35593,24 +35585,23 @@
       "Speed": 20
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Frissonille",
+      "namevo2": "Beldeneige",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/jZznfJQ/872.png",
+      "evo2": "https://i.ibb.co/sRtzk7d/873.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Bonheur, Nuit"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Écran Poudre",
+      "description1": "le Pokémon dispose d'un écran naturel qui le protège des effets additionnels des attaques ennemies.",
+      "talent2": "Écailles Glacées",
+      "description2": "le Pokémon est protégé par des écailles de glace. Les dégâts qu'il subit par des capacités spéciales sont divisés par deux."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Frissonille pourrait venir de frisson et de chenille.",
     "gen": 8,
     "url": "https://i.ibb.co/jZznfJQ/872.png"
   },
@@ -35634,24 +35625,23 @@
       "Speed": 65
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Frissonille",
+      "namevo2": "Beldeneige",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/jZznfJQ/872.png",
+      "evo2": "https://i.ibb.co/sRtzk7d/873.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Bonheur, Nuit"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Écran Poudre",
+      "description1": "le Pokémon dispose d'un écran naturel qui le protège des effets additionnels des attaques ennemies.",
+      "talent2": "Écailles Glacées",
+      "description2": "le Pokémon est protégé par des écailles de glace. Les dégâts qu'il subit par des capacités spéciales sont divisés par deux."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Beldeneige pourrait venir de belle et de boule de neige.",
     "gen": 8,
     "url": "https://i.ibb.co/sRtzk7d/873.png"
   },
@@ -35674,24 +35664,23 @@
       "Speed": 70
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Dolman",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/D47pRyc/874.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Dolman n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Cercle d'Énergie",
+      "description1": "augmente la puissance des capacités des Pokémon qui se trouvent à proximité.",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Dolman pourrait venir de dolmen et de man (homme).",
     "gen": 8,
     "url": "https://i.ibb.co/D47pRyc/874.png"
   },
@@ -35714,24 +35703,23 @@
       "Speed": 130
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Bekaglaçon",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/DY8GFF9/875.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Bekaglaçon n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Tête de Gel",
+      "description1": "le glaçon sur sa tête encaisse les attaques physiques à la place du Pokémon, mais sa destruction modifie son apparence. Le glaçon se reforme quand il grêle.",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Bekaglaçon pourrait venir de bec et de bac à glaçons.",
     "gen": 8,
     "url": "https://i.ibb.co/DY8GFF9/875.png"
   },
@@ -35755,24 +35743,23 @@
       "Speed": 85
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Wimessir",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/6rCLfFH/876.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Wimessir n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Attention",
+      "description1": "le Pokémon a un mental à toute épreuve qui empêche les capacités ennemies de lui faire peur.",
+      "talent2": "Tempo Perso",
+      "description2": "le Pokémon vit sa vie à son propre rythme, ce qui l'immunise contre la confusion."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Wimessir pourrait venir d'une déformation de l'expression « oui, messire ».",
     "gen": 8,
     "url": "https://i.ibb.co/6rCLfFH/876.png"
   },
@@ -35796,24 +35783,23 @@
       "Speed": 97
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Morpekor",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/XZggBqW/877.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Morpeko n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Déclic Fringale",
+      "description1": "à la fin de chaque tour, le Pokémon alterne entre ses formes Mode Rassasié et Mode Affamé et change ainsi le type de la capacité Roue Libre.",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Morpeko pourrait venir de モルモット morumotto (cochon d'Inde) et de 腹ペコ harapeko (affamé).",
     "gen": 8,
     "url": "https://i.ibb.co/XZggBqW/877.png"
   },
@@ -35836,24 +35822,23 @@
       "Speed": 40
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Charibari",
+      "namevo2": "Pachyradjah",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/XYDZgCY/878.png",
+      "evo2": "https://i.ibb.co/TR2wGNy/879.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 34
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Sans Limite",
+      "description1": "les capacités ayant un effet additionnel perdent celui-ci, mais leur puissance augmente de 30 %.",
+      "talent2": "Heavy Metal",
+      "description2": "double le poids du Pokémon."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Charibari pourrait venir de charivari et de barrissement (cri de l'éléphant).",
     "gen": 8,
     "url": "https://i.ibb.co/XYDZgCY/878.png"
   },
@@ -35876,24 +35861,23 @@
       "Speed": 30
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Charibari",
+      "namevo2": "Pachyradjah",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/XYDZgCY/878.png",
+      "evo2": "https://i.ibb.co/TR2wGNy/879.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 34
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Sans Limite",
+      "description1": "les capacités ayant un effet additionnel perdent celui-ci, mais leur puissance augmente de 30 %.",
+      "talent2": "Heavy Metal",
+      "description2": "double le poids du Pokémon."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Pachyradjah pourrait venir de pachyderme et de maharadjah.",
     "gen": 8,
     "url": "https://i.ibb.co/TR2wGNy/879.png"
   },
@@ -35917,24 +35901,23 @@
       "Speed": 75
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Galvagon",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/58xtgqy/880.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Galvagon n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Absorbe-Volt",
+      "description1": "si le Pokémon est touché par une capacité Électrik, il ne subit aucun dégât et regagne des PV à la place.",
+      "talent2": "Agitation",
+      "description2": "améliore l'Attaque du Pokémon mais diminue la Précision."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Galvagon pourrait venir de galvanisme et de dragon.",
     "gen": 8,
     "url": "https://i.ibb.co/58xtgqy/880.png"
   },
@@ -35958,24 +35941,23 @@
       "Speed": 55
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Galvagla",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/jW2ps9V/881.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Galvagla n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Absorbe-Volt",
+      "description1": "si le Pokémon est touché par une capacité Électrik, il ne subit aucun dégât et regagne des PV à la place.",
+      "talent2": "Statik",
+      "description2": "le Pokémon charge son corps en électricité statique, et tout contact avec lui peut paralyser."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Galvagla pourrait venir de galvanisme et de glagla.",
     "gen": 8,
     "url": "https://i.ibb.co/jW2ps9V/881.png"
   },
@@ -35999,24 +35981,23 @@
       "Speed": 75
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Hydrago",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/Tkf5dRd/882.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Hydragon n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Absorbe-Eau",
+      "description1": "si le Pokémon est touché par une capacité Eau, il ne subit aucun dégât et regagne des PV à la place.",
+      "talent2": "Prognathe",
+      "description2": "le Pokémon a une mâchoire robuste qui augmente la puissance de ses capacités à base de morsures."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Hydragon pourrait venir d'hydro- (préfixe grec désignant l'eau) et de dragon.",
     "gen": 8,
     "url": "https://i.ibb.co/Tkf5dRd/882.png"
   },
@@ -36048,16 +36029,15 @@
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Hydragla n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Absorb Eau",
+      "description1": "si le Pokémon est touché par une capacité Eau, il ne subit aucun dégât et regagne des PV à la place.",
+      "talent2": "Corps Gel",
+      "description2": "régénère 1/16 des PV du Pokémon lors des tempêtes de grêle."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Hydragla pourrait venir d'hydro- (préfixe grec désignant l'eau) et de glagla.",
     "gen": 8,
     "url": "https://i.ibb.co/fF0sZhT/883.png"
   },
@@ -36081,24 +36061,23 @@
       "Speed": 55
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Duralugon",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/WnmqfqH/884.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Duralugon n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Light Metal",
+      "description1": "divise par deux le poids du Pokémon.",
+      "talent2": "Heavy Metal",
+      "description2": "double le poids du Pokémon."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Duralugon pourrait venir de duralumin et de dragon.",
     "gen": 8,
     "url": "https://i.ibb.co/WnmqfqH/884.png"
   },
@@ -36122,24 +36101,24 @@
       "Speed": 82
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Fantyrm",
+      "namevo2": "Dispareptil",
+      "namevo3": "Lanssorien",
+      "evo1": "https://i.ibb.co/3Mb4x28/885.png",
+      "evo2": "https://i.ibb.co/nCPsWDG/886.png",
+      "evo3": "https://i.ibb.co/wNL1sdt/887.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 50,
+      "lvl2": 60
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Corps Sain",
+      "description1": "empêche les stats du Pokémon de baisser à cause d'une capacité ou d'un talent.",
+      "talent2": "Infiltration",
+      "description2": "traverse les barrières (comme Mur Lumière) et les clones de l'ennemi pour attaquer directement."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Fantyrm pourrait venir de fantôme et de wyrm.",
     "gen": 8,
     "url": "https://i.ibb.co/3Mb4x28/885.png"
   },
@@ -36163,24 +36142,24 @@
       "Speed": 102
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Fantyrm",
+      "namevo2": "Dispareptil",
+      "namevo3": "Lanssorien",
+      "evo1": "https://i.ibb.co/3Mb4x28/885.png",
+      "evo2": "https://i.ibb.co/nCPsWDG/886.png",
+      "evo3": "https://i.ibb.co/wNL1sdt/887.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 50,
+      "lvl2": 60
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Corps Sain",
+      "description1": "empêche les stats du Pokémon de baisser à cause d'une capacité ou d'un talent.",
+      "talent2": "Infiltration",
+      "description2": "traverse les barrières (comme Mur Lumière) et les clones de l'ennemi pour attaquer directement."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Dispareptil pourrait venir de disparaître, de disparar (tirer avec une arme en espagnol) et de reptile.",
     "gen": 8,
     "url": "https://i.ibb.co/nCPsWDG/886.png"
   },
@@ -36204,24 +36183,24 @@
       "Speed": 142
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Fantyrm",
+      "namevo2": "Dispareptil",
+      "namevo3": "Lanssorien",
+      "evo1": "https://i.ibb.co/3Mb4x28/885.png",
+      "evo2": "https://i.ibb.co/nCPsWDG/886.png",
+      "evo3": "https://i.ibb.co/wNL1sdt/887.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 50,
+      "lvl2": 60
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Corps Sain",
+      "description1": "empêche les stats du Pokémon de baisser à cause d'une capacité ou d'un talent.",
+      "talent2": "Infiltration",
+      "description2": "traverse les barrières (comme Mur Lumière) et les clones de l'ennemi pour attaquer directement."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Lanssorien pourrait venir de lancer, de frisson et de saurien.",
     "gen": 8,
     "url": "https://i.ibb.co/wNL1sdt/887.png"
   },
@@ -36244,24 +36223,23 @@
       "Speed": 148
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Zacian",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/W3XHfnS/888.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Zacian n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Lame Indomptable",
+      "description1": "augmente l'Attaque du Pokémon quand il entre au combat.",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Zacian pourrait venir de 狼座 Ōkami-za (la constellation du loup) et de シアン shian (bleu cyan).",
     "gen": 8,
     "url": "https://i.ibb.co/W3XHfnS/888.png"
   },
@@ -36284,24 +36262,23 @@
       "Speed": 128
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Zamazenta",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/QX15Ryq/889.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Zamazenta n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Égide Inflexible",
+      "description1": "augmente la Défense du Pokémon quand il entre au combat.",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Zamazenta pourrait venir de 狼座 Ōkami-za (la constellation du loup) et de マゼンタ mazenta (magenta).",
     "gen": 8,
     "url": "https://i.ibb.co/QX15Ryq/889.png"
   },
@@ -36325,24 +36302,23 @@
       "Speed": 130
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Éthernatos",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/0jNxJcR/890.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Éthernatos n'a pas d'évolution et n'est l'évolution d'aucun autre Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Pression",
+      "description1": "force l'ennemi à dépenser deux PP par capacité utilisée.",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Éthernatos pourrait venir d'Éther (Dieu des Cieux) et de Thanatos (Dieu de la Mort).",
     "gen": 8,
     "url": "https://i.ibb.co/0jNxJcR/890.png"
   },
