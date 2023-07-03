@@ -36341,24 +36341,23 @@
       "Speed": 72
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Wushours",
+      "namevo2": "Shifours",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/ZYvhPMN/891.png",
+      "evo2": "https://i.ibb.co/rHTz75d/892.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Gravir la Tour des Ténèbres"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Attention",
+      "description1": "le Pokémon a un mental à toute épreuve qui empêche les capacités ennemies de lui faire peur.",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Wushours pourrait venir de wushu et d'ours.",
     "gen": 8,
     "url": "https://i.ibb.co/ZYvhPMN/891.png"
   },
@@ -36382,24 +36381,23 @@
       "Speed": 97
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Wushours",
+      "namevo2": "Shifours",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/ZYvhPMN/891.png",
+      "evo2": "https://i.ibb.co/rHTz75d/892.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Gravir la Tour des Ténèbres"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Poing Invisible",
+      "description1": "si le Pokémon utilise une attaque directe, celle-ci pourra passer outre les protections de la cible.",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Shifours pourrait venir de shifu et d'ours.",
     "gen": 8,
     "url": "https://i.ibb.co/rHTz75d/892.png"
   },
@@ -36423,64 +36421,62 @@
       "Speed": 105
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Zarude",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/xh6LN3Z/893.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Zarude n'a pas d'évolution et n'est l'évolution d'aucun autre Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Feuille Garde",
+      "description1": "protège le Pokémon contre les altérations de statut quand le soleil brille.",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Zarude pourrait venir de 猿 saru (singe) et de rude (grossier, insolent).",
     "gen": 8,
     "url": "https://i.ibb.co/xh6LN3Z/893.png"
   },
   {
     "id": 894,
     "name": {
-      "english": "Regidrago",
+      "english": "Regieleki",
       "japanese": "レジドラゴ",
-      "french": "Regidrago"
+      "french": "Regieleki"
     },
     "type": [
       "Dragon"
     ],
     "base": {
-      "HP": 200,
+      "HP": 80,
       "Attack": 100,
       "Defense": 50,
       "Sp. Attack": 100,
       "Sp. Defense": 50,
-      "Speed": 80
+      "Speed": 200
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Regieleki",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/r3QFtdm/894.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Regieleki n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Transistor",
+      "description1": "augmente la puissance des capacités de type Électrik du Pokémon.",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Regieleki pourrait venir de regis (roi/royal) et de エレキ ereki (électrique).",
     "gen": 8,
     "url": "https://i.ibb.co/r3QFtdm/894.png"
   },
@@ -36503,24 +36499,23 @@
       "Speed": 80
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Regidrago",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/KK40RwB/895.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Regidrago n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Dent de Dragon",
+      "description1": "augmente la puissance des attaques de type Dragon.",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Regidorago pourrait venir de regis (roi/royal) et de dragon.",
     "gen": 8,
     "url": "https://i.ibb.co/KK40RwB/895.png"
   },
@@ -36543,24 +36538,23 @@
       "Speed": 30
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Blizzeval",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/kQcKWYk/896.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Blizzeval n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Blanche Ruade",
+      "description1": "augmente son Attaque lorsqu'il met un ennemi K.O.",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Blizzeval pourrait venir de blizzard et de cheval.",
     "gen": 8,
     "url": "https://i.ibb.co/kQcKWYk/896.png"
   },
@@ -36583,24 +36577,23 @@
       "Speed": 130
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Spectreval",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/8gCgZg1/897.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Spectreval n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Sombre Ruade",
+      "description1": "augmente son Attaque Spéciale lorsqu'il met un ennemi K.O..",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Spectreval pourrait venir de spectre et de cheval.",
     "gen": 8,
     "url": "https://i.ibb.co/8gCgZg1/897.png"
   },
@@ -36624,24 +36617,23 @@
       "Speed": 80
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Sylveroy",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/Fwjr6Pk/898.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Sylveroy n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Tension",
+      "description1": "fait stresser l'ennemi, ce qui l'empêche de manger des Baies.",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Sylveroy pourrait venir de sylvestre et de roy (ancienne graphie de « roi »).",
     "gen": 8,
     "url": "https://i.ibb.co/Fwjr6Pk/898.png"
   },
