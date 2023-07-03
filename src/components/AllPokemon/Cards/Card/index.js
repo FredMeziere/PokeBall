@@ -446,7 +446,7 @@ function Card({
     >
       {showBack ? (
         <div className="card-content">
-          <p className="card-type-p">Les différentes évolution de ce Pokémon</p>
+          <p className="card-type-p">Les différentes évolutions de ce Pokémon</p>
           <p className="card-type-p">{evolution.namevo1}</p>
           <img className="card-img-evol" src={evolution.evo1} alt="Pokemon de base" />
           {levels.lvl1 && (
