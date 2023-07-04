@@ -36819,24 +36819,23 @@
       "Speed": 120
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Farfurex",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/CJCMh5M/903.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Farfurex est l'évolution de Farfuret de Hisui au contact d'une Griffe Rasoir de jour."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Pression",
+      "description1": "force l'ennemi à dépenser deux PP par capacité utilisée.",
+      "talent2": "Délestage",
+      "description2": "augmente la Vitesse du Pokémon s'il perd ou utilise l'objet qu'il tenait au début du combat."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Farfurex pourrait venir de Farfuret (qui se décompose lui-même en farfadet et furet) et de rex (roi).",
     "gen": 8,
     "url": "https://i.ibb.co/CJCMh5M/903.png"
   },
@@ -36860,24 +36859,23 @@
       "Speed": 85
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Qwilpik",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/KKDnCSc/904.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Qwilpik est l'évolution de Qwilfish de Hisui après avoir utilisé 20 fois ou plus la capacité Multitoxik sous Style Puissant."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Point Poison",
+      "description1": "peut empoisonner l'attaquant lorsque le Pokémon subit une attaque directe.",
+      "talent2": "Glissade",
+      "description2": "augmente la Vitesse du Pokémon s'il pleut."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Qwilpik pourrait venir de Qwilfish (qui se décompose lui-même en quill, piquant, et fish, poisson) et de pik (homophone de pique)",
     "gen": 8,
     "url": "https://i.ibb.co/KKDnCSc/904.png"
   },
@@ -36901,24 +36899,23 @@
       "Speed": 46
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Amovénus",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/Jm0xFtx/905.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Amovénus n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Joli Sourire",
+      "description1": "peut rendre amoureux l'attaquant lorsque le Pokémon subit une attaque directe.",
+      "talent2": "Contestation",
+      "description2": "inverse les changements de stats : les augmentations de stats se transforment en baisses, et vice-versa."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Amovénus pourrait venir d'amour et de Vénus (déesse de l'amour dans la mythologie romaine).",
     "gen": 8,
     "url": "https://i.ibb.co/Jm0xFtx/905.png"
   },
@@ -36941,24 +36938,24 @@
       "Speed": 65
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Poussacha",
+      "namevo2": "Matourgeon",
+      "namevo3": "Miascarade",
+      "evo1": "https://i.ibb.co/7GfgVVn/906.png",
+      "evo2": "https://i.ibb.co/W2pvy01/907.png",
+      "evo3": "https://i.ibb.co/GQqb6mp/908.png"
     },
     "levels": {
       "lvl1": 16,
-      "lvl2": 32
+      "lvl2": 36
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Engrais",
+      "description1": "augmente la puissance des capacités de type Plante du Pokémon quand ses PV sont inférieurs à 1/3.",
+      "talent2": "Protéen",
+      "description2": "le Pokémon prend le type de la capacité qu'il utilise."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Poussacha pourrait venir de pousse et de herbe à chat.",
     "gen": 9,
     "url": "https://i.ibb.co/7GfgVVn/906.png"
   },
@@ -36981,24 +36978,24 @@
       "Speed": 83
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Poussacha",
+      "namevo2": "Matourgeon",
+      "namevo3": "Miascarade",
+      "evo1": "https://i.ibb.co/7GfgVVn/906.png",
+      "evo2": "https://i.ibb.co/W2pvy01/907.png",
+      "evo3": "https://i.ibb.co/GQqb6mp/908.png"
     },
     "levels": {
       "lvl1": 16,
-      "lvl2": 32
+      "lvl2": 36
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Engrais",
+      "description1": "augmente la puissance des capacités de type Plante du Pokémon quand ses PV sont inférieurs à 1/3.",
+      "talent2": "Protéen",
+      "description2": "le Pokémon prend le type de la capacité qu'il utilise."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Matourgeon pourrait venir de matou et de bourgeon.",
     "gen": 9,
     "url": "https://i.ibb.co/W2pvy01/907.png"
   },
@@ -37022,24 +37019,24 @@
       "Speed": 123
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Poussacha",
+      "namevo2": "Matourgeon",
+      "namevo3": "Miascarade",
+      "evo1": "https://i.ibb.co/7GfgVVn/906.png",
+      "evo2": "https://i.ibb.co/W2pvy01/907.png",
+      "evo3": "https://i.ibb.co/GQqb6mp/908.png"
     },
     "levels": {
       "lvl1": 16,
-      "lvl2": 32
+      "lvl2": 36
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Engrais",
+      "description1": "augmente la puissance des capacités de type Plante du Pokémon quand ses PV sont inférieurs à 1/3.",
+      "talent2": "Protéen",
+      "description2": "le Pokémon prend le type de la capacité qu'il utilise."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Miascarade pourrait venir de miaou et de mascarade.",
     "gen": 9,
     "url": "https://i.ibb.co/GQqb6mp/908.png"
   },
@@ -37062,24 +37059,24 @@
       "Speed": 36
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Chochodile",
+      "namevo2": "Crocogril",
+      "namevo3": "Flâmigator",
+      "evo1": "https://i.ibb.co/HD2Nf82/909.png",
+      "evo2": "https://i.ibb.co/WzbY6ZM/910.png",
+      "evo3": "https://i.ibb.co/tDW0bhZ/911.png"
     },
     "levels": {
       "lvl1": 16,
-      "lvl2": 32
+      "lvl2": 36
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Brasier",
+      "description1": "augmente la puissance des capacités de type Feu du Pokémon quand ses PV sont inférieurs à 1/3",
+      "talent2": "Inconscient",
+      "description2": "quand il attaque, le Pokémon ignore les changements de stats de l'ennemi."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Chochodile pourrait venir de cho (homophone de chaud) et de crocodile.",
     "gen": 9,
     "url": "https://i.ibb.co/HD2Nf82/909.png"
   },
@@ -37102,24 +37099,24 @@
       "Speed": 49
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Chochodile",
+      "namevo2": "Crocogril",
+      "namevo3": "Flâmigator",
+      "evo1": "https://i.ibb.co/HD2Nf82/909.png",
+      "evo2": "https://i.ibb.co/WzbY6ZM/910.png",
+      "evo3": "https://i.ibb.co/tDW0bhZ/911.png"
     },
     "levels": {
       "lvl1": 16,
-      "lvl2": 32
+      "lvl2": 36
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Brasier",
+      "description1": "augmente la puissance des capacités de type Feu du Pokémon quand ses PV sont inférieurs à 1/3",
+      "talent2": "Inconscient",
+      "description2": "quand il attaque, le Pokémon ignore les changements de stats de l'ennemi."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Crocogril pourrait venir de crocodile et de griller.",
     "gen": 9,
     "url": "https://i.ibb.co/WzbY6ZM/910.png"
   },
@@ -37143,24 +37140,24 @@
       "Speed": 66
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Chochodile",
+      "namevo2": "Crocogril",
+      "namevo3": "Flâmigator",
+      "evo1": "https://i.ibb.co/HD2Nf82/909.png",
+      "evo2": "https://i.ibb.co/WzbY6ZM/910.png",
+      "evo3": "https://i.ibb.co/tDW0bhZ/911.png"
     },
     "levels": {
       "lvl1": 16,
-      "lvl2": 32
+      "lvl2": 36
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Brasier",
+      "description1": "augmente la puissance des capacités de type Feu du Pokémon quand ses PV sont inférieurs à 1/3",
+      "talent2": "Inconscient",
+      "description2": "quand il attaque, le Pokémon ignore les changements de stats de l'ennemi."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Flâmigator pourrait venir de flamme, d'âme et d'alligator.",
     "gen": 9,
     "url": "https://i.ibb.co/tDW0bhZ/911.png"
   },
@@ -37183,24 +37180,24 @@
       "Speed": 50
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Coiffeton",
+      "namevo2": "Canarbello",
+      "namevo3": "Palmaval",
+      "evo1": "https://i.ibb.co/LgQRvWG/912.png",
+      "evo2": "https://i.ibb.co/xFSrJVt/913.png",
+      "evo3": "https://i.ibb.co/BsRfTvw/914.png"
     },
     "levels": {
       "lvl1": 16,
-      "lvl2": 32
+      "lvl2": 36
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Torrent",
+      "description1": "augmente la puissance des capacités de type Eau du Pokémon quand ses PV sont inférieurs à 1/3.",
+      "talent2": "Impudence",
+      "description2": "quand le Pokémon met un ennemi K.O., sa confiance en lui ne connaît plus de limite et son Attaque augmente."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Coiffeton pourrait venir de coiffe et de caneton.",
     "gen": 9,
     "url": "https://i.ibb.co/LgQRvWG/912.png"
   },
@@ -37223,24 +37220,24 @@
       "Speed": 65
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Coiffeton",
+      "namevo2": "Canarbello",
+      "namevo3": "Palmaval",
+      "evo1": "https://i.ibb.co/LgQRvWG/912.png",
+      "evo2": "https://i.ibb.co/xFSrJVt/913.png",
+      "evo3": "https://i.ibb.co/BsRfTvw/914.png"
     },
     "levels": {
       "lvl1": 16,
-      "lvl2": 32
+      "lvl2": 36
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Torrent",
+      "description1": "augmente la puissance des capacités de type Eau du Pokémon quand ses PV sont inférieurs à 1/3.",
+      "talent2": "Impudence",
+      "description2": "quand le Pokémon met un ennemi K.O., sa confiance en lui ne connaît plus de limite et son Attaque augmente."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Canarbello pourrait venir de canard et de cabello (cheveu en espagnol).",
     "gen": 9,
     "url": "https://i.ibb.co/xFSrJVt/913.png"
   },
@@ -37264,24 +37261,24 @@
       "Speed": 85
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Coiffeton",
+      "namevo2": "Canarbello",
+      "namevo3": "Palmaval",
+      "evo1": "https://i.ibb.co/LgQRvWG/912.png",
+      "evo2": "https://i.ibb.co/xFSrJVt/913.png",
+      "evo3": "https://i.ibb.co/BsRfTvw/914.png"
     },
     "levels": {
       "lvl1": 16,
-      "lvl2": 32
+      "lvl2": 36
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Torrent",
+      "description1": "augmente la puissance des capacités de type Eau du Pokémon quand ses PV sont inférieurs à 1/3.",
+      "talent2": "Impudence",
+      "description2": "quand le Pokémon met un ennemi K.O., sa confiance en lui ne connaît plus de limite et son Attaque augmente."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Palmaval pourrait venir de palmipède et de carnaval.",
     "gen": 9,
     "url": "https://i.ibb.co/BsRfTvw/914.png"
   },
@@ -37304,24 +37301,23 @@
       "Speed": 35
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Gourmelet",
+      "namevo2": "Fragroin",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/zSHzwjG/915.png",
+      "evo2": "https://i.ibb.co/JnsYdPd/916.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 18
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Aroma-Voile",
+      "description1": "protège le Pokémon et l'équipe des effets limitant le libre arbitre, comme Provoc.",
+      "talent2": "Gloutonnerie",
+      "description2": "si le Pokémon tient une Baie à manger en cas de PV bas, il la mange dès qu'il a perdu la moitié de ses PV."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Gourmelet pourrait venir de gourmet et de porcelet.",
     "gen": 9,
     "url": "https://i.ibb.co/zSHzwjG/915.png"
   },
@@ -37344,24 +37340,23 @@
       "Speed": 65
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Gourmelet",
+      "namevo2": "Fragroin",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/zSHzwjG/915.png",
+      "evo2": "https://i.ibb.co/JnsYdPd/916.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 18
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Odeur Tenace",
+      "description1": "lorsque le Pokémon subit une attaque directe, ce talent remplace celui de l'assaillant. (mâles uniquement)",
+      "talent2": "Aroma-Voile",
+      "description2": "protège le Pokémon et l'équipe des effets de restriction tels que ceux de Provoc. (femelles uniquement)"
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Fragroin pourrait venir de fragrance et de groin.",
     "gen": 9,
     "url": "https://i.ibb.co/JnsYdPd/916.png"
   },
@@ -37384,24 +37379,23 @@
       "Speed": 20
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Tissenboule",
+      "namevo2": "Filentrappe",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/b5CwmSZ/917.png",
+      "evo2": "https://i.ibb.co/PQML0ZV/918.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 15
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Insomnia",
+      "description1": "le Pokémon est incapable de dormir.",
+      "talent2": "Filature",
+      "description2": "lorsque le Pokémon attaque une cible qui vient d'entrer sur le terrain en remplacement d'un autre Pokémon, les dégâts infligés sont doublés."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Tissenboule pourrait venir d'une contraction de tisse en boule.",
     "gen": 9,
     "url": "https://i.ibb.co/b5CwmSZ/917.png"
   },
@@ -37424,24 +37418,23 @@
       "Speed": 35
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Tissenboule",
+      "namevo2": "Filentrappe",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/b5CwmSZ/917.png",
+      "evo2": "https://i.ibb.co/PQML0ZV/918.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 15
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Insomnia",
+      "description1": "le Pokémon est incapable de dormir.",
+      "talent2": "Filature",
+      "description2": "lorsque le Pokémon attaque une cible qui vient d'entrer sur le terrain en remplacement d'un autre Pokémon, les dégâts infligés sont doublés."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Filentrappe pourrait venir de philanthrope et d'une contraction de fil en trappe.",
     "gen": 9,
     "url": "https://i.ibb.co/PQML0ZV/918.png"
   },
@@ -37464,24 +37457,23 @@
       "Speed": 45
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Lilliterelle",
+      "namevo2": "Gambex",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/YhYScz4/919.png",
+      "evo2": "https://i.ibb.co/Lk5V3Nt/920.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 24
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Essaim",
+      "description1": "augmente la puissance des capacités de type Insecte du Pokémon quand ses PV sont inférieurs à 1/3.",
+      "talent2": "Lentiteintée",
+      "description2": "permet à une capacité « pas très efficace » d'infliger des dégâts comme si elle était efficace normalement."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Lilliterelle pourrait venir de lilliputien et de sauterelle.",
     "gen": 9,
     "url": "https://i.ibb.co/YhYScz4/919.png"
   },
@@ -37504,24 +37496,23 @@
       "Speed": 92
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Lilliterelle",
+      "namevo2": "Gambex",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/YhYScz4/919.png",
+      "evo2": "https://i.ibb.co/Lk5V3Nt/920.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 24
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Essaim",
+      "description1": "augmente la puissance des capacités de type Insecte du Pokémon quand ses PV sont inférieurs à 1/3.",
+      "talent2": "Lentiteintée",
+      "description2": "permet à une capacité « pas très efficace » d'infliger des dégâts comme si elle était efficace normalement."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Gambex pourrait venir de gambettes et d'extrême.",
     "gen": 9,
     "url": "https://i.ibb.co/Lk5V3Nt/920.png"
   },
@@ -37544,24 +37535,24 @@
       "Speed": 60
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Pohm",
+      "namevo2": "Pohmotte",
+      "namevo3": "Pohmarmotte",
+      "evo1": "https://i.ibb.co/Dr4TJG2/921.png",
+      "evo2": "https://i.ibb.co/Jd6dvLB/922.png",
+      "evo3": "https://i.ibb.co/G7Gzk52/923.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 18,
+      "lvl2": "Marcher 1000 pas avec la fonction En avant ! + gagner un niveau"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Statik",
+      "description1": "le Pokémon charge son corps en électricité statique, et tout contact avec lui peut paralyser.",
+      "talent2": "Médic Nature",
+      "description2": "le Pokémon soigne ses altérations de statut en quittant le combat."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Pohm pourrait venir d'une homophonie de paume et d'ohm.",
     "gen": 9,
     "url": "https://i.ibb.co/Dr4TJG2/921.png"
   },
@@ -37585,24 +37576,24 @@
       "Speed": 85
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Pohm",
+      "namevo2": "Pohmotte",
+      "namevo3": "Pohmarmotte",
+      "evo1": "https://i.ibb.co/Dr4TJG2/921.png",
+      "evo2": "https://i.ibb.co/Jd6dvLB/922.png",
+      "evo3": "https://i.ibb.co/G7Gzk52/923.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 18,
+      "lvl2": "Marcher 1000 pas avec la fonction En avant ! + gagner un niveau"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Absorbe-Volt",
+      "description1": "si le Pokémon est touché par une capacité Électrik, il ne subit aucun dégât et regagne des PV à la place.",
+      "talent2": "Médic Nature",
+      "description2": "le Pokémon soigne ses altérations de statut en quittant le combat."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Pohmotte pourrait venir de Pohm et de marmotte.",
     "gen": 9,
     "url": "https://i.ibb.co/Jd6dvLB/922.png"
   },
@@ -37626,24 +37617,24 @@
       "Speed": 105
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Pohm",
+      "namevo2": "Pohmotte",
+      "namevo3": "Pohmarmotte",
+      "evo1": "https://i.ibb.co/Dr4TJG2/921.png",
+      "evo2": "https://i.ibb.co/Jd6dvLB/922.png",
+      "evo3": "https://i.ibb.co/G7Gzk52/923.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 18,
+      "lvl2": "Marcher 1000 pas avec la fonction En avant ! + gagner un niveau"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Absorbe-Volt",
+      "description1": "si le Pokémon est touché par une capacité Électrik, il ne subit aucun dégât et regagne des PV à la place.",
+      "talent2": "Médic Nature",
+      "description2": "le Pokémon soigne ses altérations de statut en quittant le combat."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Pohmarmotte pourrait venir de Pohm et de marmotte.",
     "gen": 9,
     "url": "https://i.ibb.co/G7Gzk52/923.png"
   },
@@ -37666,24 +37657,23 @@
       "Speed": 75
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Compagnol",
+      "namevo2": "Famignol",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/7r8jwm7/924.png",
+      "evo2": "https://i.ibb.co/BGpPQKz/925.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Niveau 25 avec gain de niveau en combat"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Fuite",
+      "description1": "permet de fuir n'importe quel Pokémon sauvage.",
+      "talent2": "Ramassage",
+      "description2": "permet parfois au Pokémon de ramasser les objets que d'autres Pokémon ont utilisés. Il lui arrive aussi d'en trouver hors des combats."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Compagnol pourrait venir de compagnon et de campagnol.",
     "gen": 9,
     "url": "https://i.ibb.co/7r8jwm7/924.png"
   },
@@ -37706,24 +37696,23 @@
       "Speed": 111
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Compagnol",
+      "namevo2": "Famignol",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/7r8jwm7/924.png",
+      "evo2": "https://i.ibb.co/BGpPQKz/925.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Niveau 25 avec gain de niveau en combat"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Garde-Ami",
+      "description1": "diminue les dégâts subis par les alliés.",
+      "talent2": "Bajoues",
+      "description2": "le Pokémon récupère des PV lorsqu'il consomme une Baie en plus de bénéficier de ses effets habituels."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Famignol pourrait venir de famille et de campagnol.",
     "gen": 9,
     "url": "https://i.ibb.co/BGpPQKz/925.png"
   },
