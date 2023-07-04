@@ -39723,24 +39723,23 @@
       "Speed": 70
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Délestin",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/4VpSgZ6/976.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Délestin n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Brise Moule",
+      "description1": "le Pokémon ignore les talents adverses qui auraient un effet sur ses capacités.",
+      "talent2": "Incisif",
+      "description2": "augmente la puissance des capacités tranchantes."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Délestin pourrait venir de délester et de colin, marlin ou festin.",
     "gen": 9,
     "url": "https://i.ibb.co/4VpSgZ6/976.png"
   },
@@ -39763,24 +39762,23 @@
       "Speed": 35
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Oyacata",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/sPB0w92/977.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Oyacata n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Inconscient",
+      "description1": "le Pokémon ignore les changements de stats des autres Pokémon, qu'il attaque ou soit attaqué.",
+      "talent2": "Benêt",
+      "description2": "le Pokémon est un grand benêt, ce qui l'immunise contre l'attraction, la provocation ou l'intimidation."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Oyacata pourrait venir de 親方 oyakata (maître) et de catfish (poisson-chat).",
     "gen": 9,
     "url": "https://i.ibb.co/sPB0w92/977.png"
   },
@@ -39804,24 +39802,23 @@
       "Speed": 82
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Nigirigon",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/hDrMvYv/978.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Nigirigon n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Commandant",
+      "description1": "si un Oyacata allié est sur le terrain quand ce Pokémon rejoint le combat, ce dernier entre dans sa bouche et devient son commandant.",
+      "talent2": "Lavabo",
+      "description2": "le Pokémon détourne sur lui les capacités de type Eau et les neutralise, tout en montant son Attaque Spéciale."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Nigirigon pourrait venir de nigirizushi et de dragon.",
     "gen": 9,
     "url": "https://i.ibb.co/hDrMvYv/978.png"
   },
@@ -39845,24 +39842,24 @@
       "Speed": 90
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Férosinge",
+      "namevo2": "Colossinge",
+      "namevo3": "Courrousinge",
+      "evo1": "https://i.ibb.co/VQmvDJ8/56.png",
+      "evo2": "https://i.ibb.co/qY88XRf/57.png",
+      "evo3": "https://i.ibb.co/mTDWVp0/979.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 28,
+      "lvl2": "Utiliser 20 fois la capacité Poing de Colère + gain de niveau"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Esprit Vital",
+      "description1": "empêche le Pokémon de s'endormir et, lorsqu'il est placé en tête d'équipe, permet de rencontrer des Pokémon sauvages de plus haut niveau.",
+      "talent2": "Attention",
+      "description2": "le Pokémon a un mental à toute épreuve qui empêche les attaques ennemies de lui faire peur. Il est aussi immunisé contre le talent Intimidation."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Courrousinge pourrait venir de courroux et de singe.",
     "gen": 9,
     "url": "https://i.ibb.co/mTDWVp0/979.png"
   },
@@ -39886,24 +39883,23 @@
       "Speed": 20
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Terraiste",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/GQhfkJf/980.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Terraiste est l'évolution d'Axoloto de Paldea, à partir du niveau 20."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Absorbe-Eau",
+      "description1": "si le Pokémon est touché par une capacité Eau, il ne subit aucun dégât et regagne des PV à la place.",
+      "talent2": "Point Poison",
+      "description2": "peut empoisonner l'attaquant lorsque le Pokémon subit une attaque directe."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Terraiste pourrait venir de terre et de Maraiste.",
     "gen": 9,
     "url": "https://i.ibb.co/GQhfkJf/980.png"
   },
@@ -40047,24 +40043,23 @@
       "Speed": 87
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Fort-Ivoire",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/f81DLZV/984.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Fort-Ivoire n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Paléosynthèse",
+      "description1": "augmente d'un niveau la plus haute statistique du Pokémon sous le soleil ou lorsqu'il tient l'objet Énergie Booster.",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Fort-Ivoire est un nom composé de fort et d'ivoire, faisant respectivement référence à la puissance du Pokémon et aux défenses de Donphan",
     "gen": 9,
     "url": "https://i.ibb.co/f81DLZV/984.png"
   },
@@ -40088,24 +40083,23 @@
       "Speed": 111
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Hurle-Queue",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/2c17k20/985.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Hurle-Queue n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Paléosynthèse",
+      "description1": "quand le soleil brille ou que le Pokémon tient une capsule d'Énergie Booster, sa stat la plus élevée augmente.",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Hurle-Queue est un nom composé de hurle et de queue.",
     "gen": 9,
     "url": "https://i.ibb.co/2c17k20/985.png"
   },
@@ -40129,24 +40123,23 @@
       "Speed": 55
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Fongus-Furie",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/B2BZPFq/986.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Fongus-Furie n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Paléosynthèse",
+      "description1": "augmente d'un niveau la plus haute statistique du Pokémon sous le soleil ou lorsqu'il tient l'objet Énergie Booster.",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Fongus-Furie est un nom composé de fongus et de furie.",
     "gen": 9,
     "url": "https://i.ibb.co/B2BZPFq/986.png"
   },
@@ -40170,20 +40163,19 @@
       "Speed": 135
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Flotte-Mèche",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/P588Byt/987.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Flotte-Mèche n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Paléosynthèse",
+      "description1": "quand le soleil brille ou que le Pokémon tient une capsule d'Énergie Booster, sa stat la plus élevée augmente.",
       "talent2": "",
       "description2": ""
     },
@@ -40211,24 +40203,23 @@
       "Speed": 81
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Rampe-Ailes",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/bmths69/988.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Rampe-Aile n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Paléosynthèse",
+      "description1": "quand le soleil brille ou que le Pokémon tient une capsule d'Énergie Booster, sa stat la plus élevée augmente.",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "ampe-Ailes est un nom composé de rampe et d'ailes.",
     "gen": 9,
     "url": "https://i.ibb.co/bmths69/988.png"
   },
@@ -40252,24 +40243,23 @@
       "Speed": 101
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Pelage-Sablé",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/vLNq3Cy/989.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Pelage-Sablé n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Paléosynthèse",
+      "description1": "quand le soleil brille ou que le Pokémon tient une capsule d'Énergie Booster, sa stat la plus élevée augmente.",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Pelage-Sablé est un nom composé de pelage et de sablé.",
     "gen": 9,
     "url": "https://i.ibb.co/vLNq3Cy/989.png"
   },
@@ -40293,24 +40283,23 @@
       "Speed": 106
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Roue-de-Fer",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/GdYwcYQ/990.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Roue-de-Fer n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Charge Quantique",
+      "description1": "quand un champ électrifié est actif ou que le Pokémon tient une capsule d'Énergie Booster, sa stat la plus élevée augmente.",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Roue-de-Fer est un nom composé de roue et de fer",
     "gen": 9,
     "url": "https://i.ibb.co/GdYwcYQ/990.png"
   },
@@ -40334,24 +40323,23 @@
       "Speed": 136
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Hotte-de-Fer",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/7XQHGr4/991.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Hotte-de-Fer n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Charge Quantique",
+      "description1": "quand un champ électrifié est actif ou que le Pokémon tient une capsule d'Énergie Booster, sa stat la plus élevée augmente.",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Hotte-de-Fer est un nom composé de hotte et de fer",
     "gen": 9,
     "url": "https://i.ibb.co/7XQHGr4/991.png"
   },
@@ -40375,24 +40363,23 @@
       "Speed": 50
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Paume-de-Fer",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/KWX8jyT/992.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Paume-de-Fer n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Charge Quantique",
+      "description1": "quand un champ électrifié est actif ou que le Pokémon tient une capsule d'Énergie Booster, sa stat la plus élevée augmente.",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Paume-de-Fer est un nom composé de paume et de fer",
     "gen": 9,
     "url": "https://i.ibb.co/KWX8jyT/992.png"
   },
@@ -40416,24 +40403,23 @@
       "Speed": 108
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Têtes-de-Fer",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/ns58JQT/993.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Paume-de-Fer n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Charge Quantique",
+      "description1": "quand un champ électrifié est actif ou que le Pokémon tient une capsule d'Énergie Booster, sa stat la plus élevée augmente.",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Têtes-de-Fer est un nom composé de têtes et de fer",
     "gen": 9,
     "url": "https://i.ibb.co/ns58JQT/993.png"
   },
@@ -40457,24 +40443,23 @@
       "Speed": 110
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Mite-de-Fe",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/HBfF0gD/994.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Mite-de-Fer n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Charge Quantique",
+      "description1": "quand un champ électrifié est actif ou que le Pokémon tient une capsule d'Énergie Booster, sa stat la plus élevée augmente.",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Mite-de-Fer est un nom composé de mite et de fer",
     "gen": 9,
     "url": "https://i.ibb.co/HBfF0gD/994.png"
   },
@@ -40498,24 +40483,23 @@
       "Speed": 72
     },
     "evolution": {
-      "namevo1": "",
+      "namevo1": "Épine-de-Fer",
       "namevo2": "",
       "namevo3": "",
-      "evo1": "",
+      "evo1": "https://i.ibb.co/P11nsmd/995.png",
       "evo2": "",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Épine-de-Fer n'a pas d'évolution et n'est l'évolution d'aucun Pokémon."
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Charge Quantique",
+      "description1": "quand un champ électrifié est actif ou que le Pokémon tient une capsule d'Énergie Booster, sa stat la plus élevée augmente.",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Épine-de-Fer est un nom composé d'épine et de fer.",
     "gen": 9,
     "url": "https://i.ibb.co/P11nsmd/995.png"
   },
@@ -40539,24 +40523,24 @@
       "Speed": 55
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Frigodo",
+      "namevo2": "Cryodo",
+      "namevo3": "Glaivodo",
+      "evo1": "https://i.ibb.co/jbDfQCp/996.png",
+      "evo2": "https://i.ibb.co/P5WDpyk/997.png",
+      "evo3": "https://i.ibb.co/h1r8rF3/998.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 35,
+      "lvl2": 54
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Thermodynamique",
+      "description1": "lorsque le Pokémon est touché par une capacité de type Feu, son Attaque augmente et il est immunisé aux brûlures.",
+      "talent2": "Corps Gel",
+      "description2": "régénère 1/16 des PV du Pokémon à la fin de chaque tour lors des tempêtes de grêle."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Frigodo pourrait venir de frigorifique et de dragon de Komodo associé a un jeu de mot avec « au dos ».",
     "gen": 9,
     "url": "https://i.ibb.co/jbDfQCp/996.png"
   },
@@ -40580,24 +40564,24 @@
       "Speed": 62
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Frigodo",
+      "namevo2": "Cryodo",
+      "namevo3": "Glaivodo",
+      "evo1": "https://i.ibb.co/jbDfQCp/996.png",
+      "evo2": "https://i.ibb.co/P5WDpyk/997.png",
+      "evo3": "https://i.ibb.co/h1r8rF3/998.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 35,
+      "lvl2": 54
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Thermodynamique",
+      "description1": "lorsque le Pokémon est touché par une capacité de type Feu, son Attaque augmente et il est immunisé aux brûlures.",
+      "talent2": "Corps Gel",
+      "description2": "régénère 1/16 des PV du Pokémon à la fin de chaque tour lors des tempêtes de grêle."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Cryodo pourrait venir de cryo- et de dragon de Komodo, associé a un jeu de mots avec « au dos ».",
     "gen": 9,
     "url": "https://i.ibb.co/P5WDpyk/997.png"
   },
@@ -40621,24 +40605,24 @@
       "Speed": 87
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
-      "namevo3": "",
-      "evo1": "",
-      "evo2": "",
-      "evo3": ""
+      "namevo1": "Frigodo",
+      "namevo2": "Cryodo",
+      "namevo3": "Glaivodo",
+      "evo1": "https://i.ibb.co/jbDfQCp/996.png",
+      "evo2": "https://i.ibb.co/P5WDpyk/997.png",
+      "evo3": "https://i.ibb.co/h1r8rF3/998.png"
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": 35,
+      "lvl2": 54
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Thermodynamique",
+      "description1": "lorsque le Pokémon est touché par une capacité de type Feu, son Attaque augmente et il est immunisé aux brûlures.",
+      "talent2": "Corps Gel",
+      "description2": "régénère 1/16 des PV du Pokémon à la fin de chaque tour lors des tempêtes de grêle."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Glaivodo pourrait venir d'une contraction de glaive au dos et de dragon de Komodo.",
     "gen": 9,
     "url": "https://i.ibb.co/h1r8rF3/998.png"
   },
@@ -40661,24 +40645,23 @@
       "Speed": 10
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Mordudor",
+      "namevo2": "Gromago",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/J7N00Dg/999.png",
+      "evo2": "https://i.ibb.co/rkwG4Bw/1000.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Collecter 999 Pièces de Mordudor Miniature Échantillon + gagner un niveau"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
-      "talent2": "",
-      "description2": ""
+      "talent1": "Phobique",
+      "description1": "si le Pokémon est touché par une capacité de type Ténèbres, Spectre ou Insecte, sa phobie se révèle et sa Vitesse augmente.",
+      "talent2": "Fuite",
+      "description2": "permet de fuir n'importe quel Pokémon sauvage."
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Mordudor pourrait venir d'une contraction de mordu d'or et de mort.",
     "gen": 9,
     "url": "https://i.ibb.co/J7N00Dg/999.png"
   },
@@ -40702,24 +40685,23 @@
       "Speed": 84
     },
     "evolution": {
-      "namevo1": "",
-      "namevo2": "",
+      "namevo1": "Mordudor",
+      "namevo2": "Gromago",
       "namevo3": "",
-      "evo1": "",
-      "evo2": "",
+      "evo1": "https://i.ibb.co/J7N00Dg/999.png",
+      "evo2": "https://i.ibb.co/rkwG4Bw/1000.png",
       "evo3": ""
     },
     "levels": {
-      "lvl1": 16,
-      "lvl2": 32
+      "lvl1": "Collecter 999 Pièces de Mordudor Miniature Échantillon + gagner un niveau"
     },
     "talents": {
-      "talent1": "",
-      "description1": "",
+      "talent1": "Corps en Or",
+      "description1": "le corps en or pur et robuste du Pokémon l'immunise contre les capacités de statut des autres Pokémon.",
       "talent2": "",
       "description2": ""
     },
-    "pokemonetymo": "",
+    "pokemonetymo": "Gromago pourrait venir de gros et de magot.",
     "gen": 9,
     "url": "https://i.ibb.co/rkwG4Bw/1000.png"
   },
