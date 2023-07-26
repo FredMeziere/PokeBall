@@ -11,10 +11,13 @@
       &-h1 {
         font-size: 14px;
         text-align: center;
+        margin: 10px;
       }
 
       &-p {
-        font-size: 11px;
+        font-size: 12px;
+        margin: 10px;
+        text-align: justify;
       }
 
       &-img {
@@ -22,12 +25,76 @@
       }
     }
 
+    .allpokemon {
+      padding-top: 0px;
+
+      &-h2 {
+        font-size: 14px;
+        text-align: center;
+        margin: 10px;
+      }
+
+      &-div {
+        &-p {
+          font-size: 11px;
+          line-height: 1rem;
+          padding-top: 5px;
+          padding-left: 5px;
+          padding-right: 5px;
+        }
+
+      &-input {
+        width: 90%;
+      }
+
+      &-select {
+        width: 42%;
+      }
+      }
+
+      .cards {
+        &-all {
+          .card {
+            min-width: 50%;
+            max-width: 50%;
+
+            &-name {
+              font-size: 16px;
+            }
+
+            &-img {
+              width: 70%;
+            }
+
+            &-type {
+              font-size: 12px;
+            }
+
+            &-stat {
+              &-bar {
+              &-statvalue {
+                width: 20%;
+              }
+              &-fill {
+                  width: 40%;
+              }
+            }
+          }
+          
+
+    
+          }
+        }
+      }
+    }
+
     .footer {
       padding-top: 5px;
       padding-bottom: 5px;
-      
+
+
       &-p {
-        font-size: 11px;
+        font-size: 12px;
         padding: 0px;
         text-align: center;
       }
@@ -44,9 +111,8 @@
 ------------------------------------------------------------------
 */
 
-@media screen and (min-width: 321px) and (max-width: 479px) {
- 
-}
+@media screen and (min-width: 321px) and (max-width: 479px) {}
+
 /*
 ------------------------------------------------------------------
 
@@ -55,8 +121,8 @@
 ------------------------------------------------------------------
 */
 
-@media screen and (min-width: 480px) and (max-width: 767px) {
-}
+@media screen and (min-width: 480px) and (max-width: 767px) {}
+
 /*
 ------------------------------------------------------------------
 
@@ -65,9 +131,7 @@
 ------------------------------------------------------------------
 */
 
-@media screen and (min-width: 768px) and (max-width: 1024px) {
-  
-}
+@media screen and (min-width: 768px) and (max-width: 1024px) {}
 
 
 /*
@@ -78,6 +142,4 @@
 ------------------------------------------------------------------
 */
 
-@media screen and (min-width: 1025px) and (max-width: 1280px) {
-  
-}
+@media screen and (min-width: 1025px) and (max-width: 1280px) {}
