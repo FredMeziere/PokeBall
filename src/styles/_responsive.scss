@@ -72,11 +72,12 @@
 
             &-stat {
               &-bar {
+                width: 200px;
               &-statvalue {
-                width: 20%;
+                width: 20px;
               }
               &-fill {
-                  width: 40%;
+                  width: 40px;
               }
             }
           }
